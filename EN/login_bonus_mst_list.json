@@ -1,0 +1,38 @@
+[
+  {
+    "loginBonusMstId": 1,
+    "title": "Standard Login Bonus",
+    "cycleType": 1,
+    "displayType": 1,
+    "pickupSkillType": 1,
+    "startTime": 1478790000,
+    "endTime": 1924959599,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 2,
+    "title": "Running Start Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 3,
+    "startTime": 1478790000,
+    "endTime": 1924959599,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900001,
+    "title": "RU Bonus",
+    "cycleType": 100,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1577804400,
+    "endTime": 1924959599,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  }
+]

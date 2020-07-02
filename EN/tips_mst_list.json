@@ -1,0 +1,189 @@
+[
+  {
+    "tipsMstId": 1,
+    "title": "Upgrading Gear",
+    "tips": "When enemy Nightmares in the Story are too strong, try upgrading your gear.",
+    "type": 1,
+    "rate": 10,
+    "characterMstId": 0,
+    "akbMemberMstId": 0,
+    "resourceName": "001",
+    "assetBundleName": "tips1"
+  },
+  {
+    "tipsMstId": 2,
+    "title": "Compatibility of Affinities",
+    "tips": "Different Nightmares have different affinities. Try taking them on with weapons strong against the Nightmare's affinity.",
+    "type": 1,
+    "rate": 30,
+    "characterMstId": 0,
+    "akbMemberMstId": 0,
+    "resourceName": "002",
+    "assetBundleName": "tips1"
+  },
+  {
+    "tipsMstId": 3,
+    "title": "Get Upgrade Materials through Guerrilla Events",
+    "tips": "Upgrade materials can be gained in guerrilla events five times a day. Events are open 30 minutes from their scheduled times.",
+    "type": 1,
+    "rate": 30,
+    "characterMstId": 0,
+    "akbMemberMstId": 0,
+    "resourceName": "003",
+    "assetBundleName": "tips1"
+  },
+  {
+    "tipsMstId": 4,
+    "title": "Demon Summoning Is the Key to Victory",
+    "tips": "The first guild to meet the requirements will be the first to summon a Demon from the Colosseum.",
+    "type": 2,
+    "rate": 30,
+    "characterMstId": 0,
+    "akbMemberMstId": 0,
+    "resourceName": "004",
+    "assetBundleName": "tips1"
+  },
+  {
+    "tipsMstId": 5,
+    "title": "SP Not Recovered in the Colosseum",
+    "tips": "SP does not recover over time in the Colosseum. Go to the SP Recovery Area to recover SP.",
+    "type": 2,
+    "rate": 30,
+    "characterMstId": 0,
+    "akbMemberMstId": 0,
+    "resourceName": "005",
+    "assetBundleName": "tips1"
+  },
+  {
+    "tipsMstId": 6,
+    "title": "Upgrade Nightmares with Colosseum Rewards",
+    "tips": "You earn upgrade materials for Nightmares as Colosseum rewards. Try upgrading your Nightmares.",
+    "type": 2,
+    "rate": 50,
+    "characterMstId": 0,
+    "akbMemberMstId": 0,
+    "resourceName": "006",
+    "assetBundleName": "tips1"
+  },
+  {
+    "tipsMstId": 7,
+    "title": "Guildships Are a Guild's Base",
+    "tips": "Bring down your opponent's Guildship during Skirmish Time to steal tons of their Lifeforce.",
+    "type": 2,
+    "rate": 30,
+    "characterMstId": 0,
+    "akbMemberMstId": 0,
+    "resourceName": "007",
+    "assetBundleName": "tips1"
+  },
+  {
+    "tipsMstId": 8,
+    "title": "Increase Class Mastery by Spending SP",
+    "tips": "Use SP to raise your class mastery. Then, you can increase your class level.",
+    "type": 3,
+    "rate": 30,
+    "characterMstId": 0,
+    "akbMemberMstId": 0,
+    "resourceName": "008",
+    "assetBundleName": "tips1"
+  },
+  {
+    "tipsMstId": 9,
+    "title": "Check Boss Strategy Info",
+    "tips": "Nightmares each have their own characteristics and weaknesses. Check out their strategy info to understand how to clear stages more efficiently.",
+    "type": 1,
+    "rate": 50,
+    "characterMstId": 0,
+    "akbMemberMstId": 0,
+    "resourceName": "009",
+    "assetBundleName": "tips10001"
+  },
+  {
+    "tipsMstId": 10,
+    "title": "",
+    "tips": "",
+    "type": 4,
+    "rate": 0,
+    "characterMstId": 1,
+    "akbMemberMstId": 0,
+    "resourceName": "001",
+    "assetBundleName": "tips2"
+  },
+  {
+    "tipsMstId": 11,
+    "title": "",
+    "tips": "",
+    "type": 4,
+    "rate": 0,
+    "characterMstId": 2,
+    "akbMemberMstId": 0,
+    "resourceName": "002",
+    "assetBundleName": "tips2"
+  },
+  {
+    "tipsMstId": 12,
+    "title": "",
+    "tips": "",
+    "type": 4,
+    "rate": 0,
+    "characterMstId": 3,
+    "akbMemberMstId": 0,
+    "resourceName": "003",
+    "assetBundleName": "tips2"
+  },
+  {
+    "tipsMstId": 13,
+    "title": "",
+    "tips": "",
+    "type": 4,
+    "rate": 0,
+    "characterMstId": 4,
+    "akbMemberMstId": 0,
+    "resourceName": "004",
+    "assetBundleName": "tips2"
+  },
+  {
+    "tipsMstId": 14,
+    "title": "",
+    "tips": "",
+    "type": 4,
+    "rate": 0,
+    "characterMstId": 5,
+    "akbMemberMstId": 0,
+    "resourceName": "005",
+    "assetBundleName": "tips2"
+  },
+  {
+    "tipsMstId": 16,
+    "title": "",
+    "tips": "",
+    "type": 4,
+    "rate": 0,
+    "characterMstId": 7,
+    "akbMemberMstId": 0,
+    "resourceName": "007",
+    "assetBundleName": "tips2"
+  },
+  {
+    "tipsMstId": 17,
+    "title": "",
+    "tips": "",
+    "type": 4,
+    "rate": 0,
+    "characterMstId": 8,
+    "akbMemberMstId": 0,
+    "resourceName": "008",
+    "assetBundleName": "tips2"
+  },
+  {
+    "tipsMstId": 18,
+    "title": "Read Weapon Tales",
+    "tips": "Press and hold a weapon's icon to read its weapon story.",
+    "type": 1,
+    "rate": 50,
+    "characterMstId": 0,
+    "akbMemberMstId": 0,
+    "resourceName": "010",
+    "assetBundleName": "tips1"
+  }
+]

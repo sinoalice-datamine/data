@@ -1,0 +1,22 @@
+[
+  {
+    "guildRoleMstId": 1,
+    "guildRoleName": "Guild Master",
+    "guildRoleDetail": "Role granting authority over the guild. The guild's founder.",
+    "roleImage": "",
+    "requireGuildLevel": 1,
+    "guildRoleType": 1,
+    "guildRoleNum": 1,
+    "createdTime": null
+  },
+  {
+    "guildRoleMstId": 2,
+    "guildRoleName": "Submaster",
+    "guildRoleDetail": "Role given to the Guild Master's assistant. Has authority over some aspects of the guild.",
+    "roleImage": "",
+    "requireGuildLevel": 1,
+    "guildRoleType": 1,
+    "guildRoleNum": 2,
+    "createdTime": null
+  }
+]

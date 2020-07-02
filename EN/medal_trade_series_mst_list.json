@@ -1,0 +1,72 @@
+[
+  {
+    "medalTradeSeriesMstId": 2,
+    "name": "Charm Medal",
+    "description": "Created by converting mystical power.",
+    "resourceName": "item1",
+    "assetBundleName": "0002",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Obtained as a Colosseum reward or by selling certain gear and Nightmares.",
+    "priority": 1,
+    "itemMstId": 2,
+    "startTime": 1483196400,
+    "endTime": 1924959599,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 3,
+    "name": "Medal of Desire (VII)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "0003",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain Grimoire.",
+    "priority": 3,
+    "itemMstId": 155,
+    "startTime": 1483196400,
+    "endTime": 1597330799,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 5,
+    "name": "Chrono Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item1",
+    "assetBundleName": "0005",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Play an event to view.",
+    "priority": 5,
+    "itemMstId": 174,
+    "startTime": 1593669600,
+    "endTime": 1595516399,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 6,
+    "name": "Friend Medal",
+    "description": "Awarded to those who've found true friendship.",
+    "resourceName": "item1",
+    "assetBundleName": "0006",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earn up to 3 per day by CO-OP battling with friends and guild members.\\n*By purchasing the Royal User service, earn up to 5 per day.",
+    "priority": 2,
+    "itemMstId": 6,
+    "startTime": 1483196400,
+    "endTime": 1924959599,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 48,
+    "name": "Royal medal",
+    "description": "Medal collected by Parrah-Noya. *Expires: 180 days after receipt",
+    "resourceName": "item20180913",
+    "assetBundleName": "0780",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by buying the Royal User Service. \\n*Expires: 180 days from purchase",
+    "priority": 43,
+    "itemMstId": 780,
+    "startTime": 1593529200,
+    "endTime": 1924959599,
+    "isDeleted": false
+  }
+]
