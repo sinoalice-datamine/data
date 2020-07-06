@@ -176,6 +176,28 @@
     "createdTime": 1580914800
   },
   {
+    "bannerMstId": 9,
+    "type": 1,
+    "startTime": 1594015200,
+    "endTime": 1595829599,
+    "priority": 102,
+    "transitionSceneName": "QuestMenu",
+    "objectId": 144,
+    "announceMstId": 38,
+    "osType": 0,
+    "isBeginner": false,
+    "beginnerDays": 0,
+    "isDisplayHome": true,
+    "assetBundleName": "banner20200706_jobquest_cinderella",
+    "resourceName": "009",
+    "badgeAssetBundleName": "",
+    "badgeResourceName": "",
+    "badgeEndTime": null,
+    "optionType": 0,
+    "isDeleted": false,
+    "createdTime": 1483974000
+  },
+  {
     "bannerMstId": 11,
     "type": 4,
     "startTime": 1577804400,
