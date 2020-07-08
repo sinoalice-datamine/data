@@ -1800,6 +1800,126 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 193,
+    "characterMstId": 17,
+    "name": "Heavy +30% (Snow White+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 194,
+    "characterMstId": 17,
+    "name": "Heavy +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 195,
+    "characterMstId": 17,
+    "name": "P.ATK +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 196,
+    "characterMstId": 17,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 197,
+    "characterMstId": 17,
+    "name": "Heavy +10% (Snow White+ stage)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 198,
+    "characterMstId": 17,
+    "name": "P.ATK +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 199,
+    "characterMstId": 17,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 200,
+    "characterMstId": 17,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 201,
+    "characterMstId": 17,
+    "name": "Heavy +10% (Snow White+ stage)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 202,
+    "characterMstId": 17,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 203,
+    "characterMstId": 17,
+    "name": "P.ATK +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 204,
+    "characterMstId": 17,
+    "name": "P.ATK +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 205,
     "characterMstId": 18,
     "name": "Projectile +10% (Sleeping Beauty+ stage)",
@@ -2638,6 +2758,126 @@
     "effectType": 1,
     "effectValue": 300,
     "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 289,
+    "characterMstId": 25,
+    "name": "Blade +20% (Little Mermaid+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 290,
+    "characterMstId": 25,
+    "name": "Blade +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 291,
+    "characterMstId": 25,
+    "name": "P.ATK +75",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 75,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 292,
+    "characterMstId": 25,
+    "name": "P.DEF +75",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 75,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 293,
+    "characterMstId": 25,
+    "name": "Blade +10% (Little Mermaid+ stage)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 294,
+    "characterMstId": 25,
+    "name": "P.DEF +75",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 75,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 295,
+    "characterMstId": 25,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 296,
+    "characterMstId": 25,
+    "name": "P.DEF +75",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 75,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 297,
+    "characterMstId": 25,
+    "name": "Blade +10% (Little Mermaid+ stage)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 298,
+    "characterMstId": 25,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 299,
+    "characterMstId": 25,
+    "name": "Blade +10% (Little Mermaid+ stage)",
+    "releaseLevel": 11,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 300,
+    "characterMstId": 25,
+    "name": "P.DEF +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 5
   },
   {
     "characterAbilityMstId": 1287,

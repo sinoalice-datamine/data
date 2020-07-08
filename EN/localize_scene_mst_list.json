@@ -2585,8 +2585,8 @@
     "KR": "일간",
     "DE": "Täglich",
     "FR": "Jours",
-    "ES": "Días",
-    "TH": "วัน",
+    "ES": "Diario",
+    "TH": "รายวัน",
     "VN": "Ngày"
   },
   {
@@ -7331,7 +7331,7 @@
     "KR": "메달 유효 기간",
     "DE": "Gültigkeitsdauer",
     "FR": "Validité",
-    "ES": "Periodo de validez de la medalla",
+    "ES": "Validez",
     "TH": "วันหมดอายุเหรียญ",
     "VN": "Ngày hết hạn huy hiệu"
   },
@@ -8228,7 +8228,7 @@
     "DE": "[Character]s Waffenfertigkeit-Effekt wurde erhöht.",
     "FR": "L’efficacité de l’effet de l’arme de [Personnage] est améliorée.",
     "ES": "Se ha aumentado el efecto de maestría del arma especializada del [personaje].",
-    "TH": "ใช้\"ชื่อตัวละคร\"เพื่อเพิ่มเอฟเฟกต์อาวุธที่เชี่ยวชาญ",
+    "TH": "ใช้\"ชื่อตัวละคร\"เพื่อเพิ่มเอฟเฟกต์อาวุธถนัด",
     "VN": "Dùng với \\\"Tên nhân vật\\\" để tăng hiệu quả của vũ khí đặc biệt."
   },
   {
@@ -9358,7 +9358,7 @@
     "GameKey": "SCENE/0671",
     "JP": "Next",
     "EN": "Next",
-    "KR": "Next",
+    "KR": "다음",
     "DE": "Next",
     "FR": "Suivant",
     "ES": "Siguiente",
@@ -9386,7 +9386,7 @@
     "GameKey": "SCENE/0669",
     "JP": "Back",
     "EN": "Back",
-    "KR": "뒤로 가기",
+    "KR": "뒤로",
     "DE": "Zurück",
     "FR": "Retour",
     "ES": "Regresar",

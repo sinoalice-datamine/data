@@ -4065,7 +4065,7 @@
     "Type": 0,
     "GameKey": "SCRIPT/0291",
     "JP": "ログインサーバーがメンテナンス中です。",
-    "EN": "Maintenance is being performed on the login server.",
+    "EN": "Maintenance is being conducted on the login server.",
     "KR": "로그인 서버를 점검 중입니다.",
     "DE": "Auf dem Login-Server werden Wartungsarbeiten durchgeführt.",
     "FR": "Le serveur de connexion est en cours de maintenance.",
@@ -6058,7 +6058,7 @@
     "DE": "Verwende {0}, um den Fertigkeitseffekt von Spezialwaffen zu erhöhen.",
     "FR": "Utilisez {0} pour augmenter l'effet de la capacité des armes spécialisées.",
     "ES": "Usa {0} para aumentar el efecto de la habilidad de las armas especializadas.",
-    "TH": "ใช้\"{0}\" เพื่อเพิ่มประสิทธิภาพสกิลอาวุธที่เชี่ยวชาญ",
+    "TH": "ใช้\"{0}\" เพื่อเพิ่มประสิทธิภาพสกิลอาวุธถนัด",
     "VN": "Dùng {0} để tăng hiệu quả dùng kỹ năng cho các vũ khí đặc biệt."
   },
   {
@@ -7640,7 +7640,7 @@
     "DE": "bis {0}",
     "FR": " {0}",
     "ES": "en {0}",
-    "TH": "ถึง {0}",
+    "TH": "{0}",
     "VN": "sau {0}"
   },
   {
@@ -12115,7 +12115,7 @@
     "Type": 0,
     "GameKey": "SCRIPT/0866",
     "JP": "ご了承ください。",
-    "EN": "<br>Thank you for your understanding.",
+    "EN": " Thank you for your understanding.",
     "KR": "주의해 주세요.",
     "DE": "Danke für dein Verständnis.",
     "FR": "Merci de votre compréhension.",
@@ -14232,7 +14232,7 @@
     "EN": "Note: You can purchase this again after {0} day(s).",
     "KR": "※앞으로 {0}일 뒤 재구매 가능",
     "DE": "Kann in {0} Tag(en) erneut gekauft werden.",
-    "FR": "*Vous pouvez l'acheter à nouveau dans le(s) {0} jour(s) restant(s).",
+    "FR": "*Vous pouvez l'acheter à nouveau dans {0} jour(s).",
     "ES": "*Puedes volver a comprar esto de nuevo dentro de{0} día(s).",
     "TH": "*สามารถซื้ออีกครั้งได้ใน {0} วัน",
     "VN": "*Mua lại sau {0} ngày."
@@ -14246,7 +14246,7 @@
     "EN": "Note: You can purchase this again after {0}:{1}:{2}.",
     "KR": "※앞으로 {0}시간 {1}분 {2}초 뒤 재구매 가능",
     "DE": "Kann in {0}:{1}:{2} erneut gekauft werden.",
-    "FR": "*Vous pouvez l'acheter à nouveau dans le(s) {0}:{1}:{2} restant(s).",
+    "FR": "*Vous pouvez l'acheter à nouveau dans {0}:{1}:{2}.",
     "ES": "*Puedes volver a comprar esto de nuevo dentro de {0}:{1}:{2}.",
     "TH": "*สามารถซื้ออีกครั้งได้ใน {0}ชั่วโมง{1}นาที{2}วินาที",
     "VN": "*Mua lại sau {0} giờ, {1} phút, {2\\\\} giây."
@@ -14287,9 +14287,9 @@
     "JP": "{0}の{1}を",
     "EN": "Expand {0} {1} by ",
     "KR": "{0}의 {1}을(를)",
-    "DE": "{0}{1} um",
+    "DE": "{0}: {1} um",
     "FR": "Le {0} de {1}",
-    "ES": "El {0} del {1}",
+    "ES": "{0} del {1}",
     "TH": "{0} ของ {1}",
     "VN": "{1} của {0}"
   },
@@ -15912,7 +15912,7 @@
     "EN": "Step-Up Grimoire",
     "KR": "스텝업 뽑기",
     "DE": "Step-Up Grimoire",
-    "FR": "Grimoires step-up",
+    "FR": "Grimoire de rang supérieur",
     "ES": "Grimorio de avance",
     "TH": "StepUpกรีมัวร์",
     "VN": "Sách phép tăng cường"

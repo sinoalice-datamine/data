@@ -20,7 +20,7 @@
     "displayType": 0,
     "canSkip": 1,
     "detail": "TEST1",
-    "createdTime": 1594023376
+    "createdTime": 1594189654
   },
   {
     "navigatorTalkMstId": 2,
@@ -43,7 +43,7 @@
     "displayType": 0,
     "canSkip": 1,
     "detail": "TEST2",
-    "createdTime": 1594023376
+    "createdTime": 1594189654
   },
   {
     "navigatorTalkMstId": 3,
@@ -66,7 +66,7 @@
     "displayType": 0,
     "canSkip": 1,
     "detail": "TEST3",
-    "createdTime": 1594023376
+    "createdTime": 1594189654
   },
   {
     "navigatorTalkMstId": 4,
@@ -89,7 +89,7 @@
     "displayType": 0,
     "canSkip": 1,
     "detail": "TEST1",
-    "createdTime": 1594023376
+    "createdTime": 1594189654
   },
   {
     "navigatorTalkMstId": 5,
@@ -112,7 +112,7 @@
     "displayType": 0,
     "canSkip": 1,
     "detail": "TEST1",
-    "createdTime": 1594023376
+    "createdTime": 1594189654
   },
   {
     "navigatorTalkMstId": 6,
@@ -135,7 +135,7 @@
     "displayType": 0,
     "canSkip": 1,
     "detail": "TEST1",
-    "createdTime": 1594023376
+    "createdTime": 1594189654
   },
   {
     "navigatorTalkMstId": 7,
@@ -158,7 +158,7 @@
     "displayType": 0,
     "canSkip": 1,
     "detail": "TEST1",
-    "createdTime": 1594023376
+    "createdTime": 1594189654
   },
   {
     "navigatorTalkMstId": 8,
@@ -181,7 +181,7 @@
     "displayType": 0,
     "canSkip": 1,
     "detail": "TEST1",
-    "createdTime": 1594023376
+    "createdTime": 1594189654
   },
   {
     "navigatorTalkMstId": 9,
@@ -204,7 +204,7 @@
     "displayType": 0,
     "canSkip": 1,
     "detail": "TEST1",
-    "createdTime": 1594023376
+    "createdTime": 1594189654
   },
   {
     "navigatorTalkMstId": 10,
@@ -227,7 +227,7 @@
     "displayType": 0,
     "canSkip": 1,
     "detail": "TEST1",
-    "createdTime": 1594023376
+    "createdTime": 1594189654
   },
   {
     "navigatorTalkMstId": 11,
@@ -250,7 +250,7 @@
     "displayType": 0,
     "canSkip": 1,
     "detail": "TEST1",
-    "createdTime": 1594023376
+    "createdTime": 1594189654
   },
   {
     "navigatorTalkMstId": 12,
@@ -273,7 +273,7 @@
     "displayType": 0,
     "canSkip": 1,
     "detail": "TEST1",
-    "createdTime": 1594023376
+    "createdTime": 1594189654
   },
   {
     "navigatorTalkMstId": 13,
@@ -296,7 +296,99 @@
     "displayType": 0,
     "canSkip": 1,
     "detail": "TEST1",
-    "createdTime": 1594023376
+    "createdTime": 1594189654
+  },
+  {
+    "navigatorTalkMstId": 14,
+    "name": "Advent Event (Jörmungandr I)",
+    "type": 4,
+    "value": 1411,
+    "firstMotion": "3",
+    "endMotion": "3",
+    "isBackground": 1,
+    "bgAssetBundleName": "",
+    "bgResourceName": "",
+    "leftAssetBundleName": "",
+    "leftResourceName": "",
+    "rightAssetBundleName": "",
+    "rightResourceName": "",
+    "leftPositionX": 0.0,
+    "leftPositionY": 0.0,
+    "rightPositionX": 0.0,
+    "rightPositionY": 0.0,
+    "displayType": 0,
+    "canSkip": 1,
+    "detail": "TEST1",
+    "createdTime": 1594189654
+  },
+  {
+    "navigatorTalkMstId": 15,
+    "name": "Advent Event (Jörmungandr II)",
+    "type": 3,
+    "value": 1411,
+    "firstMotion": "3",
+    "endMotion": "3",
+    "isBackground": 1,
+    "bgAssetBundleName": "",
+    "bgResourceName": "",
+    "leftAssetBundleName": "",
+    "leftResourceName": "",
+    "rightAssetBundleName": "",
+    "rightResourceName": "",
+    "leftPositionX": 0.0,
+    "leftPositionY": 0.0,
+    "rightPositionX": 0.0,
+    "rightPositionY": 0.0,
+    "displayType": 0,
+    "canSkip": 1,
+    "detail": "TEST1",
+    "createdTime": 1594189654
+  },
+  {
+    "navigatorTalkMstId": 16,
+    "name": "Advent Event (Jörmungandr III)",
+    "type": 3,
+    "value": 1412,
+    "firstMotion": "3",
+    "endMotion": "3",
+    "isBackground": 1,
+    "bgAssetBundleName": "",
+    "bgResourceName": "",
+    "leftAssetBundleName": "",
+    "leftResourceName": "",
+    "rightAssetBundleName": "",
+    "rightResourceName": "",
+    "leftPositionX": 0.0,
+    "leftPositionY": 0.0,
+    "rightPositionX": 0.0,
+    "rightPositionY": 0.0,
+    "displayType": 0,
+    "canSkip": 1,
+    "detail": "TEST1",
+    "createdTime": 1594189654
+  },
+  {
+    "navigatorTalkMstId": 17,
+    "name": "Advent Event (Jörmungandr IV)",
+    "type": 3,
+    "value": 1413,
+    "firstMotion": "3",
+    "endMotion": "3",
+    "isBackground": 1,
+    "bgAssetBundleName": "",
+    "bgResourceName": "",
+    "leftAssetBundleName": "",
+    "leftResourceName": "",
+    "rightAssetBundleName": "",
+    "rightResourceName": "",
+    "leftPositionX": 0.0,
+    "leftPositionY": 0.0,
+    "rightPositionX": 0.0,
+    "rightPositionY": 0.0,
+    "displayType": 0,
+    "canSkip": 1,
+    "detail": "TEST1",
+    "createdTime": 1594189654
   },
   {
     "navigatorTalkMstId": 18,
@@ -319,7 +411,7 @@
     "displayType": 0,
     "canSkip": 1,
     "detail": "TEST1",
-    "createdTime": 1594023376
+    "createdTime": 1594189654
   },
   {
     "navigatorTalkMstId": 19,
@@ -342,7 +434,7 @@
     "displayType": 0,
     "canSkip": 1,
     "detail": "TEST1",
-    "createdTime": 1594023376
+    "createdTime": 1594189654
   },
   {
     "navigatorTalkMstId": 20,
@@ -365,6 +457,6 @@
     "displayType": 0,
     "canSkip": 1,
     "detail": "TEST1",
-    "createdTime": 1594023376
+    "createdTime": 1594189654
   }
 ]
