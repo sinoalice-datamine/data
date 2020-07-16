@@ -247,7 +247,7 @@
     "KR": "보유",
     "DE": "In Besitz",
     "FR": "Possédé(s)",
-    "ES": "En posesión",
+    "ES": " En posesión",
     "TH": "มีอยู่",
     "VN": "Đã có"
   },
@@ -7971,7 +7971,7 @@
     "Type": 0,
     "GameKey": "Server/gvgUltimate.gvgWin",
     "JP": "天上戦の勝利報酬です。",
-    "EN": "Reward for gaining victory in Celestial Battle.",
+    "EN": "Reward for winning in Celestial Battle.",
     "KR": "천상전 승리 보상입니다.",
     "DE": "Belohnung für einen Sieg im Himmlischen Gefecht.",
     "FR": "Récompense pour une victoire au Combat céleste.",
@@ -8788,7 +8788,7 @@
     "DE": "Medaillenspezialbonus",
     "FR": "Bonus spécial de médaille",
     "ES": "Bono especial de medalla",
-    "TH": "เหรียญพิเศษ",
+    "TH": "เอฟเฟกต์พิเศษเหรียญ",
     "VN": "Phần thưởng huy hiệu đặc biệt"
   },
   {
@@ -9222,7 +9222,7 @@
     "DE": "%s%s/%s Belohnung",
     "FR": "%s%s/%s Récompense",
     "ES": "Recompensa: %s%s/%s",
-    "TH": "%s%s/รางวัล%s",
+    "TH": "รางวัล%s%s/%s",
     "VN": "{0} {1}/{2} phần thưởng"
   },
   {
@@ -15340,7 +15340,7 @@
     "DE": "Bezahlte Zwielichtkristalle x12",
     "FR": "12 cristaux payés.",
     "ES": "Compra crist.del ocaso x12.",
-    "TH": "คริสตัลสนธยาจ่ายตัง 12ชิ้น",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 12ชิ้น",
     "VN": ""
   },
   {
@@ -15363,12 +15363,12 @@
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign10.tier02/description",
     "JP": "有償魔晶石25個＋無償魔晶石24個＋7日間のロイヤルユーザーサービス。",
-    "EN": "Paid T. Crys. x25 (+24 Free), RUService x7d",
+    "EN": "Paid Twilight Crystal x25 (+24 Free) & 7 Day Royal User Service",
     "KR": "유료 마정석 25개+무료 마정석 24개+7일간 로열 유저 서비스.",
-    "DE": "25 bez. & 24 kostenl. Zwielichtkr. +7T KBS",
-    "FR": "25 cr. payés + 24 grat. + 7 j serv. uti. roy.",
-    "ES": "7d. ser. UR+ Crist. ocaso x25 (+24 gratis)",
-    "TH": "คริสตัลสนธยา25+ฟรี24+บริการผู้ใช้รอยัล7วัน",
+    "DE": "25 bez. & 24 kostenl. Zwielichtkr. +7 Tage Königlicher Benutzerservice",
+    "FR": "25 cristaux crépusculaires payés + 24 cristaux crépusculaires gratuits + 7 jours de Service des utilisateurs royaux.",
+    "ES": "Al comprar Cristales del ocaso x25 (+24 gratis) + 7 días de Servicio de usuario real",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 25ชิ้น+คริสตัลสนธยาฟรี 24ชิ้น+บริการผู้ใช้รอยัล7วัน",
     "VN": ""
   },
   {
@@ -15396,7 +15396,7 @@
     "DE": "Bezahlte Zwielichtkristalle x37",
     "FR": "37 cr. crépusculaires payés",
     "ES": "Compra cristales del ocaso x37",
-    "TH": "คริสตัลสนธยาจ่ายตัง 37ชิ้น",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 37ชิ้น",
     "VN": ""
   },
   {
@@ -15447,12 +15447,12 @@
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign10.tier04/description",
     "JP": "有償魔晶石49個＋7日間のロイヤルユーザーサービス。",
-    "EN": "Paid T.Crys. x49, RUService x7d",
+    "EN": "Paid Twilight Crystal x49 & 7 Day Royal User Service",
     "KR": "유료 마정석 49개+7일간 로열 유저 서비스.",
-    "DE": "Bezahlte Zwielichtkristalle x49 + 7T KBS",
-    "FR": "49 cr. payés + 7 jrs de service",
-    "ES": "7d ser. UR+ Cristales del ocaso x49",
-    "TH": "คริสตัลสนธยาจ่ายตัง49+บริการผู้ใช้รอยัล7วัน",
+    "DE": "Bezahlte Zwielichtkristalle x49 + 7 Tage Königlicher Benutzerservice",
+    "FR": "49 cristaux crépusculaires payés + 7 jours de Service des utilisateurs royaux.",
+    "ES": "Al comprar Cristales del ocaso x49 + 7 días de Servicio de usuario real",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 49ชิ้น+บริการผู้ใช้รอยัล 7วัน",
     "VN": ""
   },
   {
@@ -15475,12 +15475,12 @@
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign10.tier12/description",
     "JP": "有償魔晶石148個＋無償魔晶石48個＋28日間のロイヤルユーザーサービス。",
-    "EN": "Paid T.Crys. x148 (+48 Free), RUService x28d",
+    "EN": "Paid Twilight Crystal x148 (+48 Free) & 28 Day Royal User Service",
     "KR": "유료 마정석 148개+무료 마정석 48개+28일간 로열 유저 서비스.",
-    "DE": "148 Bez. & 48 kostl. Zwielichtkr.+28T KBS",
-    "FR": "148 cr. pay + 48 grat + 28 j serv. uti. roy.",
-    "ES": "28d. serv.UR+ Crist. ocaso x148 (+48 gratis)",
-    "TH": "คริสตัลสนธยา148+ฟรี48+บริการผู้ใช้รอยัล28วัน",
+    "DE": "148 Bezahlte & 48 kostlose Zwielichtkristalle + 28 Tage Königlicher Benutzerservice",
+    "FR": "148 cristaux crépusculaires payés + 48 cristaux crépusculaires gratuits + 28 jours de Service des utilisateurs royaux.",
+    "ES": "Al comprar Cristales del ocaso x148 (+48 gratis) + 28 días de Servicio de usuario real",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 148ชิ้น+คริสตัลสนธยาฟรี 48ชิ้น+บริการผู้ใช้รอยัล 28วัน",
     "VN": ""
   },
   {
@@ -15508,7 +15508,7 @@
     "DE": "148 Bez. Zwielk. & 1 Phiole des Goldes+.",
     "FR": "148 cr. payés + 1 Fiole d'or",
     "ES": "Cristales del ocaso x148 + Vial Aumento oro",
-    "TH": "คริสตัลสนธยาจ่ายตัง 148ชิ้น+พรเพิ่มทองx1",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 148ชิ้น+พรเพิ่มทองx1",
     "VN": ""
   },
   {
@@ -15536,7 +15536,7 @@
     "DE": "Bez. Zwielk. x148 + Phiole der Beute+ x1.",
     "FR": "148 cr. payés + 1 Fiole butin",
     "ES": "Cristales del ocaso x148 + Vial aum. objetos",
-    "TH": "คริสตัลสนธยาจ่ายตัง 148ชิ้น+พรเพิ่มดร็อปx1",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 148ชิ้น+พรเพิ่มดร็อปx1",
     "VN": ""
   },
   {
@@ -15564,7 +15564,7 @@
     "DE": "148 Bez. Zwielk. & 1 Phiole der EXP+ x1.",
     "FR": "148 cr. crépus. + Fiole d'EXP",
     "ES": "Cristales del ocaso x148 + Vial Aumento EXP.",
-    "TH": "คริสตัลสนธยา148ชิ้น+พรเพิ่มค่าประสบการณ์x1",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 148ชิ้น+พรเพิ่มค่าประสบการณ์x1",
     "VN": ""
   },
   {
@@ -15592,7 +15592,7 @@
     "DE": "306 Bez. Zwielichtkr. & Rotkäppchen/Kleriker",
     "FR": "306 cr. ＋ perso. débloqué.",
     "ES": "Cristales del ocaso x306 + Caperucita/Clérigo",
-    "TH": "คริสตัลสนธยา306ชิ้น+\"หนูน้อยหมวกแดง/เคลริค\"",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+\"หนูน้อยหมวกแดง/เคลริค\"",
     "VN": ""
   },
   {
@@ -15606,7 +15606,7 @@
     "DE": "Zwielichtkristalle x317",
     "FR": "317 cristaux crépusculaires",
     "ES": "Cristales del ocaso x317",
-    "TH": "คริสตัลสนธยา317ชิ้น",
+    "TH": "คริสตัลสนธยา 317ชิ้น",
     "VN": ""
   },
   {
@@ -15620,7 +15620,7 @@
     "DE": "306 Bez. & 11 kostenl. Zwielichtkristalle",
     "FR": "317 cr. payés ＋ 11 gratuits",
     "ES": "Cristales del ocaso x306 (+11 gratis)",
-    "TH": "รับคริสตัลสนธยา306ชิ้น+คริสตัลสนธยาฟรี11ชิ้น",
+    "TH": "รับคริสตัลสนธยาจ่ายเงิน 306ชิ้น+คริสตัลสนธยาฟรี 11ชิ้น",
     "VN": ""
   },
   {
@@ -15634,7 +15634,7 @@
     "DE": "Zwielichtkristalle x533",
     "FR": "533 cristaux crépusculaires",
     "ES": "Cristales del ocaso x533",
-    "TH": "คริสตัลสนธยา533ชิ้น",
+    "TH": "คริสตัลสนธยา 533ชิ้น",
     "VN": ""
   },
   {
@@ -15648,7 +15648,7 @@
     "DE": "502 bez. & 31 kostenl. Zwielichtkristalle",
     "FR": "502 cr. payés ＋ 31 gratuits",
     "ES": "Cristales del ocaso x502 (+31 gratis)",
-    "TH": "รับคริสตัลสนธยา502ชิ้น+คริสตัลสนธยาฟรี31ชิ้น",
+    "TH": "รับคริสตัลสนธยาจ่ายเงิน 502ชิ้น+คริสตัลสนธยาฟรี 31ชิ้น",
     "VN": ""
   },
   {
@@ -15662,7 +15662,7 @@
     "DE": "Zwielichtkristalle x831",
     "FR": "831 cristaux crépusculaires",
     "ES": "Cristales del ocaso x831",
-    "TH": "คริสตัลสนธยา831ชิ้น",
+    "TH": "คริสตัลสนธยา 831ชิ้น",
     "VN": ""
   },
   {
@@ -15676,7 +15676,7 @@
     "DE": "750 bez. & 81 kostenl. Zwielichtkristalle",
     "FR": "750 cr. payés＋ 81 gratuits",
     "ES": "Cristales del ocaso x750 (+81 gratis)",
-    "TH": "คริสตัลสนธยา750ชิ้น+คริสตัลสนธยาฟรี81ชิ้น",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 750ชิ้น+คริสตัลสนธยาฟรี 81ชิ้น",
     "VN": ""
   },
   {
@@ -15690,7 +15690,7 @@
     "DE": "Zwielichtkristalle x1153",
     "FR": "1.153 cristaux crépusculaires",
     "ES": "Cristales del ocaso x1.153",
-    "TH": "คริสตัลสนธยา1,153ชิ้น",
+    "TH": "คริสตัลสนธยา 1,153ชิ้น",
     "VN": ""
   },
   {
@@ -15704,7 +15704,7 @@
     "DE": "1000 bez. & 153 kostenl. Zwielichtkristalle",
     "FR": "1.000 cr. pay＋ 153 gratuits",
     "ES": "Cristales del ocaso x1.000 (+153)",
-    "TH": "คริสตัลสนธยา1,000ชิ้น+คริสตัลสนธยาฟรี153ชิ้น",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 1,000ชิ้น+คริสตัลสนธยาฟรี 153ชิ้น",
     "VN": ""
   },
   {
@@ -15914,7 +15914,7 @@
     "DE": "Zwielichtkristalle x24",
     "FR": "24 cristaux crépusculaires",
     "ES": "Cristales del ocaso x24",
-    "TH": "คริสตัลสนธยา24ชิ้น",
+    "TH": "คริสตัลสนธยา 24ชิ้น",
     "VN": ""
   },
   {
@@ -16384,13 +16384,13 @@
     "TLM": 50940,
     "Type": 0,
     "GameKey": "Server/shop.royalUser.productDesc.first",
-    "JP": "有償魔晶石25個＋無償魔晶石24個＋7日間のロイヤルユーザーサービス。",
+    "JP": "購入時に有償魔晶石25個＋無償魔晶石24個。さらに7日間のロイヤルユーザーサービス。",
     "EN": "Paid T. Crys. x25 (+24 Free), RUService x7d",
-    "KR": "유료 마정석 25개+무료 마정석 24개+7일간 로열 유저 서비스.",
+    "KR": "구매 시 유료 마정석 25개+무료 마정석 24개. 추가로 7일간 로열 유저 서비스.",
     "DE": "25 bez. & 24 kostenl. Zwielichtkr. +7T KBS",
-    "FR": "25 cr. payés + 24 grat. + 7 j serv. uti. roy.",
-    "ES": "7d. ser. UR+ Crist. ocaso x25 (+24 gratis)",
-    "TH": "คริสตัลสนธยา25+ฟรี24+บริการผู้ใช้รอยัล7วัน",
+    "FR": "Obtenez 25 cristaux crépusculaires payés au moment de l'achat ainsi que 24 cristaux crépusculaires gratuits. En plus, 7 jours de Service des utilisateurs royaux !",
+    "ES": "Al comprar Cristales del ocaso x25 (+24 gratis) + 7 días de Servicio de usuario real",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 25ชิ้น+คริสตัลสนธยาฟรี 24ชิ้น ณ ตอนที่ซื้อ และมีบริการผู้ใช้รอยัล7วัน",
     "VN": ""
   },
   {
@@ -16412,13 +16412,13 @@
     "TLM": 50942,
     "Type": 0,
     "GameKey": "Server/shop.royalUser.productDesc.normal",
-    "JP": "有償魔晶石49個＋7日間のロイヤルユーザーサービス。",
+    "JP": "購入時に有償魔晶石49個。さらに7日間のロイヤルユーザーサービス。",
     "EN": "Paid T.Crys. x49, RUService x7d",
-    "KR": "유료 마정석 49개+7일간 로열 유저 서비스.",
+    "KR": "구매 시 유료 마정석 49개. 추가로 7일간 로열 유저 서비스.",
     "DE": "Bezahlte Zwielichtkristalle x49 + 7T KBS",
-    "FR": "49 cr. payés + 7 jrs de service",
-    "ES": "7d ser. UR+ Cristales del ocaso x49",
-    "TH": "คริสตัลสนธยาจ่ายตัง49+บริการผู้ใช้รอยัล7วัน",
+    "FR": "Obtenez 49 cristaux crépusculaires payés au moment de l'achat et en plus, profitez de 7 jours de Service des utilisateurs royaux !",
+    "ES": "Al comprar Cristales del ocaso x49 + 7 días de Servicio de usuario real",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 49ชิ้น ณ ตอนที่ซื้อ และมีบริการผู้ใช้รอยัล7วัน",
     "VN": ""
   },
   {
@@ -16440,13 +16440,13 @@
     "TLM": 50944,
     "Type": 0,
     "GameKey": "Server/shop.royalUser.productDesc.bulk",
-    "JP": "有償魔晶石148個＋無償魔晶石48個＋28日間のロイヤルユーザーサービス。",
+    "JP": "購入時に有償魔晶石148個＋無償魔晶石48個。さらに28日間のロイヤルユーザーサービス。",
     "EN": "Paid T.Crys. x148 (+48 Free), RUService x28d",
-    "KR": "유료 마정석 148개+무료 마정석 48개+28일간 로열 유저 서비스.",
+    "KR": "구매 시 유료 마정석 148개+무료 마정석 48개. 추가로 28일간 로열 유저 서비스.",
     "DE": "148 Bez. & 48 kostl. Zwielichtkr.+28T KBS",
-    "FR": "148 cr. pay + 48 grat + 28 j serv. uti. roy.",
-    "ES": "28d. serv.UR+ Crist. ocaso x148 (+48 gratis)",
-    "TH": "คริสตัลสนธยา148+ฟรี48+บริการผู้ใช้รอยัล28วัน",
+    "FR": "Obtenez 148 cristaux crépusculaires payés au moment de l'achat ainsi que 48 cristaux crépusculaires gratuits. En plus, 28 jours de Service des utilisateurs royaux !",
+    "ES": "Al comprar Cristales del ocaso x148 (+48 gratis) + 28 días de Servicio de usuario real",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 148ชิ้น+คริสตัลสนธยาฟรี48ชิ้น ณ ตอนที่ซื้อ และมีบริการผู้ใช้รอยัล28วัน",
     "VN": ""
   },
   {
@@ -16572,7 +16572,7 @@
     "DE": "Königlicher Benutzerservice 1",
     "FR": "1ère remise - Serv. uti. roy.",
     "ES": "Desc. 1º uso ser. Usuario real",
-    "TH": "บริการผู้ใช้รอยัล ส่วนลดครั้งแรก",
+    "TH": "บริการรอยัล ส่วนลดครั้งแรก",
     "VN": ""
   },
   {
@@ -16580,13 +16580,13 @@
     "TLM": 51077,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign01.tier02/description",
-    "JP": "有償魔晶石25個＋無償魔晶石24個＋7日間のロイヤルユーザーサービス。",
+    "JP": "購入時に有償魔晶石25個＋無償魔晶石24個。さらに7日間のロイヤルユーザーサービス。",
     "EN": "Paid T. Crys. x25 (+24 Free), RUService x7d",
     "KR": "유료 마정석 25개+무료 마정석 24개+7일간 로열 유저 서비스.",
     "DE": "25 bez. & 24 kostenl. Zwielichtkr. +7T KBS",
     "FR": "25 cr. payés + 24 grat. + 7 j serv. uti. roy.",
-    "ES": "7d. ser. UR+ Crist. ocaso x25 (+24 gratis)",
-    "TH": "คริสตัลสนธยา25+ฟรี24+บริการผู้ใช้รอยัล7วัน",
+    "ES": "Al comprar Cristales del ocaso x25 (+24 gratis) + 7 días de Servicio de usuario real",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 25ชิ้น+คริสตัลสนธยาฟรี 24ชิ้น ณ ตอนที่ซื้อ และมีบริการผู้ใช้รอยัล7วัน",
     "VN": ""
   },
   {
@@ -16608,13 +16608,13 @@
     "TLM": 51079,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign01.tier04/description",
-    "JP": "有償魔晶石49個＋7日間のロイヤルユーザーサービス。",
+    "JP": "購入時に有償魔晶石49個。さらに7日間のロイヤルユーザーサービス。",
     "EN": "Paid T.Crys. x49, RUService x7d",
     "KR": "유료 마정석 49개+7일간 로열 유저 서비스.",
     "DE": "Bezahlte Zwielichtkristalle x49 + 7T KBS",
     "FR": "49 cr. payés + 7 jrs de service",
     "ES": "7d ser. UR+ Cristales del ocaso x49",
-    "TH": "คริสตัลสนธยาจ่ายเงิน49+บริการผู้ใช้รอยัล7วัน",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 49ชิ้น ณ ตอนที่ซื้อ และมีบริการผู้ใช้รอยัล7วัน",
     "VN": ""
   },
   {
@@ -16636,13 +16636,13 @@
     "TLM": 51081,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign01.tier12/description",
-    "JP": "有償魔晶石148個＋無償魔晶石48個＋28日間のロイヤルユーザーサービス。",
+    "JP": "購入時に有償魔晶石148個＋無償魔晶石48個。さらに28日間のロイヤルユーザーサービス。",
     "EN": "Paid T.Crys. x148 (+48 Free), RUService x28d",
     "KR": "유료 마정석 148개+무료 마정석 48개+28일간 로열 유저 서비스.",
     "DE": "148 Bez. & 48 kostl. Zwielichtkr.+28T KBS",
     "FR": "148 cr. pay + 48 grat + 28 j serv. uti. roy.",
-    "ES": "28d. serv.UR+ Crist. ocaso x148 (+48 gratis)",
-    "TH": "คริสตัลสนธยา148+ฟรี48+บริการผู้ใช้รอยัล28วัน",
+    "ES": "Al comprar Cristales del ocaso x148 (+48 gratis) + 28 días de Servicio de usuario real",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 148ชิ้น+คริสตัลสนธยาฟรี48ชิ้น ณ ตอนที่ซื้อ และมีบริการผู้ใช้รอยัล28วัน",
     "VN": ""
   },
   {
@@ -16670,7 +16670,7 @@
     "DE": "306 Bez. Zwielichtkr. & Rotkäppchen/Kleriker",
     "FR": "306 cr. ＋ perso. débloqué.",
     "ES": "Cristales del ocaso x306 + Caperucita/Clérigo",
-    "TH": "คริสตัลสนธยา306ชิ้น+\"หนูน้อยหมวกแดง/เคลริค\"",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+\"หนูน้อยหมวกแดง/เคลริค\"",
     "VN": ""
   },
   {
@@ -16776,13 +16776,13 @@
     "TLM": 51103,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign08.tier12a/description",
-    "JP": "有償魔晶石148個＋強化の剣(SR)7個。",
-    "EN": "Paid T.Crys. x148 & Upgrade Sword (SR) x7",
-    "KR": "유료 마정석 148개+강화의 검(SR) 7개.",
-    "DE": "Bezahlte Zwielichtkristalle x148 + Verbessertes Schwert (SR) x7",
-    "FR": "148 cristaux crépusculaires + 7 Épées améliorées (SR)",
-    "ES": "Al comprar Cris. del ocaso x148 + Espada de refuerzo (SR) x7",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 148ชิ้น+ดาบแข็งแกร่ง(SR) 7ชิ้น",
+    "JP": "有償魔晶石148個＋強化の剣(SR)7個。購入期限：2020.07.22 5:59(UTC+0)まで",
+    "EN": "Paid T.Crys. x148 & Upgrade Sword (SR) x7. Available: Until 2020.07.22 at 05:59 (UTC+0)",
+    "KR": "유료 마정석 148개+강화의 검(SR) 7개. 구매 기한: 2020.07.22 5:59(UTC+0)까지",
+    "DE": "Bezahlte Zwielichtkristalle x148 + Verbessertes Schwert (SR) x7. Verfügbar bis: 22.7.2020 5:59 (UTC+0)",
+    "FR": "148 cristaux crépusculaires + 7 Épées améliorées (SR). Date limite d'achat : le 22.07.2020 à 5:59 (UTC+0)",
+    "ES": "Al comprar Cris. del ocaso x148 + Espada de refuerzo (SR) x7. Fecha límite de compra: Hasta las 5:59 (UTC+0) 22.07.2020",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 148ชิ้น+ดาบแข็งแกร่ง(SR) 7ชิ้น หมดเขตซื้อ: ถึง 2020.07.22 เวลา 5:59 (UTC+0)",
     "VN": ""
   },
   {
@@ -16804,13 +16804,13 @@
     "TLM": 51105,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign08.tier12b/description",
-    "JP": "有償魔晶石148個＋強化の盾(SR)7個。",
-    "EN": "Paid T.Crys. x148 & Upgrade Shield (SR) x7",
-    "KR": "유료 마정석 148개+강화의 방패(SR) 7개.",
-    "DE": "Bezahlte Zwielichtkristalle x148 + Verbessertes Schild (SR) x7",
-    "FR": "148 cristaux crépusculaires payés + 7 Boucliers améliorés (SR)",
-    "ES": "Al comprar Cris. del ocaso x148 + Escudo de refuerzo (SR) x7",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 148ชิ้น+โล่แข็งแกร่ง(SR) 7ชิ้น",
+    "JP": "有償魔晶石148個＋強化の盾(SR)7個。購入期限：2020.07.22 5:59(UTC+0)まで",
+    "EN": "Paid T.Crys. x148 & Upgrade Shield (SR) x7. Available: Until 2020.07.22 at 05:59 (UTC+0)",
+    "KR": "유료 마정석 148개+강화의 방패(SR) 7개. 구매 기한: 2020.07.22 5:59(UTC+0)까지",
+    "DE": "Bezahlte Zwielichtkristalle x148 + Verbessertes Schild (SR) x7. Verfügbar bis: 22.7.2020 5:59 (UTC+0)",
+    "FR": "148 cristaux crépusculaires payés + 7 Boucliers améliorés (SR). Date limite d'achat : le 22.07.2020 à 5:59 (UTC+0)",
+    "ES": "Al comprar Cris. del ocaso x148 + Escudo de refuerzo (SR) x7. Fecha límite de compra: Hasta las 5:59 (UTC+0) 22.07.2020",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 148ชิ้น+โล่แข็งแกร่ง(SR) 7ชิ้น หมดเขตซื้อ: ถึง 2020.07.22 เวลา 5:59 (UTC+0)",
     "VN": ""
   },
   {
@@ -16832,13 +16832,13 @@
     "TLM": 51107,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign08.tier12c/description",
-    "JP": "有償魔晶石148個＋強化の石版(SR)4個。",
-    "EN": "Paid T.Crys. x148 & Upgrade Tablet (SR) x4",
-    "KR": "유료 마정석 148개+강화의 석판(SR) 4개.",
-    "DE": "Bezahlte Zwielichtkristalle x148 + Verbesserte Glyphe (SR) x4",
-    "FR": "148 cristaux crépusculaires payés + 4 Tablettes améliorées (SR)",
-    "ES": "Al comprar Cris. del ocaso x148 + Losa de refuerzo (SR) x4",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 148ชิ้น+ศิลาจารึกแข็งแกร่ง(SR) 4ชิ้น",
+    "JP": "有償魔晶石148個＋強化の石版(SR)4個。購入期限：2020.07.22 5:59(UTC+0)まで",
+    "EN": "Paid T.Crys. x148 & Upgrade Tablet (SR) x4. Available: Until 2020.07.22 at 05:59 (UTC+0)",
+    "KR": "유료 마정석 148개+강화의 석판(SR) 4개. 구매 기한: 2020.07.22 5:59(UTC+0)까지",
+    "DE": "Bezahlte Zwielichtkristalle x148 + Verbesserte Glyphe (SR) x4. Verfügbar bis: 22.7.2020 5:59 (UTC+0)",
+    "FR": "148 cristaux crépusculaires payés + 4 Tablettes améliorées (SR). Date limite d'achat : le 22.07.2020 à 5:59 (UTC+0)",
+    "ES": "Al comprar Cris. del ocaso x148 + Losa de refuerzo (SR) x4. Fecha límite de compra: Hasta las 5:59 (UTC+0) 22.07.2020",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 148ชิ้น+ศิลาจารึกแข็งแกร่ง(SR) 4ชิ้น หมดเขตซื้อ: ถึง 2020.07.22 เวลา 5:59 (UTC+0)",
     "VN": ""
   },
   {
@@ -16860,13 +16860,13 @@
     "TLM": 51109,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign08.tier29/description",
-    "JP": "有償魔晶石354個＋強化の剣(SR)7個＋強化の盾(SR)7個＋強化の石版(SR)4個。",
-    "EN": "Paid T.Crys. x354 & Upgrade Sword (SR) x7 & Upgrade Shield (SR) x7 & Upgrade Tablet (SR) x4",
-    "KR": "유료 마정석 354개+강화의 검(SR) 7개+강화의 방패(SR) 7개+강화의 석판(SR) 4개.",
-    "DE": "Bezahlte Zwielichtkristalle x354 + Verbessertes Schwert (SR) x7 + Verbesserter Schild (SR) x7 +Verbesserte Glyphe (SR) x4",
-    "FR": "354 cristaux crépusculaires payés + 7 Épées améliorées + 7 Boucliers améliorés + 4 Tablettes améliorées",
-    "ES": "Al comprar Cris. del ocaso x354 + Espada de refuerzo (SR) x7 + Escudo de refuerzo (SR) x7 + Losa de refuerzo (SR) x4",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 354ชิ้น+ดาบแข็งแกร่ง(SR) 7ชิ้น+โล่แข็งแกร่ง(SR) 7ชิ้น+ศิลาจารึกแข็งแกร่ง(SR) 4ชิ้น",
+    "JP": "有償魔晶石354個＋強化の剣(SR)7個＋強化の盾(SR)7個＋強化の石版(SR)4個。購入期限：2020.07.22 5:59(UTC+0)まで",
+    "EN": "Paid T.Crys. x354 & Upgrade Sword (SR) x7 & Upgrade Shield (SR) x7 & Upgrade Tablet (SR) x4. Available: Until 2020.07.22 at 05:59 (UTC+0)",
+    "KR": "유료 마정석 354개+강화의 검(SR) 7개+강화의 방패(SR) 7개+강화의 석판(SR) 4개. 구매 기한: 2020.07.22 5:59(UTC+0)까지",
+    "DE": "Bezahlte Zwielichtkristalle x354 + Verbessertes Schwert (SR) x7 + Verbesserter Schild (SR) x7 +Verbesserte Glyphe (SR) x4. Verfügbar bis: 22.7.2020 5:59 (UTC+0)",
+    "FR": "354 cristaux crépusculaires payés + 7 Épées améliorées + 7 Boucliers améliorés + 4 Tablettes améliorées. Date limite d'achat : le 22.07.2020 à 5:59 (UTC+0)",
+    "ES": "Al comprar Cris. del ocaso x354 + Espada de refuerzo (SR) x7 + Escudo de refuerzo (SR) x7 + Losa de refuerzo (SR) x4. Fecha límite de compra: Hasta las 5:59 (UTC+0) 22.07.2020",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 354ชิ้น+ดาบแข็งแกร่ง(SR) 7ชิ้น+โล่แข็งแกร่ง(SR) 7ชิ้น+ศิลาจารึกแข็งแกร่ง(SR) 4ชิ้น หมดเขตซื้อ: ถึง 2020.07.22 เวลา 5:59 (UTC+0)",
     "VN": ""
   },
   {
@@ -16888,13 +16888,13 @@
     "TLM": 51111,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign08.tier09/description",
-    "JP": "有償魔晶石110個+鳥類の羽毛45個+鳥類の翼30個+鳥類の鶏冠15個+鳥類の仮面1個。",
-    "EN": "Paid T.Crys. x110 & Bird Feather x45 & Bird Wing x30 & Bird Crown x15 & Bird Mask x1",
-    "KR": "유료 마정석 110개+조류의 깃털 45개+조류의 날개 30개+조류의 볏 15개+조류의 가면 1개.",
-    "DE": "Bezahlte Zwielichtkristalle x110 + Vogelfeder x45 + Vogelflügel x30 + Vogelkamm x15 + Vogelmaske x1",
-    "FR": "110 cristaux crépusculaires payés + 45 Plumages d'oiseaux + 30 Ailes d'oiseau + 15 Crêtes d'oiseaux + 1 Masque d'oiseau",
-    "ES": "Al comprar Cristales del ocaso x110 + Pluma de ave x45 + Ala de ave x30 + Cresta de ave x15 + Máscara de ave x1",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 110ชิ้น+ขนของนก 45ชิ้น+ปีกของนก 30ชิ้น+หงอนของนก 15ชิ้น+หน้ากากของนก 1ชิ้น",
+    "JP": "有償魔晶石110個+鳥類の羽毛45個+鳥類の翼30個+鳥類の鶏冠15個+鳥類の仮面1個。購入期限：2020.07.22 5:59(UTC+0)まで",
+    "EN": "Paid T.Crys. x110 & Bird Feather x45 & Bird Wing x30 & Bird Crown x15 & Bird Mask x1. Available: Until 2020.07.22 at 05:59 (UTC+0)",
+    "KR": "유료 마정석 110개+조류의 깃털 45개+조류의 날개 30개+조류의 볏 15개+조류의 가면 1개. 구매 기한: 2020.07.22 5:59(UTC+0)까지",
+    "DE": "Bezahlte Zwielichtkristalle x110 + Vogelfeder x45 + Vogelflügel x30 + Vogelkamm x15 + Vogelmaske x1. Verfügbar bis: 22.7.2020 5:59 (UTC+0)",
+    "FR": "110 cristaux crépusculaires payés + 45 Plumages d'oiseaux + 30 Ailes d'oiseau + 15 Crêtes d'oiseaux + 1 Masque d'oiseau. Date limite d'achat : le 22.07.2020 à 5:59 (UTC+0)",
+    "ES": "Al comprar Cristales del ocaso x110 + Pluma de ave x45 + Ala de ave x30 + Cresta de ave x15 + Máscara de ave x1. Fecha límite de compra: Hasta las 5:59 (UTC+0) 22.07.2020",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 110ชิ้น+ขนของนก 45ชิ้น+ปีกของนก 30ชิ้น+หงอนของนก 15ชิ้น+หน้ากากของนก 1ชิ้น หมดเขตซื้อ: ถึง 2020.07.22 เวลา 5:59 (UTC+0)",
     "VN": ""
   },
   {
@@ -16916,13 +16916,13 @@
     "TLM": 51113,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign08.tier13a/description",
-    "JP": "有償魔晶石160個+竜の爪(火)45個+竜の鱗(火)40個+竜の瞳(火)15個+竜種の枷5個。",
-    "EN": "Paid T.Crys. x160 & Dragon Claw (Fire) x45 & Dragon Scale (Fire) x40 & Dragon Eye (Fire) x15 & Dragon Shackle x5",
-    "KR": "유료 마정석 160개+용의 발톱(불) 45개+용의 비늘(불) 40개+용의 눈알(불) 15개+용의 족쇄 5개.",
-    "DE": "Bezahlte Zwielichtkristalle x160 + Drachenklaue (Feuer) x45 + Drachenschuppe (Feuer) x40 + Drachenauge (Feuer) x15 + Drachenbindung x5",
-    "FR": "160 cristaux crépusculaires payés + 45 Griffes de dragon (Feu) + 40 Écailles de dragon (Feu) + 15 Yeux de dragon (Feu) + 5 Fers de dragon",
-    "ES": "Al comprar Cris. del ocaso x160 + Garra de dragón (fuego) x45 + Escama de dragón (fuego) x40 + Ojo de dragón (fuego) x15 + Cadena de dragón x5",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 160ชิ้น+กรงเล็บมังกร(ไฟ)45ชิ้น+เกล็ดมังกร(ไฟ)40ชิ้น+แก้วตามังกร(ไฟ)15ชิ้น+โซ่ตรวนของมังกร5ชิ้น",
+    "JP": "有償魔晶石160個+竜の爪(火)45個+竜の鱗(火)40個+竜の瞳(火)15個+竜種の枷5個。購入期限：2020.07.22 5:59(UTC+0)まで",
+    "EN": "Paid T.Crys. x160 & Dragon Claw (Fire) x45 & Dragon Scale (Fire) x40 & Dragon Eye (Fire) x15 & Dragon Shackle x5. Available: Until 2020.07.22 at 05:59 (UTC+0)",
+    "KR": "유료 마정석 160개+용의 발톱(불) 45개+용의 비늘(불) 40개+용의 눈알(불) 15개+용의 족쇄 5개. 구매 기한: 2020.07.22 5:59(UTC+0)까지",
+    "DE": "Bezahlte Zwielichtkristalle x160 + Drachenklaue (Feuer) x45 + Drachenschuppe (Feuer) x40 + Drachenauge (Feuer) x15 + Drachenbindung x5. Verfügbar bis: 22.7.2020 5:59 (UTC+0)",
+    "FR": "160 cristaux crépusculaires payés + 45 Griffes de dragon (Feu) + 40 Écailles de dragon (Feu) + 15 Yeux de dragon (Feu) + 5 Fers de dragon. Date limite d'achat : le 22.07.2020 à 5:59 (UTC+0)",
+    "ES": "Al comprar Cris. del ocaso x160 + Garra de dragón (fuego) x45 + Escama de dragón (fuego) x40 + Ojo de dragón (fuego) x15 + Cadena de dragón x5. Fecha límite de compra: Hasta las 5:59 (UTC+0) 22.07.2020",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 160ชิ้น+กรงเล็บมังกร(ไฟ)45ชิ้น+เกล็ดมังกร(ไฟ)40ชิ้น+แก้วตามังกร(ไฟ)15ชิ้น+โซ่ตรวนของมังกร5ชิ้น หมดเขตซื้อ: ถึง 2020.07.22 เวลา 5:59 (UTC+0)",
     "VN": ""
   },
   {
@@ -16944,13 +16944,13 @@
     "TLM": 51115,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign08.tier13b/description",
-    "JP": "有償魔晶石160個+竜の爪(水)45個+竜の鱗(水)40個+竜の瞳(水)15個+竜種の枷5個。",
-    "EN": "Paid T.Crys. x160 & Dragon Claw (Water) x45 & Dragon Scale (Water) x40 & Dragon Eye (Water) x15 & Dragon Shackle x5",
-    "KR": "유료 마정석 160개+용의 발톱(물) 45개+용의 비늘(물) 40개+용의 눈알(물) 15개+용의 족쇄 5개.",
-    "DE": "Bezahlte Zwielichtkristalle x160 + Drachenklaue (Wasser) x45 + Drachenschuppe (Wasser) x40 + Drachenauge (Wasser) x15 + Drachenbindung x5",
-    "FR": "160 cristaux crépusculaires payés + 45 Griffes de dragon (Eau) + 40 Écailles de dragon (Eau) + 15 Yeux de dragon (Eau) + 5 Fers de dragon",
-    "ES": "Al comprar Cris. del ocaso x160 + Garra de dragón (agua) x45 + Escama de dragón (agua) x40 + Ojo de dragón (agua) x15 + Cadena de dragón x5",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 160ชิ้น+กรงเล็บมังกร(น้ำ)45ชิ้น+เกล็ดมังกร(น้ำ)40ชิ้น+แก้วตามังกร(น้ำ)15ชิ้น+โซ่ตรวนของมังกร5ชิ้น",
+    "JP": "有償魔晶石160個+竜の爪(水)45個+竜の鱗(水)40個+竜の瞳(水)15個+竜種の枷5個。購入期限：2020.07.22 5:59(UTC+0)まで",
+    "EN": "Paid T.Crys. x160 & Dragon Claw (Water) x45 & Dragon Scale (Water) x40 & Dragon Eye (Water) x15 & Dragon Shackle x5. Available: Until 2020.07.22 at 05:59 (UTC+0)",
+    "KR": "유료 마정석 160개+용의 발톱(물) 45개+용의 비늘(물) 40개+용의 눈알(물) 15개+용의 족쇄 5개. 구매 기한: 2020.07.22 5:59(UTC+0)까지",
+    "DE": "Bezahlte Zwielichtkristalle x160 + Drachenklaue (Wasser) x45 + Drachenschuppe (Wasser) x40 + Drachenauge (Wasser) x15 + Drachenbindung x5. Verfügbar bis: 22.7.2020 5:59 (UTC+0)",
+    "FR": "160 cristaux crépusculaires payés + 45 Griffes de dragon (Eau) + 40 Écailles de dragon (Eau) + 15 Yeux de dragon (Eau) + 5 Fers de dragon. Date limite d'achat : le 22.07.2020 à 5:59 (UTC+0)",
+    "ES": "Al comprar Cris. del ocaso x160 + Garra de dragón (agua) x45 + Escama de dragón (agua) x40 + Ojo de dragón (agua) x15 + Cadena de dragón x5. Fecha límite de compra: Hasta las 5:59 (UTC+0) 22.07.2020",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 160ชิ้น+กรงเล็บมังกร(น้ำ)45ชิ้น+เกล็ดมังกร(น้ำ)40ชิ้น+แก้วตามังกร(น้ำ)15ชิ้น+โซ่ตรวนของมังกร5ชิ้น หมดเขตซื้อ: ถึง 2020.07.22 เวลา 5:59 (UTC+0)",
     "VN": ""
   },
   {
@@ -16972,13 +16972,13 @@
     "TLM": 51117,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign08.tier13c/description",
-    "JP": "有償魔晶石160個+竜の爪(風)45個+竜の鱗(風)40個+竜の瞳(風)15個+竜種の枷5個。",
-    "EN": "Paid T.Crys. x160 & Dragon Claw (Wind) x45 & Dragon Scale (Wind) x40 & Dragon Eye (Wind) x15 & Dragon Shackle x5",
-    "KR": "유료 마정석 160개+용의 발톱(바람) 45개+용의 비늘(바람) 40개+용의 눈알(바람) 15개+용의 족쇄 5개.",
-    "DE": "Bezahlte Zwielichtkristalle x160 + Drachenklaue (Wind) x45 + Drachenschuppe (Wind) x40 + Drachenauge (Wind) x15 + Drachenbindung x5",
-    "FR": "160 cristaux crépusculaires payés + 45 Griffes de dragon (Vent) + 40 Écailles de dragon (Vent) + 15 Yeux de dragon  (Vent) + 5 Fers de dragon",
-    "ES": "Al comprar Cris. del ocaso x160 + Garra de dragón (viento) x45 + Escama de dragón (viento) x40 + Ojo de dragón (viento) x15 + Cadena de dragón x5",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 160ชิ้น+กรงเล็บมังกร(ลม)45ชิ้น+เกล็ดมังกร(ลม)40ชิ้น+แก้วตามังกร(ลม)15ชิ้น+โซ่ตรวนของมังกร5ชิ้น",
+    "JP": "有償魔晶石160個+竜の爪(風)45個+竜の鱗(風)40個+竜の瞳(風)15個+竜種の枷5個。購入期限：2020.07.22 5:59(UTC+0)まで",
+    "EN": "Paid T.Crys. x160 & Dragon Claw (Wind) x45 & Dragon Scale (Wind) x40 & Dragon Eye (Wind) x15 & Dragon Shackle x5. Available: Until 2020.07.22 at 05:59 (UTC+0)",
+    "KR": "유료 마정석 160개+용의 발톱(바람) 45개+용의 비늘(바람) 40개+용의 눈알(바람) 15개+용의 족쇄 5개. 구매 기한: 2020.07.22 5:59(UTC+0)까지",
+    "DE": "Bezahlte Zwielichtkristalle x160 + Drachenklaue (Wind) x45 + Drachenschuppe (Wind) x40 + Drachenauge (Wind) x15 + Drachenbindung x5. Verfügbar bis: 22.7.2020 5:59 (UTC+0)",
+    "FR": "160 cristaux crépusculaires payés + 45 Griffes de dragon (Vent) + 40 Écailles de dragon (Vent) + 15 Yeux de dragon  (Vent) + 5 Fers de dragon. Date limite d'achat : le 22.07.2020 à 5:59 (UTC+0)",
+    "ES": "Al comprar Cris. del ocaso x160 + Garra de dragón (viento) x45 + Escama de dragón (viento) x40 + Ojo de dragón (viento) x15 + Cadena de dragón x5. Fecha límite de compra: Hasta las 5:59 (UTC+0) 22.07.2020",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 160ชิ้น+กรงเล็บมังกร(ลม)45ชิ้น+เกล็ดมังกร(ลม)40ชิ้น+แก้วตามังกร(ลม)15ชิ้น+โซ่ตรวนของมังกร5ชิ้น หมดเขตซื้อ: ถึง 2020.07.22 เวลา 5:59 (UTC+0)",
     "VN": ""
   },
   {
@@ -17000,13 +17000,13 @@
     "TLM": 51119,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign08.tier17/description",
-    "JP": "有償魔晶石208個+獣の脂45個+植物の粘液40個+蛇の生き血15個+竜の生き血5個。",
-    "EN": "Paid T.Crys. x208 & Beast Oil x45 & Plant Mucus x40 & Fresh Serpent Blood x15 & Fresh Dragon Blood x5",
-    "KR": "유료 마정석 208개+짐승의 기름 45개+식물의 점액 40개+뱀의 생피 15개+용의 생피 5개.",
-    "DE": "Bezahlte Zwielichtkristalle x208 + Bestienöl x45 + Pflanzenschleim x40 + Frisches Schlangenblut x15 + Frisches Drachenblut x5",
-    "FR": "208 cristaux crépusculaires payés + 45 Graisses de monstre  + 40 Mucus de plante + 15 Sangs frais de serpent + 5 Sangs frais de dragon",
-    "ES": "Al comprar Cris. del ocaso x208 + Aceite de bestia x45 + Mucosa de planta x40 + Sangre fresca de serpiente x15 +  Sangre fresca de dragón x5",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 208ชิ้น+ไขมันสัตว์ป่า45+เมือกของพืช40+เลือดงูสด15+เลือดมังกรสด5",
+    "JP": "有償魔晶石208個+獣の脂45個+植物の粘液40個+蛇の生き血15個+竜の生き血5個。購入期限：2020.07.22 5:59(UTC+0)まで",
+    "EN": "Paid T.Crys. x208 & Beast Oil x45 & Plant Mucus x40 & Fresh Serpent Blood x15 & Fresh Dragon Blood x5. Available: Until 2020.07.22 at 05:59 (UTC+0)",
+    "KR": "유료 마정석 208개+짐승의 기름 45개+식물의 점액 40개+뱀의 생피 15개+용의 생피 5개. 구매 기한: 2020.07.22 5:59(UTC+0)까지",
+    "DE": "Bezahlte Zwielichtkristalle x208 + Bestienöl x45 + Pflanzenschleim x40 + Frisches Schlangenblut x15 + Frisches Drachenblut x5. Verfügbar bis: 22.7.2020 5:59 (UTC+0)",
+    "FR": "208 cristaux crépusculaires payés + 45 Graisses de monstre  + 40 Mucus de plante + 15 Sangs frais de serpent + 5 Sangs frais de dragon. Date limite d'achat : le 22.07.2020 à 5:59 (UTC+0)",
+    "ES": "Al comprar Cris. del ocaso x208 + Aceite de bestia x45 + Mucosa de planta x40 + Sangre fresca de serpiente x15 +  Sangre fresca de dragón x5. Fecha límite de compra: Hasta las 5:59 (UTC+0) 22.07.2020",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 208ชิ้น+ไขมันสัตว์ป่า45+เมือกของพืช40+เลือดงูสด15+เลือดมังกรสด5 หมดเขตซื้อ: ถึง 2020.07.22 เวลา 5:59 (UTC+0)",
     "VN": ""
   },
   {
@@ -17028,13 +17028,41 @@
     "TLM": 51121,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign09.tier25/description",
-    "JP": "有償魔晶石306個＋「グレーテル/ソーサラー」。",
-    "EN": "Paid Twilight Crystal x306 & Gretel/Sorcerer",
-    "KR": "유료 마정석 306개+\"그레텔/소서러\".",
-    "DE": "306 bezahlte Zwielichtkristalle + Gretel/Zauberer",
-    "FR": "306 cristaux crépusculaires payés + Gretel/Sorcier.",
-    "ES": "Al comprar Crist. del ocaso x306 + «Gretel/Hechicero»",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+\"เกรเทล/ซอร์เซอเรอร์\"",
+    "JP": "有償魔晶石306個＋「グレーテル/ソーサラー」。購入期限：2020.08.06 5:59(UTC+0)まで",
+    "EN": "Paid Twilight Crystal x306 & Gretel/Sorcerer. Available: Until 2020.08.06 at 05:59 (UTC+0)",
+    "KR": "유료 마정석 306개+\"그레텔/소서러\". 구매 기한: 2020.08.06 5:59(UTC+0)까지",
+    "DE": "306 bezahlte Zwielichtkristalle + Gretel/Zauberer. Verfügbar bis: 6.8.2020 5:59 (UTC+0)",
+    "FR": "306 cristaux crépusculaires payés + Gretel/Sorcier. Date limite d'achat : le 06.08.2020 à 5:59 (UTC+0)",
+    "ES": "Al comprar Crist. del ocaso x306 + «Gretel/Hechicero». Fecha límite de compra: Hasta las 5:59 (UTC+0) 06.08.2020",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+\"เกรเทล/ซอร์เซอเรอร์\" หมดเขตซื้อ: ถึง 2020.08.06 เวลา 5:59 (UTC+0)",
+    "VN": ""
+  },
+  {
+    "id": 1218,
+    "TLM": 51124,
+    "Type": 0,
+    "GameKey": "Server/com.global.sinoalice.campaign11.tier17/title",
+    "JP": "魔晶石208個＋チケット",
+    "EN": "Twilight Crystal x208 & Ticket",
+    "KR": "마정석 208개+티켓",
+    "DE": "208 Zwielichtkr. + Tickets",
+    "FR": "208 cr. + Tickets",
+    "ES": "C. ocaso x208 + Tickets",
+    "TH": "คริสตัลสนธยา 208ชิ้น+ตั๋ว",
+    "VN": ""
+  },
+  {
+    "id": 1219,
+    "TLM": 51125,
+    "Type": 0,
+    "GameKey": "Server/com.global.sinoalice.campaign11.tier17/description",
+    "JP": "有償魔晶石208個＋オソウジ券5枚＋スキップチケット(Royal)10枚。",
+    "EN": "Paid Twilight Crystal x208 & Purification Ticket x5 & Skip Ticket (Royal) x10",
+    "KR": "유료 마정석 208개+청소 티켓 5개+스킵 티켓(Royal) 10개.",
+    "DE": "208 bezahlte Zwielichtkristalle + Reinigungsticket x5 + Skip Ticket (Königlich) x10",
+    "FR": "208 cristaux crépusculaires payés + 5 Tickets de purification + Ticket d'évitement (Royal) x10",
+    "ES": "Al comprar Cristales del ocaso x208 +Tickets de purificación x5 + Tickets de evasión x10 (Real)",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 208ชิ้น + ตั๋วชะล้าง 5ใบ + ตั๋วข้าม (Royal) 10 ใบ",
     "VN": ""
   }
 ]

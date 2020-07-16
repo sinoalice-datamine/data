@@ -56,6 +56,34 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 11,
+    "name": "NieR Medal",
+    "description": "Medal from a collaboration event.",
+    "resourceName": "item20200716_medal_nierautomata",
+    "assetBundleName": "246",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by joining the NieR: Automata Crossover Event. ",
+    "priority": 22,
+    "itemMstId": 220,
+    "startTime": 1594879200,
+    "endTime": 1597330799,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 12,
+    "name": "Moon Tear Medal",
+    "description": "Medal from a collaboration grimoire.",
+    "resourceName": "item20200716_gacha_nierautomata",
+    "assetBundleName": "0246",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning via the NieR: Automata collaboration grimoire.",
+    "priority": 23,
+    "itemMstId": 246,
+    "startTime": 1594879200,
+    "endTime": 1597330799,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 48,
     "name": "Royal medal",
     "description": "Medal collected by Parrah-Noya.\\n*Expires: 180 days after receipt",

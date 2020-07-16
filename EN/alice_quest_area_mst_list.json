@@ -1477,5 +1477,39 @@
     "unCombatFlag": false,
     "isGve": false,
     "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 164,
+    "questMapMstId": 27,
+    "name": "Memory of Dolls",
+    "collectItemId": 220,
+    "exchangesSceneName": "MedalTradeMain",
+    "assetBundleName": "questareabackground/45",
+    "bgResourceName": "0045",
+    "cueSheetName": "bgm_quest",
+    "cueName": "bgm_quest@009",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 165,
+    "questMapMstId": 28,
+    "name": "Memory of Dolls",
+    "collectItemId": 220,
+    "exchangesSceneName": "MedalTradeMain",
+    "assetBundleName": "questareabackground/46",
+    "bgResourceName": "0046",
+    "cueSheetName": "bgm_quest",
+    "cueName": "bgm_quest@011",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "createdTime": 1483974000
   }
 ]
