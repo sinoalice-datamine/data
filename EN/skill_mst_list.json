@@ -2278,6 +2278,23 @@
     "autoSkillPercentageType": 0
   },
   {
+    "skillMstId": 580,
+    "category": 0,
+    "setEffectSeriesId": 0,
+    "name": "Machine Lifeform and Emil’s Hunting Spirit",
+    "description": "This skill is more effective on machine lifeform and Emil type enemies.",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 0,
+    "resourceName": "",
+    "type": 0,
+    "typeLabel": "own",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0
+  },
+  {
     "skillMstId": 594,
     "category": 1,
     "setEffectSeriesId": 0,
