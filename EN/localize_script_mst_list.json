@@ -410,13 +410,13 @@
     "TLM": 20724,
     "Type": 0,
     "GameKey": "SCRIPT/0030",
-    "JP": "\\\\n\\\\n所属ギルド特等pt: {0}pt獲得",
-    "EN": "\\\\n\\\\nGuild Grand Prize Points {0} points earned",
-    "KR": "\\\\n\\\\n소속 길드 특등 pt: {0}pt 획득",
-    "DE": "\\\\n\\\\nSpezialpreis-Gildenpunkte: {0} Punkte verdient",
-    "FR": "\\\\n\\\\nPoints de récompense spéciale de guilde : {0} points obtenus",
-    "ES": "\\\\n\\\\nPuntos de premio especial del gremio: {0} puntos ganados",
-    "TH": "\\\\n\\\\nptรางวัลพิเศษกิลด์ที่สังกัด：ได้รับ {0}pt",
+    "JP": "所属ギルド特等pt: {0}pt獲得",
+    "EN": "Guild Grand Prize Points {0} points earned",
+    "KR": "소속 길드 특등 pt: {0}pt 획득",
+    "DE": "Spezialpreis-Gildenpunkte: {0} Punkte verdient",
+    "FR": "Points de récompense spéciale de guilde : {0} points obtenus",
+    "ES": "Puntos esp. de afilación al gremio: {0}pt adquirido",
+    "TH": "pt รางวัลพิเศษกิลด์ที่สังกัด：ได้รับ {0}pt",
     "VN": "\\\\n\\\\nĐiểm thưởng đặc biệt của hội: kiếm được {0} điểm"
   },
   {
@@ -990,7 +990,7 @@
     "DE": "Die Beschwörungsfertigkeit eines ähnlichen Typs wurde bereits verwendet und kann nicht erneut benutzt werden.",
     "FR": "Un type de compétence d'invocation similaire a déjà été utilisé et ne peut pas être utilisé à nouveau.",
     "ES": "Ya se ha usado un tipo de habilidad de invocación similar y no se puede volver a utilizar.",
-    "TH": "สกิลเรียกคล้ายกันถูกใช้ไปแล้วและไม่สามารถใช้ได้อีก",
+    "TH": "สกิลเรียกสายเดียวกันถูกใช้ไปแล้วและไม่สามารถใช้ได้อีก",
     "VN": "Đã dùng loại kỹ năng triệu hồi tương tự và không thể dùng lại."
   },
   {
@@ -5045,7 +5045,7 @@
     "Type": 0,
     "GameKey": "SCRIPT/0361",
     "JP": "見た目装備がセットされていないため、\\\\n編成を破棄しますがよろしいですか？",
-    "EN": "Set will be canceled. No visable gear \\\\nhas been selected. Are you sure?",
+    "EN": "Set will be canceled. No visible gear \\\\nhas been selected. Are you sure?",
     "KR": "외형 장비가 설정되지 않아\\\\n편성이 취소됩니다. 진행하시겠습니까?",
     "DE": "Das Set wird abgebrochen. Es wurde keine Ausrüstungsskin\\\\nausgewählt. Bist du sicher?",
     "FR": "L'ensemble sera annulé. Aucune apparence d'équipement\\\\nn'a été sélectionnée. Confirmer ?",
@@ -5918,7 +5918,7 @@
     "DE": "Herausforderung für Nutzer mit insgesamt {0} Punkten verfügbar.",
     "FR": "Défi disponible pour les utilisateurs avec un total de {0} points.",
     "ES": "Hay un desafío disponible para los usuarios con {0} puntos totales.",
-    "TH": "การท้าทายนี้สำหรับผู้เล่นที่มีคะแนนรวม {0}ขึ้นไป",
+    "TH": "การท้าทายนี้สำหรับผู้เล่นที่มีค่ารวม {0}ขึ้นไป",
     "VN": "Thử thách có sẵn cho người dùng có {0} điểm tổng."
   },
   {
@@ -5946,7 +5946,7 @@
     "DE": "Diese Strophe hat eine Mindestanforderung der Gesamtpunktzahl.\\\\nDu benötigst insgesamt {0} oder mehr Punkte, um spielen zu können.",
     "FR": "Cette strophe nécessite un total de points minimum.\\\\nIl vous faut au moins {0} points pour jouer.",
     "ES": "Este verso tiene un mínimo de puntos totales.\\\\nNecesitas {0} o más puntos totales para jugar.",
-    "TH": "กลอนนี้ต้องการคะแนนต่ำสุด\\\\nคุณต้องการคะแนน {0} หรือมากกว่าเพื่อเล่น",
+    "TH": "โคลงนี้มีข้อจำกัดค่ารวม\\\\nต้องงการค่ารวม{0}ขึ้นไปเพื่อเข้าเล่น",
     "VN": "Phần này có điểm tổng nhỏ nhất.\\\\nBạn cần có {0} điểm tổng trở lên để chơi."
   },
   {
@@ -12119,7 +12119,7 @@
     "KR": "주의해 주세요.",
     "DE": " Danke für dein Verständnis.",
     "FR": "Merci de votre compréhension.",
-    "ES": "Gracias por tu comprensión.",
+    "ES": " Agradecemos tu comprensión.",
     "TH": "ขอบคุณที่เข้าใจ",
     "VN": "Cảm ơn vì bạn đã hiểu."
   },
@@ -14598,7 +14598,7 @@
     "DE": "Höchstanzahl Gesamtpunkte:",
     "FR": "Points totaux maximaux : ",
     "ES": "Mejores puntos totales:",
-    "TH": "คะแนนรวมสูงสุด: ",
+    "TH": "ค่ารวมสูงสุด:",
     "VN": "Tổng điểm tối đa:"
   },
   {
@@ -14626,7 +14626,7 @@
     "DE": "Gesamtpunktzahl",
     "FR": "Points totaux",
     "ES": "Puntos totales",
-    "TH": "คะแนนรวม:",
+    "TH": "ค่ารวม:",
     "VN": "Tổng điểm"
   },
   {
@@ -14961,7 +14961,7 @@
     "KR": " 님의 댓글을 신고하시겠습니까?",
     "DE": "Kommentar von  melden?",
     "FR": "Signaler le commentaire de ?",
-    "ES": "¿Quieres informar acerca del comentario de ?",
+    "ES": " - ¿Quieres informar acerca de su comentario?",
     "TH": "รายงานความคิดเห็นของคุณ [User name]หรือไม่?",
     "VN": "Báo cáo nhận xét của -?"
   },
@@ -15363,7 +15363,7 @@
     "Type": 0,
     "GameKey": "SCRIPT/1159",
     "JP": "無限進化武器はメインデッキに\\n1つしかセットできません",
-    "EN": "Your main deck can only have \\none infinitely evolvable weapon set.",
+    "EN": "Your main deck can only have \\none infinity weapon set.",
     "KR": "무한 진화 무기는 메인 덱에\\n하나만 편성할 수 있습니다.",
     "DE": "Das Hauptdeck kann nur \\nein unendlich entwickelbares Waffenset beinhalten.",
     "FR": "Votre deck principal ne peut avoir qu'un\\nseul ensemble d'armes pouvant évoluer à l'infini.",
@@ -15578,7 +15578,7 @@
     "DE": "Schließe zum Freischalten die Mission von {0} ab.",
     "FR": "Terminez la mission de {0} pour le déverrouiller.",
     "ES": "Completar la misión de {0}para desbloquear.",
-    "TH": "สำเร็จภารกิจของ{0}เพื่อปลดล็อก",
+    "TH": "เสร็จสิ้นภารกิจ{0}เพื่อปลดล็อก",
     "VN": "Đã mở khóa với Nhiệm vụ {0} hoàn thành."
   },
   {
@@ -17650,7 +17650,7 @@
     "DE": "Geschichte-Mission noch nicht abgeschlossen.",
     "FR": "Mission histoire non complétée.",
     "ES": "No has completado la misión de historia.",
-    "TH": "ภารกิจเนื้อเรื่องยังไม่สมบูรณ์",
+    "TH": "ภารกิจเนื้อเรื่องยังไม่เสร็จสิ้น",
     "VN": ""
   },
   {
@@ -17945,6 +17945,48 @@
     "FR": "PV",
     "ES": "PS",
     "TH": "HP",
+    "VN": ""
+  },
+  {
+    "id": 1283,
+    "TLM": 51123,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "演出OFF",
+    "EN": "Motions Off",
+    "KR": "연출 OFF",
+    "DE": "Anim. AUS",
+    "FR": "ANIM. OFF",
+    "ES": "Cinematográfica OFF",
+    "TH": "โหมดแสดงปิด",
+    "VN": ""
+  },
+  {
+    "id": 1284,
+    "TLM": 51131,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "レベル{0}で解放",
+    "EN": "Unlock at level {0}",
+    "KR": "레벨 {0}에 해금",
+    "DE": "",
+    "FR": "Débloqué au niveau {0}.",
+    "ES": "Por desbloquear el nivel {0}",
+    "TH": "ปลดล็อกที่เลเวล{0}",
+    "VN": ""
+  },
+  {
+    "id": 1285,
+    "TLM": 51132,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "進化後レベル{0}で解放",
+    "EN": "Unlock at post-evolution level {0}",
+    "KR": "진화 후 레벨 {0}에 해금",
+    "DE": "",
+    "FR": "Débloqué au niveau {0} après évolution.",
+    "ES": "Por desbloquear el nivel {0}",
+    "TH": "หลังวิวัฒนาการปลดล็อกที่เลเวล{0}",
     "VN": ""
   }
 ]
