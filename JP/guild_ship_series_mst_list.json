@@ -1,0 +1,74 @@
+[
+  {
+    "guildShipSeriesMstId": 1,
+    "name": "オリジンシリーズ",
+    "description": "オリジンシリーズのギルドシップ",
+    "shipPartsBodyMstId": 2,
+    "shipPartsRoofMstId": 1,
+    "shipPartsAttachedMstId": 3
+  },
+  {
+    "guildShipSeriesMstId": 2,
+    "name": "空魚シリーズ",
+    "description": "空魚シリーズのギルドシップ",
+    "shipPartsBodyMstId": 5,
+    "shipPartsRoofMstId": 4,
+    "shipPartsAttachedMstId": 6
+  },
+  {
+    "guildShipSeriesMstId": 3,
+    "name": "オリジンシリーズ(青銅)",
+    "description": "オリジンシリーズ(青銅)のギルドシップ",
+    "shipPartsBodyMstId": 8,
+    "shipPartsRoofMstId": 7,
+    "shipPartsAttachedMstId": 9
+  },
+  {
+    "guildShipSeriesMstId": 4,
+    "name": "空城シリーズ(1部)",
+    "description": "第31回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 11,
+    "shipPartsRoofMstId": 10,
+    "shipPartsAttachedMstId": 12
+  },
+  {
+    "guildShipSeriesMstId": 5,
+    "name": "空城シリーズ(2部)",
+    "description": "第31回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 14,
+    "shipPartsRoofMstId": 13,
+    "shipPartsAttachedMstId": 15
+  },
+  {
+    "guildShipSeriesMstId": 6,
+    "name": "空城シリーズ(3部)",
+    "description": "第31回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 17,
+    "shipPartsRoofMstId": 16,
+    "shipPartsAttachedMstId": 18
+  },
+  {
+    "guildShipSeriesMstId": 7,
+    "name": "光城シリーズ(1部)",
+    "description": "第32回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 20,
+    "shipPartsRoofMstId": 19,
+    "shipPartsAttachedMstId": 21
+  },
+  {
+    "guildShipSeriesMstId": 8,
+    "name": "光城シリーズ(2部)",
+    "description": "第32回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 23,
+    "shipPartsRoofMstId": 22,
+    "shipPartsAttachedMstId": 24
+  },
+  {
+    "guildShipSeriesMstId": 9,
+    "name": "光城シリーズ(3部)",
+    "description": "第32回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 26,
+    "shipPartsRoofMstId": 25,
+    "shipPartsAttachedMstId": 27
+  }
+]

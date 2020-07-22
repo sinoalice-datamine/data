@@ -1,0 +1,32 @@
+[
+  {
+    "guildRoleMstId": 1,
+    "guildRoleName": "ギルドマスター",
+    "guildRoleDetail": "ギルドのマスター権限を持つ役職。ギルド設立者。",
+    "roleImage": "",
+    "requireGuildLevel": 1,
+    "guildRoleType": 1,
+    "guildRoleNum": 1,
+    "createdTime": null
+  },
+  {
+    "guildRoleMstId": 2,
+    "guildRoleName": "サブマスター",
+    "guildRoleDetail": "ギルドマスターを補佐するものに与えられる役職。ギルドの一部権限を持つ。",
+    "roleImage": "",
+    "requireGuildLevel": 1,
+    "guildRoleType": 1,
+    "guildRoleNum": 2,
+    "createdTime": null
+  },
+  {
+    "guildRoleMstId": 3,
+    "guildRoleName": "シップ換装",
+    "guildRoleDetail": "ギルドシップ換装とパーツ購入の権限を持つ役職。",
+    "roleImage": "",
+    "requireGuildLevel": 1,
+    "guildRoleType": 1,
+    "guildRoleNum": 14,
+    "createdTime": null
+  }
+]

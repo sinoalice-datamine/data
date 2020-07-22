@@ -1,0 +1,670 @@
+{
+  "lastCreatedTime": "2020-07-20 16:13:10",
+  "mstVersionSummaryList": [
+    {
+      "mstTableId": 1,
+      "version": 599,
+      "names": [
+        "item_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 4,
+      "version": 2,
+      "names": [
+        "job_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 5,
+      "version": 228,
+      "names": [
+        "art_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 6,
+      "version": 2,
+      "names": [
+        "medal_trade_group_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 7,
+      "version": 268,
+      "names": [
+        "medal_trade_series_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 8,
+      "version": 624,
+      "names": [
+        "medal_trade_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 9,
+      "version": 614,
+      "names": [
+        "card_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 14,
+      "version": 394,
+      "names": [
+        "skill_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 15,
+      "version": 62,
+      "names": [
+        "help_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 16,
+      "version": 188,
+      "names": [
+        "login_bonus_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 17,
+      "version": 187,
+      "names": [
+        "login_bonus_reward_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 18,
+      "version": 159,
+      "names": [
+        "item_shop_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 19,
+      "version": 99,
+      "names": [
+        "item_shop_detail_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 20,
+      "version": 728,
+      "names": [
+        "gacha_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 21,
+      "version": 727,
+      "names": [
+        "gacha_pickup_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 22,
+      "version": 516,
+      "names": [
+        "gacha_series_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 23,
+      "version": 372,
+      "names": [
+        "mission_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 25,
+      "version": 352,
+      "names": [
+        "card_story_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 26,
+      "version": 237,
+      "names": [
+        "character_story_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 27,
+      "version": 309,
+      "names": [
+        "character_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 28,
+      "version": 264,
+      "names": [
+        "medal_trade_pickup_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 29,
+      "version": 35,
+      "names": [
+        "ultimate_art_method_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 30,
+      "version": 37,
+      "names": [
+        "set_effect_series_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 31,
+      "version": 3,
+      "names": [
+        "protector_skill_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 32,
+      "version": 3,
+      "names": [
+        "guild_role_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 34,
+      "version": 175,
+      "names": [
+        "resource_file_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 35,
+      "version": 74,
+      "names": [
+        "chat_stamp_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 36,
+      "version": 17,
+      "names": [
+        "user_levelup_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 37,
+      "version": 279,
+      "names": [
+        "mission_title_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 38,
+      "version": 1890,
+      "names": [
+        "banner_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 39,
+      "version": 156,
+      "names": [
+        "alice_quest_scenario_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 40,
+      "version": 174,
+      "names": [
+        "alice_quest_story_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 41,
+      "version": 140,
+      "names": [
+        "quest_boss_story_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 42,
+      "version": 276,
+      "names": [
+        "character_ability_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 43,
+      "version": 162,
+      "names": [
+        "gacha_special_reward_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 44,
+      "version": 3,
+      "names": [
+        "character_level_up_exp_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 45,
+      "version": 205,
+      "names": [
+        "alice_quest_map_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 46,
+      "version": 231,
+      "names": [
+        "alice_quest_area_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 47,
+      "version": 281,
+      "names": [
+        "quest_stage_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 48,
+      "version": 161,
+      "names": [
+        "alice_quest_area_group_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 49,
+      "version": 3,
+      "names": [
+        "gacha_serif_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 50,
+      "version": 246,
+      "names": [
+        "quest_mission_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 51,
+      "version": 230,
+      "names": [
+        "quest_mission_reward_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 54,
+      "version": 195,
+      "names": [
+        "quest_stage_reward_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 55,
+      "version": 4,
+      "names": [
+        "set_effect_series_group_name_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 56,
+      "version": 109,
+      "names": [
+        "gvg_reward_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 57,
+      "version": 2,
+      "names": [
+        "effect_resource_name_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 58,
+      "version": 298,
+      "names": [
+        "gacha_bonus_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 59,
+      "version": 31,
+      "names": [
+        "cleaning_story_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 60,
+      "version": 14,
+      "names": [
+        "tips_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 61,
+      "version": 449,
+      "names": [
+        "card_evolution_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 62,
+      "version": 174,
+      "names": [
+        "quest_enemy_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 63,
+      "version": 353,
+      "names": [
+        "quest_schedule_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 64,
+      "version": 21,
+      "names": [
+        "quest_campaign_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 65,
+      "version": 29,
+      "names": [
+        "tutorial_story_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 66,
+      "version": 36,
+      "names": [
+        "battle_effect_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 67,
+      "version": 134,
+      "names": [
+        "navigator_talk_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 68,
+      "version": 138,
+      "names": [
+        "navigator_talk_story_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 69,
+      "version": 156,
+      "names": [
+        "movie_resource_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 70,
+      "version": 54,
+      "names": [
+        "user_title_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 71,
+      "version": 48,
+      "names": [
+        "guild_title_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 72,
+      "version": 44,
+      "names": [
+        "asset_bundle_replace_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 73,
+      "version": 236,
+      "names": [
+        "quest_area_character_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 74,
+      "version": 28,
+      "names": [
+        "reward_set_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 75,
+      "version": 17,
+      "names": [
+        "nightmare_search_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 76,
+      "version": 4,
+      "names": [
+        "nightmare_search_terms_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 77,
+      "version": 6,
+      "names": [
+        "nightmare_search_reward_pickup_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 78,
+      "version": 66,
+      "names": [
+        "gacha_step_up_bonus_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 79,
+      "version": 6,
+      "names": [
+        "gvg_bgm_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 82,
+      "version": 3,
+      "names": [
+        "extra_mission_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 83,
+      "version": 6,
+      "names": [
+        "card_parameter_custom_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 84,
+      "version": 5,
+      "names": [
+        "card_skill_custom_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 89,
+      "version": 36,
+      "names": [
+        "quest_card_bonus_reward_drop_rate_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 90,
+      "version": 21,
+      "names": [
+        "gvg_login_bonus_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 91,
+      "version": 19,
+      "names": [
+        "gvg_login_bonus_reward_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 92,
+      "version": 73,
+      "names": [
+        "character_ability_special_effect_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 93,
+      "version": 2,
+      "names": [
+        "limit_break_skill_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 95,
+      "version": 15,
+      "names": [
+        "character_board_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 96,
+      "version": 14,
+      "names": [
+        "character_board_tree_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 97,
+      "version": 21,
+      "names": [
+        "character_board_node_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 98,
+      "version": 15,
+      "names": [
+        "character_board_ability_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 99,
+      "version": 5,
+      "names": [
+        "alice_quest_story_effect_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 100,
+      "version": 7,
+      "names": [
+        "sugoroku_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 101,
+      "version": 3,
+      "names": [
+        "sugoroku_stage_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 102,
+      "version": 9,
+      "names": [
+        "sugoroku_cell_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 104,
+      "version": 2,
+      "names": [
+        "sugoroku_cell_place_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 105,
+      "version": 5,
+      "names": [
+        "guild_mission_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 106,
+      "version": 25,
+      "names": [
+        "gacha_step_up_lap_bonus_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 107,
+      "version": 23,
+      "names": [
+        "gacha_step_up_lap_bonus_detail_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 108,
+      "version": 2,
+      "names": [
+        "character_weapon_another_motion_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 109,
+      "version": 19,
+      "names": [
+        "quest_area_character_unique_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 110,
+      "version": 2,
+      "names": [
+        "job_level_bonus_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 111,
+      "version": 5,
+      "names": [
+        "battle_character_multiple_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 112,
+      "version": 4,
+      "names": [
+        "guild_ship_parts_mst_list"
+      ]
+    },
+    {
+      "mstTableId": 113,
+      "version": 3,
+      "names": [
+        "guild_ship_series_mst_list"
+      ]
+    }
+  ]
+}

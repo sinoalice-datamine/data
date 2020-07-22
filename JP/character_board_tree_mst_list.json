@@ -1,0 +1,737 @@
+[
+  {
+    "characterBoardTreeMstId": 1,
+    "characterUniqueId": 1,
+    "name": "バランス",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 2,
+    "characterUniqueId": 1,
+    "name": "物理強化",
+    "priority": 2,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 3,
+    "characterUniqueId": 1,
+    "name": "魔法強化",
+    "priority": 3,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 4,
+    "characterUniqueId": 1,
+    "name": "超強化",
+    "priority": 4,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 5,
+    "characterUniqueId": 2,
+    "name": "バランス",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 6,
+    "characterUniqueId": 2,
+    "name": "物理強化",
+    "priority": 2,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 7,
+    "characterUniqueId": 2,
+    "name": "魔法強化",
+    "priority": 3,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 8,
+    "characterUniqueId": 2,
+    "name": "超強化",
+    "priority": 4,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 9,
+    "characterUniqueId": 3,
+    "name": "バランス",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 10,
+    "characterUniqueId": 3,
+    "name": "物理強化",
+    "priority": 2,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 11,
+    "characterUniqueId": 3,
+    "name": "魔法強化",
+    "priority": 3,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 12,
+    "characterUniqueId": 3,
+    "name": "超強化",
+    "priority": 4,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 13,
+    "characterUniqueId": 4,
+    "name": "バランス",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 14,
+    "characterUniqueId": 4,
+    "name": "物理強化",
+    "priority": 2,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 15,
+    "characterUniqueId": 4,
+    "name": "魔法強化",
+    "priority": 3,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 16,
+    "characterUniqueId": 4,
+    "name": "超強化",
+    "priority": 4,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 17,
+    "characterUniqueId": 5,
+    "name": "バランス",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 18,
+    "characterUniqueId": 5,
+    "name": "物理強化",
+    "priority": 2,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 19,
+    "characterUniqueId": 5,
+    "name": "魔法強化",
+    "priority": 3,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 20,
+    "characterUniqueId": 5,
+    "name": "超強化",
+    "priority": 4,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 21,
+    "characterUniqueId": 6,
+    "name": "バランス",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 22,
+    "characterUniqueId": 6,
+    "name": "物理強化",
+    "priority": 2,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 23,
+    "characterUniqueId": 6,
+    "name": "魔法強化",
+    "priority": 3,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 24,
+    "characterUniqueId": 6,
+    "name": "超強化",
+    "priority": 4,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 25,
+    "characterUniqueId": 7,
+    "name": "バランス",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 26,
+    "characterUniqueId": 7,
+    "name": "物理強化",
+    "priority": 2,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 27,
+    "characterUniqueId": 7,
+    "name": "魔法強化",
+    "priority": 3,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 28,
+    "characterUniqueId": 7,
+    "name": "超強化",
+    "priority": 4,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 29,
+    "characterUniqueId": 8,
+    "name": "バランス",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 30,
+    "characterUniqueId": 8,
+    "name": "物理強化",
+    "priority": 2,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 31,
+    "characterUniqueId": 8,
+    "name": "魔法強化",
+    "priority": 3,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 32,
+    "characterUniqueId": 8,
+    "name": "超強化",
+    "priority": 4,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 33,
+    "characterUniqueId": 9,
+    "name": "バランス",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 34,
+    "characterUniqueId": 9,
+    "name": "物理強化",
+    "priority": 2,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 35,
+    "characterUniqueId": 9,
+    "name": "魔法強化",
+    "priority": 3,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 36,
+    "characterUniqueId": 9,
+    "name": "超強化",
+    "priority": 4,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 41,
+    "characterUniqueId": 14,
+    "name": "バランス",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 42,
+    "characterUniqueId": 14,
+    "name": "物理強化",
+    "priority": 2,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 43,
+    "characterUniqueId": 14,
+    "name": "魔法強化",
+    "priority": 3,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 44,
+    "characterUniqueId": 14,
+    "name": "超強化",
+    "priority": 4,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 45,
+    "characterUniqueId": 15,
+    "name": "バランス",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 46,
+    "characterUniqueId": 15,
+    "name": "物理強化",
+    "priority": 2,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 47,
+    "characterUniqueId": 15,
+    "name": "魔法強化",
+    "priority": 3,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 48,
+    "characterUniqueId": 15,
+    "name": "超強化",
+    "priority": 4,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 53,
+    "characterUniqueId": 20,
+    "name": "バランス",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 54,
+    "characterUniqueId": 20,
+    "name": "物理強化",
+    "priority": 2,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 55,
+    "characterUniqueId": 20,
+    "name": "魔法強化",
+    "priority": 3,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 56,
+    "characterUniqueId": 20,
+    "name": "超強化",
+    "priority": 4,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 57,
+    "characterUniqueId": 22,
+    "name": "バランス",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 58,
+    "characterUniqueId": 22,
+    "name": "物理強化",
+    "priority": 2,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 59,
+    "characterUniqueId": 22,
+    "name": "魔法強化",
+    "priority": 3,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 60,
+    "characterUniqueId": 22,
+    "name": "超強化",
+    "priority": 4,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 61,
+    "characterUniqueId": 35,
+    "name": "バランス",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 62,
+    "characterUniqueId": 35,
+    "name": "物理強化",
+    "priority": 2,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 63,
+    "characterUniqueId": 35,
+    "name": "魔法強化",
+    "priority": 3,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 64,
+    "characterUniqueId": 35,
+    "name": "超強化",
+    "priority": 4,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 65,
+    "characterUniqueId": 16,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 66,
+    "characterUniqueId": 17,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 67,
+    "characterUniqueId": 18,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 68,
+    "characterUniqueId": 19,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 69,
+    "characterUniqueId": 31,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 70,
+    "characterUniqueId": 32,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 71,
+    "characterUniqueId": 33,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 72,
+    "characterUniqueId": 34,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 73,
+    "characterUniqueId": 36,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 74,
+    "characterUniqueId": 37,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 75,
+    "characterUniqueId": 38,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 76,
+    "characterUniqueId": 39,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 77,
+    "characterUniqueId": 40,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 78,
+    "characterUniqueId": 41,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 79,
+    "characterUniqueId": 42,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 80,
+    "characterUniqueId": 43,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 81,
+    "characterUniqueId": 44,
+    "name": "バランス",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 82,
+    "characterUniqueId": 44,
+    "name": "物理強化",
+    "priority": 2,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 83,
+    "characterUniqueId": 44,
+    "name": "魔法強化",
+    "priority": 3,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 84,
+    "characterUniqueId": 44,
+    "name": "超強化",
+    "priority": 4,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 85,
+    "characterUniqueId": 45,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 86,
+    "characterUniqueId": 46,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 87,
+    "characterUniqueId": 47,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 88,
+    "characterUniqueId": 49,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 89,
+    "characterUniqueId": 50,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 90,
+    "characterUniqueId": 1,
+    "name": "精霊強化",
+    "priority": 5,
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。\r\n素材はレイドイベントで入手できます"
+  },
+  {
+    "characterBoardTreeMstId": 91,
+    "characterUniqueId": 2,
+    "name": "精霊強化",
+    "priority": 5,
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。\r\n素材はレイドイベントで入手できます"
+  },
+  {
+    "characterBoardTreeMstId": 92,
+    "characterUniqueId": 3,
+    "name": "精霊強化",
+    "priority": 5,
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。\r\n素材はレイドイベントで入手できます"
+  },
+  {
+    "characterBoardTreeMstId": 93,
+    "characterUniqueId": 4,
+    "name": "精霊強化",
+    "priority": 5,
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。\r\n素材はレイドイベントで入手できます"
+  },
+  {
+    "characterBoardTreeMstId": 94,
+    "characterUniqueId": 5,
+    "name": "精霊強化",
+    "priority": 5,
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。\r\n素材はレイドイベントで入手できます"
+  },
+  {
+    "characterBoardTreeMstId": 95,
+    "characterUniqueId": 6,
+    "name": "精霊強化",
+    "priority": 5,
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。\r\n素材はレイドイベントで入手できます"
+  },
+  {
+    "characterBoardTreeMstId": 96,
+    "characterUniqueId": 7,
+    "name": "精霊強化",
+    "priority": 5,
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。\r\n素材はレイドイベントで入手できます"
+  },
+  {
+    "characterBoardTreeMstId": 97,
+    "characterUniqueId": 8,
+    "name": "精霊強化",
+    "priority": 5,
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。\r\n素材はレイドイベントで入手できます"
+  },
+  {
+    "characterBoardTreeMstId": 98,
+    "characterUniqueId": 9,
+    "name": "精霊強化",
+    "priority": 5,
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。\r\n素材はレイドイベントで入手できます"
+  },
+  {
+    "characterBoardTreeMstId": 99,
+    "characterUniqueId": 14,
+    "name": "精霊強化",
+    "priority": 5,
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。\r\n素材はレイドイベントで入手できます"
+  },
+  {
+    "characterBoardTreeMstId": 100,
+    "characterUniqueId": 15,
+    "name": "精霊強化",
+    "priority": 5,
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。\r\n素材はレイドイベントで入手できます"
+  },
+  {
+    "characterBoardTreeMstId": 101,
+    "characterUniqueId": 20,
+    "name": "精霊強化",
+    "priority": 5,
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。\r\n素材はレイドイベントで入手できます"
+  },
+  {
+    "characterBoardTreeMstId": 102,
+    "characterUniqueId": 22,
+    "name": "精霊強化",
+    "priority": 5,
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。\r\n素材はレイドイベントで入手できます"
+  },
+  {
+    "characterBoardTreeMstId": 103,
+    "characterUniqueId": 35,
+    "name": "精霊強化",
+    "priority": 5,
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。\r\n素材はレイドイベントで入手できます"
+  },
+  {
+    "characterBoardTreeMstId": 104,
+    "characterUniqueId": 44,
+    "name": "精霊強化",
+    "priority": 5,
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。\r\n素材はレイドイベントで入手できます"
+  },
+  {
+    "characterBoardTreeMstId": 105,
+    "characterUniqueId": 51,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 106,
+    "characterUniqueId": 25,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 107,
+    "characterUniqueId": 26,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 108,
+    "characterUniqueId": 27,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 109,
+    "characterUniqueId": 28,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 110,
+    "characterUniqueId": 29,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 111,
+    "characterUniqueId": 30,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 112,
+    "characterUniqueId": 53,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 113,
+    "characterUniqueId": 54,
+    "name": "コラボ",
+    "priority": 1,
+    "materialSourceText": ""
+  }
+]

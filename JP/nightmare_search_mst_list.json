@@ -1,0 +1,62 @@
+[
+  {
+    "nightmareSearchMstId": 1,
+    "questStageMstId": 20,
+    "difficulty": 1,
+    "exp": 170,
+    "time": 60,
+    "bgAssetBundleName": "questareabackground/31",
+    "bgResourceName": "0031",
+    "priority": 1,
+    "startTime": 1483196400,
+    "endTime": 1893423600
+  },
+  {
+    "nightmareSearchMstId": 2,
+    "questStageMstId": 50,
+    "difficulty": 2,
+    "exp": 550,
+    "time": 180,
+    "bgAssetBundleName": "questareabackground/33",
+    "bgResourceName": "0033",
+    "priority": 2,
+    "startTime": 1483196400,
+    "endTime": 1893423600
+  },
+  {
+    "nightmareSearchMstId": 3,
+    "questStageMstId": 610,
+    "difficulty": 3,
+    "exp": 1150,
+    "time": 360,
+    "bgAssetBundleName": "questareabackground/61",
+    "bgResourceName": "0061",
+    "priority": 3,
+    "startTime": 1483196400,
+    "endTime": 1893423600
+  },
+  {
+    "nightmareSearchMstId": 7,
+    "questStageMstId": 20,
+    "difficulty": 1,
+    "exp": 1150,
+    "time": 360,
+    "bgAssetBundleName": "questareabackground/45",
+    "bgResourceName": "0045",
+    "priority": 4,
+    "startTime": 1532062800,
+    "endTime": 1535695199
+  },
+  {
+    "nightmareSearchMstId": 9,
+    "questStageMstId": 0,
+    "difficulty": 1,
+    "exp": 9200,
+    "time": 1440,
+    "bgAssetBundleName": "questareabackground/50",
+    "bgResourceName": "0050",
+    "priority": 4,
+    "startTime": 1559800800,
+    "endTime": 1893423600
+  }
+]
