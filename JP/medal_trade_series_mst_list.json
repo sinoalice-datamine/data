@@ -2686,5 +2686,37 @@
     "endTime": 1596466799,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 180,
+    "name": "アルカナメダル",
+    "description": "アルカナと交換できるメダル\r\n※2020年8月9日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "0180",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "アルカナメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2020年8月9日23:59まで",
+    "priority": 37,
+    "itemMstId": 2474,
+    "startTime": 1595826000,
+    "endTime": 1596985199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 181,
+    "name": "アラジンメダル",
+    "description": "ガチャで獲得できるメダル\r\n※2020年8月9日23:59まで",
+    "resourceName": "item20200124_pinocchio_gacha",
+    "assetBundleName": "1959",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2020年8月9日23:59まで",
+    "priority": 43,
+    "itemMstId": 2460,
+    "startTime": 1595826000,
+    "endTime": 1596985199,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]

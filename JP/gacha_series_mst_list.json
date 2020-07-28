@@ -14363,5 +14363,39 @@
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",
     "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 102080,
+    "gachaGroupId": 5,
+    "bannerMstId": 4143,
+    "isAlways": false,
+    "name": "ドロシー工房/成金の従者ガチャ",
+    "description": "-",
+    "noticeMessage": "このガチャで獲得できるメダルは以下の通りです。\r\n・ヨクボウメダル(Ⅶ)：STEP1～2で各50枚　STEP3～5で各100枚\r\n有効期限：2020年8月7日23:59\r\n・アラジンメダル：STEP1～2で各60枚　STEP3～5で各120枚\r\n有効期限：2020年8月9日23:59",
+    "priority": 15000,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=5958&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 102090,
+    "gachaGroupId": 5,
+    "bannerMstId": 4159,
+    "isAlways": false,
+    "name": "SSピックアップ確定ステップアップガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅶ)\r\n枚数：STEP1で50枚　STEP2～3で各100枚\r\n有効期限：2020年8月7日23:59",
+    "priority": 13000,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=5984&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
   }
 ]
