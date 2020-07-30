@@ -75,6 +75,21 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 7,
+    "gachaGroupId": 3,
+    "bannerMstId": 31,
+    "isAlways": false,
+    "name": "Forbidden Grimoire: Gretel",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The Medal of Desire from this grimoire is as follows:\\nType: Medal of Desire (VIII)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-The Medal of Desire (VIII)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 7,
+    "announceUrl": "/web/announce/body?announceMstId=92&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 12,
     "gachaGroupId": 3,
     "bannerMstId": 42,

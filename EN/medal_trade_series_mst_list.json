@@ -56,13 +56,27 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 8,
+    "name": "Medal of Desire (VIII)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "0003",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain Grimoire.",
+    "priority": 3,
+    "itemMstId": 156,
+    "startTime": 1596088800,
+    "endTime": 1599749999,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 11,
     "name": "NieR Medal",
     "description": "Medal from a collaboration event.",
     "resourceName": "item20200716_medal_nierautomata",
     "assetBundleName": "246",
     "medalTradeGroupMstId": 0,
-    "wayToGet": "Earned by joining the NieR: Automata Crossover Event. ",
+    "wayToGet": "Earned by joining the NieR:Automata collaboration event. ",
     "priority": 22,
     "itemMstId": 220,
     "startTime": 1594879200,
@@ -85,7 +99,7 @@
   },
   {
     "medalTradeSeriesMstId": 48,
-    "name": "Royal medal",
+    "name": "Royal Medal",
     "description": "Medal collected by Parrah-Noya.\\n*Expires: 180 days after receipt",
     "resourceName": "item20180913",
     "assetBundleName": "0780",
