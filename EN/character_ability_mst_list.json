@@ -4060,6 +4060,126 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 563,
+    "characterMstId": 48,
+    "name": "Polearm +30% (Alice+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 564,
+    "characterMstId": 48,
+    "name": "Heavy -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 565,
+    "characterMstId": 48,
+    "name": "Projectile -25%",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 566,
+    "characterMstId": 48,
+    "name": "Heavy -25%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 567,
+    "characterMstId": 48,
+    "name": "Projectile -25%",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 568,
+    "characterMstId": 48,
+    "name": "Heavy -25%",
+    "releaseLevel": 6,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 569,
+    "characterMstId": 48,
+    "name": "Projectile -25%",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 570,
+    "characterMstId": 48,
+    "name": "Polearm +15%",
+    "releaseLevel": 8,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 571,
+    "characterMstId": 48,
+    "name": "P.DEF +500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 572,
+    "characterMstId": 48,
+    "name": "Polearm +15%",
+    "releaseLevel": 10,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 573,
+    "characterMstId": 48,
+    "name": "M.ATK +500",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 574,
+    "characterMstId": 48,
+    "name": "Polearm +5%",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 8
+  },
+  {
     "characterAbilityMstId": 1287,
     "characterMstId": 107,
     "name": "Artifact +30% (Alice+ stage)",

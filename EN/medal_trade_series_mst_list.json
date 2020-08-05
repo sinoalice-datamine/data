@@ -28,6 +28,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 4,
+    "name": "Gran Medal",
+    "description": "Awarded to the Gran Colosseum's best warriors.",
+    "resourceName": "item1",
+    "assetBundleName": "0004",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earn as rewards in the Gran Colosseum.",
+    "priority": 4,
+    "itemMstId": 4,
+    "startTime": 1596603600,
+    "endTime": 1924959599,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 5,
     "name": "Chrono Medal",
     "description": "Medal collected by Parrah-Noya.",
@@ -48,7 +62,7 @@
     "resourceName": "item1",
     "assetBundleName": "0006",
     "medalTradeGroupMstId": 0,
-    "wayToGet": "Earn up to 3 per day by CO-OP battling with friends and guild members.\\n*By purchasing the Royal User service, earn up to 5 per day.",
+    "wayToGet": "Earn up to 3 per day by Co-Op battling with friends and guild members.\\nNote: By purchasing the Royal User service, earn up to 5 per day.",
     "priority": 2,
     "itemMstId": 6,
     "startTime": 1483196400,

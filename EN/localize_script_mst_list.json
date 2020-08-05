@@ -108,7 +108,7 @@
     "DE": "Derjenige wird nicht mehr - sein.\\\\nBist du sicher?",
     "FR": "Cette personne ne sera plus -.\\\\nConfirmer ?",
     "ES": "Ya no será -.\\\\n¿Seguro?",
-    "TH": "ยกเลิกอำนาจ\" -\\\\nคุณแน่ใจหรือไม่?",
+    "TH": "ยกเลิกอำนาจ \"\\\\nคุณแน่ใจหรือไม่?",
     "VN": "Họ sẽ không còn là -.\\\\nBạn có chắc không?"
   },
   {
@@ -500,7 +500,7 @@
     "DE": "Derjenige wird -.\\\\nBist du sicher?",
     "FR": "Cette personne deviendra -.\\\\nConfirmer ?",
     "ES": "Se convertirá en -.\\\\n¿Seguro?",
-    "TH": "นี่จะเป็นการให้สิทธิ \"-\\\\nคุณแน่ใจหรือไม่?",
+    "TH": "นี่จะเป็นการให้สิทธิ \"\\\\nคุณแน่ใจหรือไม่?",
     "VN": "Họ sẽ trở thành -.\\\\nBạn có chắc không?"
   },
   {
@@ -511,7 +511,7 @@
     "JP": "位～",
     "EN": "From Rank",
     "KR": "위~",
-    "DE": "Vom Rang",
+    "DE": "Ab Rang",
     "FR": "Rang de départ",
     "ES": "Desde la clasificación",
     "TH": "อันดับ-",
@@ -876,7 +876,7 @@
     "EN": "Report {0}'s message?",
     "KR": "{0} 님의 댓글을 신고하시겠습니까?",
     "DE": "Kommentar von {0} melden?",
-    "FR": "Signaler le commentaire de {0} ?",
+    "FR": "{0} : signaler le commentaire ?",
     "ES": "¿Quieres informar acerca del comentario de {0}?",
     "TH": "รายงานความคิดเห็นของคุณ{0}หรือไม่?",
     "VN": "Báo cáo nhận xét của {0}?"
@@ -1475,7 +1475,7 @@
     "Type": 0,
     "GameKey": "SCRIPT/0106",
     "JP": "ゴールド",
-    "EN": "Gold",
+    "EN": "Gold ",
     "KR": "골드",
     "DE": "Gold",
     "FR": "Pièces d'or",
@@ -1536,7 +1536,7 @@
     "DE": "x",
     "FR": "x",
     "ES": "x",
-    "TH": "\"",
+    "TH": "ใช้\"",
     "VN": "x"
   },
   {
@@ -2219,10 +2219,10 @@
     "JP": "　エリア派遣条件",
     "EN": "　Area Dispatch Conditions",
     "KR": "　지역 파견 조건",
-    "DE": "Entsendungsbedingungen des Gebiets",
-    "FR": "Conditions de répartition de zone",
-    "ES": "Condiciones de envío por área",
-    "TH": "เงื่อนไขการจัดส่งพื้นที่",
+    "DE": "　",
+    "FR": "　",
+    "ES": "　",
+    "TH": "　",
     "VN": "Điều kiện điều động khu vực"
   },
   {
@@ -2292,7 +2292,7 @@
     "DE": "<Player Name>",
     "FR": "<Player Name>",
     "ES": "<Nombre del jugador>",
-    "TH": "＜ชื่อผู้เล่น＞",
+    "TH": "<ชื่อผู้เล่น>",
     "VN": "<Player Name>"
   },
   {
@@ -3519,12 +3519,12 @@
     "Type": 0,
     "GameKey": "SCRIPT/0252",
     "JP": "　豪華クリエイターが贈るスクエニ×ポケラボ最新作バトルファンタジーRPG #シノアリス http://sinoalice.jp",
-    "EN": "\\nThe latest fantasy battle RPG by Square Enix and Pokelabo, brought to you by an all-star lineup of creators! #SINoALICE http://sinoalice.jp",
+    "EN": "　",
     "KR": "　호화 제작진이 선사하는 SQUARE ENIX×POKELABO 최신작 배틀 판타지 RPG #시노앨리스 http://sinoalice.jp",
-    "DE": "\\nDas neueste Fantasy-Kampf-RPG von Square Enix und Pokelabo, präsentiert von einem Star-Entwicklerensemble! #SINoALICE http://sinoalice.jp",
-    "FR": "Le dernier RPG de combat publié par Square Enix et Pokelabo, développé par une équipe de créateurs 5 étoiles ! #SINoALICE http://sinoalice.jp",
-    "ES": "\\n¡El último juego de rol de combate de fantasía de Square Enix y Pokelabo a tu alcance gracias a unos creadores de primera! #«SINoALICE» http://«sinoalice».jp",
-    "TH": "เกม RPG แฟนตาซีต่อสู้ ผลงานล่าสุดจาก Sqare Enix และ Pokelabo โดยครีเอทเตอร์ชื่อดัง #ชิโนอลิซ http://sinoalice.jp",
+    "DE": "　",
+    "FR": "　",
+    "ES": "　",
+    "TH": "　",
     "VN": "\\nTrò chơi nhập vai chiến đấu mang tính tưởng tượng mới nhất của Square Enix và Pokelabo, được cung cấp bởi một đội ngũ người sáng tạo nổi tiếng! #SINoALICE http://sinoalice.jp"
   },
   {
@@ -4166,8 +4166,8 @@
     "EN": "and summon {0} grimoire(s)?",
     "KR": "\\\\n{0}회 뽑기를 하시겠습니까?",
     "DE": " {0} Grimoire(s) zu beschwören?",
-    "FR": "pour obtenir \\\\n{0} grimoires ?",
-    "ES": "¿Usarás \\\\n{0}grimorios?",
+    "FR": " pour obtenir \\\\n{0} grimoires ?",
+    "ES": "para tirar de \\\\n{0} grimorio(s)?",
     "TH": "\\\\nดึงกรีมัวร์{0} ครั้งหรือไม่?",
     "VN": "để triệu hồi {0} Sách phép {1} ?"
   },
@@ -7066,7 +7066,7 @@
     "DE": "{0}: Inventarplätze erweitert.",
     "FR": "{0} emplacements d'inventaire supplémentaires ajoutés.",
     "ES": "Se crearon {0} espacios de inventario.",
-    "TH": "ขยายช่องเก็บ{0}แล้ว",
+    "TH": "ขยายความจุช่องเก็บ{0}แล้ว",
     "VN": "đã mở rộng {0} ô chứa trong hòm đồ."
   },
   {
@@ -10384,7 +10384,7 @@
     "DE": "Persönliche Titeleinstellungen",
     "FR": "Paramètres du titre personnel.",
     "ES": "Configuración de título personal",
-    "TH": "ตั้งค่ายศส่วนบุคคล",
+    "TH": "ตั้งค่ายศส่วนตัว",
     "VN": "Cài đặt danh hiệu cá nhân"
   },
   {
@@ -10465,7 +10465,7 @@
     "JP": "から\\\\n削除します。\\\\nよろしいですか？",
     "EN": "This will remove -.\\\\nProceed?",
     "KR": "에서\\\\n내보내시겠습니까?",
-    "DE": "Dadurch wird - entfernt.\\\\nBist du sicher?",
+    "DE": "wird entfernt.\\\\nBist du sicher?",
     "FR": "Ceci supprimera -.\\\\nConfirmer ?",
     "ES": "Se eliminará -.\\\\n¿Seguro?",
     "TH": "\\\\nออกจาก- \\\\nแน่ใจหรือไม่?",
@@ -10480,7 +10480,7 @@
     "EN": "This chat will end if\\\\nthe master leaves.\\\\nProceed?",
     "KR": "방장이 채팅방에서 퇴장하면\\\\n그룹이 해체됩니다.\\\\n나가시겠습니까?",
     "DE": "Dieser Chat wird beendet,\\\\nwenn der Gildenmeister fort ist.\\\\nBist du sicher?",
-    "FR": "La messagerie sera dissoute si\\\\nle maître de guilde la quitte.\\\\nConfirmer ?",
+    "FR": "La messagerie sera dissoute si\\\\nvous quittez le groupe.\\\\nConfirmer ?",
     "ES": "Este chat se terminará\\\\nsi sale el jefe del gremio.\\\\n¿Seguro?",
     "TH": "แชทนี้จะปิดลงหาก\\\\nกิลด์มาสเตอร์ออกไป\\\\nแน่ใจหรือไม่?",
     "VN": "Cuộc trò chuyện này sẽ kết thúc nếu\\\\nHội chủ rời đi.\\\\nBạn có chắc không?"
@@ -11095,7 +11095,7 @@
     "JP": "\\\\bスタンプ送信\\\\f",
     "EN": "\\\\bSend Stamp\\\\f",
     "KR": "\\\\b이모티콘 전송\\\\f",
-    "DE": "\\\\bSende Stempel\\\\f",
+    "DE": "\\\\bSende Chatsticker\\\\f",
     "FR": "\\\\bEnvoyer le timbre\\\\f",
     "ES": "\\\\bEnviar estampilla\\\\f",
     "TH": "\\\\bส่งสติกเกอร์\\\\f",
@@ -12104,7 +12104,7 @@
     "EN": "any paid twilight crystals will become free twilight crystals.\\\\n",
     "KR": "유료 마정석은 무료 마정석으로 변경되므로 ",
     "DE": "werden alle bezahlten Zwielichtkristalle zu kostenlosen Zwielichtkristallen. ",
-    "FR": "tous les Cristaux crépusculaires payés deviendront des Cristaux crépusculaires gratuits.\\n",
+    "FR": "tous les Cristaux crépusculaires payés deviendront des Cristaux crépusculaires gratuits. \\n",
     "ES": "todos los cristales del ocaso de pago pasarán a ser gratuitos. ",
     "TH": "คริสตัลสนธยาจ่ายตังจะเปลี่ยนเป็นคริสตัลสนธยาฟรี",
     "VN": "mọi Pha lê chạng vạng đã trả phí sẽ trở thành Pha lê chạng vạng miễn phí."
@@ -12157,7 +12157,7 @@
     "Type": 0,
     "GameKey": "SCRIPT/0869",
     "JP": "予選で上位入賞できなかったため、\\\\n残念ながら本戦に出場できませんでした",
-    "EN": "As your guild was not in the top preliminary ranks,\\\\nyou cannot proceed to the finals.",
+    "EN": "As your guild was not in the top\\\\npreliminary ranks, you cannot\\\\nproceed to the finals.",
     "KR": "예선에서 상위 랭킹에 들지 못해\\\\n본선에 진출하지 못했습니다.",
     "DE": "Da deine Gilde nicht unter den besten Qualifikationsrängen war,\\\\nkannst du nicht zur Hauptarena vorrücken.",
     "FR": "Comme votre guilde n'a pas été qualifiée,\\\\nvous ne pouvez pas aller dans l'Arène principale.",
@@ -13672,7 +13672,7 @@
     "EN": "Royal User Service (",
     "KR": "로열 유저 서비스(",
     "DE": "Königlicher Kundendienst (",
-    "FR": "Service des utilisateurs royaux (",
+    "FR": "Serv. utilis. royaux",
     "ES": "Servicio de usuario real (",
     "TH": "บริการผู้ใช้รอยัล (",
     "VN": "Giải thưởng người chơi gắn bó ("
@@ -13686,7 +13686,7 @@
     "EN": " purchase bonus medals.",
     "KR": "구매 특전 메달입니다.",
     "DE": " Extramedaillen, die bei Kauf erhalten wurden.",
-    "FR": "médailles de bonus d’achat.",
+    "FR": "(médailles en bonus d’achat)",
     "ES": " compra medallas adicionales.",
     "TH": "เหรียญโบนัสจากการซื้อ",
     "VN": "Nhận được huy hiệu thưởng thêm khi mua."
@@ -14276,7 +14276,7 @@
     "DE": "{0} {1} erweitert.",
     "FR": "{0} {1} est étendu.",
     "ES": "{1} de {0} aumentados.",
-    "TH": "ขยาย{0} {1}แล้ว",
+    "TH": "ขยาย{1}{0}แล้ว",
     "VN": "Đã mở rộng {0} {1}."
   },
   {
@@ -14290,7 +14290,7 @@
     "DE": "{0} {1} um",
     "FR": "Le {0} de {1}",
     "ES": "{0} del {1}",
-    "TH": "{0} ของ {1}",
+    "TH": "ขยาย{1}ของ{0}",
     "VN": "{1} của {0}"
   },
   {
@@ -14304,7 +14304,7 @@
     "DE": "Gegenwärtig {0} {1}:",
     "FR": "{0}{1} actuel :",
     "ES": "{0}{1}:",
-    "TH": "จำนวน{0}{1}ปัจจุบัน:",
+    "TH": "จำนวน{1}{0}ในปัจจุบัน: ",
     "VN": "{0} {1} hiện tại:"
   },
   {
@@ -14960,7 +14960,7 @@
     "EN": " -- Report this user's comment?",
     "KR": " 님의 댓글을 신고하시겠습니까?",
     "DE": "Kommentar von  melden?",
-    "FR": "Signaler le commentaire de ?",
+    "FR": ": signaler le commentaire ?",
     "ES": " - ¿Quieres informar acerca de su comentario?",
     "TH": "รายงานความคิดเห็นของคุณ [User name]หรือไม่?",
     "VN": "Báo cáo nhận xét của -?"
@@ -15071,7 +15071,7 @@
     "JP": "ランキング【",
     "EN": "Ranking",
     "KR": "랭킹 [",
-    "DE": "Rangliste",
+    "DE": "Rangliste ",
     "FR": "Classement",
     "ES": "Clasificación",
     "TH": "อันดับ\"",
@@ -16306,7 +16306,7 @@
     "DE": ": Inventarplätze",
     "FR": "Emplacements d'inventaire",
     "ES": "Inventario",
-    "TH": "ความจุช่องเก็บของ",
+    "TH": "ความจุช่องเก็บ",
     "VN": "Ô kho đồ"
   },
   {
@@ -16457,7 +16457,7 @@
     "JP": "部】",
     "EN": "League)",
     "KR": "부]",
-    "DE": "Liga)",
+    "DE": ". Liga",
     "FR": "Ligue)",
     "ES": "Liga)",
     "TH": "หน่วย\"",
@@ -17382,8 +17382,8 @@
     "EN": "Use <color=#B42F00>{0}</color> twilight crystals,\\\\n",
     "KR": "마정석을 <color=#B42F00>{0}개</color> 사용하여 ",
     "DE": "<color=#B42F00>{0}</color> Zwielichtkristalle verwenden, um ",
-    "FR": "Souhaitez-vous utiliser <color=#B42F00>{0}</color>cristaux crépusculaires",
-    "ES": "Consume <color=#B42F00>{0}</color> cristales del ocaso",
+    "FR": "Souhaitez-vous utiliser <color=#B42F00>{0}</color> cristaux crépusculaires",
+    "ES": "¿Consumir <color=#B42F00>{0}</color> cristales del ocaso ",
     "TH": "ใช้คริสตัลสนธยา<color=#B42F00>{0}</color>ชิ้น",
     "VN": "\"VN\": null"
   },
@@ -17580,7 +17580,7 @@
     "DE": "Zwielichtkristall(e) x {0}",
     "FR": "Cristal(aux) crépusculaire(s) x {0}",
     "ES": "{0} X cristal(es) del ocaso",
-    "TH": "\"คริสตัลสนธยา x{0}\"",
+    "TH": "ใช้ \"คริสตัลสนธยา x{0}\"",
     "VN": "\"VN\": null"
   },
   {
@@ -17608,7 +17608,7 @@
     "DE": "Gold x {0}",
     "FR": "Pièces d'or x {0}",
     "ES": "{0} x de oro",
-    "TH": "\"ทอง{0}\"",
+    "TH": "ใช้\"ทอง{0}\"",
     "VN": "\"VN\": null"
   },
   {
@@ -17704,7 +17704,7 @@
     "EN": "Until {0}/{1} {2}:{3}",
     "KR": "{0}월 {1}일 {2}시 {3}분까지",
     "DE": "Bis {1}.{0}. {2}:{3}",
-    "FR": "Jusqu'au {1}dd {0}mm à {2} h{3}",
+    "FR": "{1}dd {0}mm à {2} h{3}",
     "ES": "Hasta las {2}:{3} del {1}/{0} ",
     "TH": " วันที่{1}เดือน{0} {2}นาฬิกา{3}นาที",
     "VN": ""
@@ -17995,12 +17995,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "予選のマッチングについて",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "EN": "Preliminary Matching",
+    "KR": "예선 매칭에 관하여",
+    "DE": "Über das Matching in der Qualifikation",
+    "FR": "À propos de l'appariement des Qualifications :",
+    "ES": "Sobre el emparejamiento por clasificatorias:",
+    "TH": "รอบคัดเลือกกับการจับคู่",
     "VN": ""
   },
   {
@@ -18009,12 +18009,110 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "・グランコロシアム予選初日は、リーグ分けをした上で通常のコロシアムで実施しているマッチングを採用しております。\\n・グランコロシアム予選2日目以降は、リーグ毎に総獲得グランptを用いた特別マッチングとなっております。\\n<color=#B42F00>※2日目以降は総獲得グランptが近い相手とマッチングしやすくなっております</color>",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "EN": "-On the first day of preliminaries for the Gran Colosseum, guilds of the same league will be matched the same way they would be in regular Colosseum events.\\n-On the second day of preliminaries and onward, a special matching will occur within each league based on the total amount of gran points earned.\\n<color=#B42F00>Note: From the second day of preliminaries onward, guilds with similar total gran points will be matched together.</color>",
+    "KR": "・그랑 콜로세움 예선 첫날은 리그 배치 후 일반 콜로세움에서 실시 중인 방법으로 매칭이 이루어집니다.\\n・그랑 콜로세움 예선 2일차 이후에는 리그별로 총 획득 그랑 pt를 이용한 특별 매칭이 이루어집니다.\\n<color=#B42F00>※2일차 이후에는 총 획득 그랑 pt가 비슷한 상대와 매칭될 확률이 높습니다.</color>",
+    "DE": "・Am ersten Tag der Qualifikation von Großes Kolosseum neben der Aufteilung in Ligen, auch das Matching aus dem normalen Kolosseum übernommen.\\n・Ab dem zweiten Tag der Qualifikation von Großes Kolosseum gibt es ein spezielles Matching basierend auf den erhaltenen Prestigepunkten in jeder Liga.\\n<color=#B42F00>*Nach dem zweiten Tag wird es einfacher ein Matching mit einem Gegner zu bekommen, der eine ähnliche Anzahl an Prestigepunkten hat.</color>",
+    "FR": "・Le 1er jour des Qualifications du Grand colisée, les appariements sont ceux d'un colisée ordinaire avec répartition par ligues.\\n・À partir du 2ème jour, les Qualifications du Grand colisée, l'appariement se fait en fonction du nombre de points de valeur totaux obtenus par ligue.\\n<color=#B42F00>*À partir du 2ème jour, il est plus facile de trouver d'autres joueurs plus proches en termes de total de PdV obtenus.</color>",
+    "ES": "- El primer día de las clasificatorias en el Gran Coliseo, dividiremos las ligas para emparejarlas del mismo modo que en el Coliseo.\\n- A partir del 2º día del Gran Coliseo, cada día las ligas iran cambiando de posición usando los Gran puntos para ser emparejadas en las clasificaciones globales.\\n<color=#B42F00>*A partir del 2º día será más fácil emparejar en las clasificaciones globales.</color>",
+    "TH": "・ในวันแรกของรอบคัดเลือกแกรนโคลอสเซียม เมื่อแบ่งลีกแล้วจะใช้การจับคู่แบบเดียวกับที่ใช้ในโคลอสเซียมปกติ\\n・รอบคัดเลือกแกรนโคลอสเซียมวันที่ 2 เป็นต้นไป จะเปลี่ยนเป็นการจับคู่แบบพิเศษ โดยจับตามแกรน pt รวมที่ได้รับตามลีก\\n<color=#B42F00>*วันที่ 2 เป็นต้นไป จะได้จับคู่กับฝ่ายตรงข้ามที่มีแกรน pt รวมที่ใกล้เคียงกันได้ง่ายขึ้น</color>",
+    "VN": ""
+  },
+  {
+    "id": 1288,
+    "TLM": 51161,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "「Step{1}」",
+    "EN": "STEP {1}",
+    "KR": "\"STEP {1}\"",
+    "DE": "Step {1}",
+    "FR": "Étape {1}",
+    "ES": "[Paso {1}]",
+    "TH": "\"Step{1}\"",
+    "VN": ""
+  },
+  {
+    "id": 1289,
+    "TLM": 51164,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "ランキング【{0}部】",
+    "EN": "Ranking [League {0}]",
+    "KR": "랭킹 [{0}부]",
+    "DE": "Rangliste Liga {0}",
+    "FR": "Classements [Ligue {0}]",
+    "ES": "Clasificación [Liga {0}]",
+    "TH": "อันดับ \"ลีกหน่วย{0}\"",
+    "VN": ""
+  },
+  {
+    "id": 1290,
+    "TLM": 51165,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "対戦リスト【{0}部】",
+    "EN": "Battle List [League {0}]",
+    "KR": "대진표 [{0}부]",
+    "DE": "Kampfliste Liga {0}",
+    "FR": "Liste des combats [Ligue {0}]",
+    "ES": "Lista de combate [Liga {0}]",
+    "TH": "รายการต่อสู้ \"ลีกหน่วย{0}\"",
+    "VN": ""
+  },
+  {
+    "id": 1291,
+    "TLM": 51166,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "{0}部",
+    "EN": "League {0}",
+    "KR": "{0}부",
+    "DE": "Liga {0}",
+    "FR": "Ligue {0}",
+    "ES": "Liga {0}",
+    "TH": "ลีกหน่วย {0}",
+    "VN": ""
+  },
+  {
+    "id": 1292,
+    "TLM": 51167,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "{0}位",
+    "EN": "Rank {0}",
+    "KR": "{0}위",
+    "DE": "{0}. Rang",
+    "FR": "Rang {0}",
+    "ES": "{0}º",
+    "TH": "อันดับ {0}",
+    "VN": ""
+  },
+  {
+    "id": 1293,
+    "TLM": 51168,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "{0}位～",
+    "EN": "From Rank {0}",
+    "KR": "{0}위~",
+    "DE": "Ab dem {0}. Rang",
+    "FR": "Tous les rangs après {0}",
+    "ES": "{0}º ~",
+    "TH": "อันดับ {0} เป็นต้นไป",
+    "VN": ""
+  },
+  {
+    "id": 1294,
+    "TLM": 51170,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "{0}〜{1}位",
+    "EN": "Rank {0} to Rank {1}",
+    "KR": "{0}~{1}위",
+    "DE": "{0}. - {1}. Rang",
+    "FR": "Du rang {0} au rang {1}",
+    "ES": "{0}º ~ {1}º",
+    "TH": "อันดับ {0}〜{1}",
     "VN": ""
   }
 ]
