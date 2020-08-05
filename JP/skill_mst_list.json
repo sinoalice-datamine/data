@@ -83438,5 +83438,25 @@
     "skillEffectType": 3,
     "skillEffectParam1": 12,
     "skillEffectParam2": 0
+  },
+  {
+    "skillMstId": 5126,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "再生ノ燐光(Ⅳ)",
+    "description": "味方2体のHPを大回復する。\r\nコロシアム終了5分前になると、効果がさらにアップする。",
+    "attackEffect": 0,
+    "sp": 27,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 556,
+    "typeLabel": "味方複数体/自身",
+    "primaryIcon": 3,
+    "secondaryIcon": 31,
+    "rangeIcon": 3,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 4,
+    "skillEffectParam1": 900,
+    "skillEffectParam2": 1200
   }
 ]

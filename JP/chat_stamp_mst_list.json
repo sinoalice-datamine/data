@@ -1083,7 +1083,7 @@
     "resourceName": "078",
     "assetBundleName": "chat16",
     "filterType": 1,
-    "howToGet": "『コロシアム・シン』本戦出場で獲得可能",
+    "howToGet": "『コロシアム・シン』のUltimate32出場で獲得可能",
     "itemMstId": 1349,
     "replaceMessage": "[*078]",
     "isAnytime": 1,
@@ -1097,7 +1097,7 @@
     "resourceName": "079",
     "assetBundleName": "chat16",
     "filterType": 99,
-    "howToGet": "『コロシアム・シン』本戦出場で獲得可能",
+    "howToGet": "『コロシアム・シン』のUltimate32出場で獲得可能",
     "itemMstId": 1350,
     "replaceMessage": "[*079]",
     "isAnytime": 1,
@@ -1115,8 +1115,8 @@
     "itemMstId": 1351,
     "replaceMessage": "[*080]",
     "isAnytime": 0,
-    "startTime": 1588226400,
-    "endTime": 1590937199,
+    "startTime": 1596088800,
+    "endTime": 1598799599,
     "createdTime": null
   },
   {
@@ -1171,8 +1171,8 @@
     "itemMstId": 1698,
     "replaceMessage": "[*084]",
     "isAnytime": 0,
-    "startTime": 1588226400,
-    "endTime": 1590937199,
+    "startTime": 1596088800,
+    "endTime": 1598799599,
     "createdTime": null
   },
   {
@@ -1367,8 +1367,8 @@
     "itemMstId": 1958,
     "replaceMessage": "[*099]",
     "isAnytime": 0,
-    "startTime": 1588226400,
-    "endTime": 1590937199,
+    "startTime": 1596088800,
+    "endTime": 1598799599,
     "createdTime": null
   },
   {
@@ -1521,8 +1521,8 @@
     "itemMstId": 2292,
     "replaceMessage": "[*113]",
     "isAnytime": 0,
-    "startTime": 1588226400,
-    "endTime": 1590937199,
+    "startTime": 1596088800,
+    "endTime": 1598799599,
     "createdTime": null
   },
   {
@@ -1551,6 +1551,20 @@
     "isAnytime": 0,
     "startTime": 1592200800,
     "endTime": 1593529199,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 116,
+    "name": "ピノキオ/キラキラ",
+    "resourceName": "116",
+    "assetBundleName": "chat35",
+    "filterType": 5,
+    "howToGet": "配当メダル・シン交換所で獲得可能",
+    "itemMstId": 2481,
+    "replaceMessage": "[*116]",
+    "isAnytime": 0,
+    "startTime": 1596088800,
+    "endTime": 1598799599,
     "createdTime": null
   }
 ]

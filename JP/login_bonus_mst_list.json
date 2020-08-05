@@ -3022,5 +3022,41 @@
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 261,
+    "title": "コロシアム・シン開催CP",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1596175200,
+    "endTime": 1597579199,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 262,
+    "title": "イベントボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1596517200,
+    "endTime": 1597643999,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 263,
+    "title": "ギルドイベントボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1596225600,
+    "endTime": 1596812399,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
   }
 ]

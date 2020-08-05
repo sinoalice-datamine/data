@@ -3969,5 +3969,27 @@
     "description": "防具「虚像ノ桃源」Hard",
     "announceUrl": "",
     "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 377,
+    "mapType": 1,
+    "mapGroup": 230,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "残響ノ夏、壊レタ傀儡",
+    "description": "復刻　メダル「残響ノ夏、壊レタ傀儡」Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6010&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 378,
+    "mapType": 1,
+    "mapGroup": 230,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "残響ノ夏、壊レタ傀儡 Hard",
+    "description": "復刻　メダル「残響ノ夏、壊レタ傀儡」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6010&&isHideBackButton=1",
+    "createdTime": 1483974000
   }
 ]

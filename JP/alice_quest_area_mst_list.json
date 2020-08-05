@@ -12899,5 +12899,43 @@
     "disableMultipleCharacter": false,
     "startTime": null,
     "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 722,
+    "questMapMstId": 377,
+    "name": "残響ノ夏、壊レタ傀儡",
+    "collectItemId": 2485,
+    "exchangesSceneName": "MedalTradeMain",
+    "assetBundleName": "questareabackground/245",
+    "bgResourceName": "0245",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": true,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "startTime": null,
+    "createdTime": 1485183600
+  },
+  {
+    "questAreaMstId": 723,
+    "questMapMstId": 378,
+    "name": "残響ノ夏、壊レタ傀儡",
+    "collectItemId": 2485,
+    "exchangesSceneName": "MedalTradeMain",
+    "assetBundleName": "questareabackground/245",
+    "bgResourceName": "0245",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": false,
+    "startTime": null,
+    "createdTime": 1485183600
   }
 ]
