@@ -642,45 +642,53 @@
   {
     "gvgBgmMstId": 81,
     "uniqueId": 11,
-    "queueSheetName": "bgm_gvg3",
-    "queueName": "bgm_gvg3@001",
-    "statusType": 1,
-    "sectionSecond": 1200
+    "queueSheetName": "bgm_gvg8",
+    "queueName": "bgm_gvg8@000",
+    "statusType": 0,
+    "sectionSecond": 0
   },
   {
     "gvgBgmMstId": 82,
     "uniqueId": 11,
-    "queueSheetName": "bgm_gvg3",
-    "queueName": "bgm_gvg3@002",
+    "queueSheetName": "bgm_gvg8",
+    "queueName": "bgm_gvg8@001",
     "statusType": 1,
-    "sectionSecond": 1000
+    "sectionSecond": 1200
   },
   {
     "gvgBgmMstId": 83,
     "uniqueId": 11,
-    "queueSheetName": "bgm_gvg3",
-    "queueName": "bgm_gvg3@003",
+    "queueSheetName": "bgm_gvg8",
+    "queueName": "bgm_gvg8@002",
     "statusType": 1,
-    "sectionSecond": 800
+    "sectionSecond": 1000
   },
   {
     "gvgBgmMstId": 84,
     "uniqueId": 11,
-    "queueSheetName": "bgm_gvg3",
-    "queueName": "bgm_gvg3@004",
+    "queueSheetName": "bgm_gvg8",
+    "queueName": "bgm_gvg8@003",
     "statusType": 1,
-    "sectionSecond": 500
+    "sectionSecond": 800
   },
   {
     "gvgBgmMstId": 85,
     "uniqueId": 11,
-    "queueSheetName": "bgm_gvg3",
-    "queueName": "bgm_gvg3@010",
-    "statusType": 2,
-    "sectionSecond": 120
+    "queueSheetName": "bgm_gvg8",
+    "queueName": "bgm_gvg8@004",
+    "statusType": 1,
+    "sectionSecond": 600
   },
   {
     "gvgBgmMstId": 86,
+    "uniqueId": 11,
+    "queueSheetName": "bgm_gvg8",
+    "queueName": "bgm_gvg8@010",
+    "statusType": 2,
+    "sectionSecond": 185
+  },
+  {
+    "gvgBgmMstId": 87,
     "uniqueId": 11,
     "queueSheetName": "bgm_gvg",
     "queueName": "bgm_gvg@001",
@@ -688,19 +696,11 @@
     "sectionSecond": 0
   },
   {
-    "gvgBgmMstId": 87,
+    "gvgBgmMstId": 88,
     "uniqueId": 11,
     "queueSheetName": "bgm_gvg",
     "queueName": "bgm_gvg@005",
     "statusType": 4,
-    "sectionSecond": 0
-  },
-  {
-    "gvgBgmMstId": 88,
-    "uniqueId": 11,
-    "queueSheetName": "bgm_gvg3",
-    "queueName": "bgm_gvg3@000",
-    "statusType": 0,
     "sectionSecond": 0
   },
   {
