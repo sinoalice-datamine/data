@@ -100,6 +100,16 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 21,
+    "mapType": 1,
+    "mapGroup": 8,
+    "mapGroupLv": 1,
+    "name": "Dragon of the Depths",
+    "description": "July Conquest Event",
+    "announceUrl": "",
+    "createdTime": 1581519600
+  },
+  {
     "questMapMstId": 27,
     "mapType": 1,
     "mapGroup": 14,
@@ -127,6 +137,26 @@
     "name": "Experimental Weapon's Resolve",
     "description": "Disembodied Emil",
     "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 178,
+    "mapType": 1,
+    "mapGroup": 104,
+    "mapGroupLv": 1,
+    "name": "Dreams Under Missing Pages",
+    "description": "NieR RepliCant (Normal)",
+    "announceUrl": "/web/announce/body?announceMstId=2621&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 179,
+    "mapType": 1,
+    "mapGroup": 104,
+    "mapGroupLv": 2,
+    "name": "Dreams Under Missing Pages (Hard)",
+    "description": "NieR RepliCant (Hard)",
+    "announceUrl": "/web/announce/body?announceMstId=2621&&isHideBackButton=1",
     "createdTime": 1483974000
   }
 ]

@@ -252,6 +252,27 @@
     "vibStartTime": -1.0
   },
   {
+    "movieResourceMstId": 83,
+    "movieTitle": "NieR RepliCant OP",
+    "resourceName": "RepliCantOPMovie",
+    "isPreDownLoad": 0,
+    "type": 2,
+    "value": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1596690000,
+    "endTime": 1597903199,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "Bug if No Conditions shows",
+    "thumbAssetBundleName": "museumthumbnail/76",
+    "thumbResourceName": "RepliCantOPMovie",
+    "museumStartTime": 1596693600,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0
+  },
+  {
     "movieResourceMstId": 900001,
     "movieTitle": "憎悪編：次回予告動画",
     "resourceName": "QuestHartedMovie_Global",

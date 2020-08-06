@@ -3360,6 +3360,246 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 395,
+    "characterMstId": 34,
+    "name": "Polearm +30% (Sleeping Beauty+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 396,
+    "characterMstId": 34,
+    "name": "Polearm +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 397,
+    "characterMstId": 34,
+    "name": "M.ATK +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 398,
+    "characterMstId": 34,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 399,
+    "characterMstId": 34,
+    "name": "Polearm +10% (Sleeping Beauty+ stage)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 400,
+    "characterMstId": 34,
+    "name": "M.ATK +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 401,
+    "characterMstId": 34,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 402,
+    "characterMstId": 34,
+    "name": "M.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 403,
+    "characterMstId": 34,
+    "name": "Polearm +10% (Sleeping Beauty+ stage)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 404,
+    "characterMstId": 34,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 405,
+    "characterMstId": 34,
+    "name": "M.ATK +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 406,
+    "characterMstId": 34,
+    "name": "M.ATK +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 407,
+    "characterMstId": 35,
+    "name": "Heavy +20% (Cinderella+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 408,
+    "characterMstId": 35,
+    "name": "Heavy +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 409,
+    "characterMstId": 35,
+    "name": "P.ATK +75",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 75,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 410,
+    "characterMstId": 35,
+    "name": "P.DEF +75",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 75,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 411,
+    "characterMstId": 35,
+    "name": "Heavy +10% (Cinderella+ stage)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 412,
+    "characterMstId": 35,
+    "name": "P.ATK +75",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 75,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 413,
+    "characterMstId": 35,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 414,
+    "characterMstId": 35,
+    "name": "P.ATK +75",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 75,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 415,
+    "characterMstId": 35,
+    "name": "Heavy +10% (Cinderella+ stage)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 416,
+    "characterMstId": 35,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 417,
+    "characterMstId": 35,
+    "name": "Heavy +10% (Cinderella+ stage)",
+    "releaseLevel": 11,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 418,
+    "characterMstId": 35,
+    "name": "P.ATK +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 419,
     "characterMstId": 36,
     "name": "Blade +10% (NieR+ stage)",
@@ -4298,5 +4538,845 @@
     "effectType": 1,
     "effectValue": 200,
     "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 1953,
+    "characterMstId": 157,
+    "name": "Tome +50% (NieR Replicant+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1954,
+    "characterMstId": 157,
+    "name": "Tome +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1955,
+    "characterMstId": 157,
+    "name": "P.ATK +10",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1956,
+    "characterMstId": 157,
+    "name": "P.DEF +30",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 30,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1957,
+    "characterMstId": 157,
+    "name": "M.ATK +50",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1958,
+    "characterMstId": 157,
+    "name": "M.DEF +70",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 70,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1959,
+    "characterMstId": 157,
+    "name": "M.DEF +90",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 90,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1960,
+    "characterMstId": 157,
+    "name": "M.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1961,
+    "characterMstId": 157,
+    "name": "P.DEF +130",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 130,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1962,
+    "characterMstId": 157,
+    "name": "P.ATK +150",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1963,
+    "characterMstId": 157,
+    "name": "M.DEF +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1964,
+    "characterMstId": 157,
+    "name": "Tome +10% (NieR Replicant+ stage)",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1967,
+    "characterMstId": 158,
+    "name": "Polearm +10% (NieR Replicant+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1968,
+    "characterMstId": 158,
+    "name": "Polearm +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1969,
+    "characterMstId": 158,
+    "name": "M.ATK +50",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1970,
+    "characterMstId": 158,
+    "name": "M.DEF +50",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1971,
+    "characterMstId": 158,
+    "name": "Polearm +10% (NieR Replicant+ stage)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1972,
+    "characterMstId": 158,
+    "name": "M.ATK +50",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1973,
+    "characterMstId": 158,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1974,
+    "characterMstId": 158,
+    "name": "M.ATK +50",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1975,
+    "characterMstId": 158,
+    "name": "Polearm +10% (NieR Replicant+ stage)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1976,
+    "characterMstId": 158,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1977,
+    "characterMstId": 158,
+    "name": "Polearm +20% (NieR Replicant+ stage)",
+    "releaseLevel": 11,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1978,
+    "characterMstId": 158,
+    "name": "M.ATK +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1981,
+    "characterMstId": 159,
+    "name": "Blade +30% (NieR Replicant+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1982,
+    "characterMstId": 159,
+    "name": "Blade +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1983,
+    "characterMstId": 159,
+    "name": "P.ATK +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1984,
+    "characterMstId": 159,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1985,
+    "characterMstId": 159,
+    "name": "Blade +10% (NieR Replicant+ stage)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1986,
+    "characterMstId": 159,
+    "name": "P.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1987,
+    "characterMstId": 159,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1988,
+    "characterMstId": 159,
+    "name": "P.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1989,
+    "characterMstId": 159,
+    "name": "Blade +10% (NieR Replicant+ stage)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1990,
+    "characterMstId": 159,
+    "name": "P.DEF +100",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1991,
+    "characterMstId": 159,
+    "name": "P.ATK +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1992,
+    "characterMstId": 159,
+    "name": "Blade +10% (NieR Replicant+ stage)",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1995,
+    "characterMstId": 160,
+    "name": "Artifact +30% (NieR Replicant+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 1996,
+    "characterMstId": 160,
+    "name": "Artifact +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 1997,
+    "characterMstId": 160,
+    "name": "M.ATK +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 1998,
+    "characterMstId": 160,
+    "name": "M.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 1999,
+    "characterMstId": 160,
+    "name": "Artifact +10% (NieR Replicant+ stage)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 2000,
+    "characterMstId": 160,
+    "name": "M.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 2001,
+    "characterMstId": 160,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 2002,
+    "characterMstId": 160,
+    "name": "M.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 2003,
+    "characterMstId": 160,
+    "name": "Artifact +10% (NieR Replicant+ stage)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 2004,
+    "characterMstId": 160,
+    "name": "M.DEF +100",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 2005,
+    "characterMstId": 160,
+    "name": "M.ATK +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 2006,
+    "characterMstId": 160,
+    "name": "Artifact +10% (NieR Replicant+ stage)",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 2009,
+    "characterMstId": 161,
+    "name": "Staff +30% (NieR Replicant+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2010,
+    "characterMstId": 161,
+    "name": "Staff +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2011,
+    "characterMstId": 161,
+    "name": "M.DEF +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2012,
+    "characterMstId": 161,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2013,
+    "characterMstId": 161,
+    "name": "Staff +10% (NieR Replicant+ stage)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2014,
+    "characterMstId": 161,
+    "name": "M.ATK +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2015,
+    "characterMstId": 161,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2016,
+    "characterMstId": 161,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2017,
+    "characterMstId": 161,
+    "name": "Staff +10% (NieR Replicant+ stage)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2018,
+    "characterMstId": 161,
+    "name": "M.DEF +100",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2019,
+    "characterMstId": 161,
+    "name": "P.DEF +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2020,
+    "characterMstId": 161,
+    "name": "Staff +10% (NieR Replicant+ stage)",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2023,
+    "characterMstId": 162,
+    "name": "Instrument +10% (NieR Replicant+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2024,
+    "characterMstId": 162,
+    "name": "Instrument +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2025,
+    "characterMstId": 162,
+    "name": "M.DEF +50",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2026,
+    "characterMstId": 162,
+    "name": "P.DEF +50",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2027,
+    "characterMstId": 162,
+    "name": "Instrument +10% (NieR Replicant+ stage)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2028,
+    "characterMstId": 162,
+    "name": "M.ATK +50",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2029,
+    "characterMstId": 162,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2030,
+    "characterMstId": 162,
+    "name": "P.ATK +50",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2031,
+    "characterMstId": 162,
+    "name": "Instrument +10% (NieR Replicant+ stage)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2032,
+    "characterMstId": 162,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2033,
+    "characterMstId": 162,
+    "name": "Instrument +20% (NieR Replicant+ stage)",
+    "releaseLevel": 11,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2034,
+    "characterMstId": 162,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2081,
+    "characterMstId": 176,
+    "name": "Staff +30% (NieR Replicant+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2082,
+    "characterMstId": 176,
+    "name": "Staff +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2083,
+    "characterMstId": 176,
+    "name": "M.DEF +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2084,
+    "characterMstId": 176,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2085,
+    "characterMstId": 176,
+    "name": "Staff +10% (NieR Replicant+ stage)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2086,
+    "characterMstId": 176,
+    "name": "M.ATK +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2087,
+    "characterMstId": 176,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2088,
+    "characterMstId": 176,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2089,
+    "characterMstId": 176,
+    "name": "Staff +10% (NieR Replicant+ stage)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2090,
+    "characterMstId": 176,
+    "name": "M.DEF +100",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2091,
+    "characterMstId": 176,
+    "name": "P.DEF +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2092,
+    "characterMstId": 176,
+    "name": "Staff +10% (NieR Replicant+ stage)",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
   }
 ]

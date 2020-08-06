@@ -1274,6 +1274,20 @@
     "updatedTime": 1483196400
   },
   {
+    "helpMstId": 98,
+    "categoryType": 2,
+    "mainCategoryId": 6,
+    "mainCategoryOrder": 0,
+    "subCategoryOrder": 5,
+    "title": "Change Outfits",
+    "content": "Some classes allow you to change your character’s outfit.\r\nBy tapping Change from the class details screen, your character’s outfit will change.\r\n\r\nAfter confirming the change, players can see their character in that outfit while playing through the story and Colosseum.\r\nClasses that cannot change outfits will not have this feature available.\r\n\r\nTime Required to Display Outfit\r\nFor outfit changes to display in the Colosseum, the change must be set at least 30 minutes prior to the start of the Colosseum.\r\nOutfits will not display if settings were changed under 30 minutes prior.\\n",
+    "transitionCaption": "",
+    "transitionSceneName": "",
+    "isDeleted": false,
+    "createdTime": 1483196400,
+    "updatedTime": 1483196400
+  },
+  {
     "helpMstId": 99,
     "categoryType": 1,
     "mainCategoryId": 16,

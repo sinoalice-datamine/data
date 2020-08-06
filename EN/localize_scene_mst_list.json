@@ -1237,7 +1237,7 @@
     "Type": 0,
     "GameKey": "SCENE/0088",
     "JP": "ギルドマスター及びサブマスターが記載できます。奥義を出す順番等のギルドバトルでの戦略やメンバー全員に共有したい重要なことを記載しましょう。",
-    "EN": "Text written by the guild master or submaster. A place to discuss guild battle strategies, such as which techniques to use and when to use them, or any other important messages for all members.",
+    "EN": "Text written by the guild master or sub guild master. A place to discuss guild battle strategies, such as which techniques to use and when to use them, or any other important messages for all members.",
     "KR": "길드장 및 부길드장이 작성할 수 있습니다. 오의 발동 순서 등, 길드전 전략 및 길드원과 공유하고자 하는 중요 사항을 작성해 보세요.",
     "DE": "Am besten sollte dies der Gildenmeister oder der erste Offizier schreiben. Diese Beschreibung dient dazu, die Reihenfolge der Verwendung von Spezialaktionen und anderen Strategien für Gildenkämpfe zu erklären oder um wichtige Neuigkeiten mit allen Mitglie",
     "FR": "Le maître ou le sous-maître de la guilde écrivent pour expliquer l'ordre d'utilisation des actions spéciales et des stratégies de combats de guilde, ou pour partager des messages importants avec tous les membres.",
@@ -1368,7 +1368,7 @@
     "DE": "----/--/-- Match x Ergebnisse",
     "FR": "----/--/-- Résultats de match",
     "ES": "----/--/-- Partida x resultados",
-    "TH": "----/--/-- ผลลัพธ์ การแข่งขันครั้งที่ -",
+    "TH": "--/--/---- ผลลัพธ์ การแข่งขันครั้งที่ -",
     "VN": "----/--/-- Khớp x kết quả"
   },
   {
@@ -3927,7 +3927,7 @@
     "JP": "エントリー状況",
     "EN": "Entry Status",
     "KR": "참가 등록 상황",
-    "DE": "Zutrittsstaus",
+    "DE": "Zutrittstatus",
     "FR": "Statut de l'inscription",
     "ES": "Estado de entrada",
     "TH": "สถานะการเข้าร่วม",
@@ -3952,13 +3952,13 @@
     "TLM": 20455,
     "Type": 0,
     "GameKey": "SCENE/0282",
-    "JP": "参加時間",
-    "EN": "Participation Time",
-    "KR": "참가 시간",
-    "DE": "Anmeldefrist",
-    "FR": "Durée de participation",
-    "ES": "Tiempo de participación",
-    "TH": "เวลาในการเข้าร่วม",
+    "JP": "参加時間(UTC+9)",
+    "EN": "Participation Time(UTC+9)",
+    "KR": "참가 시간(UTC+9)",
+    "DE": "Anmeldefrist(UTC+9)",
+    "FR": "Durée de participation(UTC+9)",
+    "ES": "Tiempo de participación(UTC+9)",
+    "TH": "เวลาในการเข้าร่วม(UTC+9)",
     "VN": "Thời gian tham gia"
   },
   {
@@ -3997,10 +3997,10 @@
     "JP": "(総合ランキングは{0}〜{1}の間に更新されます。)",
     "EN": "Overall rankings are updated the following day between {0} to {1}.",
     "KR": "(종합 랭킹은 다음 날 {0}~{1} 사이에 갱신됩니다)",
-    "DE": "Die Gesamtwertung wird am Folgetag zwischen 0:00 Uhr und 1:00 Uhr aktualisiert.",
+    "DE": "(Die Gesamtwertung wird am Folgetag zwischen {0} - {1} aktualisiert)",
     "FR": "Le classement général est mis à jour le lendemain entre {0} et {1}.",
-    "ES": "La clasificación general se actualiza al día siguiente entre las 00:00 y la 1:00.",
-    "TH": "(อันดับทั้งหมดจะถูกอัปเดตในระหว่าง {0} - {1})",
+    "ES": "(La Clasificación general se actualiza entre las {0} ~ {1}.",
+    "TH": "(อันดับรวมทั้งหมดจะถูกอัปเดตในระหว่าง {0} - {1})",
     "VN": "Thứ hạng tổng thể sẽ được cập nhật vào ngày hôm sau, từ 0 đến 1 giờ sáng."
   },
   {
@@ -4011,10 +4011,10 @@
     "JP": "時間帯別ランキング{0}位まで本戦出場可能です。",
     "EN": "Guilds ranked {0} or higher in time slot rankings will advance to the finals.",
     "KR": "시간대별 랭킹 {0}위까지 본선에 진출합니다.",
-    "DE": "Gilden mit einem Rang von 9.999 (oder höher) in der Zeitzonenrangliste rücken in die Hauptarena vor.",
+    "DE": "Gilden mit Rang {0} oder höher in der Zeitzonenrangliste rücken in die Hauptarena vor.",
     "FR": "Les guildes classées {0} ou plus dans le classement par fuseau horaire progresseront vers l'Arène principale.",
-    "ES": "Los gremios con rango 9999 o superior en las clasificaciones por zona horaria pasan a la Arena principal.",
-    "TH": "อันดับตามเวลาถึง {0}จะสามารถเข้าร่วมการต่อสู้หลักได้",
+    "ES": "Los gremios con rango hasta {0} en las clasificaciones por franja horaria podrán participar en la Arena principal.",
+    "TH": "สามารถเข้าร่วมการต่อสู้หลักได้เมื่ออันดับตามเวลาถึงอันดับที่ {0}",
     "VN": "Hội giành hạng từ 9.999 trở lên trong phần thứ hạng theo múi giờ sẽ tham gia Võ đài chính."
   },
   {
@@ -4028,7 +4028,7 @@
     "DE": "*Die Ranglisten sind nicht einsehbar bis zum DD/MM/YYYY.",
     "FR": "*Les classements ne seront pas disponibles avant le JJ/MM/AAAA.",
     "ES": "*Las clasificaciones no estarán disponibles hasta el DD/MM/AAAA.",
-    "TH": "(*⚪︎การจัดอันดับไม่สามารถใช้ได้จนถึง 99DD/99MM/YYYY)",
+    "TH": "(*⚪︎การจัดอันดับไม่สามารถใช้ได้จนถึง 99DD/99MM)",
     "VN": "*Thứ hạng sẽ không có sẵn cho đến DD/MM/YYYY."
   },
   {
@@ -4082,9 +4082,9 @@
     "EN": "Time Slot Rankings",
     "KR": "시간대별 랭킹",
     "DE": "Zeitzonenrangliste",
-    "FR": "Classement par fuseau horaire",
-    "ES": "Clasificaciones por zona horaria",
-    "TH": "อันดับตามเวลา",
+    "FR": "Class. fus. hor.",
+    "ES": "Clasificaciones por franja horaria",
+    "TH": "อันดับตามช่วงเวลา",
     "VN": "Thứ hạng theo múi giờ"
   },
   {
@@ -4207,9 +4207,9 @@
     "JP": "時間帯別ランキング{0}位まで本戦出場可能でした",
     "EN": "Guilds ranked {0} or higher in time slot rankings will advance to the finals.",
     "KR": "시간대별 랭킹 {0}위까지 본선에 진출하였습니다.",
-    "DE": "Gilden mit einem Rang von - (oder höher) in der Zeitzonenrangliste rücken in die Hauptarena vor.",
+    "DE": "Gilden mit Rang {0} oder höher in der Zeitzonenrangliste rücken in die Hauptarena vor.",
     "FR": "Les guildes classées {0} ou plus dans le classement par fuseau horaire progresseront vers l'Arène principale.",
-    "ES": "Los gremios con rango - o superior en las clasificaciones por zona horaria pasan a la Arena principal.",
+    "ES": "Los gremios con rango hasta {0} en las clasificaciones por franja horaria podrán participar en la Arena principal.",
     "TH": "จะสามารถเข้าร่วมการต่อสู้หลักได้เมื่ออันดับตามเวลาถึง {0}",
     "VN": "Hội giành hạng từ – trở lên trong phần thứ hạng theo múi giờ sẽ tham gia Võ đài chính."
   },
@@ -5132,7 +5132,7 @@
     "EN": "Recruiting: No",
     "KR": "길드원 모집: 비활성화",
     "DE": "Rekrutierung: AN",
-    "FR": "Recrutement : OUI",
+    "FR": "Recrutement : NON",
     "ES": "Reclutamiento: Activado",
     "TH": "รับสมัครสมาชิก: ปิด",
     "VN": "Chiêu mộ: BẬT"
@@ -5146,7 +5146,7 @@
     "EN": "Recruiting: Yes",
     "KR": "길드원 모집: 활성화",
     "DE": "Rekrutierung: AUS",
-    "FR": "Recrutement : NON",
+    "FR": "Recrutement : OUI",
     "ES": "Reclutamiento: Desactivado",
     "TH": "รับสมัครสมาชิก: เปิด",
     "VN": "Chiêu mộ: TẮT"
@@ -6112,7 +6112,7 @@
     "EN": "Main Story",
     "KR": "스토리",
     "DE": "Story",
-    "FR": "Histoire principale",
+    "FR": "Histoire",
     "ES": "Historia",
     "TH": "เรื่องราว",
     "VN": "Truyền kỳ"
@@ -6338,7 +6338,7 @@
     "DE": "Medaillentausch-Menü",
     "FR": "Menu d'échange de médaille",
     "ES": "Menú de intercambio de medallas",
-    "TH": "หน้าเมนู[ที่แลกเปลี่ยนเหรียญ]",
+    "TH": "หน้าหลัก[ที่แลกเปลี่ยนเหรียญ]",
     "VN": "Menu trao đổi huy hiệu"
   },
   {
@@ -6939,7 +6939,7 @@
     "KR": "사격 뽑기",
     "DE": "Schießbuden-Grimoire",
     "FR": "Grimoire du jeu de tir",
-    "ES": "Grimorio de la galería de tiro",
+    "ES": "Grimorio de tiro ",
     "TH": "ยิงเป้ากรีมัวร์",
     "VN": "Sách phép Bộ sưu tập vũ khí bắn"
   },
@@ -7901,10 +7901,10 @@
     "Type": 0,
     "GameKey": "SCENE/0529",
     "JP": "リーグ切替",
-    "EN": "Switch Leagues",
+    "EN": "Switch",
     "KR": "리그 전환",
     "DE": "Liga wechseln",
-    "FR": "Changer de ligues",
+    "FR": "Chg. ligue",
     "ES": "Cambiar ligas",
     "TH": "สลับลีก",
     "VN": "Chuyển đổi giải đấu"

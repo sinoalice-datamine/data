@@ -63,6 +63,27 @@
     "updatedTime": null
   },
   {
+    "itemShopMstId": 259,
+    "name": "Collaboration Set with Arcana A",
+    "description": "Gift set of bargain items.",
+    "resourceName": "0001",
+    "assetBundleName": "itemex",
+    "priority": 9,
+    "saleType": 2,
+    "normalItemShopMstId": 0,
+    "paymentType": 1,
+    "price": 300,
+    "countLimitType": 1,
+    "limitNumber": 1,
+    "announceMstId": 0,
+    "startTime": 1596693600,
+    "endTime": 1597903199,
+    "isHidden": false,
+    "isDeleted": false,
+    "createdTime": 1483974000,
+    "updatedTime": null
+  },
+  {
     "itemShopMstId": 900001,
     "name": "Starter Pack (Vanguard Weapons)",
     "description": "A pack with an assortment of vanguard weapons.",
