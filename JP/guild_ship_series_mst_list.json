@@ -70,5 +70,21 @@
     "shipPartsBodyMstId": 26,
     "shipPartsRoofMstId": 25,
     "shipPartsAttachedMstId": 27
+  },
+  {
+    "guildShipSeriesMstId": 10,
+    "name": "オリジンシリーズ(灰朱)",
+    "description": "オリジンシリーズ(灰朱)のギルドシップ",
+    "shipPartsBodyMstId": 30,
+    "shipPartsRoofMstId": 29,
+    "shipPartsAttachedMstId": 31
+  },
+  {
+    "guildShipSeriesMstId": 11,
+    "name": "天翼シリーズ",
+    "description": "天翼シリーズのギルドシップ",
+    "shipPartsBodyMstId": 33,
+    "shipPartsRoofMstId": 32,
+    "shipPartsAttachedMstId": 34
   }
 ]

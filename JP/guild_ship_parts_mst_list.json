@@ -306,5 +306,71 @@
     "fltParam": 0,
     "pdlmParam": 1,
     "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 29,
+    "name": "オリジンシリーズ(灰朱)[船楼]",
+    "description": "オリジンシリーズ(灰朱)の船楼パーツ",
+    "partsType": 1,
+    "siegeHpBonus": 7000,
+    "gainType": 1,
+    "fltParam": 0,
+    "pdlmParam": 31,
+    "rttParam": 6592
+  },
+  {
+    "guildShipPartsMstId": 30,
+    "name": "オリジンシリーズ(灰朱)[船体]",
+    "description": "オリジンシリーズ(灰朱)の船体パーツ",
+    "partsType": 2,
+    "siegeHpBonus": 7000,
+    "gainType": 1,
+    "fltParam": 0,
+    "pdlmParam": 30,
+    "rttParam": 1
+  },
+  {
+    "guildShipPartsMstId": 31,
+    "name": "オリジンシリーズ(灰朱)[灯篭]",
+    "description": "オリジンシリーズ(灰朱)の灯篭パーツ",
+    "partsType": 3,
+    "siegeHpBonus": 7000,
+    "gainType": 1,
+    "fltParam": 0,
+    "pdlmParam": 1,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 32,
+    "name": "天翼シリーズ[船楼]",
+    "description": "天翼シリーズの船楼パーツ",
+    "partsType": 1,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 33,
+    "name": "天翼シリーズ[船体]",
+    "description": "天翼シリーズの船体パーツ",
+    "partsType": 2,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 2,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 34,
+    "name": "天翼シリーズ[灯篭]",
+    "description": "天翼シリーズの灯篭パーツ",
+    "partsType": 3,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 7,
+    "pdlmParam": 0,
+    "rttParam": 0
   }
 ]

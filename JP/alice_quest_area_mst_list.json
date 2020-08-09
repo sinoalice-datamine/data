@@ -12937,5 +12937,24 @@
     "disableMultipleCharacter": false,
     "startTime": null,
     "createdTime": 1485183600
+  },
+  {
+    "questAreaMstId": 747,
+    "questMapMstId": 379,
+    "name": "ｺﾐｯｸｽ・小説発売記念ｲﾍﾞﾝﾄ",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/85",
+    "bgResourceName": "0085",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "startTime": null,
+    "createdTime": 1483974000
   }
 ]
