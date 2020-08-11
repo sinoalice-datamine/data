@@ -1496,6 +1496,23 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 157,
+    "questMapMstId": 20,
+    "name": "Incarnation of Solitude",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/24",
+    "bgResourceName": "0024",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "createdTime": 1581001200
+  },
+  {
     "questAreaMstId": 158,
     "questMapMstId": 21,
     "name": "Dragon of the Depths",
