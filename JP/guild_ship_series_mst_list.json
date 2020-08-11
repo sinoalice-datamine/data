@@ -86,5 +86,29 @@
     "shipPartsBodyMstId": 33,
     "shipPartsRoofMstId": 32,
     "shipPartsAttachedMstId": 34
+  },
+  {
+    "guildShipSeriesMstId": 12,
+    "name": "遊城シリーズ(1部)",
+    "description": "第33回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 36,
+    "shipPartsRoofMstId": 35,
+    "shipPartsAttachedMstId": 37
+  },
+  {
+    "guildShipSeriesMstId": 13,
+    "name": "遊城シリーズ(2部)",
+    "description": "第33回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 39,
+    "shipPartsRoofMstId": 38,
+    "shipPartsAttachedMstId": 40
+  },
+  {
+    "guildShipSeriesMstId": 14,
+    "name": "遊城シリーズ(3部)",
+    "description": "第33回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 42,
+    "shipPartsRoofMstId": 41,
+    "shipPartsAttachedMstId": 43
   }
 ]
