@@ -298,7 +298,7 @@
   },
   {
     "guildShipPartsMstId": 28,
-    "name": "昆虫シリーズ(灯籠)",
+    "name": "昆虫シリーズ[灯籠]",
     "description": "昆虫シリーズの灯篭パーツ",
     "partsType": 3,
     "siegeHpBonus": 7000,
@@ -470,6 +470,61 @@
     "gainType": 2,
     "fltParam": 1,
     "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 44,
+    "name": "第5回ｺﾛｼｱﾑ･ｼﾝUltimate32優勝",
+    "description": "第5回コロシアム・シンのUltimate32の優勝ギルドに贈られるシップの船楼パーツ",
+    "partsType": 3,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 1,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 45,
+    "name": "第5回ｺﾛｼｱﾑ･ｼﾝUltimate32準優勝",
+    "description": "第5回コロシアム・シンのUltimate32の準優勝ギルドに贈られるシップの船楼パーツ",
+    "partsType": 3,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 1,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 46,
+    "name": "第5回ｺﾛｼｱﾑ･ｼﾝUltimate32ﾍﾞｽﾄ4",
+    "description": "第5回コロシアム・シンのUltimate32のベスト4ギルドに贈られるシップの船楼パーツ",
+    "partsType": 3,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 1,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 47,
+    "name": "第5回ｺﾛｼｱﾑ･ｼﾝUltimate32出場",
+    "description": "第5回コロシアム・シンのUltimate32の出場ギルドに贈られるシップの船楼パーツ",
+    "partsType": 3,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 1,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 48,
+    "name": "第5回ｺﾛｼｱﾑ･ｼﾝSuperDivision出場",
+    "description": "第5回コロシアム・シンのSuper Divisionの出場ギルドに贈られるシップの船楼パーツ",
+    "partsType": 3,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 1,
     "rttParam": 0
   }
 ]
