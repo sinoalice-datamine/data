@@ -2657,7 +2657,7 @@
     "title": "融合篇五章追加記念",
     "priority": 0,
     "startTime": 1593493200,
-    "endTime": 1596207599
+    "endTime": 1599112799
   },
   {
     "missionTitleMstId": 400,
@@ -2849,6 +2849,13 @@
     "endTime": 1594879199
   },
   {
+    "missionTitleMstId": 428,
+    "title": "憎悪篇新章解放記念ミッション",
+    "priority": 0,
+    "startTime": 1597813200,
+    "endTime": 1601477999
+  },
+  {
     "missionTitleMstId": 429,
     "title": "夏休み満喫コロシアムミッション",
     "priority": 0,
@@ -2969,10 +2976,10 @@
   },
   {
     "missionTitleMstId": 446,
-    "title": "ストーリー攻略キャンペーン",
+    "title": "ストーリー攻略キャンペーン①",
     "priority": 0,
     "startTime": 1596693600,
-    "endTime": 1597813199
+    "endTime": 1599112799
   },
   {
     "missionTitleMstId": 447,
@@ -3010,10 +3017,24 @@
     "endTime": 1597676399
   },
   {
+    "missionTitleMstId": 458,
+    "title": "イベントデイリーミッション",
+    "priority": 0,
+    "startTime": 1597644000,
+    "endTime": 1598331599
+  },
+  {
     "missionTitleMstId": 460,
     "title": "改・PC版リリース記念ミッション",
     "priority": 20006,
     "startTime": 1596780000,
     "endTime": 1598885999
+  },
+  {
+    "missionTitleMstId": 461,
+    "title": "ストーリー攻略キャンペーン②",
+    "priority": 0,
+    "startTime": 1597813200,
+    "endTime": 1599112799
   }
 ]

@@ -733,5 +733,40 @@
     "name": "コラボ",
     "priority": 1,
     "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 120,
+    "characterUniqueId": 52,
+    "name": "バランス",
+    "priority": 1,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 121,
+    "characterUniqueId": 52,
+    "name": "物理強化",
+    "priority": 2,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 122,
+    "characterUniqueId": 52,
+    "name": "魔法強化",
+    "priority": 3,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 123,
+    "characterUniqueId": 52,
+    "name": "超強化",
+    "priority": 4,
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardTreeMstId": 124,
+    "characterUniqueId": 52,
+    "name": "精霊強化",
+    "priority": 5,
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。\r\n素材はレイドイベントで入手できます"
   }
 ]

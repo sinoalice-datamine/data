@@ -13651,5 +13651,689 @@
     "effectType": 15,
     "effectValue": 20,
     "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1638,
+    "characterUniqueId": 52,
+    "name": "HP+50",
+    "description": "マッチ売りの少女のジョブを編成時、HP +50",
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1639,
+    "characterUniqueId": 52,
+    "name": "HP+100",
+    "description": "マッチ売りの少女のジョブを編成時、HP +100",
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1640,
+    "characterUniqueId": 52,
+    "name": "HP+150",
+    "description": "マッチ売りの少女のジョブを編成時、HP +150",
+    "effectType": 1,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1641,
+    "characterUniqueId": 52,
+    "name": "HP+200",
+    "description": "マッチ売りの少女のジョブを編成時、HP +200",
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1642,
+    "characterUniqueId": 52,
+    "name": "物攻+50",
+    "description": "マッチ売りの少女のジョブを編成時、物理攻撃 +50",
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1643,
+    "characterUniqueId": 52,
+    "name": "物攻+75",
+    "description": "マッチ売りの少女のジョブを編成時、物理攻撃 +75",
+    "effectType": 2,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1644,
+    "characterUniqueId": 52,
+    "name": "物攻+100",
+    "description": "マッチ売りの少女のジョブを編成時、物理攻撃 +100",
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1645,
+    "characterUniqueId": 52,
+    "name": "物攻+150",
+    "description": "マッチ売りの少女のジョブを編成時、物理攻撃 +150",
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1646,
+    "characterUniqueId": 52,
+    "name": "物攻+200",
+    "description": "マッチ売りの少女のジョブを編成時、物理攻撃 +200",
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1647,
+    "characterUniqueId": 52,
+    "name": "物攻+250",
+    "description": "マッチ売りの少女のジョブを編成時、物理攻撃 +250",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1648,
+    "characterUniqueId": 52,
+    "name": "物攻+300",
+    "description": "マッチ売りの少女のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1649,
+    "characterUniqueId": 52,
+    "name": "物防+50",
+    "description": "マッチ売りの少女のジョブを編成時、物理防御 +50",
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1650,
+    "characterUniqueId": 52,
+    "name": "物防+75",
+    "description": "マッチ売りの少女のジョブを編成時、物理防御 +75",
+    "effectType": 3,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1651,
+    "characterUniqueId": 52,
+    "name": "物防+100",
+    "description": "マッチ売りの少女のジョブを編成時、物理防御 +100",
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1652,
+    "characterUniqueId": 52,
+    "name": "物防+150",
+    "description": "マッチ売りの少女のジョブを編成時、物理防御 +150",
+    "effectType": 3,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1653,
+    "characterUniqueId": 52,
+    "name": "物防+200",
+    "description": "マッチ売りの少女のジョブを編成時、物理防御 +200",
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1654,
+    "characterUniqueId": 52,
+    "name": "物防+250",
+    "description": "マッチ売りの少女のジョブを編成時、物理防御 +250",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1655,
+    "characterUniqueId": 52,
+    "name": "物防+300",
+    "description": "マッチ売りの少女のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1656,
+    "characterUniqueId": 52,
+    "name": "魔攻+50",
+    "description": "マッチ売りの少女のジョブを編成時、魔法攻撃 +50",
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1657,
+    "characterUniqueId": 52,
+    "name": "魔攻+75",
+    "description": "マッチ売りの少女のジョブを編成時、魔法攻撃 +75",
+    "effectType": 4,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1658,
+    "characterUniqueId": 52,
+    "name": "魔攻+100",
+    "description": "マッチ売りの少女のジョブを編成時、魔法攻撃 +100",
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1659,
+    "characterUniqueId": 52,
+    "name": "魔攻+150",
+    "description": "マッチ売りの少女のジョブを編成時、魔法攻撃 +150",
+    "effectType": 4,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1660,
+    "characterUniqueId": 52,
+    "name": "魔攻+200",
+    "description": "マッチ売りの少女のジョブを編成時、魔法攻撃 +200",
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1661,
+    "characterUniqueId": 52,
+    "name": "魔攻+250",
+    "description": "マッチ売りの少女のジョブを編成時、魔法攻撃 +250",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1662,
+    "characterUniqueId": 52,
+    "name": "魔攻+300",
+    "description": "マッチ売りの少女のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1663,
+    "characterUniqueId": 52,
+    "name": "魔防+50",
+    "description": "マッチ売りの少女のジョブを編成時、魔法防御 +50",
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1664,
+    "characterUniqueId": 52,
+    "name": "魔防+75",
+    "description": "マッチ売りの少女のジョブを編成時、魔法防御 +75",
+    "effectType": 5,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1665,
+    "characterUniqueId": 52,
+    "name": "魔防+100",
+    "description": "マッチ売りの少女のジョブを編成時、魔法防御 +100",
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1666,
+    "characterUniqueId": 52,
+    "name": "魔防+150",
+    "description": "マッチ売りの少女のジョブを編成時、魔法防御 +150",
+    "effectType": 5,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1667,
+    "characterUniqueId": 52,
+    "name": "魔防+200",
+    "description": "マッチ売りの少女のジョブを編成時、魔法防御 +200",
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1668,
+    "characterUniqueId": 52,
+    "name": "魔防+250",
+    "description": "マッチ売りの少女のジョブを編成時、魔法防御 +250",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1669,
+    "characterUniqueId": 52,
+    "name": "魔防+300",
+    "description": "マッチ売りの少女のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1670,
+    "characterUniqueId": 52,
+    "name": "楽器 1%UP",
+    "description": "マッチ売りの少女のジョブを編成時、楽器1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 1671,
+    "characterUniqueId": 52,
+    "name": "魔書 1%UP",
+    "description": "マッチ売りの少女のジョブを編成時、魔書1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 1672,
+    "characterUniqueId": 52,
+    "name": "魔具 1%UP",
+    "description": "マッチ売りの少女のジョブを編成時、魔具1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 1673,
+    "characterUniqueId": 52,
+    "name": "祈祷 1%UP",
+    "description": "マッチ売りの少女のジョブを編成時、祈祷1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 1674,
+    "characterUniqueId": 52,
+    "name": "刀剣 1%UP",
+    "description": "マッチ売りの少女のジョブを編成時、刀剣1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 1675,
+    "characterUniqueId": 52,
+    "name": "打撃 1%UP",
+    "description": "マッチ売りの少女のジョブを編成時、打撃1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 1676,
+    "characterUniqueId": 52,
+    "name": "射出 1%UP",
+    "description": "マッチ売りの少女のジョブを編成時、射出1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 1677,
+    "characterUniqueId": 52,
+    "name": "長柄 1%UP",
+    "description": "マッチ売りの少女のジョブを編成時、長柄1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 1678,
+    "characterUniqueId": 52,
+    "name": "エリアUP",
+    "description": "MatchGirlエリアで全武器種3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1679,
+    "characterUniqueId": 52,
+    "name": "物魔攻撃UP",
+    "description": "マッチ売りの少女のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +50",
+    "effectType": 11,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1680,
+    "characterUniqueId": 52,
+    "name": "物魔攻撃UP",
+    "description": "マッチ売りの少女のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +100",
+    "effectType": 11,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1681,
+    "characterUniqueId": 52,
+    "name": "物魔攻撃UP",
+    "description": "マッチ売りの少女のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +150",
+    "effectType": 11,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1682,
+    "characterUniqueId": 52,
+    "name": "物魔防御UP",
+    "description": "マッチ売りの少女のジョブを編成時、物理防御・魔法防御にそれぞれ +50",
+    "effectType": 12,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1683,
+    "characterUniqueId": 52,
+    "name": "物魔防御UP",
+    "description": "マッチ売りの少女のジョブを編成時、物理防御・魔法防御にそれぞれ +100",
+    "effectType": 12,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1684,
+    "characterUniqueId": 52,
+    "name": "物魔防御UP",
+    "description": "マッチ売りの少女のジョブを編成時、物理防御・魔法防御にそれぞれ +150",
+    "effectType": 12,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1685,
+    "characterUniqueId": 52,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP マッチ売りの少女のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1686,
+    "characterUniqueId": 52,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP マッチ売りの少女のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1687,
+    "characterUniqueId": 52,
+    "name": "HP+300",
+    "description": "マッチ売りの少女のジョブを編成時、HP +300",
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1688,
+    "characterUniqueId": 52,
+    "name": "HP+500",
+    "description": "マッチ売りの少女のジョブを編成時、HP +500",
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1689,
+    "characterUniqueId": 52,
+    "name": "HP+1000",
+    "description": "マッチ売りの少女のジョブを編成時、HP +1000",
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1690,
+    "characterUniqueId": 52,
+    "name": "エリアUP(楽器)",
+    "description": "MatchGirlエリアで楽器1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 1691,
+    "characterUniqueId": 52,
+    "name": "エリアUP(楽器)",
+    "description": "MatchGirlエリアで楽器3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 1692,
+    "characterUniqueId": 52,
+    "name": "エリアUP(楽器)",
+    "description": "MatchGirlエリアで楽器5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 1693,
+    "characterUniqueId": 52,
+    "name": "エリアUP(魔書)",
+    "description": "MatchGirlエリアで魔書1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 1694,
+    "characterUniqueId": 52,
+    "name": "エリアUP(魔書)",
+    "description": "MatchGirlエリアで魔書3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 1695,
+    "characterUniqueId": 52,
+    "name": "エリアUP(魔書)",
+    "description": "MatchGirlエリアで魔書5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 1696,
+    "characterUniqueId": 52,
+    "name": "エリアUP(魔具)",
+    "description": "MatchGirlエリアで魔具1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 1697,
+    "characterUniqueId": 52,
+    "name": "エリアUP(魔具)",
+    "description": "MatchGirlエリアで魔具3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 1698,
+    "characterUniqueId": 52,
+    "name": "エリアUP(魔具)",
+    "description": "MatchGirlエリアで魔具5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 1699,
+    "characterUniqueId": 52,
+    "name": "エリアUP(祈祷)",
+    "description": "MatchGirlエリアで祈祷1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 1700,
+    "characterUniqueId": 52,
+    "name": "エリアUP(祈祷)",
+    "description": "MatchGirlエリアで祈祷3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 1701,
+    "characterUniqueId": 52,
+    "name": "エリアUP(祈祷)",
+    "description": "MatchGirlエリアで祈祷5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 1702,
+    "characterUniqueId": 52,
+    "name": "エリアUP(刀剣)",
+    "description": "MatchGirlエリアで刀剣1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 1703,
+    "characterUniqueId": 52,
+    "name": "エリアUP(刀剣)",
+    "description": "MatchGirlエリアで刀剣3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 1704,
+    "characterUniqueId": 52,
+    "name": "エリアUP(刀剣)",
+    "description": "MatchGirlエリアで刀剣5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 1705,
+    "characterUniqueId": 52,
+    "name": "エリアUP(打撃)",
+    "description": "MatchGirlエリアで打撃1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 1706,
+    "characterUniqueId": 52,
+    "name": "エリアUP(打撃)",
+    "description": "MatchGirlエリアで打撃3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 1707,
+    "characterUniqueId": 52,
+    "name": "エリアUP(打撃)",
+    "description": "MatchGirlエリアで打撃5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 1708,
+    "characterUniqueId": 52,
+    "name": "エリアUP(射出)",
+    "description": "MatchGirlエリアで射出1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 1709,
+    "characterUniqueId": 52,
+    "name": "エリアUP(射出)",
+    "description": "MatchGirlエリアで射出3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 1710,
+    "characterUniqueId": 52,
+    "name": "エリアUP(射出)",
+    "description": "MatchGirlエリアで射出5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 1711,
+    "characterUniqueId": 52,
+    "name": "エリアUP(長柄)",
+    "description": "MatchGirlエリアで長柄1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 1712,
+    "characterUniqueId": 52,
+    "name": "エリアUP(長柄)",
+    "description": "MatchGirlエリアで長柄3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 1713,
+    "characterUniqueId": 52,
+    "name": "エリアUP(長柄)",
+    "description": "MatchGirlエリアで長柄5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 8
   }
 ]

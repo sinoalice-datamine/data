@@ -10574,6 +10574,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 1240,
+    "gachaGroupId": 3,
+    "bannerMstId": 4230,
+    "isAlways": false,
+    "name": "業火の泡沫ガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅷ)\r\n枚数：1回ガチャで10枚、11回ガチャで100枚\r\n有効期限：2020年9月7日23:59",
+    "priority": 13000,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=6046&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 5001,
     "gachaGroupId": 9,
     "bannerMstId": 546,
