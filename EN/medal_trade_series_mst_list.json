@@ -112,6 +112,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 13,
+    "name": "Medal of Desire (IX)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "0003",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoire.",
+    "priority": 24,
+    "itemMstId": 158,
+    "startTime": 1598335200,
+    "endTime": 1602082799,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 33,
     "name": "Clam Medal",
     "description": "Medal collected by Parrah-Noya.",
