@@ -31,5 +31,16 @@
     "seQueueName": "scenario_SE_event_53@001",
     "shakeInfo": "{\"duration\":2.0,\"strength\":150.0,\"times\":15}",
     "createdTime": 1483974000
+  },
+  {
+    "questStoryEffectMstId": 4,
+    "questStoryMstId": 5462,
+    "type": 3,
+    "assetBundleName": "scenario_effect/3",
+    "resourceName": "HigurashiAnimationRoot",
+    "seQueueSheet": "",
+    "seQueueName": "",
+    "shakeInfo": "",
+    "createdTime": 1483974000
   }
 ]

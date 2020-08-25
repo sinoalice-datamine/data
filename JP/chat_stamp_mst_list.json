@@ -1580,5 +1580,33 @@
     "startTime": 1596693600,
     "endTime": 1599112799,
     "createdTime": null
+  },
+  {
+    "chatStampMstId": 118,
+    "name": "アラジン/落ち着こう",
+    "resourceName": "118",
+    "assetBundleName": "chat37",
+    "filterType": 13,
+    "howToGet": "『ひぐらしのなく頃にコラボ記念オソウジキャンペーン』にて獲得可能",
+    "itemMstId": 2528,
+    "replaceMessage": "[*118]",
+    "isAnytime": 0,
+    "startTime": 1598342400,
+    "endTime": 1599544799,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 119,
+    "name": "ピノキオ/100点…！",
+    "resourceName": "119",
+    "assetBundleName": "chat37",
+    "filterType": 5,
+    "howToGet": "『ひぐらしのなく頃にコラボ記念オソウジキャンペーン』にて獲得可能",
+    "itemMstId": 2529,
+    "replaceMessage": "[*119]",
+    "isAnytime": 0,
+    "startTime": 1598342400,
+    "endTime": 1599544799,
+    "createdTime": null
   }
 ]

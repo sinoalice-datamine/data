@@ -13653,6 +13653,654 @@
     "cardDetailType": 0
   },
   {
+    "characterBoardAbilityMstId": 1566,
+    "characterUniqueId": 55,
+    "name": "エリアUP",
+    "description": "竜宮レナのジョブを編成時、ひぐらしエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1567,
+    "characterUniqueId": 55,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 竜宮レナのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1568,
+    "characterUniqueId": 55,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 竜宮レナのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1569,
+    "characterUniqueId": 55,
+    "name": "物魔攻撃UP",
+    "description": "竜宮レナのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1570,
+    "characterUniqueId": 55,
+    "name": "物魔防御UP",
+    "description": "竜宮レナのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1571,
+    "characterUniqueId": 55,
+    "name": "メダルUP",
+    "description": "竜宮レナのジョブを編成時、ひぐらしエリアでメダル獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1572,
+    "characterUniqueId": 55,
+    "name": "メダルUP",
+    "description": "竜宮レナのジョブを編成時、ひぐらしエリアでメダル獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1573,
+    "characterUniqueId": 55,
+    "name": "物攻+300",
+    "description": "竜宮レナのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1574,
+    "characterUniqueId": 55,
+    "name": "物防+300",
+    "description": "竜宮レナのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1575,
+    "characterUniqueId": 55,
+    "name": "魔攻+300",
+    "description": "竜宮レナのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1576,
+    "characterUniqueId": 55,
+    "name": "魔防+300",
+    "description": "竜宮レナのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1577,
+    "characterUniqueId": 55,
+    "name": "刀剣 4%UP",
+    "description": "竜宮レナのジョブを編成時、刀剣4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 1578,
+    "characterUniqueId": 56,
+    "name": "エリアUP",
+    "description": "園崎魅音のジョブを編成時、ひぐらしエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1579,
+    "characterUniqueId": 56,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 園崎魅音のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1580,
+    "characterUniqueId": 56,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 園崎魅音のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1581,
+    "characterUniqueId": 56,
+    "name": "物魔攻撃UP",
+    "description": "園崎魅音のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1582,
+    "characterUniqueId": 56,
+    "name": "物魔防御UP",
+    "description": "園崎魅音のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1583,
+    "characterUniqueId": 56,
+    "name": "メダルUP",
+    "description": "園崎魅音のジョブを編成時、ひぐらしエリアでメダル獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1584,
+    "characterUniqueId": 56,
+    "name": "メダルUP",
+    "description": "園崎魅音のジョブを編成時、ひぐらしエリアでメダル獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1585,
+    "characterUniqueId": 56,
+    "name": "物攻+300",
+    "description": "園崎魅音のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1586,
+    "characterUniqueId": 56,
+    "name": "物防+300",
+    "description": "園崎魅音のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1587,
+    "characterUniqueId": 56,
+    "name": "魔攻+300",
+    "description": "園崎魅音のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1588,
+    "characterUniqueId": 56,
+    "name": "魔防+300",
+    "description": "園崎魅音のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1589,
+    "characterUniqueId": 56,
+    "name": "射出 4%UP",
+    "description": "園崎魅音のジョブを編成時、射出4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 1590,
+    "characterUniqueId": 57,
+    "name": "エリアUP",
+    "description": "古手梨花のジョブを編成時、ひぐらしエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1591,
+    "characterUniqueId": 57,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 古手梨花のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1592,
+    "characterUniqueId": 57,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 古手梨花のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1593,
+    "characterUniqueId": 57,
+    "name": "物魔攻撃UP",
+    "description": "古手梨花のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1594,
+    "characterUniqueId": 57,
+    "name": "物魔防御UP",
+    "description": "古手梨花のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1595,
+    "characterUniqueId": 57,
+    "name": "メダルUP",
+    "description": "古手梨花のジョブを編成時、ひぐらしエリアでメダル獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1596,
+    "characterUniqueId": 57,
+    "name": "メダルUP",
+    "description": "古手梨花のジョブを編成時、ひぐらしエリアでメダル獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1597,
+    "characterUniqueId": 57,
+    "name": "物攻+300",
+    "description": "古手梨花のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1598,
+    "characterUniqueId": 57,
+    "name": "物防+300",
+    "description": "古手梨花のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1599,
+    "characterUniqueId": 57,
+    "name": "魔攻+300",
+    "description": "古手梨花のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1600,
+    "characterUniqueId": 57,
+    "name": "魔防+300",
+    "description": "古手梨花のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1601,
+    "characterUniqueId": 57,
+    "name": "長柄 4%UP",
+    "description": "古手梨花のジョブを編成時、長柄4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 1602,
+    "characterUniqueId": 58,
+    "name": "エリアUP",
+    "description": "羽入のジョブを編成時、ひぐらしエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1603,
+    "characterUniqueId": 58,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 羽入のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1604,
+    "characterUniqueId": 58,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 羽入のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1605,
+    "characterUniqueId": 58,
+    "name": "物魔攻撃UP",
+    "description": "羽入のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1606,
+    "characterUniqueId": 58,
+    "name": "物魔防御UP",
+    "description": "羽入のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1607,
+    "characterUniqueId": 58,
+    "name": "メダルUP",
+    "description": "羽入のジョブを編成時、ひぐらしエリアでメダル獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1608,
+    "characterUniqueId": 58,
+    "name": "メダルUP",
+    "description": "羽入のジョブを編成時、ひぐらしエリアでメダル獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1609,
+    "characterUniqueId": 58,
+    "name": "物攻+300",
+    "description": "羽入のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1610,
+    "characterUniqueId": 58,
+    "name": "物防+300",
+    "description": "羽入のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1611,
+    "characterUniqueId": 58,
+    "name": "魔攻+300",
+    "description": "羽入のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1612,
+    "characterUniqueId": 58,
+    "name": "魔防+300",
+    "description": "羽入のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1613,
+    "characterUniqueId": 58,
+    "name": "魔書 2%UP",
+    "description": "羽入のジョブを編成時、魔書2%UP",
+    "effectType": 6,
+    "effectValue": 2,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 1614,
+    "characterUniqueId": 59,
+    "name": "エリアUP",
+    "description": "北条沙都子のジョブを編成時、ひぐらしエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1615,
+    "characterUniqueId": 59,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 北条沙都子のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1616,
+    "characterUniqueId": 59,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 北条沙都子のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1617,
+    "characterUniqueId": 59,
+    "name": "物魔攻撃UP",
+    "description": "北条沙都子のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1618,
+    "characterUniqueId": 59,
+    "name": "物魔防御UP",
+    "description": "北条沙都子のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1619,
+    "characterUniqueId": 59,
+    "name": "メダルUP",
+    "description": "北条沙都子のジョブを編成時、ひぐらしエリアでメダル獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1620,
+    "characterUniqueId": 59,
+    "name": "メダルUP",
+    "description": "北条沙都子のジョブを編成時、ひぐらしエリアでメダル獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1621,
+    "characterUniqueId": 59,
+    "name": "物攻+300",
+    "description": "北条沙都子のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1622,
+    "characterUniqueId": 59,
+    "name": "物防+300",
+    "description": "北条沙都子のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1623,
+    "characterUniqueId": 59,
+    "name": "魔攻+300",
+    "description": "北条沙都子のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1624,
+    "characterUniqueId": 59,
+    "name": "魔防+300",
+    "description": "北条沙都子のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1625,
+    "characterUniqueId": 59,
+    "name": "楽器 2%UP",
+    "description": "北条沙都子のジョブを編成時、楽器2%UP",
+    "effectType": 6,
+    "effectValue": 2,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 1626,
+    "characterUniqueId": 60,
+    "name": "エリアUP",
+    "description": "前原圭一のジョブを編成時、ひぐらしエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1627,
+    "characterUniqueId": 60,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 前原圭一のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1628,
+    "characterUniqueId": 60,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 前原圭一のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1629,
+    "characterUniqueId": 60,
+    "name": "物魔攻撃UP",
+    "description": "前原圭一のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1630,
+    "characterUniqueId": 60,
+    "name": "物魔防御UP",
+    "description": "前原圭一のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1631,
+    "characterUniqueId": 60,
+    "name": "メダルUP",
+    "description": "前原圭一のジョブを編成時、ひぐらしエリアでメダル獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1632,
+    "characterUniqueId": 60,
+    "name": "メダルUP",
+    "description": "前原圭一のジョブを編成時、ひぐらしエリアでメダル獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1633,
+    "characterUniqueId": 60,
+    "name": "物攻+300",
+    "description": "前原圭一のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1634,
+    "characterUniqueId": 60,
+    "name": "物防+300",
+    "description": "前原圭一のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1635,
+    "characterUniqueId": 60,
+    "name": "魔攻+300",
+    "description": "前原圭一のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1636,
+    "characterUniqueId": 60,
+    "name": "魔防+300",
+    "description": "前原圭一のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1637,
+    "characterUniqueId": 60,
+    "name": "打撃 4%UP",
+    "description": "前原圭一のジョブを編成時、打撃4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 6
+  },
+  {
     "characterBoardAbilityMstId": 1638,
     "characterUniqueId": 52,
     "name": "HP+50",

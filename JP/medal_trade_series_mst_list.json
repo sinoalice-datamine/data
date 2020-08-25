@@ -2782,5 +2782,53 @@
     "endTime": 1598972399,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 188,
+    "name": "赤い鉈メダル",
+    "description": "ギシンアンキが集めているメダル\r\n※2020年9月15日23:59まで",
+    "resourceName": "item20200825_event_higurashi",
+    "assetBundleName": "2492",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2020年9月15日23:59まで",
+    "priority": 43,
+    "itemMstId": 2492,
+    "startTime": 1598331600,
+    "endTime": 1600181999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 190,
+    "name": "777万記念メダル",
+    "description": "ギシンアンキが集めているメダル\r\n※2020年8月31日23:59まで",
+    "resourceName": "item20200821_777million_gacha",
+    "assetBundleName": "2534",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2020年8月31日23:59まで",
+    "priority": 43,
+    "itemMstId": 2534,
+    "startTime": 1598016600,
+    "endTime": 1598885999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 191,
+    "name": "赤いバットメダル",
+    "description": "ギシンアンキが集めているメダル\r\n※2020年9月15日23:59まで",
+    "resourceName": "item20200825_higurashi_gacha",
+    "assetBundleName": "2537",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2020年9月15日23:59まで",
+    "priority": 43,
+    "itemMstId": 2537,
+    "startTime": 1598331600,
+    "endTime": 1600181999,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]
