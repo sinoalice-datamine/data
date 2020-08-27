@@ -2800,6 +2800,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 189,
+    "name": "ヨクボウメダル(Ⅸ)",
+    "description": "ガチャで獲得できるメダル\r\n※2020年10月7日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2020年10月7日23:59まで",
+    "priority": 43,
+    "itemMstId": 2531,
+    "startTime": 1598680800,
+    "endTime": 1602082799,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 190,
     "name": "777万記念メダル",
     "description": "ギシンアンキが集めているメダル\r\n※2020年8月31日23:59まで",
