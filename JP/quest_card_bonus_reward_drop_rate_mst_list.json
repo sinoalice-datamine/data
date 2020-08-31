@@ -8720,5 +8720,33 @@
     "startTime": 1496728800,
     "createdTime": 1598334314,
     "updatedTime": 1598334314
+  },
+  {
+    "questCardBonusRewardDropRateMstId": 657,
+    "cardUniqueId": 6429,
+    "itemMstId": 2492,
+    "questAreaMstId": 748,
+    "addRateWhenNoLimitBreak": 0.5,
+    "addRateWhenOneLimitBreak": 0.6,
+    "addRateWhenTwoLimitBreak": 0.7,
+    "addRateWhenThreeLimitBreak": 0.8,
+    "addRateWhenMaxLimitBreak": 1.0,
+    "startTime": 1496728800,
+    "createdTime": 1598854253,
+    "updatedTime": 1598854253
+  },
+  {
+    "questCardBonusRewardDropRateMstId": 658,
+    "cardUniqueId": 6429,
+    "itemMstId": 2492,
+    "questAreaMstId": 749,
+    "addRateWhenNoLimitBreak": 0.5,
+    "addRateWhenOneLimitBreak": 0.6,
+    "addRateWhenTwoLimitBreak": 0.7,
+    "addRateWhenThreeLimitBreak": 0.8,
+    "addRateWhenMaxLimitBreak": 1.0,
+    "startTime": 1496728800,
+    "createdTime": 1598854253,
+    "updatedTime": 1598854253
   }
 ]
