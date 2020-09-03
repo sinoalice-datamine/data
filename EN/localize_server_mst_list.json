@@ -4809,7 +4809,7 @@
     "JP": "ギルドボックスガチャのデータが存在しません。",
     "EN": "No guild box o' grimoire data.",
     "KR": "길드 박스 뽑기 데이터가 존재하지 않습니다.",
-    "DE": "Keine Daten des Gilden Box Grimoire vorhanden.",
+    "DE": "Keine Daten des Gilde Box Grimoire vorhanden.",
     "FR": "Aucune donnée de boîte à grimoires de guilde.",
     "ES": "No hay datos de la caja de grimorio del gremio.",
     "TH": "ไม่พบข้อมูลกล่องกรีมัวร์กิลด์",
@@ -4907,7 +4907,7 @@
     "JP": "ギルドボックスガチャ期間外です。",
     "EN": "Guild box o' grimoire is not currently available.",
     "KR": "길드 박스 뽑기 기간이 아닙니다.",
-    "DE": "Gilden Box Grimoire ist zurzeit nicht verfügbar.",
+    "DE": "Gilde Box Grimoire ist zurzeit nicht verfügbar.",
     "FR": "La boîte à grimoires de guilde n'est pas disponible pour le moment.",
     "ES": "La caja de grimorio del gremio no está disponible en este momento.",
     "TH": "กล่องกรีมัวร์ของกิลด์อยู่นอกช่วงเวลา",
@@ -10115,7 +10115,7 @@
     "JP": "ギルドボックスガチャ報酬",
     "EN": "Guild Box o' Grimoire Reward",
     "KR": "길드 박스 뽑기 보상",
-    "DE": "Gilden Box Grimoire Belohnung",
+    "DE": "Gilde Box Grimoire Belohnung",
     "FR": "Récompense de boîte à grimoires de guilde",
     "ES": "Recompensa de caja de grimorio del gremio",
     "TH": "รางวัลกล่องกรีมัวร์กิลด์",
@@ -10367,7 +10367,7 @@
     "JP": "ギルドボックスガチャ目玉商品返却報酬",
     "EN": "Guild Box o' Grimoire Featured Item Return Reward",
     "KR": "길드 박스 뽑기 주목 상품 반납 보상",
-    "DE": "Belohnung für die Rückgabe von Items aus Gilden Box Grimoire",
+    "DE": "Belohnung für die Rückgabe von Items aus Gilde Box Grimoire",
     "FR": "Récompense de retour d'objet en vedette contenu dans une boîte à grimoires de guilde",
     "ES": "Recompensa de devolución de objeto destacado de caja de grimorio del gremio",
     "TH": "รางวัลคืนสินค้าแนะนำกล่องกรีมัวร์กิลด์",
@@ -10398,7 +10398,7 @@
     "DE": "[Sommer-Erinnerung] Persönliche Errungenschaftsbelohnung mit %s erhalten.",
     "FR": "[Réminiscences de fin d'été] Récompense de succès individuel obtenue avec %s.",
     "ES": "[Recuerdo de verano] Recompensa de logro individual obtenida con %s.",
-    "TH": "รางวัลความสำเร็จส่วนตัวได้รับ x%s[ปลายคิมหันต์ฤดูแห่งความทรงจำ]",
+    "TH": "รางวัลความสำเร็จส่วนตัวที่ได้รับ[ปลายคิมหันต์ฤดูแห่งความทรงจำ] x%s",
     "VN": "[Hồi ức mùa hè] Kiếm được phần thưởng thành tích cá nhân với %s."
   },
   {
@@ -10729,12 +10729,12 @@
     "Type": 0,
     "GameKey": "Server/config.spaceInvaders.stage3235.storyText.1",
     "JP": "やはり飽きノ解消にはシューティングですネ",
-    "EN": "Shooting is the best cure for boredom.",
+    "EN": "This is more like it! A REAL shooting game!",
     "KR": "역시 지루함을 해소하는 데는 슈팅이 최고죠.",
     "DE": "ScHießEN ist das BeStE miTTeL geGen LanGeWeiLe.",
     "FR": "Le TiR, c’EsT vRaImEnT le mEilleUr reMèDe coNtre l’ennUi.",
     "ES": "DisParar eS lA mejOR cuRa pARa eL abUrrimiento.",
-    "TH": "การยิงเป็นยาแก้เบื่อที่ดีที่สุด",
+    "TH": "ยิงปืนนี่แหละแก้เบื่อได้ดีที่สุดว่ามั้ย",
     "VN": "Bắn phá mọi thứ để giết thời gian thì còn gì bằng."
   },
   {
@@ -10743,12 +10743,12 @@
     "Type": 0,
     "GameKey": "Server/config.spaceInvaders.stage3235.storyText.2",
     "JP": "ソレとなくシステムに混ぜるノガ定石デス！",
-    "EN": "It's standard practice to mix it into the system!",
+    "EN": "Well, we can't call this a collab without it!",
     "KR": "은근슬쩍 시스템에 섞어 버리는 게 정석입니다!",
     "DE": "Es ist sTanDard-pRaXis, es in das System zu mischen!",
-    "FR": "C’eSt uNe prAtiqUe coUraNte d’en aJouTer daNs le sYstèMe !",
+    "FR": "C’eSt cOmMe lE cOup dU bErgEr d’en aJouTer daNs le sYstèMe !",
     "ES": "¡ES unA práCTica norMAl mezclArlo cOn El siSTeMa!",
-    "TH": "มันคือแนวปฏิบัติมาตรฐานที่ต้องผสมไปในระบบ!",
+    "TH": "ยิ่งถ้าเอาไปใส่ในระบบเกมจะคลาสสิคมากๆ!",
     "VN": "Ngươi phải hòa mình vào hệ thống!"
   },
   {
@@ -10760,9 +10760,9 @@
     "EN": "Just where does that confidence come from?",
     "KR": "그 자신감은 대체 어디에서 오는 거죠?",
     "DE": "Woher genau kommt diese Zuversicht?",
-    "FR": "D’où vient cette confiance, exactement ?",
+    "FR": "Tu m'expliques le rapport avec les échecs ?",
     "ES": "¿De dónde viene esa confianza?",
-    "TH": "ไปเอาความมั่นใจนั่นมาจากไหนกัน?",
+    "TH": "ไปเอาความมั่นใจนั่นมาจากไหนกันเหรอ?",
     "VN": "Sao có thể tự tin đến thế?"
   },
   {
@@ -10771,7 +10771,7 @@
     "Type": 0,
     "GameKey": "ServerData/chat.guild.drawShootingGacha",
     "JP": "[ギシアン社速報]射的ガチャにて%sを獲得",
-    "EN": "Parrah-Noya Report: Gained %s in the Shooting Gallery.",
+    "EN": "Parrah-Noya Report: Obtained %s at the Shooting Gallery.",
     "KR": "[니키푸키사 속보] 사격 뽑기에서 %s 획득",
     "DE": "[Parrah-Noya Bericht] erlangt %s im Schießbude Grimoire.",
     "FR": "[Rapport de Parrah-Noya] A obtenu %s dans le Grimoire du jeu de tir.",
@@ -10788,9 +10788,9 @@
     "EN": "Past experience!",
     "KR": "과거의 경험입니다!",
     "DE": "BisHeriGe ErFahRung!",
-    "FR": "DeS eXpéRienCes PassÉes !",
+    "FR": "MeS eXpéRienCes PassÉes !",
     "ES": "¡Experiencia pasada!",
-    "TH": "ประสบการณ์จากอดีต!",
+    "TH": "จากประสบการณ์จ้ะ!",
     "VN": "Chính là nhờ kinh nghiệm!"
   },
   {
@@ -10816,9 +10816,9 @@
     "EN": "Wow, you even speak with confidence.",
     "KR": "우와, 단호하게 잘라 말하네.",
     "DE": "Wow, du sprichst sogar mit Zuversicht.",
-    "FR": "Waouh, même ta voix respire la confiance.",
-    "ES": "Vaya, incluso hablas con confianza.",
-    "TH": "ว้าว กล้าพูดอย่างมั่นใจเลยนะ",
+    "FR": "Waouh, tu m'as vraiment l'air de savoir de quoi tu parles.",
+    "ES": "¡Guau! Con qué confianza hablas.",
+    "TH": "ว้าว กล้าพูดอย่างมั่นใจเลย",
     "VN": "Oa! Thật quyết đoán."
   },
   {
@@ -10832,7 +10832,7 @@
     "DE": "Ich könnte etwas von dir lernen ♪",
     "FR": "Je pourrais apprendre de toi ♪",
     "ES": "Podría aprender algo de ti ♪",
-    "TH": "ได้เรียนรู้จากรึเปล่า หรือว่าไม่ได้กันนะ♪",
+    "TH": "ได้เรียนรู้รึเปล่าหรือว่าไม่ได้กันน้า♪",
     "VN": "Ngươi có nghe không đấy?"
   },
   {
@@ -10841,12 +10841,12 @@
     "Type": 0,
     "GameKey": "Server/config.spaceInvaders.stage3237.storyText.1",
     "JP": "話は判りましたが――",
-    "EN": "I understand what you're saying, but–",
-    "KR": "무슨 말인지는 알겠지만——",
+    "EN": "I get the point already, but—",
+    "KR": "무슨 말인지는 알겠지만……",
     "DE": "Ich verstehe, was du meinst, aber…",
-    "FR": "Je comprends ce que tu dis, mais –",
-    "ES": "Entiendo lo que dices, pero--",
-    "TH": "เข้าใจว่าคุณกำลังพูดอะไร แต่――",
+    "FR": "Je comprends ce que tu dis, mais...",
+    "ES": "Entiendo lo que dices, pero...",
+    "TH": "เข้าใจว่าที่พูดแต่――",
     "VN": "Ta nghe thấy ngươi—"
   },
   {
@@ -10855,12 +10855,12 @@
     "Type": 0,
     "GameKey": "Server/config.spaceInvaders.stage3237.storyText.2",
     "JP": "倒しても倒してもキリがありませんわ！",
-    "EN": "There's no end to them!",
+    "EN": "There's just no end to them!",
     "KR": "처치하고 또 처치해도 끝이 없네요!",
     "DE": "Das nimmt kein Ende!",
-    "FR": "Ça n’en donc finit jamais !",
-    "ES": "¡No tienen fin!",
-    "TH": "มากมายไม่รู้จบ!",
+    "FR": "Ça n’en donc finit jamais ! Il en revient toujours !",
+    "ES": "¡Es que no paran de salir!",
+    "TH": "จะปราบไปเท่าไหร่เอาชนะไปแค่ไหนก็ไม่มีวี่แววจะจบ!",
     "VN": "Chúng không ngừng đến!"
   },
   {
@@ -10873,7 +10873,7 @@
     "KR": "[니키푸키당 속보] 박스 뽑기에서 %s 획득",
     "DE": "[Parrah-Noya Mart Bericht] erlangt %s von der Box Grimoire.",
     "FR": "[Bulletin info de Parrah-Noya] A obtenu %s dans la Boîte à grimoires.",
-    "ES": "[Informe de tienda de Parrah-Noya] Se obtuvo %s del grimorio de caja.",
+    "ES": "[Informe de tienda de Parrah-Noya] Se ha obtenido %s del grimorio de caja.",
     "TH": "[รายงานด่วนร้านพาราห์โนยา] ได้รับ %s จากกล่องกรีมัวร์",
     "VN": "\"VN\": null"
   },
@@ -10900,9 +10900,9 @@
     "EN": "I'm hungry!",
     "KR": "나 배고파~",
     "DE": "Ich habe Hunger!",
-    "FR": "J’ai faim !",
+    "FR": "J’ai la dalle-euh !",
     "ES": "¡Tengo hambre!",
-    "TH": "หิวแล้วอ่ะ~",
+    "TH": "หิวแล้วอ้ะ~",
     "VN": "Ta đói quaaaá...."
   },
   {
@@ -10939,12 +10939,12 @@
     "Type": 0,
     "GameKey": "Server/error.14040",
     "JP": "私に興味が？んー……私の方は特にないかな",
-    "EN": "You're interested in me? Hmm.... I can't say I feel the same.",
+    "EN": "You're interested in me? Hmm... I can't say I feel the same.",
     "KR": "나한테 관심이 있어? 음~…… 난 딱히 없는데.",
     "DE": "Du interessierst dich für mich? Hmm…. Ich kann nicht sagen, dass es mir genauso geht.",
     "FR": "Je t’intéresse ? Hmm… je ne peux pas en dire autant.",
-    "ES": "¿Estás interesado en mí? Hmm...... No puedo decir que siento lo mismo.",
-    "TH": "คุณสนใจฉันเหรอ? อืม… ฉันไม่รู้สึกเหมือนคุณหรอกนะ",
+    "ES": "¿Te molo? Hmm...... No puedo decir que sienta lo mismo.",
+    "TH": "สนใจฉันเหรอ? อืม… ฉันไม่รู้สึกแบบนั้นนะ",
     "VN": "Ngươi muốn biết thêm về ta? Hừm... Hai ta không cùng cảm nhận rồi."
   },
   {
@@ -10986,7 +10986,7 @@
     "DE": "Möchtest du experimentelles Material?",
     "FR": "Souhaitez-vous des matériaux expérimentaux ?",
     "ES": "¿Quieres material experimental?",
-    "TH": "คุณต้องการวัตถุดิบการทดลองไหม?",
+    "TH": "ต้องการวัตถุดิบการทดลองไหม?",
     "VN": "Muốn một vài vật liệu nghiên cứu không?"
   },
   {
@@ -10995,12 +10995,12 @@
     "Type": 0,
     "GameKey": "Server/config.spaceInvaders.stage3237.storyText.4",
     "JP": "でも、料理している暇もないわ。",
-    "EN": "But I don't have time to cook.",
+    "EN": "But cooking takes too much time.",
     "KR": "하지만 요리하고 있을 시간이 없어.",
     "DE": "Aber ich habe keine Zeit zum Kochen.",
     "FR": "Mais j’ai pas le temps de cuisiner.",
     "ES": "Pero no tengo tiempo para cocinar.",
-    "TH": "แต่ฉันไม่มีเวลาทำอาหาร",
+    "TH": "แต่ว่า ไม่มีเวลามาทำอาหารหรอก",
     "VN": "Nhưng làm gì kịp nấu nướng nữa."
   },
   {
@@ -11013,7 +11013,7 @@
     "KR": "\"실험동물의 흔한 일상: 폐기편\" 출판사 섭외 중입니다!",
     "DE": "Auf der Suche nach Verlagen für „Versuchstiere: Entsorgung“!",
     "FR": "À la recherche des éditeurs de « Animaux expérimentaux : Mise au rebut » !",
-    "ES": "Buscando editores para ¡\\\"Animales de experimentación: Eliminar\\\"!",
+    "ES": "¡Buscando editores para «Animales de experimentación: Deshechos»!",
     "TH": "กำลังรับสมัครสำนักพิมพ์สำหรับ \"เรื่องธรรมดาของสัตว์ทดลอง: ตอนวิธีการกำจัด\"!",
     "VN": "\\\"Phòng thí nghiệm Animals Galore: Sẵn sàng phục vụ\\\" đang nhận đơn đăng ký đấy!"
   },
@@ -11023,12 +11023,12 @@
     "Type": 0,
     "GameKey": "Server/config.spaceInvaders.stage3237.storyText.5",
     "JP": "いっそ生でもいいんじゃないかな？",
-    "EN": "Isn't it better raw?",
+    "EN": "It'd be much quicker to eat them raw.",
     "KR": "그냥 날것으로 먹어도 괜찮지 않을까?",
     "DE": "Ist es roh nicht besser?",
-    "FR": "N’est-ce pas meilleur cru ?",
+    "FR": "C'est peut-être meilleur cru, qui sait ?",
     "ES": "¿No es mejor crudo?",
-    "TH": "กินดิบๆ จะอร่อยกว่าไหม?",
+    "TH": "กินทั้งดิบๆ ก็คงไม่เป็นไรมั้ง?",
     "VN": "Sao không ăn sống luôn nhỉ?"
   },
   {
@@ -11037,12 +11037,12 @@
     "Type": 0,
     "GameKey": "Server/config.spaceInvaders.stage3237.storyText.6",
     "JP": "せめて、きちんと殺してからにしてください",
-    "EN": "Kill it first at the very least.",
+    "EN": "Kill them first at the very least.",
     "KR": "적어도 죽은 건 확인하고 드세요.",
     "DE": "Töte es zumindest erst einmal.",
     "FR": "Tue-le avant, au moins.",
-    "ES": "Al menos mátalo primero.",
-    "TH": "อย่างน้อยก็ฆ่ามันก่อนเถอะ",
+    "ES": "Al menos mátalo primero alma cándida.",
+    "TH": "อย่างน้อยก็ช่วยฆ่ามันก่อนเถอะ",
     "VN": "Chà, ít nhất thì giết trước đã."
   },
   {
@@ -11051,12 +11051,12 @@
     "Type": 0,
     "GameKey": "Server/config.spaceInvaders.stage3238.storyText.1",
     "JP": "名古屋といえば味噌カツかなぁ？",
-    "EN": "Nagoya is famous for its miso pork cutlets, right?",
+    "EN": "Isn't Nagoya famous for its miso pork cutlets?",
     "KR": "나고야 하면 된장 돈가스인가?",
     "DE": "Nagoya ist berühmt für Miso-Schnitzel, oder?",
     "FR": "Nagoya est célèbre pour ses côtelettes de porc au miso, pas vrai ?",
     "ES": "Nagoya es famosa por sus chuletas de cerdo marinadas en miso, ¿verdad?",
-    "TH": "นาโกย่ามีชื่อเสียงในเรื่องของหมูมิโสะใช่ไหม?",
+    "TH": "ของอร่อยนาโกย่าคือหมูมิโสะใช่ไหม?",
     "VN": "Idaho nổi tiếng với khoai tây."
   },
   {
@@ -11069,7 +11069,7 @@
     "KR": "……뭐?",
     "DE": "…Was?",
     "FR": "…Quoi ?",
-    "ES": "...¿Qué?",
+    "ES": "... ¿Ein?",
     "TH": "…อะไรนะ?",
     "VN": "...Hử?"
   },
@@ -11093,12 +11093,12 @@
     "Type": 0,
     "GameKey": "Server/config.spaceInvaders.stage3238.storyText.2",
     "JP": "ひつまぶしも美味しいよ！",
-    "EN": "Eel is so tasty!",
+    "EN": "Ooh! And I love the eel!",
     "KR": "장어 덮밥도 맛있어!",
     "DE": "Aal ist so lecker!",
     "FR": "L’anguille, c’est succulent !",
     "ES": "¡La anguila es tan sabrosa!",
-    "TH": "ปลาไหลอร่อยมากนะ!",
+    "TH": "ปลาไหลก็อร่อยนะ!",
     "VN": "Ta cá là họ có món khoai tây chiên ngon lắm."
   },
   {
@@ -11107,12 +11107,12 @@
     "Type": 0,
     "GameKey": "Server/config.spaceInvaders.stage3238.storyText.3",
     "JP": "モーニングも有名ね。",
-    "EN": "Morning is also famous.",
+    "EN": "It's also well known for its breakfast items.",
     "KR": "모닝 세트도 유명하죠.",
     "DE": "Der Morgen ist auch berühmt.",
     "FR": "« Morning » aussi est un magazine célèbre.",
     "ES": "La mañana también es famosa.",
-    "TH": "ยามเช้าก็มีชื่อเสียง",
+    "TH": "อาหารเช้าก็ดังอยู่นะ",
     "VN": "Nó còn được gọi là \\\"Tiểu bang Ngọc\\\"."
   },
   {
@@ -11266,7 +11266,7 @@
     "DE": "Ranglisten-Daten für deine Gilde konnten nicht gefunden werden.",
     "FR": "Données de classement introuvables dans votre guilde.",
     "ES": "No he podido encontrar el rango de clasificación de tu gremio.",
-    "TH": "ไม่พบข้อมูลจัดอันดับในกิลด์ของคุณ",
+    "TH": "ไม่พบข้อมูลจัดอันดับของกิลด์ของคุณ",
     "VN": "Không tìm thấy dữ liệu xếp hạng hội của bạn."
   },
   {
@@ -11308,7 +11308,7 @@
     "DE": "Du kannst an etwas, was bereits vorbei ist, nicht teilnehmen.",
     "FR": "Vous ne pouvez pas vous joindre à ce qui est déjà terminé.",
     "ES": "No puedes unirte a lo que ya ha terminado.",
-    "TH": "ไม่สามารถเข้าร่วม เนื่องจากสิ้นสุดแล้ว",
+    "TH": "ไม่สามารถเข้าร่วมได้ เนื่องจากสิ้นสุดแล้ว",
     "VN": "Đã kết thúc. Không thể tham gia."
   },
   {
@@ -11336,7 +11336,7 @@
     "DE": "Ich werde nicht dein Verbündeter sein.",
     "FR": "Je ne veux pas être ton allié.",
     "ES": "No seré tu aliado.",
-    "TH": "ไม่เป็นพวกพ้อง..ด้วยหรอก",
+    "TH": "ไม่เป็นเพื่อน..ด้วยหรอก",
     "VN": "Chúng ta không bao giờ kết bạn được."
   },
   {
@@ -11490,7 +11490,7 @@
     "DE": "Ins Lager geschickt.",
     "FR": "Envoyé au stockage.",
     "ES": "Enviando a almacenamiento.",
-    "TH": "ส่งไปเก็บที่คลัง",
+    "TH": "ส่งไปเก็บสำเร็จ",
     "VN": "Cất giữ thành công"
   },
   {
@@ -11504,7 +11504,7 @@
     "DE": "Aus dem Lager entfernt.",
     "FR": "Retiré du stockage.",
     "ES": "Eliminar del almacenamiento.",
-    "TH": "นำออกแล้ว",
+    "TH": "นำออกสำเร็จ",
     "VN": "Lấy ra thành công"
   },
   {
@@ -11574,7 +11574,7 @@
     "DE": "S+ Ausrüstung",
     "FR": "Équipement S+",
     "ES": "Equipo S+",
-    "TH": "อุปกรณ์ S+",
+    "TH": "อุปกรณ์ Sขึ้นไป",
     "VN": "Trang bị S+"
   },
   {
@@ -11630,7 +11630,7 @@
     "DE": "Erhalten",
     "FR": "Obt.",
     "ES": "Obt.",
-    "TH": "ได้รับ",
+    "TH": "รับ",
     "VN": "\"VN\": null"
   },
   {
@@ -11794,9 +11794,9 @@
     "GameKey": "Server/config.spaceInvaders.stage3238.storyText.4",
     "JP": "大昔は尾張国と呼ばれておりまして――",
     "EN": "Long ago, it was called Owari Province–",
-    "KR": "먼 옛날에는 오와리라는 지명으로 불렸는데——",
+    "KR": "먼 옛날에는 오와리라는 지명으로 불렸는데……",
     "DE": "Vor langer Zeit nannte man es Provinz Owari…",
-    "FR": "Jadis, elle s’appelait la Province Owari–",
+    "FR": "Jadis, elle s’appelait la Province Owari...",
     "ES": "Hace mucho tiempo, se llamaba Provincia de Owari.",
     "TH": "เมื่อนานมาแล้ว มันถูกเรียกว่าประเทศโอวาริโนะคุนิ–―",
     "VN": "Đó là vì vẻ đẹp tự nh...."
@@ -11826,7 +11826,7 @@
     "DE": "-Erhalte 60 Zwielichtkristalle als Bezahlung.",
     "FR": "-Recevez 60 Cristaux crépusculaires payés.",
     "ES": "-Recibe 60 cristales del ocaso como pago.",
-    "TH": "・รับคริสตัลสนธยาจ่ายตัง 60 ชิ้น",
+    "TH": "・รับคริสตัลสนธยาจ่ายเงิน 60 ชิ้น",
     "VN": "・Nhận được 60 Pha lê chạng vạng trả phí"
   },
   {
@@ -11853,8 +11853,8 @@
     "KR": "・로열 메달 1개 획득",
     "DE": "-Erhalte 1 Königliche Medaille.",
     "FR": "-Recevez 1 médaille royale.",
-    "ES": "-Recibe 1 Medalla real.",
-    "TH": "・ได้รับเหรียญรอยัล 1 อัน",
+    "ES": "- Recibe 1 Medalla real.",
+    "TH": "・ได้รับเหรียญรอยัล 1 เหรียญ",
     "VN": "・Nhận được 1 Huy hiệu gắn bó"
   },
   {
@@ -11868,7 +11868,7 @@
     "DE": "JetZt aBer eRnsT!",
     "FR": "PassOns aux cHosEs séRieUSes !",
     "ES": "¡eS hOra dE poneRSE seriOs!",
-    "TH": "ได้เวลาเพิ่มความยาก!",
+    "TH": "จะเพิ่มระดับความยากแล้วนะ!?",
     "VN": "Thử thách một chút nhỉ?"
   },
   {
@@ -11880,7 +11880,7 @@
     "EN": "...EVEN THOUGH. YOU WANTED IT.",
     "KR": "……그렇게나 날 필요로 했었는데.",
     "DE": "…OBWOHL DU ES WOLLTEST.",
-    "FR": "…QUAND MÊME. TU LE VOULAIS.",
+    "FR": "...TELLEMENT...VOULU.",
     "ES": "...auNque tÚ lO querÍAs.",
     "TH": "…ทั้งๆที่ถูกคาดหวังขนาดนั้นแท้ๆ",
     "VN": "Đúng điều ngươi muốn, phải không?"
@@ -11894,9 +11894,9 @@
     "EN": "NOW.... ONE DAY, YOU TOO....",
     "KR": "지금에 와선…… 언젠가, 너희도……",
     "DE": "NUN…. EINES TAGES WIRST AUCH DU.…",
-    "FR": "MAINTENANT… UN JOUR, TOI AUSSI…",
+    "FR": "MAINTENANT...UN JOUR, VOUS AUSSI...",
     "ES": "aHOra..... un DÍA, tÚ tAMbién.....",
-    "TH": "ตอนนี้…สักวัน พวกคุณก็เช่นกัน…",
+    "TH": "ตอนนี้......สักวัน..พวกแกก็......",
     "VN": "Sớm muộn gì... ngươi cũng biết."
   },
   {
@@ -11924,7 +11924,7 @@
     "DE": "Wir können den Veränderungen der Welt nicht trotzen.",
     "FR": "Nous ne pouvons pas échapper aux changements dans ce monde.",
     "ES": "No podemos desafiar los cambios del mundo.",
-    "TH": "เราไม่สามารถต้านทานการเปลี่ยนแปลงของโลกได้",
+    "TH": "การเปลี่ยนแปลงของโลกเป็นสิ่งที่ไม่สามารถต้านทานได้",
     "VN": "Chống lại số mệnh phỏng có ích gì."
   },
   {
@@ -11936,9 +11936,9 @@
     "EN": "That's why I must enjoy myself now.",
     "KR": "그러니까 지금 제대로 즐겨야죠.",
     "DE": "Deshalb muss ich jetzt Spaß haben.",
-    "FR": "C’est pourquoi je dois en profiter maintenant.",
+    "FR": "C’est pourquoi je dois profiter de l'instant présent.",
     "ES": "Por eso debo divertirme ahora.",
-    "TH": "จึงขอหาความสนุกก่อน",
+    "TH": "ดังนั้น จึงควรหาความสนุกกับปัจจุบัน",
     "VN": "Chi bằng cứ tận hưởng hiện tại đi."
   },
   {
@@ -11951,7 +11951,7 @@
     "KR": "에밀 계열",
     "DE": "Emil-Typ",
     "FR": "Type Émile",
-    "ES": "Tipo de Emil",
+    "ES": "Tipo Emil",
     "TH": "ประเภทเอมิล",
     "VN": "Emil"
   },
@@ -11965,8 +11965,8 @@
     "KR": "인베이더 계열",
     "DE": "Invasorentyp",
     "FR": "Type Envahisseur",
-    "ES": "Tipo Invasor",
-    "TH": "ประเภทอินเวเดอร์ส",
+    "ES": "Tipo Invaders",
+    "TH": "ประเภทอินเวเดอร์",
     "VN": "Kẻ xâm lược"
   },
   {
@@ -12020,9 +12020,9 @@
     "EN": "Bon appétit!",
     "KR": "그런 고로, 잘 먹겠습니다~♪",
     "DE": "Guten Appetit!",
-    "FR": "Je me souhaite donc un... bon appétit ♪",
+    "FR": "Je me souhaite donc un... bon appétit !",
     "ES": "¡Bon appétit!",
-    "TH": "เพราะฉะนั้น จะกินแล้วนะ♪",
+    "TH": "จะกินแล้วน้า♪",
     "VN": "Dù sao thì... chúc ngon miệng!"
   },
   {
@@ -13408,7 +13408,7 @@
     "DE": "-Basis Grimoire wurde Auf s+ garantiertes Basis Grimoire umgestellt.",
     "FR": "-Le Grimoire de Base devient un Grimoire de Base S+ garanti.",
     "ES": "- Grimorio de base ha cambido a grimorio de base garantizado S superior.",
-    "TH": "-\"กรีมัวร์เบส\"จะเปลี่ยนเป็น\"กรีมัวร์เบสการันตี S+\"",
+    "TH": "・\"กรีมัวร์เบส\"จะเปลี่ยนเป็น\"กรีมัวร์เบสการันตี S ขึ้นไป\"",
     "VN": "・Bảo đảm nâng cấp Sách phép cơ sở lên S+"
   },
   {
@@ -13755,7 +13755,7 @@
     "JP": "ギルドボックスガチャ %d回目報酬",
     "EN": "Guild box o' grimoire #%d reward.",
     "KR": "길드 박스 뽑기 %d회차 보상",
-    "DE": "Gilden Box Grimoire Belohnung %d. Belohnung.",
+    "DE": "Gilde Box Grimoire Belohnung %d. Belohnung.",
     "FR": "Récompense de boîte à grimoires de guilde nº %d.",
     "ES": "Recompensa de caja de grimorio del gremio nº%d",
     "TH": "รางวัลกล่องกรีมัวร์กิลด์ ครั้งที่%d",
@@ -16640,8 +16640,8 @@
     "EN": "Paid T.Crys. x208, Giant's Right Hand",
     "KR": "유료 마정석 208개+\"거인의 오른팔\" 획득",
     "DE": "Erhalte bezahlte Zwielichtkristalle x208 + „Rechter Arm des Riesen“",
-    "FR": "208 cr. crépusculaires ＋ Bras droit du géant",
-    "ES": "Cristales del ocaso x502 + obt. «Brazo derecho del gigante»",
+    "FR": "208 cristaux crépusculaires payés ＋ Bras droit du géant",
+    "ES": "Al comprar Cristales del ocaso x208 + obt. «Brazo derecho del gigante»",
     "TH": "คริสตัลสนธยาจ่ายเงิน 208ชิ้น+รับ \"แขนขวาของยักษ์\"",
     "VN": ""
   },
@@ -17341,8 +17341,8 @@
     "KR": "유료 마정석 208개+\"거미줄 지팡이\" 획득",
     "DE": "Erhalte bezahlte Zwielichtkristalle x208 + Spinnennetzstab",
     "FR": "208 cristaux crépusculaires payés + Bâton toile d'araignée",
-    "ES": "Al comprar Cristales del ocaso x502 + Obt. «Bastón de la telaraña»",
-    "TH": "คริสตัลสนธยา 208ชิ้น+รับ \"ไม้เท้าใยแมงมุม\"",
+    "ES": "Al comprar Cristales del ocaso x208 + Obt. «Bastón de la telaraña»",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 208ชิ้น+รับ \"ไม้เท้าใยแมงมุม\"",
     "VN": ""
   },
   {
@@ -17421,7 +17421,7 @@
     "Type": 0,
     "GameKey": "Server/common.label.objectNum",
     "JP": "個",
-    "EN": " medal(s)",
+    "EN": "",
     "KR": "개",
     "DE": " Stück",
     "FR": "x",
@@ -17509,7 +17509,7 @@
     "KR": "스페이스 인베이더 콜라보",
     "DE": "Space Invaders Crossover",
     "FR": "Collaboration Space Invaders",
-    "ES": "Evento de colaboración con Space Invaders",
+    "ES": "Colaboración con Space Invaders",
     "TH": "โคลาโบสเปซอินเวเดอร์ส",
     "VN": ""
   },
@@ -17911,9 +17911,9 @@
     "Type": 0,
     "GameKey": "Server/guildEvent.eventTitle.20200910",
     "JP": "ブリキノココロ",
-    "EN": "",
-    "KR": "",
-    "DE": "",
+    "EN": "Tin Heart",
+    "KR": "양철로 된 마음",
+    "DE": "Herz aus Blech",
     "FR": "Cœur de fer-blanc",
     "ES": "Corazón de hojalata",
     "TH": "หัวใจของหุ่นกระป๋อง",
@@ -17925,12 +17925,82 @@
     "Type": 0,
     "GameKey": "Server/guildEvent.eventTitle.20200917",
     "JP": "大宇宙からの侵略者",
-    "EN": "",
-    "KR": "",
-    "DE": "",
+    "EN": "Invaders from Space",
+    "KR": "대우주에서 온 침략자",
+    "DE": "Eindringlinge aus dem Weltraum",
     "FR": "Envahisseur du Cosmos",
     "ES": "Invasores del espacio exterior",
     "TH": "ผู้บุกรุกจากนอกโลก",
+    "VN": ""
+  },
+  {
+    "id": 1282,
+    "TLM": 51264,
+    "Type": 0,
+    "GameKey": "Server/common.label.updated",
+    "JP": "更新",
+    "EN": "Update",
+    "KR": "갱신",
+    "DE": "Update",
+    "FR": "r.à.z.",
+    "ES": "Actualización",
+    "TH": "อัปเดต",
+    "VN": ""
+  },
+  {
+    "id": 1283,
+    "TLM": 51265,
+    "Type": 0,
+    "GameKey": "Server/spaceInvaders.label.title",
+    "JP": "討伐コラボキャンペーン",
+    "EN": "Collaboration Conquest Campaign",
+    "KR": "토벌 콜라보 캠페인",
+    "DE": "Crossover Eroberungskampagne",
+    "FR": "Campagne de collaboration conquête",
+    "ES": "Campaña de colaboración de conquista",
+    "TH": "แคมเปญโคลาโบพิชิต",
+    "VN": ""
+  },
+  {
+    "id": 1284,
+    "TLM": 51266,
+    "Type": 0,
+    "GameKey": "Server/spaceInvaders.label.totalDamage",
+    "JP": "全人類が与えたダメージ",
+    "EN": "Total Damage Dealt",
+    "KR": "전 인류가 준 대미지",
+    "DE": "Schaden durch die gesamte Menschheit",
+    "FR": "Dégâts infligés à toute l'humanité",
+    "ES": "Daño causado a todos",
+    "TH": "ความเสียหายที่มนุษย์ทุกเผ่าพันธุ์สร้างขึ้น",
+    "VN": ""
+  },
+  {
+    "id": 1285,
+    "TLM": 51267,
+    "Type": 0,
+    "GameKey": "Server/common.label.damageReward",
+    "JP": "ダメージ報酬",
+    "EN": "Damage Rewards",
+    "KR": "대미지 보상",
+    "DE": "Schadenbelohnung",
+    "FR": "Récompenses de dégâts",
+    "ES": "Recompensa por daño",
+    "TH": "รางวัลความเสียหาย",
+    "VN": ""
+  },
+  {
+    "id": 1286,
+    "TLM": 51268,
+    "Type": 0,
+    "GameKey": "Server/common.label.time.0",
+    "JP": "m/d G:i",
+    "EN": "m/d G:i",
+    "KR": "m/d G:i",
+    "DE": "d.m. G:i",
+    "FR": "d/m à G:i",
+    "ES": "d/m G:i",
+    "TH": "d.m G:i",
     "VN": ""
   }
 ]
