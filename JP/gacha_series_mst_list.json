@@ -10676,6 +10676,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 1450,
+    "gachaGroupId": 4,
+    "bannerMstId": 4345,
+    "isAlways": false,
+    "name": "淘汰篇駆け込みチケットガチャ",
+    "description": "-",
+    "noticeMessage": "このガチャのガチャチケットは「淘汰篇駆け込みミッション」の報酬で獲得できます。\r\n※このガチャでは『ヨクボウメダル』はおまけとして獲得できません。",
+    "priority": 100,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=6308&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 5001,
     "gachaGroupId": 9,
     "bannerMstId": 546,

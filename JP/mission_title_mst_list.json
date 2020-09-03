@@ -2979,7 +2979,7 @@
     "title": "ストーリー攻略キャンペーン①",
     "priority": 0,
     "startTime": 1596693600,
-    "endTime": 1599112799
+    "endTime": 1599713999
   },
   {
     "missionTitleMstId": 447,
@@ -3084,7 +3084,7 @@
     "title": "ストーリー攻略キャンペーン②",
     "priority": 0,
     "startTime": 1597813200,
-    "endTime": 1599112799
+    "endTime": 1599713999
   },
   {
     "missionTitleMstId": 462,
@@ -3155,5 +3155,12 @@
     "priority": 0,
     "startTime": 1598886000,
     "endTime": 1601477999
+  },
+  {
+    "missionTitleMstId": 485,
+    "title": "淘汰篇駆け込みミッション",
+    "priority": 0,
+    "startTime": 1599112800,
+    "endTime": 1599713999
   }
 ]

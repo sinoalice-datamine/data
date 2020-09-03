@@ -13241,5 +13241,24 @@
     "disableMultipleCharacter": true,
     "startTime": null,
     "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 753,
+    "questMapMstId": 385,
+    "name": "百錬ノ果テ",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/31",
+    "bgResourceName": "0031",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": false,
+    "startTime": null,
+    "createdTime": 1483974000
   }
 ]
