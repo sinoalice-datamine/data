@@ -8377,7 +8377,7 @@
     "characterUniqueId": 1,
     "characterUniqueName": "アリス",
     "characterUniqueEnglishName": "Alice",
-    "characterVoiceId": 1,
+    "characterVoiceId": 2,
     "collaborationId": 0,
     "collaborationName": "0",
     "rolePosition": 1,
@@ -8396,7 +8396,7 @@
     "isAvailable": true,
     "resourceName": "308",
     "assetBundleName": "character/308",
-    "characterVoice": "-",
+    "characterVoice": "M・A・O",
     "displayStartTime": 1588050000
   },
   {
@@ -8405,7 +8405,7 @@
     "characterUniqueId": 6,
     "characterUniqueName": "人魚姫",
     "characterUniqueEnglishName": "Mermaid",
-    "characterVoiceId": 1,
+    "characterVoiceId": 2,
     "collaborationId": 0,
     "collaborationName": "0",
     "rolePosition": 2,
@@ -8424,7 +8424,7 @@
     "isAvailable": true,
     "resourceName": "309",
     "assetBundleName": "character/309",
-    "characterVoice": "-",
+    "characterVoice": "能登麻美子",
     "displayStartTime": 1588050000
   },
   {
@@ -8433,7 +8433,7 @@
     "characterUniqueId": 14,
     "characterUniqueName": "ドロシー",
     "characterUniqueEnglishName": "Dorothy",
-    "characterVoiceId": 1,
+    "characterVoiceId": 2,
     "collaborationId": 0,
     "collaborationName": "0",
     "rolePosition": 2,
@@ -8452,7 +8452,7 @@
     "isAvailable": true,
     "resourceName": "310",
     "assetBundleName": "character/310",
-    "characterVoice": "-",
+    "characterVoice": "高橋李依",
     "displayStartTime": 1588050000
   },
   {
@@ -8461,7 +8461,7 @@
     "characterUniqueId": 22,
     "characterUniqueName": "アラジン",
     "characterUniqueEnglishName": "Aladdin",
-    "characterVoiceId": 1,
+    "characterVoiceId": 2,
     "collaborationId": 0,
     "collaborationName": "0",
     "rolePosition": 1,
@@ -8480,7 +8480,7 @@
     "isAvailable": true,
     "resourceName": "311",
     "assetBundleName": "character/311",
-    "characterVoice": "-",
+    "characterVoice": "藤原夏海",
     "displayStartTime": 1588050000
   },
   {
@@ -10106,5 +10106,33 @@
     "assetBundleName": "character/374",
     "characterVoice": "内田真礼",
     "displayStartTime": 1598853600
+  },
+  {
+    "characterMstId": 375,
+    "name": "三匹の子豚/パラディン",
+    "characterUniqueId": 20,
+    "characterUniqueName": "三匹の子豚",
+    "characterUniqueEnglishName": "LittlePigs",
+    "characterVoiceId": 0,
+    "collaborationId": 0,
+    "collaborationName": "0",
+    "rolePosition": 1,
+    "motionType": 4,
+    "shaderType": 0,
+    "spineAvatarType": 0,
+    "scale": 100,
+    "avatarGroupId": 0,
+    "partnerNum": 2,
+    "maxLevel": 10,
+    "description": "みんな違ってみんないい。\r\nそう思えれば楽なのに。\r\nでも三匹はちょうどよい体型\r\nでないと気が済まない。\r\nだから、彼女達は……",
+    "favoriteWeapon": 8,
+    "isSpirit": false,
+    "spiritType": 0,
+    "disableStanding": 0,
+    "isAvailable": true,
+    "resourceName": "375",
+    "assetBundleName": "character/375",
+    "characterVoice": "悠木碧",
+    "displayStartTime": null
   }
 ]
