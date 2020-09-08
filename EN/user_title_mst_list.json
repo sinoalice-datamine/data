@@ -29,7 +29,7 @@
   {
     "userTitleMstId": 4,
     "name": "1st Gran Colosseum [Overall Top 10]",
-    "detail": "Title given to members in the guilds ranked 4th to 10th overall.",
+    "detail": "Title given to members in guilds ranked 4th to 10th overall.",
     "assetBundleName": "user_title/1",
     "resourceName": "0003",
     "limitTime": 1893423600,
@@ -38,7 +38,7 @@
   {
     "userTitleMstId": 5,
     "name": "1st Gran Colosseum [Overall Top 30]",
-    "detail": "Title given to members in the guilds ranked 11th to 30th overall.",
+    "detail": "Title given to members in guilds ranked 11th to 30th overall.",
     "assetBundleName": "user_title/1",
     "resourceName": "0002",
     "limitTime": 1893423600,
@@ -47,7 +47,7 @@
   {
     "userTitleMstId": 6,
     "name": "1st Gran Colosseum [Overall Top 50]",
-    "detail": "Title given to members in the guilds ranked 31st to 50th overall.",
+    "detail": "Title given to members in guilds ranked 31st to 50th overall.",
     "assetBundleName": "user_title/1",
     "resourceName": "0002",
     "limitTime": 1893423600,
@@ -56,7 +56,7 @@
   {
     "userTitleMstId": 7,
     "name": "1st Gran Colosseum [Overall Top 100]",
-    "detail": "Title given to members in the guilds ranked 51st to 100th overall.",
+    "detail": "Title given to members in guilds ranked 51st to 100th overall.",
     "assetBundleName": "user_title/1",
     "resourceName": "0002",
     "limitTime": 1893423600,
@@ -65,7 +65,7 @@
   {
     "userTitleMstId": 8,
     "name": "1st Gran Colosseum [Overall Top 200]",
-    "detail": "Title given to members in the guilds ranked 101st to 200th overall.",
+    "detail": "Title given to members in guilds ranked 101st to 200th overall.",
     "assetBundleName": "user_title/1",
     "resourceName": "0001",
     "limitTime": 1893423600,
@@ -74,7 +74,7 @@
   {
     "userTitleMstId": 9,
     "name": "1st Gran Colosseum [Overall Top 300]",
-    "detail": "Title given to members in the guilds ranked 201st to 300th overall.",
+    "detail": "Title given to members in guilds ranked 201st to 300th overall.",
     "assetBundleName": "user_title/1",
     "resourceName": "0001",
     "limitTime": 1893423600,
@@ -83,7 +83,7 @@
   {
     "userTitleMstId": 10,
     "name": "1st Gran Colosseum [Overall Top 400]",
-    "detail": "Title given to members in the guilds ranked 301st to 400th overall.",
+    "detail": "Title given to members in guilds ranked 301st to 400th overall.",
     "assetBundleName": "user_title/1",
     "resourceName": "0001",
     "limitTime": 1893423600,
@@ -92,7 +92,7 @@
   {
     "userTitleMstId": 11,
     "name": "1st Gran Colosseum [Overall Top 700]",
-    "detail": "Title given to members in the guilds ranked 401st to 700th overall.",
+    "detail": "Title given to members in guilds ranked 401st to 700th overall.",
     "assetBundleName": "user_title/1",
     "resourceName": "0001",
     "limitTime": 1893423600,
@@ -128,7 +128,7 @@
   {
     "userTitleMstId": 15,
     "name": "1st Gran Colosseum [Time Slot Top 10]",
-    "detail": "Title given to members in the guilds ranked 4th to 10th in time slot 1.",
+    "detail": "Title given to members in guilds ranked 4th to 10th in time slot 1.",
     "assetBundleName": "user_title/1",
     "resourceName": "0003",
     "limitTime": 1893423600,
@@ -885,6 +885,4218 @@
     "userTitleMstId": 99,
     "name": "1st Gran Colosseum [Time Slot Top 700]",
     "detail": "Title given to members of guilds ranked 401st to 700th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900001,
+    "name": "2nd Gran Colosseum [League 1: Overall Rank 1]",
+    "detail": "Title given to members in the guild ranked 1st overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900002,
+    "name": "2nd Gran Colosseum [League 1: Overall Rank 2]",
+    "detail": "Title given to members in the guild ranked 2nd overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900003,
+    "name": "2nd Gran Colosseum [League 1: Overall Rank 3]",
+    "detail": "Title given to members in the guild ranked 3rd overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900004,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 10]",
+    "detail": "Title given to members in guilds ranked 4th to 10th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900005,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900006,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900007,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 30]",
+    "detail": "Title given to members in guilds ranked 11th to 30th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900008,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 50]",
+    "detail": "Title given to members in guilds ranked 31st to 50th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900009,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900010,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900011,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 100]",
+    "detail": "Title given to members in guilds ranked 51st to 100th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900012,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900013,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900014,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 200]",
+    "detail": "Title given to members in guilds ranked 101st to 200th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900015,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 300]",
+    "detail": "Title given to members in guilds ranked 201st to 300th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900016,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 400]",
+    "detail": "Title given to members in guilds ranked 301st to 400th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900017,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900018,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 700]",
+    "detail": "Title given to members in guilds ranked 501st to 700th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900019,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 1,000]",
+    "detail": "Title given to members in guilds ranked 701st to 1,000th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900020,
+    "name": "2nd Gran Colosseum [League 1: Overall Top 1,500]",
+    "detail": "Title given to members in guilds ranked 1,001st to 1,500th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900021,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 1]",
+    "detail": "Title given to members in the guild ranked 1st in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900022,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 2]",
+    "detail": "Title given to members in the guild ranked 2nd in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900023,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 3]",
+    "detail": "Title given to members in the guild ranked 3rd in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900024,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 10]",
+    "detail": "Title given to members in guilds ranked 4th to 10th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900025,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900026,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900027,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900028,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900029,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900030,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900031,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900032,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900033,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900034,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900035,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900036,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900037,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900038,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900039,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900040,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900041,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900042,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900043,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900044,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900045,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900046,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900047,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900048,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900049,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900050,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900051,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900052,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900053,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900054,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900055,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900056,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900057,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900058,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900059,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900060,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900061,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900062,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900063,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900064,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900065,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900066,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900067,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900068,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900069,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900070,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900071,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900072,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900073,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900074,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900075,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900076,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900077,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900078,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900079,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900080,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900081,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900082,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900083,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900084,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900085,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900086,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900087,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900088,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900089,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900090,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900091,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900092,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900093,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900094,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900095,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900096,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900097,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900098,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900099,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900100,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900101,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900102,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900103,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900104,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900105,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900106,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 1]",
+    "detail": "Title given to members of guild 1st in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900107,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900108,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900109,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900110,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900111,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900112,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900113,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900114,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900115,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900116,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900117,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900118,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900119,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900120,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900121,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900122,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900123,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900124,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900125,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900126,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900127,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900128,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900129,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900130,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900131,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900132,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900133,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900134,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900135,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900136,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900137,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900138,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900139,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900140,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900141,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900142,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900143,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900144,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900145,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900146,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900147,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900148,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900149,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900150,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900151,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900152,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900153,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900154,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900155,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900156,
+    "name": "2nd Gran Colosseum [League 1: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900157,
+    "name": "2nd Gran Colosseum [League 2: Overall Rank 1]",
+    "detail": "Title given to members in the guild ranked 1st overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900158,
+    "name": "2nd Gran Colosseum [League 2: Overall Rank 2]",
+    "detail": "Title given to members in the guild ranked 2nd overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900159,
+    "name": "2nd Gran Colosseum [League 2: Overall Rank 3]",
+    "detail": "Title given to members in the guild ranked 3rd overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900160,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 10]",
+    "detail": "Title given to members in guilds ranked 4th to 10th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900161,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900162,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900163,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 30]",
+    "detail": "Title given to members in guilds ranked 11th to 30th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900164,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 50]",
+    "detail": "Title given to members in guilds ranked 31st to 50th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900165,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900166,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900167,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 100]",
+    "detail": "Title given to members in guilds ranked 51st to 100th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900168,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900169,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900170,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 200]",
+    "detail": "Title given to members in guilds ranked 101st to 200th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900171,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 300]",
+    "detail": "Title given to members in guilds ranked 201st to 300th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900172,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 400]",
+    "detail": "Title given to members in guilds ranked 301st to 400th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900173,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900174,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 700]",
+    "detail": "Title given to members in guilds ranked 501st to 700th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900175,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 1,000]",
+    "detail": "Title given to members in guilds ranked 701st to 1,000th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900176,
+    "name": "2nd Gran Colosseum [League 2: Overall Top 1,500]",
+    "detail": "Title given to members in guilds ranked 1,001st to 1,500th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900177,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 1]",
+    "detail": "Title given to members in the guild ranked 1st in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900178,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 2]",
+    "detail": "Title given to members in the guild ranked 2nd in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900179,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 3]",
+    "detail": "Title given to members in the guild ranked 3rd in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900180,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 10]",
+    "detail": "Title given to members in guilds ranked 4th to 10th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900181,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900182,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900183,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900184,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900185,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900186,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900187,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900188,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900189,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900190,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900191,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900192,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900193,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900194,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900195,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900196,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900197,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900198,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900199,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900200,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900201,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900202,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900203,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900204,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900205,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900206,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900207,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900208,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900209,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900210,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900211,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900212,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900213,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900214,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900215,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900216,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900217,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900218,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900219,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900220,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900221,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900222,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900223,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900224,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900225,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900226,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900227,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900228,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900229,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900230,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900231,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900232,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900233,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900234,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900235,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900236,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900237,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900238,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900239,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900240,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900241,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900242,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900243,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900244,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900245,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900246,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900247,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900248,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900249,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900250,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900251,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900252,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900253,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900254,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900255,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900256,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900257,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900258,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900259,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900260,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900261,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900262,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 1]",
+    "detail": "Title given to members of guild 1st in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900263,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900264,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900265,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900266,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900267,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900268,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900269,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900270,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900271,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900272,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900273,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900274,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900275,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900276,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900277,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900278,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900279,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900280,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900281,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900282,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900283,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900284,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900285,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900286,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900287,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900288,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900289,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900290,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900291,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900292,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900293,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900294,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900295,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900296,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900297,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900298,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900299,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900300,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900301,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900302,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900303,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900304,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900305,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900306,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900307,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900308,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900309,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900310,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900311,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900312,
+    "name": "2nd Gran Colosseum [League 2: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900313,
+    "name": "2nd Gran Colosseum [League 3: Overall Rank 1]",
+    "detail": "Title given to members in the guild ranked 1st overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900314,
+    "name": "2nd Gran Colosseum [League 3: Overall Rank 2]",
+    "detail": "Title given to members in the guild ranked 2nd overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900315,
+    "name": "2nd Gran Colosseum [League 3: Overall Rank 3]",
+    "detail": "Title given to members in the guild ranked 3rd overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900316,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 10]",
+    "detail": "Title given to members in guilds ranked 4th to 10th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900317,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900318,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900319,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 30]",
+    "detail": "Title given to members in guilds ranked 11th to 30th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900320,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 50]",
+    "detail": "Title given to members in guilds ranked 31st to 50th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900321,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900322,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900323,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 100]",
+    "detail": "Title given to members in guilds ranked 51st to 100th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900324,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900325,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900326,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 200]",
+    "detail": "Title given to members in guilds ranked 101st to 200th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900327,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 300]",
+    "detail": "Title given to members in guilds ranked 201st to 300th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900328,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 400]",
+    "detail": "Title given to members in guilds ranked 301st to 400th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900329,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900330,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 700]",
+    "detail": "Title given to members in guilds ranked 501st to 700th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900331,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 1,000]",
+    "detail": "Title given to members in guilds ranked 701st to 1,000th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900332,
+    "name": "2nd Gran Colosseum [League 3: Overall Top 1,500]",
+    "detail": "Title given to members in guilds ranked 1,001st to 1,500th overall.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900333,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 1]",
+    "detail": "Title given to members in the guild ranked 1st in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900334,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 2]",
+    "detail": "Title given to members in the guild ranked 2nd in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900335,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 3]",
+    "detail": "Title given to members in the guild ranked 3rd in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900336,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 10]",
+    "detail": "Title given to members in guilds ranked 4th to 10th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900337,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900338,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900339,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900340,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900341,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900342,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900343,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900344,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900345,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900346,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900347,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900348,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900349,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 1.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900350,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900351,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900352,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900353,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900354,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900355,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900356,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900357,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900358,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900359,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900360,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900361,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900362,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900363,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900364,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900365,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900366,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 2.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900367,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900368,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900369,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900370,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900371,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900372,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900373,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900374,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900375,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900376,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900377,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900378,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900379,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900380,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900381,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900382,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900383,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 3.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900384,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900385,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900386,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900387,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900388,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900389,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900390,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900391,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900392,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900393,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900394,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900395,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900396,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900397,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900398,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900399,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900400,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 4.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900401,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900402,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900403,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900404,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900405,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900406,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900407,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900408,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900409,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900410,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900411,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900412,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900413,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900414,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900415,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900416,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900417,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 5.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900418,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 1]",
+    "detail": "Title given to members of guild 1st in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900419,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900420,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900421,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900422,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900423,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900424,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900425,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900426,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900427,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900428,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900429,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900430,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900431,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900432,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900433,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900434,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 6.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900435,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900436,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900437,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900438,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900439,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900440,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900441,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900442,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900443,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900444,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900445,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900446,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900447,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900448,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900449,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900450,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900451,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 7.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900452,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 1]",
+    "detail": "Title given to members of guild ranked 1st in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900453,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 2]",
+    "detail": "Title given to members of guild ranked 2nd in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900454,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Rank 3]",
+    "detail": "Title given to members of guild ranked 3rd in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900455,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 10]",
+    "detail": "Title given to members of guilds ranked 4th to 10th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900456,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 20]",
+    "detail": "Title given to members in guilds ranked 11th to 20th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900457,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 30]",
+    "detail": "Title given to members in guilds ranked 21st to 30th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900458,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 30]",
+    "detail": "Title given to members of guilds ranked 11th to 30th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900459,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 50]",
+    "detail": "Title given to members of guilds ranked 31st to 50th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900460,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 70]",
+    "detail": "Title given to members in guilds ranked 51st to 70th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900461,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 100]",
+    "detail": "Title given to members in guilds ranked 71st to 100th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900462,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 100]",
+    "detail": "Title given to members of guilds ranked 51st to 100th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900463,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 150]",
+    "detail": "Title given to members in guilds ranked 101st to 150th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900464,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 200]",
+    "detail": "Title given to members in guilds ranked 151st to 200th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900465,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 200]",
+    "detail": "Title given to members of guilds ranked 101st to 200th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900466,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 300]",
+    "detail": "Title given to members of guilds ranked 201st to 300th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900467,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 400]",
+    "detail": "Title given to members of guilds ranked 301st to 400th in time slot 8.",
+    "assetBundleName": "user_title/1",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 900468,
+    "name": "2nd Gran Colosseum [League 3: Time Slot Top 500]",
+    "detail": "Title given to members in guilds ranked 401st to 500th in time slot 8.",
     "assetBundleName": "user_title/1",
     "resourceName": "0001",
     "limitTime": 1893423600,

@@ -1,9 +1,9 @@
 {
-  "lastCreatedTime": "2020-09-03 15:13:33",
+  "lastCreatedTime": "2020-09-08 15:13:41",
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
-      "version": 1100,
+      "version": 1101,
       "names": [
         "item_mst_list"
       ]
@@ -17,7 +17,7 @@
     },
     {
       "mstTableId": 5,
-      "version": 429,
+      "version": 431,
       "names": [
         "art_mst_list"
       ]
@@ -38,14 +38,14 @@
     },
     {
       "mstTableId": 8,
-      "version": 1334,
+      "version": 1335,
       "names": [
         "medal_trade_mst_list"
       ]
     },
     {
       "mstTableId": 9,
-      "version": 1891,
+      "version": 1894,
       "names": [
         "card_mst_list_en",
         "card_mst_list_kr",
@@ -57,7 +57,7 @@
     },
     {
       "mstTableId": 14,
-      "version": 940,
+      "version": 942,
       "names": [
         "skill_mst_list"
       ]
@@ -134,14 +134,14 @@
     },
     {
       "mstTableId": 26,
-      "version": 445,
+      "version": 446,
       "names": [
         "character_story_mst_list"
       ]
     },
     {
       "mstTableId": 27,
-      "version": 558,
+      "version": 559,
       "names": [
         "character_mst_list"
       ]
@@ -155,7 +155,7 @@
     },
     {
       "mstTableId": 29,
-      "version": 42,
+      "version": 43,
       "names": [
         "ultimate_art_method_mst_list"
       ]
@@ -211,21 +211,21 @@
     },
     {
       "mstTableId": 38,
-      "version": 2990,
+      "version": 2992,
       "names": [
         "banner_mst_list"
       ]
     },
     {
       "mstTableId": 39,
-      "version": 423,
+      "version": 424,
       "names": [
         "alice_quest_scenario_mst_list"
       ]
     },
     {
       "mstTableId": 40,
-      "version": 1239,
+      "version": 1240,
       "names": [
         "alice_quest_story_mst_list"
       ]
@@ -239,7 +239,7 @@
     },
     {
       "mstTableId": 42,
-      "version": 442,
+      "version": 443,
       "names": [
         "character_ability_mst_list"
       ]
@@ -260,28 +260,28 @@
     },
     {
       "mstTableId": 45,
-      "version": 367,
+      "version": 368,
       "names": [
         "alice_quest_map_mst_list"
       ]
     },
     {
       "mstTableId": 46,
-      "version": 559,
+      "version": 560,
       "names": [
         "alice_quest_area_mst_list"
       ]
     },
     {
       "mstTableId": 47,
-      "version": 849,
+      "version": 850,
       "names": [
         "quest_stage_mst_list"
       ]
     },
     {
       "mstTableId": 48,
-      "version": 281,
+      "version": 282,
       "names": [
         "alice_quest_area_group_mst_list"
       ]
@@ -295,14 +295,14 @@
     },
     {
       "mstTableId": 50,
-      "version": 406,
+      "version": 407,
       "names": [
         "quest_mission_mst_list"
       ]
     },
     {
       "mstTableId": 51,
-      "version": 290,
+      "version": 291,
       "names": [
         "quest_mission_reward_mst_list"
       ]
@@ -313,7 +313,7 @@
     },
     {
       "mstTableId": 54,
-      "version": 352,
+      "version": 353,
       "names": [
         "quest_stage_reward_mst_list"
       ]
@@ -327,7 +327,7 @@
     },
     {
       "mstTableId": 56,
-      "version": 164,
+      "version": 165,
       "names": [
         "gvg_reward_mst_list"
       ]
@@ -362,21 +362,21 @@
     },
     {
       "mstTableId": 61,
-      "version": 621,
+      "version": 623,
       "names": [
         "card_evolution_mst_list"
       ]
     },
     {
       "mstTableId": 62,
-      "version": 1102,
+      "version": 1103,
       "names": [
         "quest_enemy_mst_list"
       ]
     },
     {
       "mstTableId": 63,
-      "version": 1061,
+      "version": 1062,
       "names": [
         "quest_schedule_mst_list"
       ]
@@ -418,21 +418,21 @@
     },
     {
       "mstTableId": 69,
-      "version": 393,
+      "version": 394,
       "names": [
         "movie_resource_mst_list"
       ]
     },
     {
       "mstTableId": 70,
-      "version": 82,
+      "version": 83,
       "names": [
         "user_title_mst_list"
       ]
     },
     {
       "mstTableId": 71,
-      "version": 66,
+      "version": 67,
       "names": [
         "guild_title_mst_list"
       ]
@@ -446,7 +446,7 @@
     },
     {
       "mstTableId": 73,
-      "version": 352,
+      "version": 353,
       "names": [
         "quest_area_character_mst_list"
       ]

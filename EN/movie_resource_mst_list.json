@@ -21,6 +21,27 @@
     "vibStartTime": -1.0
   },
   {
+    "movieResourceMstId": 5,
+    "movieTitle": "2nd Gran Colosseum Opening",
+    "resourceName": "GvGEventMovie",
+    "isPreDownLoad": 1,
+    "type": 2,
+    "value": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1599627600,
+    "endTime": 1599886799,
+    "isMuseum": 0,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "Bug if No Display shows",
+    "thumbAssetBundleName": "museumthumbnail/1",
+    "thumbResourceName": "GvGEventMovie",
+    "museumStartTime": 1599627600,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0
+  },
+  {
     "movieResourceMstId": 19,
     "movieTitle": "An End to Summer Dreams OP",
     "resourceName": "ShiohigariOPMovie",
