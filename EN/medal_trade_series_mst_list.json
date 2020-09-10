@@ -70,6 +70,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 7,
+    "name": "Tin Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20200903_medal_buriki",
+    "assetBundleName": "0176",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Play an event to view.",
+    "priority": 20,
+    "itemMstId": 176,
+    "startTime": 1599717600,
+    "endTime": 1600927199,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 8,
     "name": "Medal of Desire (VIII)",
     "description": "A medal that is an incidental byproduct of a Grimoire.",

@@ -1573,10 +1573,10 @@
     "Type": 0,
     "GameKey": "Image/0113",
     "JP": "キャラクターズの血",
-    "EN": "Characters Blood",
+    "EN": "Character Blood",
     "KR": "캐릭터들의 피",
     "DE": "Blut der Charaktere",
-    "FR": "Sang de personnage",
+    "FR": "Sang de personnages",
     "ES": "Sangre de personaje",
     "TH": "เลือดของเหล่าตัวละคร",
     "VN": "Máu nhân vật"
@@ -1587,12 +1587,12 @@
     "Type": 0,
     "GameKey": "Image/0114",
     "JP": "ギルドボックスガチャ\\\\n～忘却ノ物語～",
-    "EN": "Guild box o' grimoire\\\\n-The Forgotten Tale-",
+    "EN": "Guild Box o' Grimoire\\\\nThe Forgotten Records",
     "KR": "길드 박스 뽑기\\\\n~망각의 이야기~",
-    "DE": "Gildenkiste Grimoire\\\\n-Die vergessene Geschichte-",
+    "DE": "Gilde Box Grimoire\\\\n„Die Geschichte der Vergessenheit“",
     "FR": "Boîte à grimoires de guilde\\\\n« Conte de l'oubli »",
-    "ES": "Caja de grimorio del gremio\\\\n-«La historia olvidada»-",
-    "TH": "กล่องกรีมัวร์กิลด์\\\\n-'นิทานที่ถูกลืม'-",
+    "ES": "Caja de grimorio del gremio\\\\n-«Cuento del olvido»-",
+    "TH": "กล่องกรีมัวร์กิลด์\\\\n~เรื่องราวของการลืมเลือน~",
     "VN": "Hộp sách phép của hội\\\\n-'Truyền kỳ bị lãng quyên'-"
   },
   {
@@ -1603,7 +1603,7 @@
     "JP": "ガチャ回数報酬",
     "EN": "Total Grimoire Summons Rewards",
     "KR": "뽑기 횟수 보상",
-    "DE": "Grimoire Aufrufbelohnung",
+    "DE": "Beschwörungs\\\\n-belohnung",
     "FR": "Récompenses totales d'invocations de grimoire",
     "ES": "Recompensas totales por invocación de grimorio",
     "TH": "รางวัลจำนวนครั้งกรีมัวร์",
@@ -1660,7 +1660,7 @@
     "EN": "Title",
     "KR": "칭호",
     "DE": "Titel",
-    "FR": "Titre",
+    "FR": "Titres",
     "ES": "Título",
     "TH": "ยศ",
     "VN": "Danh hiệu"
@@ -1729,10 +1729,10 @@
     "JP": "次回予選 (UTC+9)",
     "EN": "Next Preliminaries(UTC+9)",
     "KR": "다음 예선 (UTC+9)",
-    "DE": "Nächste Qualifikation(UTC+9)",
+    "DE": "Nächste Qualifikation (UTC+9)",
     "FR": "Prochaines qualifications(UTC+9)",
     "ES": "Siguientes clasificatorias(UTC+9)",
-    "TH": "ต่อไปรอบคัดเลือก(UTC+9)",
+    "TH": "รอบคัดเลือกครั้งต่อไป(UTC+9)",
     "VN": "Vòng loại tiếp theo"
   },
   {
@@ -1774,7 +1774,7 @@
     "DE": "Mitteilung",
     "FR": "Avis",
     "ES": "Aviso",
-    "TH": "ประกาศล่วงหน้า",
+    "TH": "แจ้ง",
     "VN": "Thông báo"
   },
   {
@@ -1858,7 +1858,7 @@
     "DE": "Garantiert 1x S+",
     "FR": "S+ x1 garanti",
     "ES": "S+ x1 Garantizada",
-    "TH": "การันดีได้รับ S+ x1",
+    "TH": "การันตี Sขึ้นไป x1",
     "VN": "Bảo đảm S+ x1"
   },
   {
@@ -1886,7 +1886,7 @@
     "DE": "Garantiert 2x S+",
     "FR": "S+ x2 garantis",
     "ES": "S+ x2 Garantizada",
-    "TH": "การันดีได้รับ S+ x2",
+    "TH": "การันตี Sขึ้นไป x2",
     "VN": "Bảo đảm S+ x2"
   },
   {
@@ -2584,7 +2584,7 @@
     "EN": "Skill",
     "KR": "스킬",
     "DE": "Fertigkeit",
-    "FR": "Compétence",
+    "FR": "Compétence(s)",
     "ES": "Habilidad",
     "TH": "สกิล",
     "VN": "Kỹ năng"
@@ -2628,7 +2628,7 @@
     "DE": "EXP PLUS",
     "FR": "EXP +",
     "ES": "Aumento de EXP",
-    "TH": "รับEXP UP",
+    "TH": "ได้รับ EXP UP",
     "VN": "Tăng EXP"
   },
   {
@@ -3505,7 +3505,7 @@
     "Type": 0,
     "GameKey": "Image/0251",
     "JP": "鍵付",
-    "EN": "+ Key",
+    "EN": "NEW SET\\nKey",
     "KR": "열쇠 포함",
     "DE": "+Schlüssel",
     "FR": "+Clé",
@@ -3519,7 +3519,7 @@
     "Type": 0,
     "GameKey": "Image/0252",
     "JP": "SS武器付",
-    "EN": "+ SR weapon",
+    "EN": "NEW SET\\nSR Weapon",
     "KR": "SR 무기 포함",
     "DE": "+SR-Waffe",
     "FR": "+Arme SR",
@@ -3533,7 +3533,7 @@
     "Type": 0,
     "GameKey": "Image/0253",
     "JP": "ジョブ付",
-    "EN": "+ Class",
+    "EN": "NEW SET\\nClass",
     "KR": "직업 포함",
     "DE": "+Klasse",
     "FR": "+Classe",
@@ -3547,7 +3547,7 @@
     "Type": 0,
     "GameKey": "Image/0254",
     "JP": "新ジョブ付",
-    "EN": "+ New Class",
+    "EN": "NEW SET\\nNew Class",
     "KR": "신규 직업 포함",
     "DE": "+Neue Klasse",
     "FR": "+Nouvelle Classe",
@@ -3561,7 +3561,7 @@
     "Type": 0,
     "GameKey": "Image/0255",
     "JP": "ナイトメア付",
-    "EN": "+ Nightmare",
+    "EN": "NEW SET\\nNightmare",
     "KR": "나이트메어 포함",
     "DE": "+Albtraum",
     "FR": "+Cauchemar",
@@ -3930,7 +3930,7 @@
     "DE": "10 S+ garantiert",
     "FR": "10 S+ garantis",
     "ES": "S x10  garantizado",
-    "TH": "การันตีได้รับ S+ x10",
+    "TH": "การันตี Sขึ้นไป x10",
     "VN": "Bảo đảm S+ x10"
   },
   {
@@ -4560,7 +4560,7 @@
     "DE": "STEP 5",
     "FR": "ÉTAPE 5",
     "ES": "PASO5",
-    "TH": "ขั้นที่5",
+    "TH": "STEP 5",
     "VN": "\"VN\": null"
   },
   {
@@ -4574,7 +4574,7 @@
     "DE": "STEP 2",
     "FR": "ÉTAPE 2",
     "ES": "PASO2",
-    "TH": "ขั้นที่2",
+    "TH": "STEP 2",
     "VN": "\"VN\": null"
   },
   {
@@ -4588,7 +4588,7 @@
     "DE": "STEP 3",
     "FR": "ÉTAPE 3",
     "ES": "PASO3",
-    "TH": "ขั้นที่3",
+    "TH": "STEP 3",
     "VN": "\"VN\": null"
   },
   {
@@ -4602,7 +4602,7 @@
     "DE": "STEP 4",
     "FR": "ÉTAPE 4",
     "ES": "PASO4",
-    "TH": "ขั้นที่4",
+    "TH": "STEP 4",
     "VN": "\"VN\": null"
   },
   {
@@ -4686,7 +4686,7 @@
     "DE": "Erhalte Item",
     "FR": "Obtenir l'objet",
     "ES": "Obtener objeto",
-    "TH": "รับไอเท็มใหม่",
+    "TH": "รับไอเท็ม",
     "VN": "\"VN\": null"
   },
   {

@@ -145,11 +145,11 @@
     "Type": 0,
     "GameKey": "SCENE/0010",
     "JP": "※ギルド未加入の為ガチャを引けません。",
-    "EN": "Note: This grimoire is only available to guild members.",
+    "EN": "Note: Must be a guild member to draw.",
     "KR": "※길드에 소속되지 않아 뽑기를 할 수 없습니다.",
-    "DE": "*Dieses Grimoire ist nur für Gildenmitglieder erhältlich.",
-    "FR": "*Ce grimoire n'est disponible que pour les membres de guilde.",
-    "ES": "* Este grimorio solo está disponible para miembros de gremios.",
+    "DE": "*Nur für Gildenmitglieder.",
+    "FR": "*Membres uniq.",
+    "ES": "*Solo grem.",
     "TH": "*กรีมัวร์นี้สามารถใช้ได้เฉพาะสมาชิกกิลด์",
     "VN": "*Sách phép này chỉ có sẵn cho hội viên."
   },
@@ -2642,7 +2642,7 @@
     "DE": "Gildenrangliste",
     "FR": "Classement de guilde",
     "ES": "Clasificación del gremio",
-    "TH": "ระดับกิลด์",
+    "TH": "การจัดอันดับกิลด์",
     "VN": "Xếp hạng hội"
   },
   {
@@ -3927,7 +3927,7 @@
     "JP": "エントリー状況",
     "EN": "Entry Status",
     "KR": "참가 등록 상황",
-    "DE": "Zutrittstatus",
+    "DE": "Zutrittsstatus",
     "FR": "Statut de l'inscription",
     "ES": "Estado de entrada",
     "TH": "สถานะการเข้าร่วม",
@@ -3955,10 +3955,10 @@
     "JP": "参加時間(UTC+9)",
     "EN": "Participation Time(UTC+9)",
     "KR": "참가 시간(UTC+9)",
-    "DE": "Anmeldefrist(UTC+9)",
+    "DE": "Anmeldefrist (UTC+9)",
     "FR": "Durée de participation(UTC+9)",
     "ES": "Tiempo de participación(UTC+9)",
-    "TH": "เวลาในการเข้าร่วม(UTC+9)",
+    "TH": "เวลาเข้าร่วม(UTC+9)",
     "VN": "Thời gian tham gia"
   },
   {
@@ -4083,7 +4083,7 @@
     "KR": "시간대별 랭킹",
     "DE": "Zeitzonenrangliste",
     "FR": "Class. fus. hor.",
-    "ES": "Clasificaciones por franja horaria",
+    "ES": "Clasif. por zona",
     "TH": "อันดับตามช่วงเวลา",
     "VN": "Thứ hạng theo múi giờ"
   },
@@ -4233,11 +4233,11 @@
     "Type": 0,
     "GameKey": "SCENE/0302",
     "JP": "称号",
-    "EN": "Title",
+    "EN": "Titles",
     "KR": "칭호",
     "DE": "Titel",
-    "FR": "Titre",
-    "ES": "Título",
+    "FR": "Titres",
+    "ES": "Títulos",
     "TH": "ยศ",
     "VN": "Danh hiệu"
   },
@@ -5104,7 +5104,7 @@
     "EN": "Automatic Approval: No",
     "KR": "자동 승인: 비활성화",
     "DE": "Autom. Bestätigung: AN",
-    "FR": "Autorisation automatique : OUI",
+    "FR": "Autorisation automatique : NON",
     "ES": "Aprobación automática: Activado",
     "TH": "อนุมัติออโต้: ปิด",
     "VN": "Tự động phê duyệt: BẬT"
@@ -5118,7 +5118,7 @@
     "EN": "Automatic Approval: Yes",
     "KR": "자동 승인: 활성화",
     "DE": "Autom. Bestätigung: AUS",
-    "FR": "Autorisation automatique : NON",
+    "FR": "Autorisation automatique : OUI",
     "ES": "Aprobación automática: Desactivado",
     "TH": "อนุมัติออโต้: เปิด",
     "VN": "Tự động phê duyệt: TẮT"
@@ -5605,7 +5605,7 @@
     "Type": 0,
     "GameKey": "SCENE/0400",
     "JP": "販売中商品がありません",
-    "EN": "No items for sale.",
+    "EN": "No products available for purchase.",
     "KR": "판매 중인 상품이 없습니다.",
     "DE": "Keine Items zum Verkauf.",
     "FR": "Aucun objet à vendre.",
@@ -5705,7 +5705,7 @@
     "JP": "急襲イベント開催時",
     "EN": "During Guerrilla Events",
     "KR": "급습 이벤트 개최 시",
-    "DE": "Während Guerillaevents",
+    "DE": "Während Guerilla-Event",
     "FR": "Pendant les événements de guérilla",
     "ES": "Durante eventos de guerrilla",
     "TH": "ระหว่างช่วงอีเว้นท์การจู่โจม",
@@ -6221,7 +6221,7 @@
     "Type": 0,
     "GameKey": "SCENE/0444",
     "JP": "※称号はギルドと個人双方に配布されます",
-    "EN": "Note: Titles are awarded to both guild members and individuals.",
+    "EN": "Note: Titles are awarded to both guild members and individual players.",
     "KR": "※칭호는 길드와 개인 양쪽에 모두 지급됩니다.",
     "DE": "*Titel werden sowohl an Gildenmitglieder als auch an Einzelpersonen vergeben.",
     "FR": "*Les titres sont remis aux membres de guilde et aux non-membres.",
@@ -7063,9 +7063,9 @@
     "JP": "鍵イベント",
     "EN": "Key Events",
     "KR": "열쇠 이벤트",
-    "DE": "Schlüsselevent",
+    "DE": "Schlüssel-Event",
     "FR": "Évènement clé",
-    "ES": "Evento clave",
+    "ES": "Evento de llave",
     "TH": "อีเว้นท์กุญแจ",
     "VN": "Sự kiện chính"
   },
@@ -7920,7 +7920,7 @@
     "DE": "Liga 1",
     "FR": "Ligue 1",
     "ES": "Liga 1",
-    "TH": "ลีกที่ 1",
+    "TH": "หน่วยที่ 1",
     "VN": "Giải đấu 1"
   },
   {
@@ -7934,7 +7934,7 @@
     "DE": "Liga 2",
     "FR": "Ligue 2",
     "ES": "Liga 2",
-    "TH": "ลีกที่ 2",
+    "TH": "หน่วยที่ 2",
     "VN": "Giải đấu 2"
   },
   {
@@ -7948,7 +7948,7 @@
     "DE": "Liga 3",
     "FR": "Ligue 3",
     "ES": "Liga 3",
-    "TH": "ลีกที่ 3",
+    "TH": "หน่วยที่ 3",
     "VN": "Giải đấu 3"
   },
   {
@@ -8156,7 +8156,7 @@
     "EN": "Invader Collaboration",
     "KR": "인베이더 콜라보",
     "DE": "Invasoren-Event",
-    "FR": "Événement envahisseur",
+    "FR": "Événement Envahisseur",
     "ES": "Evento con Invaders",
     "TH": "โคลาโบอินเวเดอร์ส",
     "VN": "Đan xen với Kẻ xâm lược"
@@ -8394,7 +8394,7 @@
     "EN": "Entry:",
     "KR": "참가 등록: ",
     "DE": "Teilnahme: ",
-    "FR": "Inscription : ",
+    "FR": "Inscription :",
     "ES": "Entrada:",
     "TH": "เข้าร่วม:",
     "VN": "Tham gia:"
@@ -8410,7 +8410,7 @@
     "DE": "Qualifikation: ",
     "FR": "Qualification :",
     "ES": "Clasificatorias:",
-    "TH": "รอบคัดเลือก：",
+    "TH": "รอบคัดเลือก:",
     "VN": "Vòng loại:"
   },
   {
@@ -8424,7 +8424,7 @@
     "DE": "Finale: ",
     "FR": "Finales :",
     "ES": "Final:",
-    "TH": "การต่อสู้หลัก：",
+    "TH": "การต่อสู้หลัก:",
     "VN": "Võ đài chính:"
   },
   {
