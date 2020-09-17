@@ -375,6 +375,21 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 8110,
+    "gachaGroupId": 5,
+    "bannerMstId": 665,
+    "isAlways": false,
+    "name": "STEP: Grimoire: Invaders’ Feast",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal from this grimoire can be acquired by the following:\\nType: Taito Medal\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Taito medals from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 55,
+    "announceUrl": "/web/announce/body?announceMstId=220&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 8810,
     "gachaGroupId": 5,
     "bannerMstId": 1256,
@@ -399,6 +414,21 @@
     "noticeMessage": "Notes:\\n-The Replicant medal from this grimoire can be acquired by the following:\\nType: Replicant Medal\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Replicant medals from this grimoire will expire at a certain date. Check the medal exchange for more info.",
     "priority": 2150,
     "announceUrl": "/web/announce/body?announceMstId=112&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 9000,
+    "gachaGroupId": 10,
+    "bannerMstId": 617,
+    "isAlways": true,
+    "name": "Daily Grimoire",
+    "description": "-",
+    "noticeMessage": "Note: No medal of desires are received with this grimoire.",
+    "priority": 3,
+    "announceUrl": "/web/announce/body?announceMstId=221&isHideBackButton=1",
     "seriesResourceName": "",
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",

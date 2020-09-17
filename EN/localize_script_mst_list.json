@@ -892,7 +892,7 @@
     "DE": "Beitragslisten von -\\\\nsind jetzt auf dem neuesten Stand.",
     "FR": "Les classements\\\\nde participation de - sont désormais à jour.",
     "ES": "Las clasificaciones de las aportaciones de -\\\\nestán ahora actualizadas.",
-    "TH": "การประมวลผลอันดับระดับการช่วยเหลือ- \\\\nเสร็จแล้ว",
+    "TH": "\\\\nประมวลผลอันดับการทุ่มเทเสร็จแล้ว",
     "VN": "Thứ hạng đóng góp của -\\\\nhiện được cập nhật."
   },
   {
@@ -1587,12 +1587,12 @@
     "Type": 0,
     "GameKey": "SCRIPT/0114",
     "JP": "\\\\n\\\\n<size=28><color={0}>{1}回達成報酬を獲得しました。</color></size>",
-    "EN": "\\\\n\\\\n<size=28><color={0}>You earned a reward for completing {1} time(s).</color></size>",
+    "EN": "\\\\n\\\\n<size=28><color={0}>Reward for summoning {1} time(s).</color></size>",
     "KR": "\\\\n\\\\n<size=28><color={0}>{1}회 달성 보상을 획득하였습니다.</color></size>",
-    "DE": "\\\\n\\\\n<size=28><color={0}>{1} x Leistungsbelohnung verdient.</color></size>",
-    "FR": "\\\\n\\\\n<size=28><color={0}>{1}x récompenses d'exploit obtenues.</color></size>",
-    "ES": "\\\\n\\\\n<size=28><color={0}>{1}x recompensas de logro obtenidas.</color></size>",
-    "TH": "\\\\n\\\\n<size=28><color={0}>ได้รับรางวัลความสำเร็จ{1}ครั้งแล้ว</color></size>",
+    "DE": "\\\\n\\\\n<size=28><color={0}>Belohnung für {1} Beschwörung(en).</color></size>",
+    "FR": "\\\\n\\\\n<size=28><color={0}>Récompense pour avoir invoqué {1} fois.</color></size>",
+    "ES": "\\\\n\\\\n<size=28><color={0}>Recompensas por haber invocado x{1} veces</color></size>",
+    "TH": "\\\\n\\\\n<size=28><color={0}>ได้รับรางวัลตามจำนวนครั้งกรีมัวร์ {1} ครั้งแล้ว</color></size>",
     "VN": "\\\\n\\\\n<size=28><color={0}>{1}Đã đạt được x phần thưởng thành tích.</color></size>"
   },
   {
@@ -1662,7 +1662,7 @@
     "DE": "Die Beitragslisten für Kämpfe sind jetzt auf dem neuesten Stand.",
     "FR": "Les classements de participation aux combats sont désormais à jour.",
     "ES": "Las clasificaciones de aportaciones de los combates fueron actualizadas.",
-    "TH": "การจัดอันดับผลงานสำหรับการต่อสู้ได้รับการอัปเดตแล้ว",
+    "TH": "ประมวลผลอันดับการทุ่มเทในการแข่งขันเสร็จแล้ว",
     "VN": "Thứ hạng đóng góp cho trận chiến hiện được cập nhật."
   },
   {
@@ -4725,7 +4725,7 @@
     "JP": "アンキ「そろそろオソウジしてヨ！」\\\\nスノウ「どんな戦いにも、公正を」",
     "EN": "Noya: \"Get in here and Purify already!\"\\\\nSnow: \"Justice, no matter the fight.\"",
     "KR": "스푸키 \"슬슬 청소 좀 하세요!\"\\\\n백설공주 \"어떤 싸움이든 공정하게.\"",
-    "DE": "Noya: „Komm her und läutere endlich!“\\\\nSchneewittchen: „Gerechtigkeit, egal in welchem Kampf.“",
+    "DE": "Noya: „Komm her und reinige endlich!“\\\\nSchneewittchen: „Gerechtigkeit, egal in welchem Kampf.“",
     "FR": "Noya : \"Venez purifier, et plus vite que ça !\"\\\\nBlanche : \"Pour la Justice, quel que soit le combat.",
     "ES": "Noya: \"¡Entra y comienza la purificación!\"\\\\nBlancanieves: \"Justicia, cueste lo que cueste\".",
     "TH": "โนยา “ได้เวลาการชะล้าง!”\\\\nสโนว์ไวท์ \"สู้เพื่อความยุติธรรมเท่านั้น”",
@@ -5801,12 +5801,12 @@
     "Type": 0,
     "GameKey": "SCRIPT/0415",
     "JP": "さんをブラックリストから解除しました。",
-    "EN": "- has been removed from your blacklist.",
+    "EN": " has been removed from your blacklist.",
     "KR": " 님을 차단 목록에서 삭제하였습니다.",
-    "DE": "- wurde von deiner schwarzen Liste entfernt.",
-    "FR": "- a été retiré(e) de votre Liste noire.",
-    "ES": "Se eliminó de la lista negra a -.",
-    "TH": "- ถูกนำออกจากแบ็คลิสท์ของคุณ",
+    "DE": " wurde von deiner schwarzen Liste entfernt.",
+    "FR": "a été retiré(e) de votre Liste noire.",
+    "ES": "fue eliminado de la lista negra.",
+    "TH": "ถูกนำออกจากแบล็คลิสต์แล้ว",
     "VN": "– đã bị xóa khỏi danh sách cấm của bạn."
   },
   {
@@ -7215,11 +7215,11 @@
     "Type": 0,
     "GameKey": "SCRIPT/0516",
     "JP": "</color>回",
-    "EN": "</color>summons",
+    "EN": "</color> summon(s)",
     "KR": "</color>회",
-    "DE": "</color>Beschwörungen",
-    "FR": "</color>invocations",
-    "ES": "</color>invocaciones",
+    "DE": "</color> Beschwörung(en)",
+    "FR": "</color> invocation(s)",
+    "ES": "</color> invocación(es)",
     "TH": "</color>ครั้ง",
     "VN": "</color>triệu hồi"
   },
@@ -7358,7 +7358,7 @@
     "EN": "You got {0} x{1}.",
     "KR": "{0}을(를) {1}개 획득하였습니다.",
     "DE": "Du hast {0} x{1} erhalten.",
-    "FR": "Vous avez obtenu {1} {0}.",
+    "FR": "Vous avez obtenu {0} « {1} ».",
     "ES": "Has obtenido {0} x{1}.",
     "TH": "คุณได้รับ {0} x{1}",
     "VN": "Bạn đã nhận  x."
@@ -7649,11 +7649,11 @@
     "Type": 0,
     "GameKey": "SCRIPT/0547",
     "JP": "所持数：",
-    "EN": "Owned:",
+    "EN": "Owned: ",
     "KR": "보유: ",
-    "DE": "In Besitz:",
-    "FR": "Possédé(s) :",
-    "ES": "En posesión:",
+    "DE": "In Besitz: ",
+    "FR": "Possédé(s) : ",
+    "ES": "En posesión: ",
     "TH": "มีอยู่：",
     "VN": "Đã sở hữu:"
   },
@@ -9600,7 +9600,7 @@
     "DE": "Beitragsliste von -\\\\nwurde aktualisiert.",
     "FR": " :\\\\r\\\\nclassement de participation mis à jour.",
     "ES": "Se actualizaron las clasificaciones de aportaciones de\\\\n .",
-    "TH": "การประมวลผลอันดับระดับการช่วยเหลือ- \\\\r\\\\nเสร็จแล้ว",
+    "TH": "\\\\r\\\\nประมวลผลอันดับการทุ่มเทเสร็จแล้ว",
     "VN": "của\\\\nChiến đấu trong lễ hội chiến trận số 2 đã được cập nhật."
   },
   {
@@ -12104,7 +12104,7 @@
     "EN": "any paid twilight crystals will become free twilight crystals.\\\\n",
     "KR": "유료 마정석은 무료 마정석으로 변경되므로 ",
     "DE": "werden alle bezahlten Zwielichtkristalle zu kostenlosen Zwielichtkristallen. ",
-    "FR": "tous les Cristaux crépusculaires payés deviendront des Cristaux crépusculaires gratuits.\\n ",
+    "FR": "tous les Cristaux crépusculaires payés deviendront des Cristaux crépusculaires gratuits. \\n",
     "ES": "todos los cristales del ocaso de pago pasarán a ser gratuitos. ",
     "TH": "คริสตัลสนธยาจ่ายตังจะเปลี่ยนเป็นคริสตัลสนธยาฟรี",
     "VN": "mọi Pha lê chạng vạng đã trả phí sẽ trở thành Pha lê chạng vạng miễn phí."
@@ -12118,7 +12118,7 @@
     "EN": " Thank you for your understanding.",
     "KR": "주의해 주세요.",
     "DE": " Danke für dein Verständnis.",
-    "FR": " Merci de votre compréhension.",
+    "FR": "Merci de votre compréhension.",
     "ES": " Agradecemos tu comprensión.",
     "TH": "ขอบคุณที่เข้าใจ",
     "VN": "Cảm ơn vì bạn đã hiểu."
@@ -12609,7 +12609,7 @@
     "KR": "인원: ",
     "DE": "Mitglieder:",
     "FR": "Membres :",
-    "ES": "Miembros:",
+    "ES": "Miemb.:",
     "TH": "สมาชิก:",
     "VN": "Hội viên:"
   },
@@ -14077,7 +14077,7 @@
     "JP": "現在のガチャ回数：<color=#B42F00FF>",
     "EN": "Current Grimoires: <color=#B42F00FF>",
     "KR": "현재 뽑기 횟수: <color=#B42F00FF>",
-    "DE": "Momentane Grimoires:  <color=#B42F00FF>",
+    "DE": "Momentane Grimoire:  <color=#B42F00FF>",
     "FR": "Grimoires actuels :  <color=#B42F00FF>",
     "ES": "Grimorios actuales:  <color=#B42F00FF>",
     "TH": "จำนวนครั้งกรีมัวร์ปัจจุบัน: <color=#B42F00FF>",
@@ -14274,7 +14274,7 @@
     "EN": "Expanded {0} {1}.",
     "KR": "{0} {1}을(를) 확장하였습니다.",
     "DE": "{0} {1} erweitert.",
-    "FR": "{0} {1} est étendu.",
+    "FR": "{1} {0} ajoutés.",
     "ES": "{1} de {0} aumentados.",
     "TH": "ขยาย{1}{0}แล้ว",
     "VN": "Đã mở rộng {0} {1}."
@@ -14288,7 +14288,7 @@
     "EN": "Expand {0} {1} by ",
     "KR": "{0}의 {1}을(를)",
     "DE": "{0} {1} um",
-    "FR": "Augm. {0} de {1} de",
+    "FR": "Augm. {1} de {0} de",
     "ES": "{0} del {1}",
     "TH": "ขยาย{1}ของ{0}",
     "VN": "{1} của {0}"
@@ -14303,7 +14303,7 @@
     "KR": "현재 {0} {1} 수: ",
     "DE": "Gegenwärtig {0} {1}:",
     "FR": "{0} {1} :",
-    "ES": "{0}{1}:",
+    "ES": "{1}:",
     "TH": "จำนวน{1}{0}ในปัจจุบัน: ",
     "VN": "{0} {1} hiện tại:"
   },
@@ -16248,7 +16248,7 @@
     "EN": "MM/dd HH:mm",
     "KR": "MM월 dd일 HH:mm",
     "DE": "dd.MM. HH:mm",
-    "FR": "jj/MM HH:mm",
+    "FR": "dd/MM HH:mm",
     "ES": "MM/dd HH:mm",
     "TH": "MM/dd HH:mm",
     "VN": "dd/MM HH:mm"
@@ -16304,7 +16304,7 @@
     "EN": "Inventory Slots",
     "KR": " 보유 한도",
     "DE": ": Inventarplätze",
-    "FR": "Emplacements d'inventaire",
+    "FR": "Emplacements",
     "ES": "Inventario",
     "TH": "ความจุช่องเก็บ",
     "VN": "Ô kho đồ"
@@ -16332,7 +16332,7 @@
     "EN": "Expand {0} {1}.",
     "KR": "{0} {1} 확장",
     "DE": "{0}: {1} erweitern.",
-    "FR": "Augmenter {1} {0}.",
+    "FR": "Augm. {1} {0}",
     "ES": "Aumentar espacios de {0} del inventario.",
     "TH": "ขยาย {0}{1}",
     "VN": "Mở rộng {0} {1}"
@@ -16515,8 +16515,8 @@
     "KR": "{0}개 확정",
     "DE": "x{0} garantiert",
     "FR": "x{0} garanti.",
-    "ES": "{0} x1 garantizado",
-    "TH": "{0} x",
+    "ES": "x{0} garantizado",
+    "TH": " x{0}",
     "VN": "Bảo đảm {0}"
   },
   {
@@ -17717,7 +17717,7 @@
     "JP": "SNSアカウントと連携",
     "EN": "Link Social Media Account",
     "KR": "SNS 계정과 연동",
-    "DE": "Verbindung mit Social Media Kanälen",
+    "DE": "Verknüpfen",
     "FR": "Liaison rés. soc.",
     "ES": "Conectar con redes sociales",
     "TH": "เชื่อมต่อกับบัญชี SNS",
@@ -17899,7 +17899,7 @@
     "JP": "を<color={0}>{1}回</color>使用で召喚成功",
     "EN": "Use these weapons <color={0}>{1} times</color> total to summon.",
     "KR": "을(를) <color={0}>{1}회</color> 사용 시 소환 성공",
-    "DE": "Druch die Nutzung von <color={0}>x{1} </color>Beschwörungserfolg",
+    "DE": "Durch die Nutzung von <color={0}>x{1} </color>Beschwörungserfolg",
     "FR": "utilisés <color={0}>{1} fois</color> accomplissent une invocation.",
     "ES": "<color={0}>{1} veces</color> para invocar con éxito.",
     "TH": "ใช้เหล่านี้<color={0}>{1}ครั้ง</color>เพื่อเรียกให้สำเร็จ",
@@ -18463,6 +18463,20 @@
     "FR": "{1}/{0}",
     "ES": "{1} de {0}",
     "TH": "เดือน {1} ปี {0}",
+    "VN": ""
+  },
+  {
+    "id": 1320,
+    "TLM": 51269,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "この装備セットの詳細は表示できません",
+    "EN": "Cannot display gear set details.",
+    "KR": "이 장비 세트의 정보는 표시할 수 없습니다.",
+    "DE": "Es können keine Details zu diesem Ausrüstungsset angezeigt werden.",
+    "FR": "Impossible d'afficher les détails de cet ensemble d'équipement.",
+    "ES": "No se pueden mostrar los detalles de este set de equipos.",
+    "TH": "ไม่สามารถแสดงรายละเอียดเซ็ตอุปกรณ์นี้ได้",
     "VN": ""
   }
 ]

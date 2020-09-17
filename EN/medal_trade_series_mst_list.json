@@ -168,6 +168,34 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 49,
+    "name": "Invader medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20200917_medal_invader",
+    "assetBundleName": "792",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 792,
+    "startTime": 1600318800,
+    "endTime": 1602136799,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 51,
+    "name": "Taito medal",
+    "description": "Medal from a collaboration grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "0051",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoire.",
+    "priority": 44,
+    "itemMstId": 794,
+    "startTime": 1600322400,
+    "endTime": 1602169199,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 69,
     "name": "Replicant medal",
     "description": "Medal from a collaboration grimoire.",
