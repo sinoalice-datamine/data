@@ -68,7 +68,7 @@
   {
     "tipsMstId": 7,
     "title": "Guildships Are a Guild's Base",
-    "tips": "Bring down your opponent's Guildship during Skirmish Time to steal tons of their Lifeforce.",
+    "tips": "Bring down your opponent's guildship during Skirmish Time to steal tons of their Lifeforce.",
     "type": 2,
     "rate": 30,
     "characterMstId": 0,
@@ -154,6 +154,17 @@
     "assetBundleName": "tips2"
   },
   {
+    "tipsMstId": 15,
+    "title": "",
+    "tips": "",
+    "type": 4,
+    "rate": 0,
+    "characterMstId": 6,
+    "akbMemberMstId": 0,
+    "resourceName": "006",
+    "assetBundleName": "tips7"
+  },
+  {
     "tipsMstId": 16,
     "title": "",
     "tips": "",
@@ -196,6 +207,17 @@
     "akbMemberMstId": 0,
     "resourceName": "009",
     "assetBundleName": "tips3"
+  },
+  {
+    "tipsMstId": 20,
+    "title": "",
+    "tips": "",
+    "type": 4,
+    "rate": 0,
+    "characterMstId": 10,
+    "akbMemberMstId": 0,
+    "resourceName": "010",
+    "assetBundleName": "tips4"
   },
   {
     "tipsMstId": 21,

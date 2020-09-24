@@ -4780,6 +4780,126 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 503,
+    "characterMstId": 43,
+    "name": "Projectile +30% (Dorothy+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 504,
+    "characterMstId": 43,
+    "name": "Projectile +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 505,
+    "characterMstId": 43,
+    "name": "M.ATK +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 506,
+    "characterMstId": 43,
+    "name": "M.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 507,
+    "characterMstId": 43,
+    "name": "Projectile +10% (Dorothy+ stage)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 508,
+    "characterMstId": 43,
+    "name": "M.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 509,
+    "characterMstId": 43,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 510,
+    "characterMstId": 43,
+    "name": "M.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 511,
+    "characterMstId": 43,
+    "name": "Projectile +10% (Dorothy+ stage)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 512,
+    "characterMstId": 43,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 513,
+    "characterMstId": 43,
+    "name": "M.DEF +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 514,
+    "characterMstId": 43,
+    "name": "M.DEF +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
     "characterAbilityMstId": 515,
     "characterMstId": 44,
     "name": "Instrument +30% (Alice+ stage)",
@@ -4898,6 +5018,126 @@
     "effectType": 1,
     "effectValue": 200,
     "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 527,
+    "characterMstId": 45,
+    "name": "Tome +10% (Dorothy+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 528,
+    "characterMstId": 45,
+    "name": "Tome +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 529,
+    "characterMstId": 45,
+    "name": "M.DEF +50",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 530,
+    "characterMstId": 45,
+    "name": "P.DEF +50",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 531,
+    "characterMstId": 45,
+    "name": "Tome +10% (Dorothy+ stage)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 532,
+    "characterMstId": 45,
+    "name": "M.ATK +50",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 533,
+    "characterMstId": 45,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 534,
+    "characterMstId": 45,
+    "name": "P.ATK +50",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 535,
+    "characterMstId": 45,
+    "name": "Tome +10% (Dorothy+ stage)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 536,
+    "characterMstId": 45,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 537,
+    "characterMstId": 45,
+    "name": "Tome +20% (Dorothy+ stage)",
+    "releaseLevel": 11,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 538,
+    "characterMstId": 45,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
   },
   {
     "characterAbilityMstId": 563,
@@ -5258,6 +5498,126 @@
     "effectType": 3,
     "effectValue": 200,
     "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 917,
+    "characterMstId": 76,
+    "name": "Tome +30% (Snow White+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 918,
+    "characterMstId": 76,
+    "name": "Tome +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 919,
+    "characterMstId": 76,
+    "name": "M.DEF +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 920,
+    "characterMstId": 76,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 921,
+    "characterMstId": 76,
+    "name": "Tome +10% (Snow White+ stage)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 922,
+    "characterMstId": 76,
+    "name": "M.ATK +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 923,
+    "characterMstId": 76,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 924,
+    "characterMstId": 76,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 925,
+    "characterMstId": 76,
+    "name": "Tome +10% (Snow White+ stage)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 926,
+    "characterMstId": 76,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 927,
+    "characterMstId": 76,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 928,
+    "characterMstId": 76,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
   },
   {
     "characterAbilityMstId": 1059,
