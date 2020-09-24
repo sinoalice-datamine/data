@@ -3850,6 +3850,17 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 365,
+    "mapType": 0,
+    "mapGroup": 5,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "淘汰篇",
+    "description": "淘汰篇Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 366,
     "mapType": 1,
     "mapGroup": 224,
@@ -4078,6 +4089,72 @@
     "name": "童歌ノ聖域",
     "description": "「童歌ノ聖域」完全版",
     "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 393,
+    "mapType": 1,
+    "mapGroup": 241,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "理想の三人組",
+    "description": "防具「理想の三人組」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 394,
+    "mapType": 1,
+    "mapGroup": 241,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "理想の三人組Hard",
+    "description": "防具「理想の三人組」Hard",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 395,
+    "mapType": 1,
+    "mapGroup": 244,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "叛逆の機神　第一章",
+    "description": "メダル「叛逆の機神」Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6352&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 396,
+    "mapType": 1,
+    "mapGroup": 245,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "叛逆の機神　第二章",
+    "description": "メダル「叛逆の機神」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6352&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 399,
+    "mapType": 1,
+    "mapGroup": 246,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "叛逆の機神　最終章",
+    "description": "メダル「叛逆の機神」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6352&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 400,
+    "mapType": 1,
+    "mapGroup": 246,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "叛逆の機神Hard",
+    "description": "メダル「叛逆の機神」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6352&&isHideBackButton=1",
     "createdTime": 1483974000
   }
 ]

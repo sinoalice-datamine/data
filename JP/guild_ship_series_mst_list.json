@@ -110,5 +110,29 @@
     "shipPartsBodyMstId": 42,
     "shipPartsRoofMstId": 41,
     "shipPartsAttachedMstId": 43
+  },
+  {
+    "guildShipSeriesMstId": 15,
+    "name": "風装シリーズ(1部)",
+    "description": "第34回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 55,
+    "shipPartsRoofMstId": 54,
+    "shipPartsAttachedMstId": 56
+  },
+  {
+    "guildShipSeriesMstId": 16,
+    "name": "風装シリーズ(2部)",
+    "description": "第34回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 58,
+    "shipPartsRoofMstId": 57,
+    "shipPartsAttachedMstId": 59
+  },
+  {
+    "guildShipSeriesMstId": 17,
+    "name": "風装シリーズ(3部)",
+    "description": "第34回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 61,
+    "shipPartsRoofMstId": 60,
+    "shipPartsAttachedMstId": 62
   }
 ]
