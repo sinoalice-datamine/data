@@ -45980,6 +45980,526 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 4831,
+    "characterMstId": 55,
+    "name": "物理防御+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4832,
+    "characterMstId": 55,
+    "name": "祈祷ジョブ使用時、回復効果2%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5035,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4833,
+    "characterMstId": 125,
+    "name": "Dorothyエリアで長柄10%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4834,
+    "characterMstId": 125,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4835,
+    "characterMstId": 125,
+    "name": "魔法防御+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4836,
+    "characterMstId": 125,
+    "name": "長柄ジョブ使用時、魔法ダメージ2%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5032,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4865,
+    "characterMstId": 383,
+    "name": "Mermaidエリアで射出30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4866,
+    "characterMstId": 383,
+    "name": "射出10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4867,
+    "characterMstId": 383,
+    "name": "魔法防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4868,
+    "characterMstId": 383,
+    "name": "魔法攻撃+1000",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 1000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4869,
+    "characterMstId": 383,
+    "name": "Mermaidエリアで射出10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4870,
+    "characterMstId": 383,
+    "name": "物理防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4871,
+    "characterMstId": 383,
+    "name": "Mermaidエリアで射出20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4872,
+    "characterMstId": 383,
+    "name": "HP+1000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4873,
+    "characterMstId": 383,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4874,
+    "characterMstId": 383,
+    "name": "射出ジョブ使用時、魔法ダメージ2%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5031,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4875,
+    "characterMstId": 383,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4876,
+    "characterMstId": 383,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4877,
+    "characterMstId": 383,
+    "name": "魔法防御+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4878,
+    "characterMstId": 383,
+    "name": "魔法攻撃+1200",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 1200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4879,
+    "characterMstId": 384,
+    "name": "SnowWhiteエリアで祈祷30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4880,
+    "characterMstId": 384,
+    "name": "祈祷10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4881,
+    "characterMstId": 384,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4882,
+    "characterMstId": 384,
+    "name": "魔法防御+1000",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 1000,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4883,
+    "characterMstId": 384,
+    "name": "SnowWhiteエリアで祈祷10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4884,
+    "characterMstId": 384,
+    "name": "物理攻撃+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4885,
+    "characterMstId": 384,
+    "name": "SnowWhiteエリアで祈祷20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4886,
+    "characterMstId": 384,
+    "name": "HP+1000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1000,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4887,
+    "characterMstId": 384,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4888,
+    "characterMstId": 384,
+    "name": "祈祷ジョブ使用時、回復効果2%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5035,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4889,
+    "characterMstId": 384,
+    "name": "魔法防御+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4890,
+    "characterMstId": 384,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4891,
+    "characterMstId": 384,
+    "name": "物理防御+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4892,
+    "characterMstId": 384,
+    "name": "物理防御+1200",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 1200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4893,
+    "characterMstId": 385,
+    "name": "Pinocchioエリアで楽器30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4894,
+    "characterMstId": 385,
+    "name": "楽器10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4895,
+    "characterMstId": 385,
+    "name": "魔法防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4896,
+    "characterMstId": 385,
+    "name": "魔法攻撃+1000",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 1000,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4897,
+    "characterMstId": 385,
+    "name": "Pinocchioエリアで楽器10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4898,
+    "characterMstId": 385,
+    "name": "物理防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4899,
+    "characterMstId": 385,
+    "name": "Pinocchioエリアで楽器20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4900,
+    "characterMstId": 385,
+    "name": "HP+1000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1000,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4901,
+    "characterMstId": 385,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4902,
+    "characterMstId": 385,
+    "name": "楽器ジョブ使用時、バフ効果2%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5033,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4903,
+    "characterMstId": 385,
+    "name": "物理攻撃+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4904,
+    "characterMstId": 385,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4905,
+    "characterMstId": 385,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4906,
+    "characterMstId": 385,
+    "name": "物理攻撃+1200",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 1200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4907,
+    "characterMstId": 28,
+    "name": "物理攻撃+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4908,
+    "characterMstId": 28,
+    "name": "刀剣ジョブ使用時、物理ダメージ2%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5029,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4909,
+    "characterMstId": 49,
+    "name": "物理防御+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4910,
+    "characterMstId": 49,
+    "name": "打撃ジョブ使用時、物理ダメージ2%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5030,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 4911,
     "characterMstId": 78,
     "name": "Gretelエリアで長柄10%UP",
@@ -45998,5 +46518,45 @@
     "effectType": 7,
     "effectValue": 2,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4941,
+    "characterMstId": 258,
+    "name": "Rapunzelエリアで射出10%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4942,
+    "characterMstId": 258,
+    "name": "魔法防御+400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4943,
+    "characterMstId": 258,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4944,
+    "characterMstId": 258,
+    "name": "射出ジョブ使用時、魔法ダメージ2%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5031,
+    "cardDetailType": 7
   }
 ]

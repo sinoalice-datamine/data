@@ -11700,6 +11700,24 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 1460,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 4359,
+    "isAlways": false,
+    "name": "10月ピックアップガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅹ)\r\n枚数：1回ガチャで10枚、11回ガチャで100枚\r\n有効期限：2020年11月7日23:59",
+    "priority": 120,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=6328&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 1490,
     "gachaGroupId": 3,
     "topBannerMstId": 0,
@@ -16450,5 +16468,23 @@
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",
     "createdTime": 1467266430
+  },
+  {
+    "gachaSeriesMstId": 102210,
+    "gachaGroupId": 5,
+    "topBannerMstId": 0,
+    "bannerMstId": 4367,
+    "isAlways": false,
+    "name": "聖ノ祝祭",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅹ)\r\n枚数：STEP1～2で各50枚　STEP3～5で各100枚\r\n有効期限：2020年11月7日23:59",
+    "priority": 15000,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=6345&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266414
   }
 ]
