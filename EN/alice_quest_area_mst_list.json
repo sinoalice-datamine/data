@@ -1853,6 +1853,23 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 168,
+    "questMapMstId": 31,
+    "name": "Nightmare on the Hill",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/47",
+    "bgResourceName": "0047",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 253,
     "questMapMstId": 3,
     "name": "Book of Gluttony",
