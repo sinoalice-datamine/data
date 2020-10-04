@@ -46520,6 +46520,286 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 4913,
+    "characterMstId": 380,
+    "name": "Aliceエリアで刀剣30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4914,
+    "characterMstId": 380,
+    "name": "刀剣10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4915,
+    "characterMstId": 380,
+    "name": "物理防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4916,
+    "characterMstId": 380,
+    "name": "魔法防御+1200",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 1200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4917,
+    "characterMstId": 380,
+    "name": "Aliceエリアで刀剣10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4918,
+    "characterMstId": 380,
+    "name": "魔法防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4919,
+    "characterMstId": 380,
+    "name": "Aliceエリアで刀剣20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4920,
+    "characterMstId": 380,
+    "name": "物理防御+1200",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 1200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4921,
+    "characterMstId": 380,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4922,
+    "characterMstId": 380,
+    "name": "刀剣ジョブで被ダメージ時、防御50%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5327,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4923,
+    "characterMstId": 380,
+    "name": "物理攻撃+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4924,
+    "characterMstId": 380,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4925,
+    "characterMstId": 380,
+    "name": "物理防御+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4926,
+    "characterMstId": 380,
+    "name": "HP+3000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 3000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4927,
+    "characterMstId": 381,
+    "name": "Ibarahimeエリアで魔書30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4928,
+    "characterMstId": 381,
+    "name": "魔書10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4929,
+    "characterMstId": 381,
+    "name": "物理防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4930,
+    "characterMstId": 381,
+    "name": "魔法防御+400",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4931,
+    "characterMstId": 381,
+    "name": "Ibarahimeエリアで魔書10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4932,
+    "characterMstId": 381,
+    "name": "魔法防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4933,
+    "characterMstId": 381,
+    "name": "Ibarahimeエリアで魔書10%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4934,
+    "characterMstId": 381,
+    "name": "物理攻撃+1000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 1000,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4935,
+    "characterMstId": 381,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4936,
+    "characterMstId": 381,
+    "name": "風属性武器使用時、デバフ効果3%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5322,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4937,
+    "characterMstId": 381,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4938,
+    "characterMstId": 381,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4939,
+    "characterMstId": 381,
+    "name": "物理攻撃+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4940,
+    "characterMstId": 381,
+    "name": "魔法攻撃+1000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 1000,
+    "cardDetailType": 2
+  },
+  {
     "characterAbilityMstId": 4941,
     "characterMstId": 258,
     "name": "Rapunzelエリアで射出10%UP",
