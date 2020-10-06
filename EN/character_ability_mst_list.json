@@ -5500,6 +5500,126 @@
     "cardDetailType": 7
   },
   {
+    "characterAbilityMstId": 869,
+    "characterMstId": 64,
+    "name": "Projectile +30% (Snow White+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 870,
+    "characterMstId": 64,
+    "name": "Blade -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 871,
+    "characterMstId": 64,
+    "name": "Polearm -25%",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 872,
+    "characterMstId": 64,
+    "name": "Blade -25%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 873,
+    "characterMstId": 64,
+    "name": "Polearm -25%",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 874,
+    "characterMstId": 64,
+    "name": "Blade -25%",
+    "releaseLevel": 6,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 875,
+    "characterMstId": 64,
+    "name": "Polearm -25%",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 876,
+    "characterMstId": 64,
+    "name": "Projectile +15%",
+    "releaseLevel": 8,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 877,
+    "characterMstId": 64,
+    "name": "P.DEF +500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 878,
+    "characterMstId": 64,
+    "name": "Projectile +15%",
+    "releaseLevel": 10,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 879,
+    "characterMstId": 64,
+    "name": "M.ATK +500",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 880,
+    "characterMstId": 64,
+    "name": "Projectile +5%",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 7
+  },
+  {
     "characterAbilityMstId": 893,
     "characterMstId": 75,
     "name": "Blade +30% (Three Little Pigs+ stage)",
