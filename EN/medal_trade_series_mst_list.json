@@ -154,6 +154,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 19,
+    "name": "Cake Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item29",
+    "assetBundleName": "0339",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 29,
+    "itemMstId": 339,
+    "startTime": 1602136800,
+    "endTime": 1603346399,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 33,
     "name": "Clam Medal",
     "description": "Medal collected by Parrah-Noya.",

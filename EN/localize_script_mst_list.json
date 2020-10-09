@@ -14289,7 +14289,7 @@
     "KR": "{0}의 {1}을(를)",
     "DE": "{0} {1} um",
     "FR": "Augm. {1} de {0} de",
-    "ES": "Aumentar espacios del {1} del {0}",
+    "ES": "Aumentar espacios de {1} de {0}",
     "TH": "ขยาย{1}ของ{0}",
     "VN": "{1} của {0}"
   },
@@ -14775,7 +14775,7 @@
     "Type": 0,
     "GameKey": "SCRIPT/1045",
     "JP": "開催期間：",
-    "EN": "Event Period:",
+    "EN": "Event Period: ",
     "KR": "개최 기간: ",
     "DE": "Eventzeitraum:",
     "FR": "Période de l'événement :",
@@ -18505,6 +18505,20 @@
     "FR": "<color=#B42F00FF>{0}</color> obtient <color=#B42F00FF>{1}</color>",
     "ES": "<color=#B42F00FF>{0}</color> obtuvo <color=#B42F00FF>{1}</color>",
     "TH": "<color=#B42F00FF>{0}</color> เก็บ<color=#B42F00FF>{1}</color>",
+    "VN": ""
+  },
+  {
+    "id": 1323,
+    "TLM": 51391,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "魔晶石を<color=#B42F00>{0}個</color>消費して{1}{2}回ガチャとセットアイテムを購入しますか？",
+    "EN": "Use <color=#B42F00>{0}</color> twilight crystals to purchase {1}{2} grimoire summon(s) with item set?",
+    "KR": "마정석 <color=#B42F00>{0}개를 </color>소비하여 {1}{2}회 뽑기와 세트 아이템을 구매하시겠습니까?",
+    "DE": "",
+    "FR": "Souhaitez-vous utiliser <color=#B42F00>{0} cristaux crépusculaires</color> pour acheter {1}{2} tirages de Grimoire et un ensemble d'objets ?",
+    "ES": "¿Consumirás <color=#B42F00>{0}, y comprarás un set de {1}{2} grimorios y objetos?",
+    "TH": "ใช้คริสตัลสนธยา<color=#B42F00>{0}ชิ้น</color>เพื่อซื้อกรีมัวร์{1}{2}ครั้งกับเซ็ตไอเท็มไหม?",
     "VN": ""
   }
 ]

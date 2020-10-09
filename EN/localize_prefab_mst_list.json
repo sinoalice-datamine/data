@@ -15466,7 +15466,7 @@
     "DE": "*Du kannst bis zu 20 gleichzeitig erhalten.",
     "FR": "*Vous pouvez en recevoir jusqu’à 20 à la fois.",
     "ES": "* Podrías recibir hasta 20 a la vez.",
-    "TH": "*สามารถรับรับทั้งหมดได้สูงสุด x20 ต่อครั้ง",
+    "TH": "*สามารถรับทั้งหมดได้สูงสุด x20 ต่อครั้ง",
     "VN": "*Có thể chấp nhận tối đa 20 vật phẩm cùng lúc."
   },
   {
@@ -16023,7 +16023,7 @@
     "JP": "現在のメダル獲得数",
     "EN": "Current Medals Earned",
     "KR": "현재 메달 획득 수",
-    "DE": "Aktuelle Anzahl erhaltener Tickets",
+    "DE": "Aktuelle Anzahl erhaltener Medaillen",
     "FR": "Nbre de médailles actuel",
     "ES": "Nº medallas obt. en estos momentos",
     "TH": "จำนวนตั๋วเหรียญที่ได้รับ",
@@ -16567,11 +16567,11 @@
     "Type": 0,
     "GameKey": "PREFAB",
     "JP": "{0}年{1}月{2}日 ～ {3}年{4}月{5}日 {6}",
-    "EN": "{1}/{2}/{0} ~ {4}/{5}/{3} at {6}",
+    "EN": "{0}/{1}/{2} to {3}/{4}/{5} at {6}",
     "KR": "{0}년 {1}월 {2}일 ~ {3}년 {4}월 {5}일 {6}",
     "DE": "{2}.{1}.{0} - {5}.{4}.{3} {6}",
     "FR": "Du {2}.{1}.{0} au {5}.{4}.{3} à {6}.",
-    "ES": "{2} {1} {0} ~ {4} {5} {3} {6}",
+    "ES": "{2} {1} {0} ~  {5} {4}{3} {6}",
     "TH": "วันที่ {2} เดือน {1} ปี {0} - วันที่ {5} เดือน {4} ปี {3} เวลา {6}น.",
     "VN": ""
   },
@@ -16584,7 +16584,7 @@
     "EN": "Contribution rankings for match {0} are now up-to-date.",
     "KR": "제{0}시합의 기여도 랭킹 집계가 끝났습니다.",
     "DE": "Die Auszählung der {0}. Beitragsrangliste ist abgeschlossen.",
-    "FR": "{0}e(r)(me) combat : classements des contributions à jour.",
+    "FR": "Combat nº {0} : classements des contributions à jour.",
     "ES": "Las clasificaciones de aportaciones del {0}º combate han sido completadas.",
     "TH": "ประมวลผลจัดอันดับการทุ่มเทในการแข่งขันครั้งที่ {0} เสร็จแล้ว",
     "VN": ""
