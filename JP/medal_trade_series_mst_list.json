@@ -2864,6 +2864,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 193,
+    "name": "禍メダル",
+    "description": "レイドイベント「精霊奉葬」で武勲を得た者のみ得られるメダル\r\n※2020年10月20日23:59まで",
+    "resourceName": "item20190115",
+    "assetBundleName": "934",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "レイドイベントの報酬で獲得できます。\r\n※有効期限2020年10月20日23:59まで",
+    "priority": 5,
+    "itemMstId": 2568,
+    "startTime": 1601960400,
+    "endTime": 1603205999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 194,
     "name": "ヨクボウメダル(Ⅹ)",
     "description": "ガチャで獲得できるメダル\r\n※2020年11月7日23:59まで",

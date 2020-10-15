@@ -4092,6 +4092,61 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 388,
+    "mapType": 1,
+    "mapGroup": 236,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "精霊奇譚",
+    "description": "レイド「精霊奇譚_シナリオ」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 389,
+    "mapType": 1,
+    "mapGroup": 237,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "精霊邂逅",
+    "description": "レイド「精霊奇譚_エンカウント」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 390,
+    "mapType": 1,
+    "mapGroup": 238,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "精霊邂逅",
+    "description": "レイド「精霊奇譚_エンカウント」Hard",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 391,
+    "mapType": 1,
+    "mapGroup": 239,
+    "mapGroupLv": 3,
+    "mapCategory": 0,
+    "name": "精霊邂逅",
+    "description": "レイド「精霊奇譚_エンカウント」Extreme",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 392,
+    "mapType": 1,
+    "mapGroup": 240,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "怠熊の精霊",
+    "description": "レイド自体のクエスト用",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 393,
     "mapType": 1,
     "mapGroup": 241,
@@ -4177,6 +4232,39 @@
     "name": "叛逆の機神Hard",
     "description": "メダル「叛逆の機神」Hard",
     "announceUrl": "/web/announce/body?announceMstId=6352&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 403,
+    "mapType": 1,
+    "mapGroup": 248,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "嘘ツキ狐ノ小サナ真実",
+    "description": "防具「嘘ツキ狐ノ小サナ真実」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 404,
+    "mapType": 1,
+    "mapGroup": 248,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "嘘ツキ狐ノ小サナ真実Hard",
+    "description": "防具「嘘ツキ狐ノ小サナ真実」Hard",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 405,
+    "mapType": 1,
+    "mapGroup": 136,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "凋弊ノ塑像Hard",
+    "description": "討伐「凋弊ノ塑像」Hard",
+    "announceUrl": "",
     "createdTime": 1483974000
   }
 ]

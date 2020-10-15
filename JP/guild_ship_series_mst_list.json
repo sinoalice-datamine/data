@@ -134,5 +134,29 @@
     "shipPartsBodyMstId": 61,
     "shipPartsRoofMstId": 60,
     "shipPartsAttachedMstId": 62
+  },
+  {
+    "guildShipSeriesMstId": 18,
+    "name": "羽装シリーズ(1部)",
+    "description": "第35回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 64,
+    "shipPartsRoofMstId": 63,
+    "shipPartsAttachedMstId": 65
+  },
+  {
+    "guildShipSeriesMstId": 19,
+    "name": "羽装シリーズ(2部)",
+    "description": "第35回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 67,
+    "shipPartsRoofMstId": 66,
+    "shipPartsAttachedMstId": 68
+  },
+  {
+    "guildShipSeriesMstId": 20,
+    "name": "羽装シリーズ(3部)",
+    "description": "第35回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 70,
+    "shipPartsRoofMstId": 69,
+    "shipPartsAttachedMstId": 71
   }
 ]

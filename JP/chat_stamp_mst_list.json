@@ -1622,5 +1622,47 @@
     "startTime": 1598342400,
     "endTime": 1599544799,
     "createdTime": null
+  },
+  {
+    "chatStampMstId": 121,
+    "name": "三匹の子豚/いってくるね",
+    "resourceName": "121",
+    "assetBundleName": "chat39",
+    "filterType": 12,
+    "howToGet": "レイドイベント「精霊奉葬」獲得可能",
+    "itemMstId": 2569,
+    "replaceMessage": "[*121]",
+    "isAnytime": 0,
+    "startTime": 1601960400,
+    "endTime": 1603205999,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 122,
+    "name": "三匹の子豚/宣材写真",
+    "resourceName": "122",
+    "assetBundleName": "chat39",
+    "filterType": 12,
+    "howToGet": "レイドイベント「精霊奉葬」獲得可能",
+    "itemMstId": 2570,
+    "replaceMessage": "[*122]",
+    "isAnytime": 0,
+    "startTime": 1601960400,
+    "endTime": 1603205999,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 123,
+    "name": "三匹の子豚/この武器すごいよ",
+    "resourceName": "123",
+    "assetBundleName": "chat39",
+    "filterType": 12,
+    "howToGet": "レイドイベント「精霊奉葬」獲得可能",
+    "itemMstId": 2571,
+    "replaceMessage": "[*123]",
+    "isAnytime": 0,
+    "startTime": 1601960400,
+    "endTime": 1603205999,
+    "createdTime": null
   }
 ]
