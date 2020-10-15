@@ -200,6 +200,16 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 43,
+    "mapType": 1,
+    "mapGroup": 25,
+    "mapGroupLv": 1,
+    "name": "Prison of the Abyss",
+    "description": "Mini-Tower",
+    "announceUrl": "",
+    "createdTime": 1581260400
+  },
+  {
     "questMapMstId": 57,
     "mapType": 1,
     "mapGroup": 33,
@@ -217,6 +227,16 @@
     "name": "Memory of Judgment",
     "description": "Memory of Judgment (Hard)",
     "announceUrl": "/web/announce/body?announceMstId=552&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 59,
+    "mapType": 0,
+    "mapGroup": 3,
+    "mapGroupLv": 1,
+    "name": "Act of Reality",
+    "description": "Story of Reality (Normal)",
+    "announceUrl": "",
     "createdTime": 1483974000
   },
   {

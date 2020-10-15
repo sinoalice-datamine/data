@@ -390,6 +390,21 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 41,
+    "gachaGroupId": 3,
+    "bannerMstId": 900015,
+    "isAlways": false,
+    "name": "Bloodstained Cloak",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The items from this grimoire are as follows:\\nItem: Medal of Desire (Ⅹ)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\nItem: Gran Election Ballot\\nAmount: 500 ballots from grimoire x1, 5,000 ballots from grimoire x11\\nMedal of desire (X)s and ballots from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 140,
+    "announceUrl": "/web/announce/body?announceMstId=259&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 43,
     "gachaGroupId": 3,
     "bannerMstId": 124,
@@ -579,6 +594,21 @@
     "noticeMessage": "Note: No medal of desires are received with this grimoire.",
     "priority": 3,
     "announceUrl": "/web/announce/body?announceMstId=221&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 900001,
+    "gachaGroupId": 3,
+    "bannerMstId": 117,
+    "isAlways": false,
+    "name": "Bloodstained Cloak",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅹ)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-Medal of desire (Ⅹ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 17,
+    "announceUrl": "/web/announce/body?announceMstId=259&isHideBackButton=1",
     "seriesResourceName": "",
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",

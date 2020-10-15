@@ -368,6 +368,22 @@
     "createdTime": 1498802400
   },
   {
+    "gachaBonusMstId": 88,
+    "gachaMstId": 71,
+    "objectType": 1,
+    "objectId": 159,
+    "num": 10,
+    "createdTime": 1498802400
+  },
+  {
+    "gachaBonusMstId": 89,
+    "gachaMstId": 72,
+    "objectType": 1,
+    "objectId": 159,
+    "num": 100,
+    "createdTime": 1498802400
+  },
+  {
     "gachaBonusMstId": 92,
     "gachaMstId": 75,
     "objectType": 1,
@@ -493,6 +509,38 @@
     "objectType": 1,
     "objectId": 156,
     "num": 100,
+    "createdTime": 1498802400
+  },
+  {
+    "gachaBonusMstId": 900001,
+    "gachaMstId": 900001,
+    "objectType": 1,
+    "objectId": 159,
+    "num": 10,
+    "createdTime": 1498802400
+  },
+  {
+    "gachaBonusMstId": 900002,
+    "gachaMstId": 900002,
+    "objectType": 1,
+    "objectId": 159,
+    "num": 100,
+    "createdTime": 1498802400
+  },
+  {
+    "gachaBonusMstId": 900003,
+    "gachaMstId": 71,
+    "objectType": 1,
+    "objectId": 900010,
+    "num": 500,
+    "createdTime": 1498802400
+  },
+  {
+    "gachaBonusMstId": 900004,
+    "gachaMstId": 72,
+    "objectType": 1,
+    "objectId": 900010,
+    "num": 5000,
     "createdTime": 1498802400
   }
 ]
