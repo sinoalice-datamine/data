@@ -238,6 +238,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 54,
+    "name": "Halloween medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20201020_medal_halloween",
+    "assetBundleName": "0840",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 840,
+    "startTime": 1603173600,
+    "endTime": 1604987999,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 69,
     "name": "Replicant medal",
     "description": "Medal from a collaboration grimoire.",

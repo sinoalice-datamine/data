@@ -43,7 +43,7 @@
   },
   {
     "chatStampMstId": 4,
-    "name": "Snow White/You’re hopeless...",
+    "name": "Snow White/You're hopeless...",
     "resourceName": "002",
     "assetBundleName": "chat1",
     "filterType": 2,
@@ -280,6 +280,20 @@
     "createdTime": null
   },
   {
+    "chatStampMstId": 25,
+    "name": "Pinocchio/NOPE",
+    "resourceName": "029",
+    "assetBundleName": "chat2",
+    "filterType": 5,
+    "howToGet": "Obtainable from the Gran Election #1 event",
+    "itemMstId": 900057,
+    "replaceMessage": "[*029]",
+    "isAnytime": 0,
+    "startTime": 1603173600,
+    "endTime": 1603778399,
+    "createdTime": null
+  },
+  {
     "chatStampMstId": 31,
     "name": "ドロシー/うんうん",
     "resourceName": "038",
@@ -406,6 +420,20 @@
     "createdTime": null
   },
   {
+    "chatStampMstId": 46,
+    "name": "Parrah and Noya/Just grinding...",
+    "resourceName": "041",
+    "assetBundleName": "chat4",
+    "filterType": 99,
+    "howToGet": "Obtainable from the Gran Election #1 event",
+    "itemMstId": 900056,
+    "replaceMessage": "[*041]",
+    "isAnytime": 0,
+    "startTime": 1603173600,
+    "endTime": 1603778399,
+    "createdTime": null
+  },
+  {
     "chatStampMstId": 48,
     "name": "三匹の子豚/oeeee",
     "resourceName": "046",
@@ -420,6 +448,20 @@
     "createdTime": null
   },
   {
+    "chatStampMstId": 49,
+    "name": "Nightmare/LOL",
+    "resourceName": "045",
+    "assetBundleName": "chat4",
+    "filterType": 99,
+    "howToGet": "Obtainable from the Gran Election #1 event",
+    "itemMstId": 900055,
+    "replaceMessage": "[*045]",
+    "isAnytime": 0,
+    "startTime": 1603173600,
+    "endTime": 1603778399,
+    "createdTime": null
+  },
+  {
     "chatStampMstId": 55,
     "name": "Pinocchio/Yippee!",
     "resourceName": "055",
@@ -431,6 +473,34 @@
     "isAnytime": 1,
     "startTime": 1593529200,
     "endTime": 1915509600,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 56,
+    "name": "Cinderella/Graaawr!",
+    "resourceName": "056",
+    "assetBundleName": "chat6",
+    "filterType": 4,
+    "howToGet": "Obtainable from the Halloween event.",
+    "itemMstId": 841,
+    "replaceMessage": "[*056]",
+    "isAnytime": 0,
+    "startTime": 1603173600,
+    "endTime": 1604987999,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 57,
+    "name": "The Little Mermaid/Say aaah~",
+    "resourceName": "057",
+    "assetBundleName": "chat6",
+    "filterType": 6,
+    "howToGet": "Obtainable from the Halloween event.",
+    "itemMstId": 842,
+    "replaceMessage": "[*057]",
+    "isAnytime": 0,
+    "startTime": 1603173600,
+    "endTime": 1604987999,
     "createdTime": null
   },
   {
@@ -463,7 +533,7 @@
   },
   {
     "chatStampMstId": 76,
-    "name": "Cinderella/Don’t underestimate me!",
+    "name": "Cinderella/Don't underestimate me!",
     "resourceName": "076",
     "assetBundleName": "chat15",
     "filterType": 4,
@@ -477,7 +547,7 @@
   },
   {
     "chatStampMstId": 96,
-    "name": "Princess Kaguya/That’s great ♡",
+    "name": "Princess Kaguya/That's great ♡",
     "resourceName": "096",
     "assetBundleName": "chat24",
     "filterType": 9,

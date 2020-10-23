@@ -1456,6 +1456,20 @@
     "createdTime": 1485961226
   },
   {
+    "battleEffectMstId": 149,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 500,
+    "additionalPositionZ": 0,
+    "magnificationScale": 150,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_halloween_quest",
+    "cueName": "se_halloween_quest@001_R",
+    "createdTime": 1485961226
+  },
+  {
     "battleEffectMstId": 167,
     "positionType": 1,
     "additionalPositionX": 0,
