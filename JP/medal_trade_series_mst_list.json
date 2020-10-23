@@ -2942,5 +2942,37 @@
     "endTime": 1601996399,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 198,
+    "name": "ハロウィンメダル",
+    "description": "ギシンアンキが集めているメダル※2020年11月3日23:59まで",
+    "resourceName": "item20181025_medal",
+    "assetBundleName": "0840",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2020年11月3日23:59まで",
+    "priority": 43,
+    "itemMstId": 2656,
+    "startTime": 1603087200,
+    "endTime": 1604415599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 201,
+    "name": "ナイトメアメダル",
+    "description": "魔晶石購入特典のナイトメアと交換できるメダル\r\n※2020年11月3日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "0201",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ナイトメアメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2020年11月3日23:59まで",
+    "priority": 37,
+    "itemMstId": 2669,
+    "startTime": 1603087200,
+    "endTime": 1604415599,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]

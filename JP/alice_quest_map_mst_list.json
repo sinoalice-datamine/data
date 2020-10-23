@@ -4266,5 +4266,49 @@
     "description": "討伐「凋弊ノ塑像」Hard",
     "announceUrl": "",
     "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 406,
+    "mapType": 1,
+    "mapGroup": 249,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "欺瞞ト狂乱ノ収穫祭",
+    "description": "メダル「欺瞞ト狂乱ノ収穫祭」Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6466&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 407,
+    "mapType": 1,
+    "mapGroup": 249,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "欺瞞ト狂乱ノ収穫祭Hard",
+    "description": "メダル「欺瞞ト狂乱ノ収穫祭」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6466&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 408,
+    "mapType": 1,
+    "mapGroup": 250,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "執事達ノ饗宴",
+    "description": "CP「執事達ノ饗宴」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 409,
+    "mapType": 1,
+    "mapGroup": 251,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "子豚、三匹の願い",
+    "description": "メダル「子豚、三匹の願い」",
+    "announceUrl": "",
+    "createdTime": 1483974000
   }
 ]
