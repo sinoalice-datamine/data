@@ -168,6 +168,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 18,
+    "name": "Medal of Desire (XI)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "0003",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoire.",
+    "priority": 28,
+    "itemMstId": 160,
+    "startTime": 1603778400,
+    "endTime": 1607612399,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 19,
     "name": "Cake Medal",
     "description": "Medal collected by Parrah-Noya.",
