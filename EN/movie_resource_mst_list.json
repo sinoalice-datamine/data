@@ -84,6 +84,27 @@
     "vibStartTime": -1.0
   },
   {
+    "movieResourceMstId": 8,
+    "movieTitle": "Act of Reality Intermission",
+    "resourceName": "QuestResultReal0410Movie",
+    "isPreDownLoad": 0,
+    "type": 8,
+    "value": 59,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1604037600,
+    "endTime": 1922594400,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "Bug if No Conditions shows",
+    "thumbAssetBundleName": "museumthumbnail/8",
+    "thumbResourceName": "QuestResultReal0410Movie",
+    "museumStartTime": 1604037600,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0
+  },
+  {
     "movieResourceMstId": 11,
     "movieTitle": "3rd Gran Colosseum Opening",
     "resourceName": "GvGEventMovie",

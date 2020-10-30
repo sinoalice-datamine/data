@@ -5860,6 +5860,246 @@
     "cardDetailType": 4
   },
   {
+    "characterAbilityMstId": 659,
+    "characterMstId": 56,
+    "name": "Blade +30% (Alice+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 660,
+    "characterMstId": 56,
+    "name": "Blade +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 661,
+    "characterMstId": 56,
+    "name": "P.ATK +10",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 662,
+    "characterMstId": 56,
+    "name": "P.DEF +20",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 20,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 663,
+    "characterMstId": 56,
+    "name": "M.ATK +30",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 664,
+    "characterMstId": 56,
+    "name": "M.DEF +40",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 40,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 665,
+    "characterMstId": 56,
+    "name": "M.DEF +70",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 70,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 666,
+    "characterMstId": 56,
+    "name": "M.ATK +80",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 80,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 667,
+    "characterMstId": 56,
+    "name": "P.DEF +90",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 90,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 668,
+    "characterMstId": 56,
+    "name": "P.ATK +100",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 669,
+    "characterMstId": 56,
+    "name": "Blade +20% (Alice+ stage)",
+    "releaseLevel": 11,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 670,
+    "characterMstId": 56,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 715,
+    "characterMstId": 60,
+    "name": "Heavy +50% (Red Riding Hood+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 716,
+    "characterMstId": 60,
+    "name": "Heavy +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 717,
+    "characterMstId": 60,
+    "name": "P.ATK +10",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 718,
+    "characterMstId": 60,
+    "name": "P.DEF +30",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 719,
+    "characterMstId": 60,
+    "name": "M.ATK +50",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 720,
+    "characterMstId": 60,
+    "name": "M.DEF +70",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 70,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 721,
+    "characterMstId": 60,
+    "name": "M.DEF +90",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 90,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 722,
+    "characterMstId": 60,
+    "name": "M.ATK +110",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 110,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 723,
+    "characterMstId": 60,
+    "name": "P.DEF +130",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 130,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 724,
+    "characterMstId": 60,
+    "name": "P.ATK +150",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 725,
+    "characterMstId": 60,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 726,
+    "characterMstId": 60,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 869,
     "characterMstId": 64,
     "name": "Projectile +30% (Snow White+ stage)",

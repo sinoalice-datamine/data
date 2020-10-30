@@ -526,5 +526,82 @@
     "description": "Increases the effectiveness of wind polearm skills.",
     "maxLevel": 15,
     "createdTime": 1484060400
+  },
+  {
+    "protectorSkillMstId": 49,
+    "cardMstId": 0,
+    "attribute": 9,
+    "cardDetailType": 1,
+    "rate": 3,
+    "name": "Instrument Merit",
+    "description": "Slightly increases the effectiveness of instrument skills.",
+    "maxLevel": 15,
+    "createdTime": 1484060400
+  },
+  {
+    "protectorSkillMstId": 51,
+    "cardMstId": 0,
+    "attribute": 9,
+    "cardDetailType": 2,
+    "rate": 3,
+    "name": "Tome Merit",
+    "description": "Slightly increases the effectiveness of tome skills.",
+    "maxLevel": 15,
+    "createdTime": 1484060400
+  },
+  {
+    "protectorSkillMstId": 55,
+    "cardMstId": 0,
+    "attribute": 9,
+    "cardDetailType": 4,
+    "rate": 3,
+    "name": "Staff Merit",
+    "description": "Slightly increases the effectiveness of staff skills.",
+    "maxLevel": 15,
+    "createdTime": 1484060400
+  },
+  {
+    "protectorSkillMstId": 57,
+    "cardMstId": 0,
+    "attribute": 9,
+    "cardDetailType": 5,
+    "rate": 3,
+    "name": "Blade Merit",
+    "description": "Slightly increases the effectiveness of blade skills.",
+    "maxLevel": 15,
+    "createdTime": 1484060400
+  },
+  {
+    "protectorSkillMstId": 59,
+    "cardMstId": 0,
+    "attribute": 9,
+    "cardDetailType": 6,
+    "rate": 3,
+    "name": "Heavy Merit",
+    "description": "Slightly increases the effectiveness of heavy skills.",
+    "maxLevel": 15,
+    "createdTime": 1484060400
+  },
+  {
+    "protectorSkillMstId": 61,
+    "cardMstId": 0,
+    "attribute": 9,
+    "cardDetailType": 7,
+    "rate": 3,
+    "name": "Projectile Merit",
+    "description": "Slightly increases the effectiveness of projectile skills.",
+    "maxLevel": 15,
+    "createdTime": 1484060400
+  },
+  {
+    "protectorSkillMstId": 63,
+    "cardMstId": 0,
+    "attribute": 9,
+    "cardDetailType": 8,
+    "rate": 3,
+    "name": "Polearm Merit",
+    "description": "Slightly increases the effectiveness of polearm skills.",
+    "maxLevel": 15,
+    "createdTime": 1484060400
   }
 ]
