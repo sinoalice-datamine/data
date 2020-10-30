@@ -1115,8 +1115,8 @@
     "itemMstId": 1351,
     "replaceMessage": "[*080]",
     "isAnytime": 0,
-    "startTime": 1596088800,
-    "endTime": 1598799599,
+    "startTime": 1603951200,
+    "endTime": 1606661999,
     "createdTime": null
   },
   {
@@ -1171,8 +1171,8 @@
     "itemMstId": 1698,
     "replaceMessage": "[*084]",
     "isAnytime": 0,
-    "startTime": 1596088800,
-    "endTime": 1598799599,
+    "startTime": 1603951200,
+    "endTime": 1606661999,
     "createdTime": null
   },
   {
@@ -1367,8 +1367,8 @@
     "itemMstId": 1958,
     "replaceMessage": "[*099]",
     "isAnytime": 0,
-    "startTime": 1596088800,
-    "endTime": 1598799599,
+    "startTime": 1603951200,
+    "endTime": 1606661999,
     "createdTime": null
   },
   {
@@ -1521,8 +1521,8 @@
     "itemMstId": 2292,
     "replaceMessage": "[*113]",
     "isAnytime": 0,
-    "startTime": 1596088800,
-    "endTime": 1598799599,
+    "startTime": 1603951200,
+    "endTime": 1606661999,
     "createdTime": null
   },
   {
@@ -1563,8 +1563,8 @@
     "itemMstId": 2481,
     "replaceMessage": "[*116]",
     "isAnytime": 0,
-    "startTime": 1596088800,
-    "endTime": 1598799599,
+    "startTime": 1603951200,
+    "endTime": 1606661999,
     "createdTime": null
   },
   {
@@ -1663,6 +1663,20 @@
     "isAnytime": 0,
     "startTime": 1601960400,
     "endTime": 1603205999,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 124,
+    "name": "人魚姫/かわいそう…",
+    "resourceName": "124",
+    "assetBundleName": "chat40",
+    "filterType": 6,
+    "howToGet": "配当メダル・シン交換所で獲得可能",
+    "itemMstId": 2693,
+    "replaceMessage": "[*124]",
+    "isAnytime": 0,
+    "startTime": 1603951200,
+    "endTime": 1606661999,
     "createdTime": null
   }
 ]

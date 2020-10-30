@@ -3262,6 +3262,34 @@
     "createdTime": 1485961200
   },
   {
+    "battleEffectMstId": 249,
+    "positionType": 3,
+    "additionalPositionX": 400,
+    "additionalPositionY": -175,
+    "additionalPositionZ": 0,
+    "magnificationScale": 70,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 7,
+    "cueSheet": "se_rozen",
+    "cueName": "se_rozen@001_R",
+    "createdTime": 1485961200
+  },
+  {
+    "battleEffectMstId": 250,
+    "positionType": 2,
+    "additionalPositionX": 0,
+    "additionalPositionY": -300,
+    "additionalPositionZ": 0,
+    "magnificationScale": 70,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_rozen",
+    "cueName": "se_rozen@002_L",
+    "createdTime": 1485961200
+  },
+  {
     "battleEffectMstId": 251,
     "positionType": 3,
     "additionalPositionX": 0,
@@ -3469,6 +3497,62 @@
     "period": 5,
     "cueSheet": "se_touta",
     "cueName": "se_touta@002_R",
+    "createdTime": 1485961200
+  },
+  {
+    "battleEffectMstId": 267,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 80,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 7,
+    "cueSheet": "se_rozen",
+    "cueName": "se_rozen@003_R",
+    "createdTime": 1485961200
+  },
+  {
+    "battleEffectMstId": 268,
+    "positionType": 2,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_rozen",
+    "cueName": "se_rozen@004_L",
+    "createdTime": 1485961200
+  },
+  {
+    "battleEffectMstId": 269,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 70,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 7,
+    "cueSheet": "se_rozen",
+    "cueName": "se_rozen@005_R",
+    "createdTime": 1485961200
+  },
+  {
+    "battleEffectMstId": 270,
+    "positionType": 2,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_rozen",
+    "cueName": "se_rozen@006_L",
     "createdTime": 1485961200
   }
 ]

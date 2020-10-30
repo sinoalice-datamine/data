@@ -14983,5 +14983,644 @@
     "effectType": 6,
     "effectValue": 5,
     "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 1714,
+    "characterUniqueId": 61,
+    "name": "エリアUP",
+    "description": "真紅のジョブを編成時、ローゼンエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1715,
+    "characterUniqueId": 61,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 真紅のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1716,
+    "characterUniqueId": 61,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 真紅のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1717,
+    "characterUniqueId": 61,
+    "name": "物魔攻撃UP",
+    "description": "真紅のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1718,
+    "characterUniqueId": 61,
+    "name": "物魔防御UP",
+    "description": "真紅のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1719,
+    "characterUniqueId": 61,
+    "name": "チケットUP",
+    "description": "真紅のジョブを編成時、ローゼンエリアで新射的チケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1720,
+    "characterUniqueId": 61,
+    "name": "物攻+300",
+    "description": "真紅のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1721,
+    "characterUniqueId": 61,
+    "name": "物防+300",
+    "description": "真紅のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1722,
+    "characterUniqueId": 61,
+    "name": "魔攻+300",
+    "description": "真紅のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1723,
+    "characterUniqueId": 61,
+    "name": "魔防+300",
+    "description": "真紅のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1724,
+    "characterUniqueId": 61,
+    "name": "魔書 2%UP",
+    "description": "真紅のジョブを編成時、魔書2%UP",
+    "effectType": 6,
+    "effectValue": 2,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 1725,
+    "characterUniqueId": 62,
+    "name": "エリアUP",
+    "description": "水銀燈のジョブを編成時、ローゼンエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1726,
+    "characterUniqueId": 62,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 水銀燈のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1727,
+    "characterUniqueId": 62,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 水銀燈のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1728,
+    "characterUniqueId": 62,
+    "name": "物魔攻撃UP",
+    "description": "水銀燈のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1729,
+    "characterUniqueId": 62,
+    "name": "物魔防御UP",
+    "description": "水銀燈のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1730,
+    "characterUniqueId": 62,
+    "name": "チケットUP",
+    "description": "水銀燈のジョブを編成時、ローゼンエリアで新射的チケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1731,
+    "characterUniqueId": 62,
+    "name": "チケットUP",
+    "description": "水銀燈のジョブを編成時、ローゼンエリアで新射的チケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1732,
+    "characterUniqueId": 62,
+    "name": "物攻+300",
+    "description": "水銀燈のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1733,
+    "characterUniqueId": 62,
+    "name": "物防+300",
+    "description": "水銀燈のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1734,
+    "characterUniqueId": 62,
+    "name": "魔攻+300",
+    "description": "水銀燈のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1735,
+    "characterUniqueId": 62,
+    "name": "魔防+300",
+    "description": "水銀燈のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1736,
+    "characterUniqueId": 62,
+    "name": "刀剣 4%UP",
+    "description": "水銀燈のジョブを編成時、刀剣4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 1737,
+    "characterUniqueId": 63,
+    "name": "エリアUP",
+    "description": "翠星石のジョブを編成時、ローゼンエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1738,
+    "characterUniqueId": 63,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 翠星石のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1739,
+    "characterUniqueId": 63,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 翠星石のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1740,
+    "characterUniqueId": 63,
+    "name": "物魔攻撃UP",
+    "description": "翠星石のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1741,
+    "characterUniqueId": 63,
+    "name": "物魔防御UP",
+    "description": "翠星石のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1742,
+    "characterUniqueId": 63,
+    "name": "チケットUP",
+    "description": "翠星石のジョブを編成時、ローゼンエリアで新射的チケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1743,
+    "characterUniqueId": 63,
+    "name": "チケットUP",
+    "description": "翠星石のジョブを編成時、ローゼンエリアで新射的チケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1744,
+    "characterUniqueId": 63,
+    "name": "物攻+300",
+    "description": "翠星石のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1745,
+    "characterUniqueId": 63,
+    "name": "物防+300",
+    "description": "翠星石のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1746,
+    "characterUniqueId": 63,
+    "name": "魔攻+300",
+    "description": "翠星石のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1747,
+    "characterUniqueId": 63,
+    "name": "魔防+300",
+    "description": "翠星石のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1748,
+    "characterUniqueId": 63,
+    "name": "魔具 4%UP",
+    "description": "翠星石のジョブを編成時、魔具4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 1749,
+    "characterUniqueId": 64,
+    "name": "エリアUP",
+    "description": "蒼星石のジョブを編成時、ローゼンエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1750,
+    "characterUniqueId": 64,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 蒼星石のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1751,
+    "characterUniqueId": 64,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 蒼星石のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1752,
+    "characterUniqueId": 64,
+    "name": "物魔攻撃UP",
+    "description": "蒼星石のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1753,
+    "characterUniqueId": 64,
+    "name": "物魔防御UP",
+    "description": "蒼星石のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1754,
+    "characterUniqueId": 64,
+    "name": "チケットUP",
+    "description": "蒼星石のジョブを編成時、ローゼンエリアで新射的チケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1755,
+    "characterUniqueId": 64,
+    "name": "チケットUP",
+    "description": "蒼星石のジョブを編成時、ローゼンエリアで新射的チケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1756,
+    "characterUniqueId": 64,
+    "name": "物攻+300",
+    "description": "蒼星石のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1757,
+    "characterUniqueId": 64,
+    "name": "物防+300",
+    "description": "蒼星石のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1758,
+    "characterUniqueId": 64,
+    "name": "魔攻+300",
+    "description": "蒼星石のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1759,
+    "characterUniqueId": 64,
+    "name": "魔防+300",
+    "description": "蒼星石のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1760,
+    "characterUniqueId": 64,
+    "name": "長柄 4%UP",
+    "description": "蒼星石のジョブを編成時、長柄4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 1761,
+    "characterUniqueId": 66,
+    "name": "エリアUP",
+    "description": "金糸雀のジョブを編成時、ローゼンエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1762,
+    "characterUniqueId": 66,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 金糸雀のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1763,
+    "characterUniqueId": 66,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 金糸雀のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1764,
+    "characterUniqueId": 66,
+    "name": "物魔攻撃UP",
+    "description": "金糸雀のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1765,
+    "characterUniqueId": 66,
+    "name": "物魔防御UP",
+    "description": "金糸雀のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1766,
+    "characterUniqueId": 66,
+    "name": "チケットUP",
+    "description": "金糸雀のジョブを編成時、ローゼンエリアで新射的チケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1767,
+    "characterUniqueId": 66,
+    "name": "チケットUP",
+    "description": "金糸雀のジョブを編成時、ローゼンエリアで新射的チケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1768,
+    "characterUniqueId": 66,
+    "name": "物攻+300",
+    "description": "金糸雀のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1769,
+    "characterUniqueId": 66,
+    "name": "物防+300",
+    "description": "金糸雀のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1770,
+    "characterUniqueId": 66,
+    "name": "魔攻+300",
+    "description": "金糸雀のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1771,
+    "characterUniqueId": 66,
+    "name": "魔防+300",
+    "description": "金糸雀のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1772,
+    "characterUniqueId": 66,
+    "name": "楽器 2%UP",
+    "description": "金糸雀のジョブを編成時、楽器2%UP",
+    "effectType": 6,
+    "effectValue": 2,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 1773,
+    "characterUniqueId": 65,
+    "name": "エリアUP",
+    "description": "雛苺のジョブを編成時、ローゼンエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1774,
+    "characterUniqueId": 65,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 雛苺のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1775,
+    "characterUniqueId": 65,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 雛苺のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1776,
+    "characterUniqueId": 65,
+    "name": "物魔攻撃UP",
+    "description": "雛苺のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1777,
+    "characterUniqueId": 65,
+    "name": "物魔防御UP",
+    "description": "雛苺のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1778,
+    "characterUniqueId": 65,
+    "name": "チケットUP",
+    "description": "雛苺のジョブを編成時、ローゼンエリアで新射的チケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1779,
+    "characterUniqueId": 65,
+    "name": "チケットUP",
+    "description": "雛苺のジョブを編成時、ローゼンエリアで新射的チケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1780,
+    "characterUniqueId": 65,
+    "name": "物攻+300",
+    "description": "雛苺のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1781,
+    "characterUniqueId": 65,
+    "name": "物防+300",
+    "description": "雛苺のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1782,
+    "characterUniqueId": 65,
+    "name": "魔攻+300",
+    "description": "雛苺のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1783,
+    "characterUniqueId": 65,
+    "name": "魔防+300",
+    "description": "雛苺のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1784,
+    "characterUniqueId": 65,
+    "name": "祈祷 4%UP",
+    "description": "雛苺のジョブを編成時、祈祷4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 1
   }
 ]

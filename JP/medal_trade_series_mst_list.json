@@ -298,8 +298,8 @@
     "wayToGet": "イベントを行うことで獲得することができます。",
     "priority": 30,
     "itemMstId": 345,
-    "startTime": 1601478000,
-    "endTime": 1602773999,
+    "startTime": 1604156400,
+    "endTime": 1605452399,
     "displayType": 0,
     "isDeleted": false
   },
@@ -2960,6 +2960,38 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 199,
+    "name": "ヨクボウメダル(Ⅺ)",
+    "description": "ガチャで獲得できるメダル\r\n※2020年12月7日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2020年12月7日23:59まで",
+    "priority": 55,
+    "itemMstId": 2667,
+    "startTime": 1604037600,
+    "endTime": 1607353199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 200,
+    "name": "薔薇メダル",
+    "description": "ギシンアンキが集めているメダル\r\n※2020年11月17日23:59まで",
+    "resourceName": "item20201027_rozen",
+    "assetBundleName": "2660",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2020年11月17日23:59まで",
+    "priority": 56,
+    "itemMstId": 2660,
+    "startTime": 1603774800,
+    "endTime": 1605625199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 201,
     "name": "ナイトメアメダル",
     "description": "魔晶石購入特典のナイトメアと交換できるメダル\r\n※2020年11月3日23:59まで",
@@ -2972,6 +3004,22 @@
     "itemMstId": 2669,
     "startTime": 1603087200,
     "endTime": 1604415599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 202,
+    "name": "配当メダル・シン",
+    "description": "コロシアム・シン中のギシアン酒場で入手できるメダル\r\n※2020年11月29日23:59まで",
+    "resourceName": "item20190731_colloseumsin1_honsen",
+    "assetBundleName": "1319",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "コロシアム・シンのギシアン酒場にて獲得できます。\r\n※有効期限2020年11月29日23:59まで",
+    "priority": 38,
+    "itemMstId": 2586,
+    "startTime": 1603951200,
+    "endTime": 1606661999,
     "displayType": 0,
     "isDeleted": false
   }

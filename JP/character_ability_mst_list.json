@@ -45640,6 +45640,846 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 4699,
+    "characterMstId": 389,
+    "name": "ローゼンエリアで魔書10%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4700,
+    "characterMstId": 389,
+    "name": "魔書10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4701,
+    "characterMstId": 389,
+    "name": "魔法防御+50",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4702,
+    "characterMstId": 389,
+    "name": "物理防御+50",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4703,
+    "characterMstId": 389,
+    "name": "ローゼンエリアで魔書10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4704,
+    "characterMstId": 389,
+    "name": "魔法攻撃+50",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4705,
+    "characterMstId": 389,
+    "name": "HP+50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4706,
+    "characterMstId": 389,
+    "name": "物理攻撃+50",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4707,
+    "characterMstId": 389,
+    "name": "ローゼンエリアで魔書10%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4708,
+    "characterMstId": 389,
+    "name": "HP+50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4709,
+    "characterMstId": 389,
+    "name": "ローゼンエリアで魔書20%UP",
+    "releaseLevel": 11,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4710,
+    "characterMstId": 389,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4711,
+    "characterMstId": 389,
+    "name": "ローゼンエリアで魔書10%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4712,
+    "characterMstId": 389,
+    "name": "コスト+2",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4713,
+    "characterMstId": 390,
+    "name": "ローゼンエリアで刀剣30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4714,
+    "characterMstId": 390,
+    "name": "刀剣10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4715,
+    "characterMstId": 390,
+    "name": "物理防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4716,
+    "characterMstId": 390,
+    "name": "物理防御+100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4717,
+    "characterMstId": 390,
+    "name": "ローゼンエリアで刀剣10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4718,
+    "characterMstId": 390,
+    "name": "物理防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4719,
+    "characterMstId": 390,
+    "name": "物理防御+100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4720,
+    "characterMstId": 390,
+    "name": "物理防御+100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4721,
+    "characterMstId": 390,
+    "name": "ローゼンエリアで刀剣20%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4722,
+    "characterMstId": 390,
+    "name": "HP+300",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4723,
+    "characterMstId": 390,
+    "name": "物理攻撃+100",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4724,
+    "characterMstId": 390,
+    "name": "物理防御+250",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4725,
+    "characterMstId": 390,
+    "name": "物理防御+150",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 150,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4726,
+    "characterMstId": 390,
+    "name": "物理防御+350",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 350,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4727,
+    "characterMstId": 391,
+    "name": "ローゼンエリアで魔具30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 4728,
+    "characterMstId": 391,
+    "name": "魔具10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 4729,
+    "characterMstId": 391,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 4730,
+    "characterMstId": 391,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 4731,
+    "characterMstId": 391,
+    "name": "ローゼンエリアで魔具10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 4732,
+    "characterMstId": 391,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 4733,
+    "characterMstId": 391,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 4734,
+    "characterMstId": 391,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 4735,
+    "characterMstId": 391,
+    "name": "ローゼンエリアで魔具20%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 4736,
+    "characterMstId": 391,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 4737,
+    "characterMstId": 391,
+    "name": "魔法攻撃+150",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 150,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 4738,
+    "characterMstId": 391,
+    "name": "魔法攻撃+150",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 150,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 4739,
+    "characterMstId": 391,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 4740,
+    "characterMstId": 391,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 4741,
+    "characterMstId": 392,
+    "name": "ローゼンエリアで長柄30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4742,
+    "characterMstId": 392,
+    "name": "長柄10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4743,
+    "characterMstId": 392,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4744,
+    "characterMstId": 392,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4745,
+    "characterMstId": 392,
+    "name": "ローゼンエリアで長柄10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4746,
+    "characterMstId": 392,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4747,
+    "characterMstId": 392,
+    "name": "魔法防御+100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4748,
+    "characterMstId": 392,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4749,
+    "characterMstId": 392,
+    "name": "ローゼンエリアで長柄20%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4750,
+    "characterMstId": 392,
+    "name": "HP+300",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4751,
+    "characterMstId": 392,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4752,
+    "characterMstId": 392,
+    "name": "魔法攻撃+250",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4753,
+    "characterMstId": 392,
+    "name": "魔法攻撃+150",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 150,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4754,
+    "characterMstId": 392,
+    "name": "魔法攻撃+350",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 350,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4755,
+    "characterMstId": 393,
+    "name": "ローゼンエリアで楽器30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4756,
+    "characterMstId": 393,
+    "name": "楽器10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4757,
+    "characterMstId": 393,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4758,
+    "characterMstId": 393,
+    "name": "物理攻撃+100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4759,
+    "characterMstId": 393,
+    "name": "ローゼンエリアで楽器10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4760,
+    "characterMstId": 393,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4761,
+    "characterMstId": 393,
+    "name": "物理攻撃+100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4762,
+    "characterMstId": 393,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4763,
+    "characterMstId": 393,
+    "name": "ローゼンエリアで楽器20%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4764,
+    "characterMstId": 393,
+    "name": "HP+300",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4765,
+    "characterMstId": 393,
+    "name": "物理攻撃+150",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4766,
+    "characterMstId": 393,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4767,
+    "characterMstId": 393,
+    "name": "物理攻撃+200",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4768,
+    "characterMstId": 393,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4769,
+    "characterMstId": 394,
+    "name": "ローゼンエリアで祈祷30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4770,
+    "characterMstId": 394,
+    "name": "祈祷10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4771,
+    "characterMstId": 394,
+    "name": "魔法防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4772,
+    "characterMstId": 394,
+    "name": "物理防御+100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4773,
+    "characterMstId": 394,
+    "name": "ローゼンエリアで祈祷10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4774,
+    "characterMstId": 394,
+    "name": "魔法防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4775,
+    "characterMstId": 394,
+    "name": "物理防御+100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4776,
+    "characterMstId": 394,
+    "name": "魔法防御+100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4777,
+    "characterMstId": 394,
+    "name": "ローゼンエリアで祈祷20%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4778,
+    "characterMstId": 394,
+    "name": "HP+300",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4779,
+    "characterMstId": 394,
+    "name": "HP+150",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 150,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4780,
+    "characterMstId": 394,
+    "name": "魔法防御+350",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 350,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4781,
+    "characterMstId": 394,
+    "name": "HP+150",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 150,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4782,
+    "characterMstId": 394,
+    "name": "物理防御+450",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 450,
+    "cardDetailType": 4
+  },
+  {
     "characterAbilityMstId": 4783,
     "characterMstId": 382,
     "name": "LittlePigsエリアで楽器(風)30%UP",
@@ -47278,6 +48118,506 @@
     "effectType": 13,
     "effectValue": 5033,
     "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4949,
+    "characterMstId": 82,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4950,
+    "characterMstId": 82,
+    "name": "射出ジョブ使用時、魔法ダメージ2%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5031,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4951,
+    "characterMstId": 184,
+    "name": "物理防御+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4952,
+    "characterMstId": 184,
+    "name": "打撃ジョブ使用時、物理ダメージ2%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5030,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4953,
+    "characterMstId": 395,
+    "name": "Aliceエリアで長柄30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4954,
+    "characterMstId": 395,
+    "name": "長柄10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4955,
+    "characterMstId": 395,
+    "name": "魔法防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4956,
+    "characterMstId": 395,
+    "name": "魔法攻撃+500",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4957,
+    "characterMstId": 395,
+    "name": "Aliceエリアで長柄10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4958,
+    "characterMstId": 395,
+    "name": "物理防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4959,
+    "characterMstId": 395,
+    "name": "Aliceエリアで長柄20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4960,
+    "characterMstId": 395,
+    "name": "HP+1000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4961,
+    "characterMstId": 395,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4962,
+    "characterMstId": 395,
+    "name": "長柄ジョブ使用時、魔法ダメージ2%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5032,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4963,
+    "characterMstId": 395,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4964,
+    "characterMstId": 395,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4965,
+    "characterMstId": 395,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4966,
+    "characterMstId": 395,
+    "name": "長柄ジョブ使用時、武器消費SP減少",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5524,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4967,
+    "characterMstId": 396,
+    "name": "Ibarahimeエリアで打撃30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4968,
+    "characterMstId": 396,
+    "name": "打撃10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4969,
+    "characterMstId": 396,
+    "name": "物理防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4970,
+    "characterMstId": 396,
+    "name": "物理攻撃+500",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4971,
+    "characterMstId": 396,
+    "name": "Ibarahimeエリアで打撃10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4972,
+    "characterMstId": 396,
+    "name": "魔法防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4973,
+    "characterMstId": 396,
+    "name": "Ibarahimeエリアで打撃20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4974,
+    "characterMstId": 396,
+    "name": "HP+1000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4975,
+    "characterMstId": 396,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4976,
+    "characterMstId": 396,
+    "name": "打撃ジョブ使用時、物理ダメージ2%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5030,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4977,
+    "characterMstId": 396,
+    "name": "物理攻撃+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4978,
+    "characterMstId": 396,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4979,
+    "characterMstId": 396,
+    "name": "物理攻撃+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4980,
+    "characterMstId": 396,
+    "name": "打撃ジョブ使用時、武器消費SP減少",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5522,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4981,
+    "characterMstId": 397,
+    "name": "Dorothyエリアで楽器30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4982,
+    "characterMstId": 397,
+    "name": "楽器10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4983,
+    "characterMstId": 397,
+    "name": "魔法防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4984,
+    "characterMstId": 397,
+    "name": "物理攻撃+500",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4985,
+    "characterMstId": 397,
+    "name": "Dorothyエリアで楽器10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4986,
+    "characterMstId": 397,
+    "name": "物理防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4987,
+    "characterMstId": 397,
+    "name": "Dorothyエリアで楽器20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4988,
+    "characterMstId": 397,
+    "name": "魔法攻撃+500",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4989,
+    "characterMstId": 397,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4990,
+    "characterMstId": 397,
+    "name": "楽器ジョブ使用時、バフ効果2%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5033,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4991,
+    "characterMstId": 397,
+    "name": "物理攻撃+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4992,
+    "characterMstId": 397,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4993,
+    "characterMstId": 397,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4994,
+    "characterMstId": 397,
+    "name": "楽器ジョブ使用時、武器消費SP減少",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5525,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4995,
+    "characterMstId": 220,
+    "name": "Aladdinエリアで祈祷10%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4996,
+    "characterMstId": 220,
+    "name": "HP+400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 400,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4997,
+    "characterMstId": 220,
+    "name": "物理防御+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4998,
+    "characterMstId": 220,
+    "name": "祈祷ジョブ使用時、回復効果2%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5035,
+    "cardDetailType": 4
   },
   {
     "characterAbilityMstId": 4999,
