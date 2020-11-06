@@ -6100,6 +6100,126 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 751,
+    "characterMstId": 63,
+    "name": "Instrument +50% (Little Mermaid+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 50,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 752,
+    "characterMstId": 63,
+    "name": "Instrument +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 753,
+    "characterMstId": 63,
+    "name": "P.ATK +10",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 754,
+    "characterMstId": 63,
+    "name": "P.DEF +30",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 755,
+    "characterMstId": 63,
+    "name": "M.ATK +50",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 756,
+    "characterMstId": 63,
+    "name": "M.DEF +70",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 70,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 757,
+    "characterMstId": 63,
+    "name": "M.DEF +90",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 90,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 758,
+    "characterMstId": 63,
+    "name": "M.ATK +110",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 110,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 759,
+    "characterMstId": 63,
+    "name": "P.DEF +130",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 130,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 760,
+    "characterMstId": 63,
+    "name": "P.ATK +150",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 761,
+    "characterMstId": 63,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 762,
+    "characterMstId": 63,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
     "characterAbilityMstId": 869,
     "characterMstId": 64,
     "name": "Projectile +30% (Snow White+ stage)",

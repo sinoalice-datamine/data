@@ -196,6 +196,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 28,
+    "name": "Hatter Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20201105_medal_yoiyami",
+    "assetBundleName": "0452",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 34,
+    "itemMstId": 452,
+    "startTime": 1604556000,
+    "endTime": 1605765599,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 33,
     "name": "Clam Medal",
     "description": "Medal collected by Parrah-Noya.",
