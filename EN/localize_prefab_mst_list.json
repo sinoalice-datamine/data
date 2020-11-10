@@ -4558,7 +4558,7 @@
     "EN": "Event Win Rewards",
     "KR": "이벤트 승리 보상",
     "DE": "Event-Siegbelohnungen",
-    "FR": "Récompenses de victoire d'événement",
+    "FR": "Récompenses de victoire à l'événement",
     "ES": "Recompensas por victorias en eventos",
     "TH": "รางวัลชนะอีเว้นท์",
     "VN": "Phần thưởng chiến thắng sự kiện"
@@ -4572,7 +4572,7 @@
     "EN": "Event Defeat Rewards",
     "KR": "이벤트 패배 보상",
     "DE": "Event-Niederlagenbelohnungen",
-    "FR": "Récompenses de défaite d'événement",
+    "FR": "Récompenses de défaite à l'événement",
     "ES": "Recompensas por derrotas en eventos",
     "TH": "รางวัลแพ้อีเว้นท์",
     "VN": "Phần thưởng chiến bại sự kiện"
@@ -8704,7 +8704,7 @@
     "DE": "Nicht genügend Zwielichtkristalle.\\\\nZum Shop?\\\\n",
     "FR": "Cristaux crépusculaires insuffisants.\\\\nAller à la Boutique ?\\\\n",
     "ES": "Cristales del ocaso insuficientes.\\\\n¿Ir a la tienda?\\\\n",
-    "TH": "คริสตัลสนธยาไม่เพียงพอ\\\\nไปที่ร้านค้าหรือไม่\\\\n",
+    "TH": "คริสตัลสนธยาไม่เพียงพอ\\\\nไปที่ร้านค้าหรือไม่?\\\\n",
     "VN": "Không có đủ Pha lê chạng vạng.\\\\nBạn có muốn tới Cửa hàng không?\\\\n"
   },
   {
@@ -14537,7 +14537,7 @@
     "Type": 0,
     "GameKey": "PREFAB/1044",
     "JP": "獲得イノチ + 勝利&撃墜ボーナス",
-    "EN": "Lifeforce + Win & Skirmish Bonus =<color=#B42F00>Gran Points</color>",
+    "EN": "Lifeforce + Win & Skirmish Bonus = <color=#B42F00>Gran Points</color>",
     "KR": "획득한 목숨 + 승리 보너스 + 격추 보너스 = <color=#B42F00>그랑 pt</color>(포인트)",
     "DE": "Erw. Lebenskraft + Sieg&Scharmützelbonus",
     "FR": "Force vit.+ Bon. vict.+ Bon. esc.",
@@ -16889,12 +16889,12 @@
     "Type": 0,
     "GameKey": "PREFAB",
     "JP": "ギルド勧誘を受けた時",
-    "EN": "Guild Invite Received",
+    "EN": "When a guild invite is received",
     "KR": "타 길드의 가입 요청 시",
-    "DE": "Zeit in der Gildeneinladung erhalten wurde.",
-    "FR": "Heure d'invit. de guilde",
+    "DE": "Bei Erhalt einer Gildeneinladung",
+    "FR": "Quand une invitation de guilde est reçue",
     "ES": "Al recibir invitaciones a gremios",
-    "TH": "ตอนรับการเชิญเข้ากิลด์",
+    "TH": "เมื่อได้รับการเชิญเข้ากิลด์",
     "VN": ""
   },
   {
@@ -16903,12 +16903,12 @@
     "Type": 0,
     "GameKey": "PREFAB",
     "JP": "ギルドメンバーが鍵クエストを解放時",
-    "EN": "Guild Key Quest Unlocked",
+    "EN": "When a guild member unlocks a key quest",
     "KR": "길드원이 열쇠 퀘스트 개방 시",
-    "DE": "Zeit in der ein Gildenmitglied eine Schlüssel-Quest freigeschaltet hat.",
-    "FR": "Heure débloc. quête clé (membre)",
-    "ES": "Cuando un miembro del gremio desbloquee usando una llave de misión",
-    "TH": "ตอนสมาชิกกิลด์ปลดล็อกเควสกุญแจ",
+    "DE": "Bei Freischaltung eines Schlüssel-Events durch ein Gildenmitglied",
+    "FR": "Quand un membre de la guilde débloque un événement clé",
+    "ES": "Cuando un miembro del gremio desbloquee un evento de llave",
+    "TH": "เมื่อสมาชิกกิลด์ปลดล็อกเควสกุญแจ",
     "VN": ""
   },
   {
@@ -16917,12 +16917,12 @@
     "Type": 0,
     "GameKey": "PREFAB",
     "JP": "動画広告バナー表示",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "EN": "Display Video Advertisement Banner",
+    "KR": "동영상 광고 배너 표시",
+    "DE": "Video-Werbebanner anzeigen.",
+    "FR": "Affichage de bannières de vidéos publicitaires ",
+    "ES": "Banner de vídeo oficial",
+    "TH": "แสดงแบนเนอร์คลิปโฆษณา",
     "VN": ""
   },
   {
@@ -16931,12 +16931,12 @@
     "Type": 0,
     "GameKey": "PREFAB",
     "JP": "デイリーミッション画面の\\\\n動画広告バナー表示のON・OFFを切り替えます",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "EN": "Switch video advertisement banner On/Off on Daily Missions",
+    "KR": "일일 미션 화면의\\\\n동영상 광고 배너 표시 여부를 변경합니다.",
+    "DE": "Du kannst auf dem Tägliche Mission-Bildschirm die\\\\nAnzeige für Video-Werbebanner EIN/AUS schalten.",
+    "FR": "Activer/désactiver l'affichage de bannière de vidéos publicitaires sur l'écran des missions quotidiennes.",
+    "ES": "Se puede encender o apagar el banner\\\\nde los vídeos oficiales",
+    "TH": "สามารถเปลี่ยน ON/OFF การแสดงแบนเนอร์คลิปโฆษณา\\\\nที่หน้าจอภารกิจประจำวัน",
     "VN": ""
   }
 ]

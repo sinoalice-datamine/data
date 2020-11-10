@@ -15623,6 +15623,23 @@
     "autoSkillPercentageType": 0
   },
   {
+    "skillMstId": 2023,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "Incantation of Demolition (II)",
+    "description": "Reduces P.DEF of 2 enemies.",
+    "attackEffect": 0,
+    "sp": 25,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 43,
+    "typeLabel": "multiple enemies",
+    "primaryIcon": 15,
+    "secondaryIcon": 0,
+    "rangeIcon": 3,
+    "autoSkillPercentageType": 0
+  },
+  {
     "skillMstId": 2025,
     "category": 4,
     "setEffectSeriesId": 0,
@@ -15637,6 +15654,23 @@
     "primaryIcon": 6,
     "secondaryIcon": 0,
     "rangeIcon": 2,
+    "autoSkillPercentageType": 0
+  },
+  {
+    "skillMstId": 2027,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "Incantation of Demolition (II)",
+    "description": "Reduces P.DEF of 2 enemies.",
+    "attackEffect": 0,
+    "sp": 25,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 43,
+    "typeLabel": "multiple enemies",
+    "primaryIcon": 15,
+    "secondaryIcon": 0,
+    "rangeIcon": 3,
     "autoSkillPercentageType": 0
   },
   {
@@ -16674,6 +16708,40 @@
     "primaryIcon": 14,
     "secondaryIcon": 0,
     "rangeIcon": 1,
+    "autoSkillPercentageType": 0
+  },
+  {
+    "skillMstId": 2280,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "Sorcerer's Rondo (II)",
+    "description": "Increases M.ATK of 2 allies.",
+    "attackEffect": 0,
+    "sp": 25,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 41,
+    "typeLabel": "Multiple Allies/Self",
+    "primaryIcon": 6,
+    "secondaryIcon": 0,
+    "rangeIcon": 3,
+    "autoSkillPercentageType": 0
+  },
+  {
+    "skillMstId": 2286,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "Sorcerer's Rondo (II)",
+    "description": "Increases M.ATK of 2 allies.",
+    "attackEffect": 0,
+    "sp": 25,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 41,
+    "typeLabel": "Multiple Allies/Self",
+    "primaryIcon": 6,
+    "secondaryIcon": 0,
+    "rangeIcon": 3,
     "autoSkillPercentageType": 0
   },
   {
@@ -19091,6 +19159,23 @@
     "autoSkillPercentageType": 0
   },
   {
+    "skillMstId": 3288,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "Evil Hail of Leeching (III)",
+    "description": "Deals great M.DMG to 1 to 2 enemies.\\nSlightly restores own HP.",
+    "attackEffect": 0,
+    "sp": 22,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 4,
+    "typeLabel": "Multiple Enemies/Self",
+    "primaryIcon": 2,
+    "secondaryIcon": 3,
+    "rangeIcon": 2,
+    "autoSkillPercentageType": 0
+  },
+  {
     "skillMstId": 3290,
     "category": 1,
     "setEffectSeriesId": 0,
@@ -19700,6 +19785,23 @@
     "primaryIcon": 2,
     "secondaryIcon": 17,
     "rangeIcon": 1,
+    "autoSkillPercentageType": 0
+  },
+  {
+    "skillMstId": 3389,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "Evil Hail of Leeching (III)",
+    "description": "Deals great M.DMG to 1 to 2 enemies.\\nSlightly restores own HP.",
+    "attackEffect": 0,
+    "sp": 22,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 4,
+    "typeLabel": "Multiple Enemies/Self",
+    "primaryIcon": 2,
+    "secondaryIcon": 3,
+    "rangeIcon": 2,
     "autoSkillPercentageType": 0
   },
   {
