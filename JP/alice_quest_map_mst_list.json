@@ -4365,5 +4365,27 @@
     "description": "孤闘イベント 水銀燈篇",
     "announceUrl": "",
     "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 417,
+    "mapType": 1,
+    "mapGroup": 257,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "洋館ノ迷宮",
+    "description": "防具「洋館ノ迷宮」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 418,
+    "mapType": 1,
+    "mapGroup": 257,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "洋館ノ迷宮Hard",
+    "description": "防具「洋館ノ迷宮」Hard",
+    "announceUrl": "",
+    "createdTime": 1483974000
   }
 ]
