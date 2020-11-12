@@ -12939,6 +12939,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 1660,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 4528,
+    "isAlways": false,
+    "name": "大食ノ侵虎ガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅺ)\r\n枚数：1回ガチャで10枚、11回ガチャで100枚\r\n有効期限：2020年12月7日23:59",
+    "priority": 13000,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=6626&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 0,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 5001,
     "gachaGroupId": 9,
     "topBannerMstId": 0,

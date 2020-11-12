@@ -3022,5 +3022,21 @@
     "endTime": 1606661999,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 203,
+    "name": "アルカナメダル",
+    "description": "アルカナと交換できるメダル\r\n※2020年11月26日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "0203",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "アルカナメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2020年11月26日23:59まで",
+    "priority": 37,
+    "itemMstId": 2697,
+    "startTime": 1605160800,
+    "endTime": 1606402799,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]
