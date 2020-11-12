@@ -736,9 +736,9 @@
     "EN": "{0} {1}\\\\n<color=#B42F00>sent to your present box.</color>",
     "KR": "{0}{1}이(가)\\\\n<color=#B42F00>선물함으로 지급되었습니다.</color>",
     "DE": "{0} x {1}\\\\n<color=#B42F00>wurden an deine Geschenkbox gesendet.</color>",
-    "FR": "{1} x{0}\\\\n<color=#B42F00>ont été envoyé(e)s dans votre boîte à cadeaux.</color>",
-    "ES": "{1} x{0}\\\\n<color=#B42F00>se han enviado a tu caja de regalos.</color>",
-    "TH": "{1}{0}\\\\n<color=#B42F00>ถูกส่งไปยังกล่องของขวัญแล้ว</color>",
+    "FR": "<color=#B42F00>Envoyé(e)s dans votre boîte à cadeaux :</color>\\\\n{0} {1}",
+    "ES": "{0} x{1}\\\\n<color=#B42F00>se han enviado a tu caja de regalos.</color>",
+    "TH": "{0}{1}\\\\n<color=#B42F00>ถูกส่งไปยังกล่องของขวัญแล้ว</color>",
     "VN": "{1} x{0}\\\\n<color=#B42F00>đã được gửi tới Hộp quà của bạn.</color>"
   },
   {
@@ -15083,7 +15083,7 @@
     "Type": 0,
     "GameKey": "SCRIPT/1059",
     "JP": "有効期限:yyyy年MM月dd日 HH:mmまで",
-    "EN": "Expires: MM dd, yyyy HH:mm",
+    "EN": "Expires: yyyy/MM/dd at HH:mm",
     "KR": "유효 기간: yyyy년 MM월 dd일 HH:mm까지",
     "DE": "Gültigkeitsdauer: bis dd.MM.yyyy HH:mm",
     "FR": "Date d'expiration : le dd MM yyyy à HH:mm",
@@ -18751,12 +18751,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "ジョブ所持：<color=#B42F00>あり</color>",
-    "EN": "Class: </color>Already own<color=#B42F00>",
-    "KR": "직업 보유: <color=#B42F00>있음</color>",
-    "DE": "Klassen in Besitz: <color=#B42F00>Ja</color>",
-    "FR": "Classes : <color=#B42F00> obtenue(s)</color>",
-    "ES": "Clase equipada: <color=#B42F00>Sí</color>",
-    "TH": "คลาส: <color=#B42F00>มีอยู่</color>",
+    "EN": "Class: <color=#B42F00>Already own</color>",
+    "KR": "보유한 직업: <color=#B42F00>있음</color>",
+    "DE": "Klasse im Besitz: <color=#B42F00>Ja</color>",
+    "FR": "Classe déjà équipée : <color=#B42F00>oui</color>",
+    "ES": "Clase en posesión: <color=#B42F00>Sí</color>",
+    "TH": "สเตตัสการครอบครองคลาส: <color=#B42F00>มีอยู่แล้ว</color>",
     "VN": ""
   },
   {
@@ -18766,11 +18766,11 @@
     "GameKey": "SCRIPT",
     "JP": "ジョブ所持：なし",
     "EN": "Class: Not yet own",
-    "KR": "직업 보유: 없음",
-    "DE": "Klassen in Besitz: Nein",
-    "FR": "Classes :  aucune",
-    "ES": "Clase equipada: No",
-    "TH": "คลาส: ไม่มี",
+    "KR": "보유한 직업: 없음",
+    "DE": "Klasse im Besitz: Nein",
+    "FR": "Classe déjà équipée : non",
+    "ES": "Clase en posesión: No",
+    "TH": "สเตตัสการครอบครองคลาส: ยังไม่มี",
     "VN": ""
   },
   {
@@ -18905,10 +18905,10 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "{0}交換",
-    "EN": "Exchange {0}",
+    "EN": "{0} Exchange",
     "KR": "{0} 교환",
     "DE": "{0} tauschen",
-    "FR": "{0} échangés",
+    "FR": "Échange de {0}",
     "ES": "{0} Intercambios",
     "TH": "แลกเปลี่ยน {0}",
     "VN": ""
@@ -19076,7 +19076,7 @@
     "EN": "Use <color=#B42F00>{0}</color> twilight crystals to summon {1}{2} grimoire(s)?",
     "KR": "마정석을 <color=#B42F00>{0}개</color> 소비하여{1}{2}회 뽑기를 하시겠습니까?",
     "DE": "<color=#B42F00>{0}</color> Zwielichtkristalle benutzen um{1}{2}x zu beschwören?",
-    "FR": "Utiliser <color=#B42F00>{0}cristaux</color>{1} et tirer {2} grimoire(s) ?",
+    "FR": "Utiliser <color=#B42F00>{0} cristaux</color>{1} et tirer {2} grimoire(s) ?",
     "ES": "¿Usar <color=#B42F00>{0}</color> Cristales del ocaso para tirar del  grimorio {1}{2} vez/veces?",
     "TH": "ใช้คริสตัลสนธยา<color=#B42F00> {0}ชิ้น</color> เพื่อดึงกรีมัวร์{1}{2}ครั้งหรือไม่?",
     "VN": ""
@@ -19513,6 +19513,20 @@
     "FR": "<color=#B42F00>Limite d'or atteinte.\\nNe peut être vendu.</color>",
     "ES": "<color=#B42F00>Dado que has alcanzado el límite de oro,\\nno se puede vender.</color>",
     "TH": "<color=#B42F00>ไม่สามารถขายได้\\nเนื่องจากมีทองอยู่ถึงขีดจำกัดแล้ว</color>",
+    "VN": ""
+  },
+  {
+    "id": 1395,
+    "TLM": 51532,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "次のガチャまであと {0} デス",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
     "VN": ""
   }
 ]

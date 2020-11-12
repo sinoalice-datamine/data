@@ -210,6 +210,26 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 35,
+    "mapType": 1,
+    "mapGroup": 20,
+    "mapGroupLv": 1,
+    "name": "Nightmare in the Chapel",
+    "description": "Jörmungandr Redux",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 36,
+    "mapType": 1,
+    "mapGroup": 20,
+    "mapGroupLv": 2,
+    "name": "Nightmare in the Chapel (Hard)",
+    "description": "Jörmungandr Redux (Hard)",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 43,
     "mapType": 1,
     "mapGroup": 25,
@@ -247,6 +267,26 @@
     "name": "Act of Reality",
     "description": "Story of Reality (Normal)",
     "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 68,
+    "mapType": 1,
+    "mapGroup": 40,
+    "mapGroupLv": 1,
+    "name": "Lies and Prejudice",
+    "description": "Lies and Prejudice (Normal)",
+    "announceUrl": "/web/announce/body?announceMstId=2482&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 69,
+    "mapType": 1,
+    "mapGroup": 40,
+    "mapGroupLv": 2,
+    "name": "Lies and Prejudice",
+    "description": "Lies and Prejudice (Hard)",
+    "announceUrl": "/web/announce/body?announceMstId=2482&&isHideBackButton=1",
     "createdTime": 1483974000
   },
   {

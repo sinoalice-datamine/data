@@ -1586,6 +1586,32 @@
     "createdTime": null
   },
   {
+    "gvgRewardMstId": 900001,
+    "rank": 0,
+    "rewardType": 1,
+    "result": 2,
+    "objectType": 2,
+    "objectId": 372,
+    "num": 2,
+    "comment": "Colosseum Defeat Rewards",
+    "startTime": 1483196400,
+    "endTime": 1593836999,
+    "createdTime": null
+  },
+  {
+    "gvgRewardMstId": 900002,
+    "rank": 0,
+    "rewardType": 1,
+    "result": 3,
+    "objectType": 2,
+    "objectId": 372,
+    "num": 2,
+    "comment": "Colosseum Tie Rewards",
+    "startTime": 1483196400,
+    "endTime": 1593836999,
+    "createdTime": null
+  },
+  {
     "gvgRewardMstId": 900013,
     "rank": 0,
     "rewardType": 7,

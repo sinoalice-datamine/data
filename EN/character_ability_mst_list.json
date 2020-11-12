@@ -6340,6 +6340,126 @@
     "cardDetailType": 7
   },
   {
+    "characterAbilityMstId": 881,
+    "characterMstId": 68,
+    "name": "Heavy +50% (Dorothy+ stage)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 882,
+    "characterMstId": 68,
+    "name": "Heavy +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 883,
+    "characterMstId": 68,
+    "name": "P.ATK +10",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 884,
+    "characterMstId": 68,
+    "name": "P.DEF +30",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 885,
+    "characterMstId": 68,
+    "name": "M.ATK +50",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 886,
+    "characterMstId": 68,
+    "name": "M.DEF +70",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 70,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 887,
+    "characterMstId": 68,
+    "name": "M.DEF +90",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 90,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 888,
+    "characterMstId": 68,
+    "name": "M.ATK +110",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 110,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 889,
+    "characterMstId": 68,
+    "name": "P.DEF +130",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 130,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 890,
+    "characterMstId": 68,
+    "name": "P.ATK +150",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 891,
+    "characterMstId": 68,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 892,
+    "characterMstId": 68,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 893,
     "characterMstId": 75,
     "name": "Blade +30% (Three Little Pigs+ stage)",
