@@ -158,5 +158,29 @@
     "shipPartsBodyMstId": 70,
     "shipPartsRoofMstId": 69,
     "shipPartsAttachedMstId": 71
+  },
+  {
+    "guildShipSeriesMstId": 22,
+    "name": "晶装シリーズ(1部)",
+    "description": "第36回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 76,
+    "shipPartsRoofMstId": 75,
+    "shipPartsAttachedMstId": 77
+  },
+  {
+    "guildShipSeriesMstId": 23,
+    "name": "晶装シリーズ(2部)",
+    "description": "第36回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 79,
+    "shipPartsRoofMstId": 78,
+    "shipPartsAttachedMstId": 80
+  },
+  {
+    "guildShipSeriesMstId": 24,
+    "name": "晶装シリーズ(3部)",
+    "description": "第36回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 82,
+    "shipPartsRoofMstId": 81,
+    "shipPartsAttachedMstId": 83
   }
 ]

@@ -49038,5 +49038,145 @@
     "effectType": 2,
     "effectValue": 700,
     "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5141,
+    "characterMstId": 398,
+    "name": "MatchGirlエリアで刀剣30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5142,
+    "characterMstId": 398,
+    "name": "射出25%DOWN",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5143,
+    "characterMstId": 398,
+    "name": "打撃25%DOWN",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5144,
+    "characterMstId": 398,
+    "name": "射出25%DOWN",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5145,
+    "characterMstId": 398,
+    "name": "打撃25%DOWN",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5146,
+    "characterMstId": 398,
+    "name": "射出25%DOWN",
+    "releaseLevel": 6,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5147,
+    "characterMstId": 398,
+    "name": "打撃25%DOWN",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5148,
+    "characterMstId": 398,
+    "name": "刀剣15%UP",
+    "releaseLevel": 8,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5149,
+    "characterMstId": 398,
+    "name": "魔法防御+500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5150,
+    "characterMstId": 398,
+    "name": "刀剣15%UP",
+    "releaseLevel": 10,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5151,
+    "characterMstId": 398,
+    "name": "物理攻撃+500",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5152,
+    "characterMstId": 398,
+    "name": "刀剣5%UP",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5153,
+    "characterMstId": 398,
+    "name": "HP+2500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5154,
+    "characterMstId": 398,
+    "name": "刀剣ジョブ使用時、物理ダメージ2%UP",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5029,
+    "cardDetailType": 5
   }
 ]
