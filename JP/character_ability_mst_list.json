@@ -49040,6 +49040,606 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 5053,
+    "characterMstId": 402,
+    "name": "SnowWhiteエリアで刀剣30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5054,
+    "characterMstId": 402,
+    "name": "刀剣10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5055,
+    "characterMstId": 402,
+    "name": "物理防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5056,
+    "characterMstId": 402,
+    "name": "物理防御+100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5057,
+    "characterMstId": 402,
+    "name": "SnowWhiteエリアで刀剣10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5058,
+    "characterMstId": 402,
+    "name": "物理防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5059,
+    "characterMstId": 402,
+    "name": "物理防御+100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5060,
+    "characterMstId": 402,
+    "name": "物理防御+100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5061,
+    "characterMstId": 402,
+    "name": "SnowWhiteエリアで刀剣20%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5062,
+    "characterMstId": 402,
+    "name": "HP+300",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5063,
+    "characterMstId": 402,
+    "name": "物理攻撃+100",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5064,
+    "characterMstId": 402,
+    "name": "物理防御+250",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5065,
+    "characterMstId": 402,
+    "name": "物理防御+150",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 150,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5066,
+    "characterMstId": 402,
+    "name": "物理防御+350",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 350,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5067,
+    "characterMstId": 402,
+    "name": "物理防御+300",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5068,
+    "characterMstId": 402,
+    "name": "物理防御+300",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5069,
+    "characterMstId": 403,
+    "name": "MatchGirlエリアで魔書30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5070,
+    "characterMstId": 403,
+    "name": "魔書10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5071,
+    "characterMstId": 403,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5072,
+    "characterMstId": 403,
+    "name": "物理攻撃+100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5073,
+    "characterMstId": 403,
+    "name": "MatchGirlエリアで魔書10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5074,
+    "characterMstId": 403,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5075,
+    "characterMstId": 403,
+    "name": "物理攻撃+100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5076,
+    "characterMstId": 403,
+    "name": "物理攻撃+100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5077,
+    "characterMstId": 403,
+    "name": "MatchGirlエリアで魔書20%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5078,
+    "characterMstId": 403,
+    "name": "HP+300",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5079,
+    "characterMstId": 403,
+    "name": "物理攻撃+150",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5080,
+    "characterMstId": 403,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5081,
+    "characterMstId": 403,
+    "name": "物理攻撃+200",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5082,
+    "characterMstId": 403,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5083,
+    "characterMstId": 403,
+    "name": "物理攻撃+300",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5084,
+    "characterMstId": 403,
+    "name": "物理攻撃+300",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5085,
+    "characterMstId": 404,
+    "name": "Akazukinエリアで長柄30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5086,
+    "characterMstId": 404,
+    "name": "長柄10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5087,
+    "characterMstId": 404,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5088,
+    "characterMstId": 404,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5089,
+    "characterMstId": 404,
+    "name": "Akazukinエリアで長柄10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5090,
+    "characterMstId": 404,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5091,
+    "characterMstId": 404,
+    "name": "魔法防御+100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5092,
+    "characterMstId": 404,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5093,
+    "characterMstId": 404,
+    "name": "Akazukinエリアで長柄20%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5094,
+    "characterMstId": 404,
+    "name": "HP+300",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5095,
+    "characterMstId": 404,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5096,
+    "characterMstId": 404,
+    "name": "魔法攻撃+250",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5097,
+    "characterMstId": 404,
+    "name": "魔法攻撃+150",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 150,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5098,
+    "characterMstId": 404,
+    "name": "魔法攻撃+350",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 350,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5099,
+    "characterMstId": 404,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5100,
+    "characterMstId": 404,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5129,
+    "characterMstId": 405,
+    "name": "Nutcrackerエリアで祈祷10%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5130,
+    "characterMstId": 405,
+    "name": "祈祷10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5131,
+    "characterMstId": 405,
+    "name": "魔法防御+50",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5132,
+    "characterMstId": 405,
+    "name": "物理防御+50",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5133,
+    "characterMstId": 405,
+    "name": "Nutcrackerエリアで祈祷10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5134,
+    "characterMstId": 405,
+    "name": "魔法攻撃+50",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5135,
+    "characterMstId": 405,
+    "name": "HP+50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5136,
+    "characterMstId": 405,
+    "name": "物理攻撃+50",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5137,
+    "characterMstId": 405,
+    "name": "Nutcrackerエリアで祈祷10%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5138,
+    "characterMstId": 405,
+    "name": "HP+50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5139,
+    "characterMstId": 405,
+    "name": "Nutcrackerエリアで祈祷20%UP",
+    "releaseLevel": 11,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5140,
+    "characterMstId": 405,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
     "characterAbilityMstId": 5141,
     "characterMstId": 398,
     "name": "MatchGirlエリアで刀剣30%UP",
@@ -49178,5 +49778,25 @@
     "effectType": 13,
     "effectValue": 5029,
     "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5173,
+    "characterMstId": 405,
+    "name": "Nutcrackerエリアで祈祷10%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5174,
+    "characterMstId": 405,
+    "name": "コスト+2",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 4
   }
 ]

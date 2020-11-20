@@ -5173,5 +5173,28 @@
     "museumEndTime": 1924959599,
     "vibStartTime": -1.0,
     "skipButtonType": 0
+  },
+  {
+    "movieResourceMstId": 243,
+    "movieTitle": "『紅葉ノ寫宴』OP",
+    "resourceName": "Autumn_2020_opening",
+    "isPreDownLoad": 0,
+    "type": 1,
+    "value": 794,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1605762000,
+    "endTime": 1606975199,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "条件なし　表示されていたらバグ",
+    "thumbAssetBundleName": "museumthumbnail/227",
+    "thumbResourceName": "Autumn_2020_opening",
+    "museumStartTime": 1605765600,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0,
+    "skipButtonType": 0
   }
 ]

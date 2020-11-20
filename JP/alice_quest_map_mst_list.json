@@ -4398,5 +4398,38 @@
     "description": "討伐「脅災の蛇嵐」Hard",
     "announceUrl": "",
     "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 426,
+    "mapType": 1,
+    "mapGroup": 265,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "紅葉ノ寫宴",
+    "description": "メダル「紅葉ノ寫宴」Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 427,
+    "mapType": 1,
+    "mapGroup": 265,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "紅葉ノ寫宴Hard",
+    "description": "メダル「紅葉ノ寫宴」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 429,
+    "mapType": 1,
+    "mapGroup": 266,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "写真撮影　完全版",
+    "description": "写真撮影　完全版",
+    "announceUrl": "",
+    "createdTime": 1483974000
   }
 ]

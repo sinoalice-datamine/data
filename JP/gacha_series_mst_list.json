@@ -12958,6 +12958,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 1670,
+    "gachaGroupId": 4,
+    "topBannerMstId": 0,
+    "bannerMstId": 4545,
+    "isAlways": false,
+    "name": "チケットガチャ～浪漫ノ紅影～",
+    "description": "-",
+    "noticeMessage": "このガチャのガチャチケットは『浪漫ノ紅影』で獲得できます。\r\n※このガチャでは『カメラメダル』はおまけとして獲得できません。",
+    "priority": 9000,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=6666&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 0,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 5001,
     "gachaGroupId": 9,
     "topBannerMstId": 0,
@@ -18257,5 +18276,24 @@
     "pickupFirstResourceAssetBundleName": "",
     "setItemPickupPosition": 0,
     "createdTime": 1467266414
+  },
+  {
+    "gachaSeriesMstId": 102260,
+    "gachaGroupId": 5,
+    "topBannerMstId": 0,
+    "bannerMstId": 4544,
+    "isAlways": false,
+    "name": "浪漫ノ紅影ガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるメダルは以下の通りです。\r\n種類：カメラメダル\r\n枚数：STEP1～2で各50枚　STEP3～5で各100枚\r\n有効期限：2020年12月10日23:59",
+    "priority": 14700,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=6665&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266400
   }
 ]
