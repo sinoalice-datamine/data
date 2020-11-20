@@ -292,5 +292,19 @@
     "startTime": 1596693600,
     "endTime": 1598540399,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900001,
+    "name": "Gladiator Medal",
+    "description": "Medal awarded when recovering SP at the Colosseum.",
+    "resourceName": "item20201119_gachaticket_colosseum",
+    "assetBundleName": "900062",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Can earn as an SP recovery reward at the Colosseum.",
+    "priority": 7,
+    "itemMstId": 900062,
+    "startTime": 1605765600,
+    "endTime": 1924959599,
+    "isDeleted": false
   }
 ]
