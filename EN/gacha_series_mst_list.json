@@ -765,6 +765,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 92,
+    "gachaGroupId": 5,
+    "bannerMstId": 262,
+    "isAlways": false,
+    "name": "STEP Grimoire: Purple Smoke Jester",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅻ)\\nAmount: STEP 1 to STEP 2, x50 medals each\\nSTEP 3 to STEP 5, x100 medals each\\n-Medal of desire (Ⅻ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 230,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=417&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 130,
     "gachaGroupId": 5,
     "bannerMstId": 361,

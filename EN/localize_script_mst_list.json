@@ -19528,5 +19528,61 @@
     "ES": "Falta {0} para el siguiente grimorio",
     "TH": "กรีมัวร์ต่อไปอีก {0}",
     "VN": ""
+  },
+  {
+    "id": 1396,
+    "TLM": 51547,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "AP：",
+    "EN": "AP: ",
+    "KR": "AP: ",
+    "DE": "",
+    "FR": "PA :",
+    "ES": "PA:",
+    "TH": "AP：",
+    "VN": ""
+  },
+  {
+    "id": 1397,
+    "TLM": 51548,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "ミッション：",
+    "EN": "Mission: ",
+    "KR": "미션: ",
+    "DE": "",
+    "FR": "Mission :",
+    "ES": "Misión:",
+    "TH": "ภารกิจ：",
+    "VN": ""
+  },
+  {
+    "id": 1398,
+    "TLM": 51549,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "参加報酬：",
+    "EN": "Participation Reward: ",
+    "KR": "참가 보상: ",
+    "DE": "",
+    "FR": "Récompenses de participation :",
+    "ES": "Recompensa por participación:",
+    "TH": "รางวัลการเข้าร่วม：",
+    "VN": ""
+  },
+  {
+    "id": 1399,
+    "TLM": 51550,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "MAX",
+    "EN": "MAX",
+    "KR": "최대",
+    "DE": "",
+    "FR": "MAX",
+    "ES": "MÁX",
+    "TH": "MAX",
+    "VN": ""
   }
 ]
