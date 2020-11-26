@@ -3056,6 +3056,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 207,
+    "name": "グレーテルメダル",
+    "description": "ガチャで獲得できるメダル\r\n※2020年12月11日23:59まで",
+    "resourceName": "item20200124_pinocchio_gacha",
+    "assetBundleName": "1959",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2020年12月11日23:59まで",
+    "priority": 43,
+    "itemMstId": 2750,
+    "startTime": 1606370400,
+    "endTime": 1607698799,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 208,
     "name": "カメラメダル",
     "description": "ギシンアンキが集めているメダル\r\n※2020年12月10日23:59まで",

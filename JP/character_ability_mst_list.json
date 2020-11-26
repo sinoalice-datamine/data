@@ -49520,6 +49520,146 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 5115,
+    "characterMstId": 401,
+    "name": "Gretelエリアで射出30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5116,
+    "characterMstId": 401,
+    "name": "射出10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5117,
+    "characterMstId": 401,
+    "name": "魔法防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5118,
+    "characterMstId": 401,
+    "name": "物理防御+100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5119,
+    "characterMstId": 401,
+    "name": "Gretelエリアで長柄20%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5120,
+    "characterMstId": 401,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5121,
+    "characterMstId": 401,
+    "name": "Gretelエリアで射出20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5122,
+    "characterMstId": 401,
+    "name": "魔法防御+200",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5123,
+    "characterMstId": 401,
+    "name": "物理防御+200",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5124,
+    "characterMstId": 401,
+    "name": "HP+500",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5125,
+    "characterMstId": 401,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5126,
+    "characterMstId": 401,
+    "name": "長柄5%UP",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5127,
+    "characterMstId": 401,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5128,
+    "characterMstId": 401,
+    "name": "HP+500",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 7
+  },
+  {
     "characterAbilityMstId": 5129,
     "characterMstId": 405,
     "name": "Nutcrackerエリアで祈祷10%UP",
