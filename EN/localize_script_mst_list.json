@@ -19526,7 +19526,7 @@
     "DE": "Noch {0} bis zum nächsten Grimoire",
     "FR": "{0} jusqu'au prochain Grimoire",
     "ES": "Falta {0} para el siguiente grimorio",
-    "TH": "กรีมัวร์ต่อไปอีก {0}",
+    "TH": "กรีมัวร์ครั้งต่อไปในอีก {0}",
     "VN": ""
   },
   {
@@ -19537,7 +19537,7 @@
     "JP": "AP：",
     "EN": "AP: ",
     "KR": "AP: ",
-    "DE": "",
+    "DE": "AP:",
     "FR": "PA :",
     "ES": "PA:",
     "TH": "AP：",
@@ -19551,7 +19551,7 @@
     "JP": "ミッション：",
     "EN": "Mission: ",
     "KR": "미션: ",
-    "DE": "",
+    "DE": "Mission:",
     "FR": "Mission :",
     "ES": "Misión:",
     "TH": "ภารกิจ：",
@@ -19565,7 +19565,7 @@
     "JP": "参加報酬：",
     "EN": "Participation Reward: ",
     "KR": "참가 보상: ",
-    "DE": "",
+    "DE": "Teilnahmebelohnung(en):",
     "FR": "Récompenses de participation :",
     "ES": "Recompensa por participación:",
     "TH": "รางวัลการเข้าร่วม：",
@@ -19579,10 +19579,24 @@
     "JP": "MAX",
     "EN": "MAX",
     "KR": "최대",
-    "DE": "",
+    "DE": "Max.",
     "FR": "MAX",
     "ES": "MÁX",
     "TH": "MAX",
+    "VN": ""
+  },
+  {
+    "id": 1400,
+    "TLM": 51531,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "既に引き終わっています",
+    "EN": "Already used.",
+    "KR": "이미 완료한 뽑기입니다.",
+    "DE": "Bereits verwendet.",
+    "FR": "Déjà utilisé",
+    "ES": "Ya lo has usado.",
+    "TH": "ใช้ไปแล้ว",
     "VN": ""
   }
 ]

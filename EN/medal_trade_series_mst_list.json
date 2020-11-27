@@ -238,6 +238,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 45,
+    "name": "Arcana medal",
+    "description": "A medal that is an incidental byproduct of purchasing certain twilight crystals",
+    "resourceName": "item1",
+    "assetBundleName": "0045",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by buying twilight crystals with the Arcana Medal.",
+    "priority": 37,
+    "itemMstId": 706,
+    "startTime": 1606456800,
+    "endTime": 1607320799,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 48,
     "name": "Royal Medal",
     "description": "Medal collected by Parrah-Noya.\\n*Expires: 180 days after receipt",
