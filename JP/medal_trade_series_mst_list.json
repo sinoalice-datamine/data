@@ -298,8 +298,8 @@
     "wayToGet": "イベントを行うことで獲得することができます。",
     "priority": 30,
     "itemMstId": 345,
-    "startTime": 1604156400,
-    "endTime": 1605452399,
+    "startTime": 1606748400,
+    "endTime": 1608044399,
     "displayType": 0,
     "isDeleted": false
   },
@@ -3100,6 +3100,22 @@
     "itemMstId": 2754,
     "startTime": 1605762000,
     "endTime": 1606748399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 210,
+    "name": "ヨクボウメダル(Ⅻ)",
+    "description": "ガチャで獲得できるメダル\r\n※2021年1月7日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年1月7日23:59まで",
+    "priority": 55,
+    "itemMstId": 2770,
+    "startTime": 1606716000,
+    "endTime": 1610031599,
     "displayType": 0,
     "isDeleted": false
   }

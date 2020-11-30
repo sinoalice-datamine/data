@@ -13053,6 +13053,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 1700,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 4576,
+    "isAlways": false,
+    "name": "12月ピックアップガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅻ)\r\n枚数：1回ガチャで10枚、11回ガチャで100枚\r\n有効期限：2021年1月7日23:59",
+    "priority": 120,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=6721&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 0,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 1730,
     "gachaGroupId": 3,
     "topBannerMstId": 0,
@@ -18542,5 +18561,24 @@
     "pickupFirstResourceAssetBundleName": "",
     "setItemPickupPosition": 0,
     "createdTime": 1467266413
+  },
+  {
+    "gachaSeriesMstId": 102280,
+    "gachaGroupId": 5,
+    "topBannerMstId": 0,
+    "bannerMstId": 4585,
+    "isAlways": false,
+    "name": "聖ノ祝祭",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅻ)\r\n枚数：STEP1～2で各50枚　STEP3～5で各100枚\r\n有効期限：2021年1月7日23:59",
+    "priority": 15000,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=6715&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266414
   }
 ]
