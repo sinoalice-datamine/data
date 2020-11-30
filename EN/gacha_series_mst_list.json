@@ -578,6 +578,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 54,
+    "gachaGroupId": 3,
+    "bannerMstId": 159,
+    "isAlways": false,
+    "name": "Damsel Duo",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅻ)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-Medal of desire (Ⅻ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 250,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=383&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 55,
     "gachaGroupId": 3,
     "bannerMstId": 169,
