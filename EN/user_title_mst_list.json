@@ -893,7 +893,7 @@
   {
     "userTitleMstId": 100,
     "name": "40 Stages Completed",
-    "detail": "Title given to those who have completed stage 40 of Prison of the Abyss",
+    "detail": "Title given to those who have completed Stage 40 of Prison of the Abyss",
     "assetBundleName": "user_title/2",
     "resourceName": "0004",
     "limitTime": 1893423600,
@@ -902,7 +902,7 @@
   {
     "userTitleMstId": 101,
     "name": "70 Stages Completed",
-    "detail": "Title given to those who have completed stage 70 of Prison of the Abyss",
+    "detail": "Title given to those who have completed Stage 70 of Prison of the Abyss",
     "assetBundleName": "user_title/2",
     "resourceName": "0005",
     "limitTime": 1893423600,
@@ -911,7 +911,7 @@
   {
     "userTitleMstId": 102,
     "name": "100 Stages Completed",
-    "detail": "Title given to those who have completed stage 100 of Prison of the Abyss",
+    "detail": "Title given to those who have completed Stage 100 of Prison of the Abyss",
     "assetBundleName": "user_title/2",
     "resourceName": "0006",
     "limitTime": 1893423600,
@@ -920,7 +920,7 @@
   {
     "userTitleMstId": 103,
     "name": "140 Stages Completed",
-    "detail": "Title given to those who have completed stage 140 of Prison of the Abyss",
+    "detail": "Title given to those who have completed Stage 140 of Prison of the Abyss",
     "assetBundleName": "user_title/2",
     "resourceName": "0007",
     "limitTime": 1893423600,
@@ -929,7 +929,7 @@
   {
     "userTitleMstId": 104,
     "name": "170 Stages Completed",
-    "detail": "Title given to those who have completed stage 170 of Prison of the Abyss",
+    "detail": "Title given to those who have completed Stage 170 of Prison of the Abyss",
     "assetBundleName": "user_title/2",
     "resourceName": "0008",
     "limitTime": 1893423600,
@@ -938,9 +938,36 @@
   {
     "userTitleMstId": 105,
     "name": "200 Stages Completed",
-    "detail": "Title given to those who have completed stage 200 of Prison of the Abyss",
+    "detail": "Title given to those who have completed Stage 200 of Prison of the Abyss",
     "assetBundleName": "user_title/2",
     "resourceName": "0009",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 205,
+    "name": "240 Stages Completed",
+    "detail": "Title given to those who have completed Stage 240 of Prison of the Abyss",
+    "assetBundleName": "user_title/3",
+    "resourceName": "0010",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 206,
+    "name": "270 Stages Completed",
+    "detail": "Title given to those who have completed Stage 270 of Prison of the Abyss",
+    "assetBundleName": "user_title/3",
+    "resourceName": "0011",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 207,
+    "name": "300 Stages Completed",
+    "detail": "Title given to those who have completed Stage 300 of Prison of the Abyss",
+    "assetBundleName": "user_title/3",
+    "resourceName": "0012",
     "limitTime": 1893423600,
     "createdTime": null
   },
