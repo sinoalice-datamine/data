@@ -3724,6 +3724,13 @@
     "endTime": 1609426799
   },
   {
+    "missionTitleMstId": 563,
+    "title": "イベントデイリーミッション",
+    "priority": 0,
+    "startTime": 1606975200,
+    "endTime": 1607576399
+  },
+  {
     "missionTitleMstId": 566,
     "title": "コロシアムSP特別ミッション",
     "priority": 50000,
@@ -3792,5 +3799,19 @@
     "priority": 0,
     "startTime": 1608865200,
     "endTime": 1609124399
+  },
+  {
+    "missionTitleMstId": 579,
+    "title": "淘汰篇リアルタイムクリアミッション",
+    "priority": 0,
+    "startTime": 1606802400,
+    "endTime": 1607407199
+  },
+  {
+    "missionTitleMstId": 584,
+    "title": "淘汰篇お助けミッション",
+    "priority": 0,
+    "startTime": 1606802400,
+    "endTime": 1607407199
   }
 ]
