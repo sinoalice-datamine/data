@@ -7440,6 +7440,126 @@
     "cardDetailType": 4
   },
   {
+    "characterAbilityMstId": 1001,
+    "characterMstId": 85,
+    "name": "Staff +30% (Sleeping Beauty+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1002,
+    "characterMstId": 85,
+    "name": "Instrument -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1003,
+    "characterMstId": 85,
+    "name": "Tome -25%",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1004,
+    "characterMstId": 85,
+    "name": "Instrument -25%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1005,
+    "characterMstId": 85,
+    "name": "Tome -25%",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1006,
+    "characterMstId": 85,
+    "name": "Instrument -25%",
+    "releaseLevel": 6,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1007,
+    "characterMstId": 85,
+    "name": "Tome -25%",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1008,
+    "characterMstId": 85,
+    "name": "Staff +15%",
+    "releaseLevel": 8,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1009,
+    "characterMstId": 85,
+    "name": "P.DEF +500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1010,
+    "characterMstId": 85,
+    "name": "Staff +15%",
+    "releaseLevel": 10,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1011,
+    "characterMstId": 85,
+    "name": "M.DEF +500",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1012,
+    "characterMstId": 85,
+    "name": "Staff +5%",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 4
+  },
+  {
     "characterAbilityMstId": 1059,
     "characterMstId": 87,
     "name": "Staff +10% (Clam-digging+ stages)",
@@ -7798,6 +7918,126 @@
     "effectType": 4,
     "effectValue": 200,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1251,
+    "characterMstId": 103,
+    "name": "Heavy +30% (Red Riding Hood+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1252,
+    "characterMstId": 103,
+    "name": "Polearm -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1253,
+    "characterMstId": 103,
+    "name": "Blade -25%",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1254,
+    "characterMstId": 103,
+    "name": "Polearm -25%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1255,
+    "characterMstId": 103,
+    "name": "Blade -25%",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1256,
+    "characterMstId": 103,
+    "name": "Polearm -25%",
+    "releaseLevel": 6,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1257,
+    "characterMstId": 103,
+    "name": "Blade -25%",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1258,
+    "characterMstId": 103,
+    "name": "Heavy +15%",
+    "releaseLevel": 8,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1259,
+    "characterMstId": 103,
+    "name": "M.DEF +500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1260,
+    "characterMstId": 103,
+    "name": "Heavy +15%",
+    "releaseLevel": 10,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1261,
+    "characterMstId": 103,
+    "name": "P.ATK +500",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1262,
+    "characterMstId": 103,
+    "name": "Heavy +5%",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 6
   },
   {
     "characterAbilityMstId": 1287,
