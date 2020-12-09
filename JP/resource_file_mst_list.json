@@ -1401,7 +1401,7 @@
     "iosFileSize": 0,
     "androidHash": "ba4d113b3aa2a063a5fb5546c98e0e2e",
     "iosHash": "",
-    "isEveryTimeDownload": true
+    "isEveryTimeDownload": false
   },
   {
     "resourceFileMstId": 157,
@@ -1410,7 +1410,7 @@
     "iosFileSize": 0,
     "androidHash": "73ca77ebf4351f5195907d179e11637a",
     "iosHash": "",
-    "isEveryTimeDownload": true
+    "isEveryTimeDownload": false
   },
   {
     "resourceFileMstId": 158,
@@ -14599,6 +14599,15 @@
   },
   {
     "resourceFileMstId": 1623,
+    "resourceName": "cri/tota_b07.usm",
+    "androidFileSize": 7393152,
+    "iosFileSize": 0,
+    "androidHash": "b4fff8d55bb414b605fcf54f8d07187a",
+    "iosHash": "",
+    "isEveryTimeDownload": false
+  },
+  {
+    "resourceFileMstId": 1624,
     "resourceName": "cri/yugou20200331Movie.usm",
     "androidFileSize": 23880736,
     "iosFileSize": 0,

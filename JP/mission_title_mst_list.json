@@ -249,7 +249,7 @@
     "title": "復帰ミッション",
     "priority": 0,
     "startTime": 1539928800,
-    "endTime": 1908975600
+    "endTime": 1607457599
   },
   {
     "missionTitleMstId": 39,
@@ -3710,6 +3710,13 @@
     "endTime": 1607320799
   },
   {
+    "missionTitleMstId": 559,
+    "title": "カムバックミッション",
+    "priority": 49999,
+    "startTime": 1607457600,
+    "endTime": 1908975600
+  },
+  {
     "missionTitleMstId": 560,
     "title": "いい石キャンペーンミッション",
     "priority": 0,
@@ -3808,10 +3815,24 @@
     "endTime": 1607407199
   },
   {
+    "missionTitleMstId": 580,
+    "title": "淘汰篇リアルタイムクリアミッション",
+    "priority": 0,
+    "startTime": 1607407200,
+    "endTime": 1608011999
+  },
+  {
     "missionTitleMstId": 584,
     "title": "淘汰篇お助けミッション",
     "priority": 0,
     "startTime": 1606802400,
     "endTime": 1607407199
+  },
+  {
+    "missionTitleMstId": 585,
+    "title": "淘汰篇お助けミッション",
+    "priority": 0,
+    "startTime": 1607407200,
+    "endTime": 1608011999
   }
 ]

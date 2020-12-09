@@ -50580,6 +50580,46 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 5395,
+    "characterMstId": 64,
+    "name": "HP+2500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2500,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5396,
+    "characterMstId": 64,
+    "name": "射出ジョブ使用時、魔法ダメージ2%UP",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5031,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5397,
+    "characterMstId": 251,
+    "name": "HP+2500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5398,
+    "characterMstId": 251,
+    "name": "祈祷ジョブ使用時、回復効果2%UP",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5035,
+    "cardDetailType": 4
+  },
+  {
     "characterAbilityMstId": 5403,
     "characterMstId": 136,
     "name": "Kaguyahimeエリアで射出10%UP",

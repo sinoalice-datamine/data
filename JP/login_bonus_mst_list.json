@@ -1392,7 +1392,7 @@
     "displayType": 2,
     "pickupSkillType": 1,
     "startTime": 1556172000,
-    "endTime": 1906833599,
+    "endTime": 1607457599,
     "resourceName": "1",
     "assetBundleName": ""
   },
@@ -3058,6 +3058,17 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 290,
+    "title": "カムバックログインボーナス",
+    "cycleType": 5,
+    "displayType": 3,
+    "pickupSkillType": 1,
+    "startTime": 1607457600,
+    "endTime": 1906833599,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 291,
     "title": "Rank100応援ボーナス①",
     "cycleType": 7,
@@ -3098,6 +3109,17 @@
     "pickupSkillType": 1,
     "startTime": 1606766400,
     "endTime": 1607353199,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 296,
+    "title": "グランコロシアム開催CP",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1607803200,
+    "endTime": 1608289199,
     "resourceName": "1",
     "assetBundleName": ""
   }

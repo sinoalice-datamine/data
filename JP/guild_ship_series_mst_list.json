@@ -182,5 +182,37 @@
     "shipPartsBodyMstId": 82,
     "shipPartsRoofMstId": 81,
     "shipPartsAttachedMstId": 83
+  },
+  {
+    "guildShipSeriesMstId": 25,
+    "name": "氷晶シリーズ(1部)",
+    "description": "第37回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 90,
+    "shipPartsRoofMstId": 89,
+    "shipPartsAttachedMstId": 91
+  },
+  {
+    "guildShipSeriesMstId": 26,
+    "name": "氷晶シリーズ(2部)",
+    "description": "第37回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 93,
+    "shipPartsRoofMstId": 92,
+    "shipPartsAttachedMstId": 94
+  },
+  {
+    "guildShipSeriesMstId": 27,
+    "name": "氷晶シリーズ(3部)",
+    "description": "第37回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 96,
+    "shipPartsRoofMstId": 95,
+    "shipPartsAttachedMstId": 97
+  },
+  {
+    "guildShipSeriesMstId": 28,
+    "name": "オリジンシリーズ(菫)",
+    "description": "オリジンシリーズ(菫)のギルドシップ",
+    "shipPartsBodyMstId": 99,
+    "shipPartsRoofMstId": 98,
+    "shipPartsAttachedMstId": 100
   }
 ]
