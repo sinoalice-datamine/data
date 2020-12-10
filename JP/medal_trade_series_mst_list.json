@@ -3118,5 +3118,53 @@
     "endTime": 1610031599,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 211,
+    "name": "2020クリスマスメダル",
+    "description": "ガチャで獲得できるメダル\r\n※2021年1月1日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年1月1日23:59まで",
+    "priority": 55,
+    "itemMstId": 2851,
+    "startTime": 1607576400,
+    "endTime": 1609513199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 212,
+    "name": "ジョブメダル",
+    "description": "魔晶石購入特典のジョブと交換できるメダル\r\n※2021年1月1日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "0212",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ジョブメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2021年1月1日23:59まで",
+    "priority": 37,
+    "itemMstId": 2868,
+    "startTime": 1607839200,
+    "endTime": 1609513199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 213,
+    "name": "アルカナメダル",
+    "description": "アルカナと交換できるメダル\r\n※2021年1月1日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "0213",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "アルカナメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2021年1月1日23:59まで",
+    "priority": 37,
+    "itemMstId": 2869,
+    "startTime": 1607839200,
+    "endTime": 1609513199,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]

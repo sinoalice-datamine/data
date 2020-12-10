@@ -1692,5 +1692,61 @@
     "startTime": 1606662000,
     "endTime": 1606748399,
     "createdTime": null
+  },
+  {
+    "chatStampMstId": 129,
+    "name": "ドロシー/聞いて！",
+    "resourceName": "129",
+    "assetBundleName": "chat43",
+    "filterType": 10,
+    "howToGet": "『Go To Stream　『Mirrativ×SINoALICE』クリスマス特別キャンペーン』にて獲得可能",
+    "itemMstId": 2820,
+    "replaceMessage": "[*129]",
+    "isAnytime": 0,
+    "startTime": 1607576400,
+    "endTime": 1608908399,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 130,
+    "name": "赤ずきん/仲間！",
+    "resourceName": "130",
+    "assetBundleName": "chat44",
+    "filterType": 3,
+    "howToGet": "『Go To Communicate　SINoALICE Twitter大喜利キャンペーン』にて獲得可能",
+    "itemMstId": 2821,
+    "replaceMessage": "[*130]",
+    "isAnytime": 0,
+    "startTime": 1607576400,
+    "endTime": 1608908399,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 132,
+    "name": "アラジン/アシストしよう",
+    "resourceName": "132",
+    "assetBundleName": "chat46",
+    "filterType": 13,
+    "howToGet": "イベント『聖夜ノ叛宴』にて獲得可能",
+    "itemMstId": 2860,
+    "replaceMessage": "[*132]",
+    "isAnytime": 0,
+    "startTime": 1607576400,
+    "endTime": 1608908399,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 133,
+    "name": "アリス/威圧",
+    "resourceName": "133",
+    "assetBundleName": "chat46",
+    "filterType": 1,
+    "howToGet": "イベント『聖夜ノ叛宴』にて獲得可能",
+    "itemMstId": 2861,
+    "replaceMessage": "[*133]",
+    "isAnytime": 0,
+    "startTime": 1607576400,
+    "endTime": 1608908399,
+    "createdTime": null
   }
 ]

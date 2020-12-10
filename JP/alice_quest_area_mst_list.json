@@ -14400,5 +14400,43 @@
     "disableMultipleCharacter": false,
     "startTime": null,
     "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 803,
+    "questMapMstId": 435,
+    "name": "聖夜ノ叛宴",
+    "collectItemId": 2814,
+    "exchangesSceneName": "ShootingGachaTop",
+    "assetBundleName": "questareabackground/270",
+    "bgResourceName": "0270",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "startTime": null,
+    "createdTime": 1485183600
+  },
+  {
+    "questAreaMstId": 804,
+    "questMapMstId": 436,
+    "name": "聖夜ノ叛宴",
+    "collectItemId": 2814,
+    "exchangesSceneName": "ShootingGachaTop",
+    "assetBundleName": "questareabackground/270",
+    "bgResourceName": "0270",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": false,
+    "startTime": null,
+    "createdTime": 1485183600
   }
 ]

@@ -4486,5 +4486,27 @@
     "description": "復刻防具「記憶ト共ニ」Hard",
     "announceUrl": "",
     "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 435,
+    "mapType": 1,
+    "mapGroup": 270,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "聖夜ノ叛宴",
+    "description": "聖夜の叛宴Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 436,
+    "mapType": 1,
+    "mapGroup": 270,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "聖夜ノ叛宴Hard",
+    "description": "聖夜の叛宴Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
   }
 ]

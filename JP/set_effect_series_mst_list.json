@@ -741,6 +741,25 @@
     "createdTime": 1520434800
   },
   {
+    "setEffectSeriesMstId": 40,
+    "skillMstId": 5611,
+    "kind": 1,
+    "rate": 0,
+    "headName": "過誉の帽子",
+    "breastName": "過誉の手袋",
+    "footName": "過誉のドレス",
+    "armName": "過誉のブーツ",
+    "headSetEffectSeriesId": 40,
+    "breastSetEffectSeriesId": 40,
+    "footSetEffectSeriesId": 40,
+    "armSetEffectSeriesId": 40,
+    "headCardUniqueId": 0,
+    "breastCardUniqueId": 0,
+    "footCardUniqueId": 0,
+    "armCardUniqueId": 0,
+    "createdTime": 1520434800
+  },
+  {
     "setEffectSeriesMstId": 41,
     "skillMstId": 577,
     "kind": 9,
@@ -758,5 +777,24 @@
     "footCardUniqueId": 0,
     "armCardUniqueId": 0,
     "createdTime": 1484060400
+  },
+  {
+    "setEffectSeriesMstId": 42,
+    "skillMstId": 5823,
+    "kind": 1,
+    "rate": 0,
+    "headName": "アンチサンタの帽子",
+    "breastName": "アンチサンタの服",
+    "footName": "アンチサンタの靴",
+    "armName": "アンチサンタの手袋",
+    "headSetEffectSeriesId": 42,
+    "breastSetEffectSeriesId": 42,
+    "footSetEffectSeriesId": 42,
+    "armSetEffectSeriesId": 42,
+    "headCardUniqueId": 0,
+    "breastCardUniqueId": 0,
+    "footCardUniqueId": 0,
+    "armCardUniqueId": 0,
+    "createdTime": 1520434800
   }
 ]
