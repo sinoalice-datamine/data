@@ -17340,7 +17340,7 @@
     "EN": "Using <color=#B42F00>{0}</color> twilight crystals allows you to increase {1} {2} maximum capacity by <color=#B42F00>{3}</color>.",
     "KR": "마정석을 <color=#B42F00>{0}</color>개 사용하여 {1} {2}의 최대 용량을 <color=#B42F00>{3}</color>칸씩 확장할 수 있습니다.",
     "DE": "Mit <color=#B42F00>{0}</color> Zwielichtkristallen kannst du die maximale Kapazität der {2} für {1} um <color=#B42F00>{3}</color> erweitern.",
-    "FR": "Utiliser <color=#B42F00>{0}</color> des Cristaux crépusculaires vous permet d’augmenter la capacité maximale de {1} {2} de <color=#B42F00>{3}</color>",
+    "FR": "Utiliser <color=#B42F00>{0}</color> cristaux crépusculaires vous permet d’augmenter la capacité maximale de {2} {1} de <color=#B42F00>{3}</color>",
     "ES": "Si usas <color=#B42F00>{0}</color> cristales del ocaso, puedes incrementar la capacidad máxima de {1} {2} por <color=#B42F00>{3}</color>",
     "TH": "สามารถใช้คริสตัลสนธยา <color=#B42F00>{0}</color>ชิ้น เพื่อขยายความจุสูงสุดของ{1}{2}ได้อีก<color=#B42F00>{3}</color>ความจุได้",
     "VN": "\"VN\": null"
@@ -19597,6 +19597,20 @@
     "FR": "Déjà utilisé",
     "ES": "Ya lo has usado.",
     "TH": "ใช้ไปแล้ว",
+    "VN": ""
+  },
+  {
+    "id": 1401,
+    "TLM": 51633,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "アンキ：ロイヤル魔晶石パスの期間が終了しマシタ。\\nギシン：ロイヤル「魔晶石パス」の方デス！",
+    "EN": "RMP期限切れ通知_EN",
+    "KR": "RMP期限切れ通知_KR",
+    "DE": "RMP期限切れ通知_DE",
+    "FR": "RMP期限切れ通知_FR",
+    "ES": "RMP期限切れ通知_ES",
+    "TH": "RMP期限切れ通知_TH",
     "VN": ""
   }
 ]

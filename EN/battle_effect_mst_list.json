@@ -1470,6 +1470,34 @@
     "createdTime": 1485961226
   },
   {
+    "battleEffectMstId": 164,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_christmas_quest",
+    "cueName": "se_christmas_quest@001_R",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 165,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_christmas_quest",
+    "cueName": "se_christmas_quest@002_R",
+    "createdTime": 1485961226
+  },
+  {
     "battleEffectMstId": 167,
     "positionType": 1,
     "additionalPositionX": 0,

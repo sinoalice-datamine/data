@@ -239,7 +239,7 @@
   },
   {
     "medalTradeSeriesMstId": 45,
-    "name": "Arcana medal",
+    "name": "Arcana Medal",
     "description": "A medal that is an incidental byproduct of purchasing certain twilight crystals",
     "resourceName": "item1",
     "assetBundleName": "0045",
@@ -267,7 +267,7 @@
   },
   {
     "medalTradeSeriesMstId": 49,
-    "name": "Invader medal",
+    "name": "Invader Medal",
     "description": "Medal collected by Parrah-Noya.",
     "resourceName": "item20200917_medal_invader",
     "assetBundleName": "792",
@@ -281,7 +281,7 @@
   },
   {
     "medalTradeSeriesMstId": 51,
-    "name": "Taito medal",
+    "name": "Taito Medal",
     "description": "Medal from a collaboration grimoire.",
     "resourceName": "item1",
     "assetBundleName": "0051",
@@ -295,7 +295,7 @@
   },
   {
     "medalTradeSeriesMstId": 54,
-    "name": "Halloween medal",
+    "name": "Halloween Medal",
     "description": "Medal collected by Parrah-Noya.",
     "resourceName": "item20201020_medal_halloween",
     "assetBundleName": "0840",
@@ -308,8 +308,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 61,
+    "name": "Candy Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20201210_medal_xmas",
+    "assetBundleName": "0893",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 893,
+    "startTime": 1607580000,
+    "endTime": 1609653599,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 69,
-    "name": "Replicant medal",
+    "name": "Replicant Medal",
     "description": "Medal from a collaboration grimoire.",
     "resourceName": "item20200806_gacha_nierreplicant",
     "assetBundleName": "1039",

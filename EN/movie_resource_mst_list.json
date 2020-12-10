@@ -609,6 +609,27 @@
     "vibStartTime": -1.0
   },
   {
+    "movieResourceMstId": 78,
+    "movieTitle": "X-mas Feast OP",
+    "resourceName": "XmasEventOP",
+    "isPreDownLoad": 0,
+    "type": 1,
+    "value": 353,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1607580000,
+    "endTime": 1609048799,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "Bug if No Conditions shows",
+    "thumbAssetBundleName": "museumthumbnail/71",
+    "thumbResourceName": "XmasEventOP",
+    "museumStartTime": 1607580000,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0
+  },
+  {
     "movieResourceMstId": 83,
     "movieTitle": "NieR RepliCant OP",
     "resourceName": "RepliCantOPMovie",
