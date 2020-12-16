@@ -3554,5 +3554,61 @@
     "cueSheet": "se_rozen",
     "cueName": "se_rozen@006_L",
     "createdTime": 1485961200
+  },
+  {
+    "battleEffectMstId": 272,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 80,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 3,
+    "cueSheet": "se_touta",
+    "cueName": "se_touta@007_R",
+    "createdTime": 1485961200
+  },
+  {
+    "battleEffectMstId": 273,
+    "positionType": 3,
+    "additionalPositionX": 1000,
+    "additionalPositionY": -500,
+    "additionalPositionZ": 0,
+    "magnificationScale": 80,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_touta",
+    "cueName": "se_touta@008_L",
+    "createdTime": 1485961200
+  },
+  {
+    "battleEffectMstId": 277,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 50,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_touta",
+    "cueName": "se_touta@010_R",
+    "createdTime": 1485961200
+  },
+  {
+    "battleEffectMstId": 290,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 3,
+    "cueSheet": "se_touta",
+    "cueName": "se_touta@009_R",
+    "createdTime": 1485961200
   }
 ]
