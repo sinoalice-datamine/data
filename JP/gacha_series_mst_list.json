@@ -19074,5 +19074,43 @@
     "pickupFirstResourceAssetBundleName": "",
     "setItemPickupPosition": 2,
     "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 102310,
+    "gachaGroupId": 5,
+    "topBannerMstId": 0,
+    "bannerMstId": 4644,
+    "isAlways": false,
+    "name": "復刻　聖ノ祝祭～前衛編～",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅻ)\r\n枚数：STEP1～2で各50枚　STEP3～5で各100枚\r\n有効期限：2021年1月7日23:59",
+    "priority": 15001,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=6817&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266414
+  },
+  {
+    "gachaSeriesMstId": 102320,
+    "gachaGroupId": 5,
+    "topBannerMstId": 0,
+    "bannerMstId": 4645,
+    "isAlways": false,
+    "name": "復刻　聖ノ祝祭～後衛編～",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅻ)\r\n枚数：STEP1～2で各50枚　STEP3～5で各100枚\r\n有効期限：2021年1月7日23:59",
+    "priority": 15000,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=6818&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266414
   }
 ]
