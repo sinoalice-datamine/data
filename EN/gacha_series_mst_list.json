@@ -952,6 +952,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 159,
+    "gachaGroupId": 3,
+    "bannerMstId": 429,
+    "isAlways": false,
+    "name": "Feast for Three",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅻ)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-Medal of desire (Ⅻ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 300,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=537&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 8110,
     "gachaGroupId": 5,
     "bannerMstId": 665,
