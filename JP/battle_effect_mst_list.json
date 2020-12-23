@@ -3556,6 +3556,20 @@
     "createdTime": 1485961200
   },
   {
+    "battleEffectMstId": 271,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_touta_b",
+    "cueName": "se_touta_b@006_R",
+    "createdTime": 1485961200
+  },
+  {
     "battleEffectMstId": 272,
     "positionType": 1,
     "additionalPositionX": 0,
@@ -3581,6 +3595,48 @@
     "period": 5,
     "cueSheet": "se_touta",
     "cueName": "se_touta@008_L",
+    "createdTime": 1485961200
+  },
+  {
+    "battleEffectMstId": 274,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_touta_b",
+    "cueName": "se_touta_b@013_R",
+    "createdTime": 1485961200
+  },
+  {
+    "battleEffectMstId": 275,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_touta_b",
+    "cueName": "se_touta_b@011_R",
+    "createdTime": 1485961200
+  },
+  {
+    "battleEffectMstId": 276,
+    "positionType": 2,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_touta_b",
+    "cueName": "se_touta_b@012_L",
     "createdTime": 1485961200
   },
   {
