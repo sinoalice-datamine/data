@@ -210,6 +210,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 24,
+    "name": "Holiday Medal",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item20201224_gacha_holiday",
+    "assetBundleName": "0379",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoire.",
+    "priority": 32,
+    "itemMstId": 379,
+    "startTime": 1608789600,
+    "endTime": 1610031599,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 28,
     "name": "Hatter Medal",
     "description": "Medal collected by Parrah-Noya.",

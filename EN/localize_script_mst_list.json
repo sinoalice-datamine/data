@@ -14008,7 +14008,7 @@
     "EN": "Weapon Capacity",
     "KR": "무기 보유 한도",
     "DE": "Waffenkapazität",
-    "FR": "Capacité d'arme",
+    "FR": "Capa. d'arme",
     "ES": "Capacidad del arma",
     "TH": "ความจุอาวุธที่มีอยู่",
     "VN": "Sức chứa vũ khí"
@@ -14022,7 +14022,7 @@
     "EN": "Armor Capacity",
     "KR": "방어구 보유 한도",
     "DE": "Rüstungskapazität",
-    "FR": "Capacité d'armure",
+    "FR": "Capa. d'armure",
     "ES": "Capacidad de la armadura",
     "TH": "ความจุชุดเกราะที่มีอยู่",
     "VN": "Sức chứa giáp"
@@ -17397,7 +17397,7 @@
     "KR": "JLv.",
     "DE": "Klassen St.",
     "FR": "Niv. Classe",
-    "ES": "Nv. clase",
+    "ES": "Nv. de clase",
     "TH": "JLv",
     "VN": "\"VN\": null"
   },
@@ -19625,6 +19625,34 @@
     "FR": "Après connexion à Google Play, vous pourrez utiliser la boutique.",
     "ES": "Se podrá utilizar la tienda una vez que se inicie sesión en Google Play Store.",
     "TH": "ร้านค้าจะสามารถใช้งานได้ หลังจากล็อกอินเข้าสู่ระบบ Google Play Store แล้ว",
+    "VN": ""
+  },
+  {
+    "id": 1403,
+    "TLM": 51653,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "サイズ：<color=#A54410>{2:0.#}</color> MB",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
+    "VN": ""
+  },
+  {
+    "id": 1404,
+    "TLM": 51658,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "アプリの詳細設定へ",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
     "VN": ""
   }
 ]

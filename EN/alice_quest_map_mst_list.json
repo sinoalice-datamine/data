@@ -270,6 +270,26 @@
     "createdTime": 1581260400
   },
   {
+    "questMapMstId": 46,
+    "mapType": 1,
+    "mapGroup": 27,
+    "mapGroupLv": 1,
+    "name": "Nightmare in the Chapel",
+    "description": "Jörmungandr Redux",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 47,
+    "mapType": 1,
+    "mapGroup": 27,
+    "mapGroupLv": 2,
+    "name": "Nightmare in the Chapel (Hard)",
+    "description": "Jörmungandr Redux (Hard)",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 48,
     "mapType": 1,
     "mapGroup": 28,
@@ -336,6 +356,16 @@
     "mapGroupLv": 1,
     "name": "Act of Reality",
     "description": "Story of Reality (Normal)",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 60,
+    "mapType": 1,
+    "mapGroup": 34,
+    "mapGroupLv": 1,
+    "name": "Heart of the Sandstorm",
+    "description": "November Redux",
     "announceUrl": "",
     "createdTime": 1483974000
   },
@@ -547,6 +577,16 @@
     "name": "Study Hall Parrah-Noya Style!",
     "description": "Tutorial Quest",
     "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 900002,
+    "mapType": 1,
+    "mapGroup": 900002,
+    "mapGroupLv": 1,
+    "name": "Bonus Stage",
+    "description": "Medal: X-mas Feast",
+    "announceUrl": "/web/announce/body?announceMstId=2314&&isHideBackButton=1",
     "createdTime": 1483974000
   }
 ]
