@@ -96,6 +96,18 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 19,
+    "title": "Guild Event Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1609477200,
+    "endTime": 1610081999,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 23,
     "title": "Act of Reality Release Bonus",
     "cycleType": 2,
@@ -319,6 +331,54 @@
     "pickupSkillType": 1,
     "startTime": 1606456800,
     "endTime": 1607057999,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900009,
+    "title": "6 Month Anniversary 1",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1609131600,
+    "endTime": 1609477199,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900010,
+    "title": "Royal Twilight Crystal Pass",
+    "cycleType": 102,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1577804400,
+    "endTime": 1924959599,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900011,
+    "title": "Guild Event Streak Bonus",
+    "cycleType": 101,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1609477200,
+    "endTime": 1610081999,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900012,
+    "title": "6 Month Anniversary 2",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1609477200,
+    "endTime": 1609822799,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""

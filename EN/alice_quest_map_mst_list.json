@@ -370,6 +370,26 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 66,
+    "mapType": 1,
+    "mapGroup": 39,
+    "mapGroupLv": 1,
+    "name": "New Year's Theater: Legendary Phantom Sword",
+    "description": "January Seasonal Event",
+    "announceUrl": "/web/new_year/?ignErr=102&webView=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 67,
+    "mapType": 1,
+    "mapGroup": 39,
+    "mapGroupLv": 2,
+    "name": "New Year's Theater: Legendary Phantom Sword (Hard)",
+    "description": "January Seasonal Event",
+    "announceUrl": "/web/new_year/?ignErr=102&webView=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 68,
     "mapType": 1,
     "mapGroup": 40,
@@ -576,6 +596,16 @@
     "mapGroupLv": 1,
     "name": "Study Hall Parrah-Noya Style!",
     "description": "Tutorial Quest",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 900001,
+    "mapType": 1,
+    "mapGroup": 900001,
+    "mapGroupLv": 1,
+    "name": "End of Year Grand Conquest",
+    "description": "年末大討伐",
     "announceUrl": "",
     "createdTime": 1483974000
   },

@@ -196,6 +196,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 20,
+    "name": "Black Iron Medal",
+    "description": "Earned in Guild Box o' Grimoire: The Forgotten Records.",
+    "resourceName": "item20210101_gvgbox5",
+    "assetBundleName": "0345",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 30,
+    "itemMstId": 345,
+    "startTime": 1609477200,
+    "endTime": 1610773199,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 21,
     "name": "Medal of Desire (XII)",
     "description": "A medal that is an incidental byproduct of a Grimoire.",
@@ -221,6 +235,20 @@
     "itemMstId": 379,
     "startTime": 1608789600,
     "endTime": 1610031599,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 25,
+    "name": "Medal of Desire (I)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "0003",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoire.",
+    "priority": 33,
+    "itemMstId": 162,
+    "startTime": 1609131600,
+    "endTime": 1613055599,
     "isDeleted": false
   },
   {
