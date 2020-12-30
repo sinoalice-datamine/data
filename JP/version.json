@@ -1,9 +1,9 @@
 {
-  "lastCreatedTime": "2020-12-28 14:20:42",
+  "lastCreatedTime": "2020-12-29 18:40:30",
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
-      "version": 743,
+      "version": 759,
       "names": [
         "item_mst_list"
       ]
@@ -31,28 +31,28 @@
     },
     {
       "mstTableId": 7,
-      "version": 316,
+      "version": 319,
       "names": [
         "medal_trade_series_mst_list"
       ]
     },
     {
       "mstTableId": 8,
-      "version": 754,
+      "version": 770,
       "names": [
         "medal_trade_mst_list"
       ]
     },
     {
       "mstTableId": 9,
-      "version": 710,
+      "version": 718,
       "names": [
         "card_mst_list"
       ]
     },
     {
       "mstTableId": 14,
-      "version": 447,
+      "version": 453,
       "names": [
         "skill_mst_list"
       ]
@@ -66,84 +66,84 @@
     },
     {
       "mstTableId": 16,
-      "version": 232,
+      "version": 238,
       "names": [
         "login_bonus_mst_list"
       ]
     },
     {
       "mstTableId": 17,
-      "version": 226,
+      "version": 231,
       "names": [
         "login_bonus_reward_mst_list"
       ]
     },
     {
       "mstTableId": 18,
-      "version": 186,
+      "version": 192,
       "names": [
         "item_shop_mst_list"
       ]
     },
     {
       "mstTableId": 19,
-      "version": 115,
+      "version": 119,
       "names": [
         "item_shop_detail_mst_list"
       ]
     },
     {
       "mstTableId": 20,
-      "version": 844,
+      "version": 860,
       "names": [
         "gacha_mst_list"
       ]
     },
     {
       "mstTableId": 21,
-      "version": 849,
+      "version": 868,
       "names": [
         "gacha_pickup_mst_list"
       ]
     },
     {
       "mstTableId": 22,
-      "version": 607,
+      "version": 616,
       "names": [
         "gacha_series_mst_list"
       ]
     },
     {
       "mstTableId": 23,
-      "version": 489,
+      "version": 499,
       "names": [
         "mission_mst_list"
       ]
     },
     {
       "mstTableId": 25,
-      "version": 408,
+      "version": 412,
       "names": [
         "card_story_mst_list"
       ]
     },
     {
       "mstTableId": 26,
-      "version": 273,
+      "version": 276,
       "names": [
         "character_story_mst_list"
       ]
     },
     {
       "mstTableId": 27,
-      "version": 364,
+      "version": 371,
       "names": [
         "character_mst_list"
       ]
     },
     {
       "mstTableId": 28,
-      "version": 311,
+      "version": 319,
       "names": [
         "medal_trade_pickup_mst_list"
       ]
@@ -178,14 +178,14 @@
     },
     {
       "mstTableId": 34,
-      "version": 206,
+      "version": 207,
       "names": [
         "resource_file_mst_list"
       ]
     },
     {
       "mstTableId": 35,
-      "version": 96,
+      "version": 98,
       "names": [
         "chat_stamp_mst_list"
       ]
@@ -199,49 +199,49 @@
     },
     {
       "mstTableId": 37,
-      "version": 381,
+      "version": 390,
       "names": [
         "mission_title_mst_list"
       ]
     },
     {
       "mstTableId": 38,
-      "version": 2289,
+      "version": 2342,
       "names": [
         "banner_mst_list"
       ]
     },
     {
       "mstTableId": 39,
-      "version": 187,
+      "version": 190,
       "names": [
         "alice_quest_scenario_mst_list"
       ]
     },
     {
       "mstTableId": 40,
-      "version": 205,
+      "version": 208,
       "names": [
         "alice_quest_story_mst_list"
       ]
     },
     {
       "mstTableId": 41,
-      "version": 173,
+      "version": 176,
       "names": [
         "quest_boss_story_mst_list"
       ]
     },
     {
       "mstTableId": 42,
-      "version": 334,
+      "version": 339,
       "names": [
         "character_ability_mst_list"
       ]
     },
     {
       "mstTableId": 43,
-      "version": 187,
+      "version": 190,
       "names": [
         "gacha_special_reward_mst_list"
       ]
@@ -255,28 +255,28 @@
     },
     {
       "mstTableId": 45,
-      "version": 235,
+      "version": 237,
       "names": [
         "alice_quest_map_mst_list"
       ]
     },
     {
       "mstTableId": 46,
-      "version": 273,
+      "version": 277,
       "names": [
         "alice_quest_area_mst_list"
       ]
     },
     {
       "mstTableId": 47,
-      "version": 325,
+      "version": 329,
       "names": [
         "quest_stage_mst_list"
       ]
     },
     {
       "mstTableId": 48,
-      "version": 179,
+      "version": 181,
       "names": [
         "alice_quest_area_group_mst_list"
       ]
@@ -290,21 +290,21 @@
     },
     {
       "mstTableId": 50,
-      "version": 280,
+      "version": 281,
       "names": [
         "quest_mission_mst_list"
       ]
     },
     {
       "mstTableId": 51,
-      "version": 264,
+      "version": 265,
       "names": [
         "quest_mission_reward_mst_list"
       ]
     },
     {
       "mstTableId": 54,
-      "version": 222,
+      "version": 223,
       "names": [
         "quest_stage_reward_mst_list"
       ]
@@ -318,7 +318,7 @@
     },
     {
       "mstTableId": 56,
-      "version": 121,
+      "version": 122,
       "names": [
         "gvg_reward_mst_list"
       ]
@@ -332,7 +332,7 @@
     },
     {
       "mstTableId": 58,
-      "version": 341,
+      "version": 344,
       "names": [
         "gacha_bonus_mst_list"
       ]
@@ -353,21 +353,21 @@
     },
     {
       "mstTableId": 61,
-      "version": 522,
+      "version": 527,
       "names": [
         "card_evolution_mst_list"
       ]
     },
     {
       "mstTableId": 62,
-      "version": 201,
+      "version": 204,
       "names": [
         "quest_enemy_mst_list"
       ]
     },
     {
       "mstTableId": 63,
-      "version": 422,
+      "version": 428,
       "names": [
         "quest_schedule_mst_list"
       ]
@@ -381,35 +381,35 @@
     },
     {
       "mstTableId": 65,
-      "version": 32,
+      "version": 33,
       "names": [
         "tutorial_story_mst_list"
       ]
     },
     {
       "mstTableId": 66,
-      "version": 44,
+      "version": 45,
       "names": [
         "battle_effect_mst_list"
       ]
     },
     {
       "mstTableId": 67,
-      "version": 155,
+      "version": 156,
       "names": [
         "navigator_talk_mst_list"
       ]
     },
     {
       "mstTableId": 68,
-      "version": 160,
+      "version": 161,
       "names": [
         "navigator_talk_story_mst_list"
       ]
     },
     {
       "mstTableId": 69,
-      "version": 189,
+      "version": 197,
       "names": [
         "movie_resource_mst_list"
       ]
@@ -444,7 +444,7 @@
     },
     {
       "mstTableId": 74,
-      "version": 38,
+      "version": 40,
       "names": [
         "reward_set_mst_list"
       ]
@@ -472,7 +472,7 @@
     },
     {
       "mstTableId": 78,
-      "version": 84,
+      "version": 87,
       "names": [
         "gacha_step_up_bonus_mst_list"
       ]
@@ -507,21 +507,21 @@
     },
     {
       "mstTableId": 89,
-      "version": 44,
+      "version": 45,
       "names": [
         "quest_card_bonus_reward_drop_rate_mst_list"
       ]
     },
     {
       "mstTableId": 90,
-      "version": 26,
+      "version": 27,
       "names": [
         "gvg_login_bonus_mst_list"
       ]
     },
     {
       "mstTableId": 91,
-      "version": 24,
+      "version": 25,
       "names": [
         "gvg_login_bonus_reward_mst_list"
       ]
@@ -577,21 +577,21 @@
     },
     {
       "mstTableId": 100,
-      "version": 7,
+      "version": 10,
       "names": [
         "sugoroku_mst_list"
       ]
     },
     {
       "mstTableId": 101,
-      "version": 3,
+      "version": 4,
       "names": [
         "sugoroku_stage_mst_list"
       ]
     },
     {
       "mstTableId": 102,
-      "version": 9,
+      "version": 12,
       "names": [
         "sugoroku_cell_mst_list"
       ]
@@ -612,14 +612,14 @@
     },
     {
       "mstTableId": 106,
-      "version": 47,
+      "version": 49,
       "names": [
         "gacha_step_up_lap_bonus_mst_list"
       ]
     },
     {
       "mstTableId": 107,
-      "version": 42,
+      "version": 44,
       "names": [
         "gacha_step_up_lap_bonus_detail_mst_list"
       ]
@@ -633,7 +633,7 @@
     },
     {
       "mstTableId": 109,
-      "version": 42,
+      "version": 45,
       "names": [
         "quest_area_character_unique_mst_list"
       ]

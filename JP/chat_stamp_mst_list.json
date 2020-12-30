@@ -1762,5 +1762,33 @@
     "startTime": 1607576400,
     "endTime": 1608908399,
     "createdTime": null
+  },
+  {
+    "chatStampMstId": 134,
+    "name": "いばら姫/こたつでぬくぬく",
+    "resourceName": "134",
+    "assetBundleName": "chat47",
+    "filterType": 8,
+    "howToGet": "イベント『迎春 ギシアンすごろく2021』にて獲得可能",
+    "itemMstId": 2888,
+    "replaceMessage": "[*134]",
+    "isAnytime": 0,
+    "startTime": 1609426800,
+    "endTime": 1610031599,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 135,
+    "name": "ピノキオ/あーれー",
+    "resourceName": "135",
+    "assetBundleName": "chat48",
+    "filterType": 5,
+    "howToGet": "『湯煙ノ旅宴』イベントで獲得可能",
+    "itemMstId": 2926,
+    "replaceMessage": "[*135]",
+    "isAnytime": 0,
+    "startTime": 1609218000,
+    "endTime": 1610085599,
+    "createdTime": null
   }
 ]

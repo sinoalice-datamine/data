@@ -4367,6 +4367,39 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 413,
+    "mapType": 1,
+    "mapGroup": 255,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "湯煙ノ旅宴",
+    "description": "メダル「湯煙ノ旅宴」Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 414,
+    "mapType": 1,
+    "mapGroup": 255,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "湯煙ノ旅宴Hard",
+    "description": "メダル「湯煙ノ旅宴」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 415,
+    "mapType": 1,
+    "mapGroup": 256,
+    "mapGroupLv": 1,
+    "mapCategory": 2,
+    "name": "ギシアン温泉街",
+    "description": "メダル「湯煙ノ旅宴」新要素",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 417,
     "mapType": 1,
     "mapGroup": 257,
@@ -4385,6 +4418,61 @@
     "mapCategory": 0,
     "name": "洋館ノ迷宮Hard",
     "description": "防具「洋館ノ迷宮」Hard",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 420,
+    "mapType": 1,
+    "mapGroup": 260,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "精霊奇譚",
+    "description": "レイド「精霊奇譚_シナリオ」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 421,
+    "mapType": 1,
+    "mapGroup": 261,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "精霊邂逅",
+    "description": "レイド「精霊奇譚_エンカウント」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 422,
+    "mapType": 1,
+    "mapGroup": 262,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "精霊邂逅",
+    "description": "レイド「精霊奇譚_エンカウント」Hard",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 423,
+    "mapType": 1,
+    "mapGroup": 263,
+    "mapGroupLv": 3,
+    "mapCategory": 0,
+    "name": "精霊邂逅",
+    "description": "レイド「精霊奇譚_エンカウント」Extreme",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 424,
+    "mapType": 1,
+    "mapGroup": 264,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "餐虎の精霊",
+    "description": "レイド自体のクエスト用",
     "announceUrl": "",
     "createdTime": 1483974000
   },
