@@ -16987,7 +16987,7 @@
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign11.tier17/title",
     "JP": "魔晶石208個＋チケット",
-    "EN": "Twilight Crystal x208 & Ticket",
+    "EN": "Twilight Crystal x208 & Tickets",
     "KR": "마정석 208개+티켓",
     "DE": "208 Zwielichtkr. + Tickets",
     "FR": "208 cr. + Tickets",
@@ -20687,7 +20687,7 @@
     "KR": "구매 시 유료 마정석 25개+무료 마정석 24개. 추가로 7일간 로열 마정석 서비스.",
     "DE": "25 bezahlte & 24 kostenlose Zwielichtkristalle + 7 Tage Königlicher Zwielichtkristalle Pass",
     "FR": "25 cristaux crépusculaires payés au moment de l'achat + 24 cristaux crépusculaires gratuits. En plus, profitez de 7 jours de Pass cristaux crépusculaires royal.",
-    "ES": "Al comprar Cristales del ocaso x25 (+24 gratis) + 7 días de Pase Real de Cristales del ocaso",
+    "ES": "Al comprar Cristales del ocaso x25 (+24 gratis) + 7 días de Pase Royal Cristales del ocaso",
     "TH": "รับคริสตัลสนธยาจ่ายเงิน 25 ชิ้น+คริสตัลสนธยาฟรี 24 ชิ้น ณ ตอนที่ซื้อ และยังมีบัตรคริสตัลสนธยารอยัลอีก 7 วัน",
     "VN": ""
   },
@@ -20715,7 +20715,7 @@
     "KR": "구매 시 유료 마정석 49개. 추가로 7일간 로열 마정석 서비스.",
     "DE": "49 bezahlte Zwielichtkristalle + 7 Tage Königlicher Zwielichtkristalle Pass",
     "FR": "49 cristaux crépusculaires payés au moment de l'achat. En plus, profitez de 7 jours de Pass cristaux crépusculaires royal.",
-    "ES": "Al comprar Cristales del ocaso x49 + 7 días de Pase Real de Cristales del ocaso",
+    "ES": "Al comprar Cristales del ocaso x49 + 7 días de Pase Royal Cristales del ocaso",
     "TH": "รับคริสตัลสนธยาจ่ายเงิน 49 ชิ้น ณ ตอนที่ซื้อ และยังมีบัตรคริสตัลสนธยารอยัลอีก 7 วัน",
     "VN": ""
   },
@@ -20743,8 +20743,36 @@
     "KR": "구매 시 유료 마정석 148개+무료 마정석 2개. 추가로 30일간 로열 마정석 서비스.",
     "DE": "148 bezahlte & 2 kostenlose Zwielichtkristalle + 30 Tage Königlicher Zwielichtkristalle Pass",
     "FR": "148 cristaux crépusculaires payés au moment de l'achat + 2 cristaux crépusculaires gratuits. En plus, profitez de 30 jours de Pass cristaux crépusculaires royal.",
-    "ES": "Al comprar Cristales del ocaso x148 (+2 gratis) + 30 días de Pase Real de Cristales del ocaso",
+    "ES": "Al comprar Cristales del ocaso x148 (+2 gratis) + 30 días de Pase Royal Cristales del ocaso",
     "TH": "รับคริสตัลสนธยาจ่ายเงิน 148 ชิ้น+คริสตัลสนธยาฟรี 2 ชิ้น ณ ตอนที่ซื้อ และยังมีบัตรคริสตัลสนธยารอยัลอีก 30 วัน",
+    "VN": ""
+  },
+  {
+    "id": 1483,
+    "TLM": 51661,
+    "Type": 0,
+    "GameKey": "Server/quest.questEnemy.kindName.42",
+    "JP": "魔獣(転スラ)",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
+    "VN": ""
+  },
+  {
+    "id": 1484,
+    "TLM": 51662,
+    "Type": 0,
+    "GameKey": "Server/quest.questEnemy.kindName.43",
+    "JP": "精霊(転スラ)",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
     "VN": ""
   }
 ]

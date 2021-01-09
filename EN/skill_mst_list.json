@@ -20723,6 +20723,23 @@
     "autoSkillPercentageType": 0
   },
   {
+    "skillMstId": 3267,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "Hailstorm of Onslaught (III)",
+    "description": "Deals great P.DMG to 1 to 2 enemies.\\nSlightly reduces enemy's P.ATK.",
+    "attackEffect": 0,
+    "sp": 22,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 8,
+    "typeLabel": "multiple enemies",
+    "primaryIcon": 1,
+    "secondaryIcon": 14,
+    "rangeIcon": 2,
+    "autoSkillPercentageType": 0
+  },
+  {
     "skillMstId": 3268,
     "category": 1,
     "setEffectSeriesId": 0,
@@ -21501,6 +21518,23 @@
     "typeLabel": "multiple enemies",
     "primaryIcon": 1,
     "secondaryIcon": 15,
+    "rangeIcon": 2,
+    "autoSkillPercentageType": 0
+  },
+  {
+    "skillMstId": 3371,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "Hailstorm of Onslaught (III)",
+    "description": "Deals great P.DMG to 1 to 2 enemies.\\nSlightly reduces enemy's P.ATK.",
+    "attackEffect": 0,
+    "sp": 22,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 8,
+    "typeLabel": "multiple enemies",
+    "primaryIcon": 1,
+    "secondaryIcon": 14,
     "rangeIcon": 2,
     "autoSkillPercentageType": 0
   },

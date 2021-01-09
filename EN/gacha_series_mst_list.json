@@ -306,6 +306,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 25,
+    "gachaGroupId": 3,
+    "bannerMstId": 74,
+    "isAlways": false,
+    "name": "Silver Vow Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅰ)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-Medal of desire (Ⅰ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 370,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=183&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 29,
     "gachaGroupId": 3,
     "bannerMstId": 82,

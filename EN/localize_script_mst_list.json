@@ -19077,7 +19077,7 @@
     "KR": "마정석을 <color=#B42F00>{0}개</color> 소비하여{1}{2}회 뽑기를 하시겠습니까?",
     "DE": "<color=#B42F00>{0}</color> Zwielichtkristalle benutzen um{1}{2}x zu beschwören?",
     "FR": "Utiliser <color=#B42F00>{0} cristaux</color>{1} et tirer {2} grimoire(s) ?",
-    "ES": "¿Usar <color=#B42F00>{0}</color> Cristales del ocaso para tirar del  grimorio {1}{2} vez/veces?",
+    "ES": "¿Usar <color=#B42F00>{0}</color> Cristales del ocaso para tirar del  grimorio {1} {2} vez/veces?",
     "TH": "ใช้คริสตัลสนธยา<color=#B42F00> {0}ชิ้น</color> เพื่อดึงกรีมัวร์{1}{2}ครั้งหรือไม่?",
     "VN": ""
   },
@@ -19637,7 +19637,7 @@
     "KR": "용량: <color=#A54410>{2:0.#}</color> MB",
     "DE": "",
     "FR": "Taille : <color=#A54410>{2:0.#}</color> Mo.",
-    "ES": "",
+    "ES": "Tamaño: <color=#A54410>{2:0.#}</color> MB",
     "TH": "ขนาด: <color=#A54410>{2:0.#}</color> MB",
     "VN": ""
   },
@@ -19651,8 +19651,36 @@
     "KR": "게임 내 옵션 설정하기",
     "DE": "",
     "FR": "Plus de détails dans les paramètres du jeu !",
-    "ES": "",
-    "TH": "ไปยังการติดตั้งรายละเอียดแอพฯ",
+    "ES": "A la configuración avanzada de la aplicación",
+    "TH": "ไปยังการตั้งค่ารายละเอียดแอปฯ",
+    "VN": ""
+  },
+  {
+    "id": 1405,
+    "TLM": 51659,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "本日の視聴回数上限に達しました。",
+    "EN": "Today's view limit reached.",
+    "KR": "일일 시청 횟수 상한에 도달하였습니다.",
+    "DE": "Max. für heute erreicht.",
+    "FR": "Vous avez atteint la limite de visionnages.",
+    "ES": "Se ha alcanzado la cantidad máxima de visualizaciones.",
+    "TH": "คุณมีจำนวนครั้งการรับชมครบสูงสุดของวันนี้แล้ว",
+    "VN": ""
+  },
+  {
+    "id": 1406,
+    "TLM": 51660,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "視聴完了しました。",
+    "EN": "Already watched.",
+    "KR": "시청을 완료하였습니다.",
+    "DE": "Schon angesehen.",
+    "FR": "Visionnage terminé.",
+    "ES": "Visualización completada.",
+    "TH": "การรับชมเสร็จสมบูรณ์",
     "VN": ""
   }
 ]

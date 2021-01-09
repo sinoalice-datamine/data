@@ -5160,6 +5160,126 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 539,
+    "characterMstId": 46,
+    "name": "Polearm +30% (Snow White+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 540,
+    "characterMstId": 46,
+    "name": "Polearm +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 541,
+    "characterMstId": 46,
+    "name": "M.ATK +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 542,
+    "characterMstId": 46,
+    "name": "M.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 543,
+    "characterMstId": 46,
+    "name": "Polearm +10% (Snow White+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 544,
+    "characterMstId": 46,
+    "name": "M.ATK +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 545,
+    "characterMstId": 46,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 546,
+    "characterMstId": 46,
+    "name": "M.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 547,
+    "characterMstId": 46,
+    "name": "Polearm +10% (Snow White+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 548,
+    "characterMstId": 46,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 549,
+    "characterMstId": 46,
+    "name": "M.ATK +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 550,
+    "characterMstId": 46,
+    "name": "M.ATK +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
     "characterAbilityMstId": 551,
     "characterMstId": 47,
     "name": "Blade +30% (Sleeping Beauty+ stages)",
