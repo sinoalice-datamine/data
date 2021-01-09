@@ -3040,6 +3040,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 205,
+    "name": "禍メダル",
+    "description": "レイドイベント「精霊奉葬」で武勲を得た者のみ得られるメダル\r\n※2021年1月21日23:59まで",
+    "resourceName": "item20190115",
+    "assetBundleName": "934",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "レイドイベントの報酬で獲得できます。\r\n※有効期限2021年1月21日23:59まで",
+    "priority": 5,
+    "itemMstId": 2712,
+    "startTime": 1610082000,
+    "endTime": 1611241199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 206,
     "name": "紅葉メダル",
     "description": "ギシンアンキが集めているメダル※2020年12月7日23:59まで",
@@ -3196,6 +3212,38 @@
     "itemMstId": 2899,
     "startTime": 1609218000,
     "endTime": 1612709999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 216,
+    "name": "アルカナメダル",
+    "description": "アルカナと交換できるメダル\r\n※2021年1月19日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "0216",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "アルカナメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2021年1月19日23:59まで",
+    "priority": 37,
+    "itemMstId": 2927,
+    "startTime": 1610082000,
+    "endTime": 1611068399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 217,
+    "name": "ジョブメダル",
+    "description": "魔晶石購入特典のジョブと交換できるメダル\r\n※2021年1月19日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "0217",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ジョブメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2021年1月19日23:59まで",
+    "priority": 37,
+    "itemMstId": 2928,
+    "startTime": 1610082000,
+    "endTime": 1611068399,
     "displayType": 0,
     "isDeleted": false
   }

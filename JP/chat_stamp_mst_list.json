@@ -1680,6 +1680,48 @@
     "createdTime": null
   },
   {
+    "chatStampMstId": 125,
+    "name": "かぐや姫/失敗",
+    "resourceName": "125",
+    "assetBundleName": "chat41",
+    "filterType": 9,
+    "howToGet": "レイドイベント「精霊奉葬」獲得可能",
+    "itemMstId": 2713,
+    "replaceMessage": "[*125]",
+    "isAnytime": 0,
+    "startTime": 1610082000,
+    "endTime": 1611241199,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 126,
+    "name": "ピノキオ/爆破",
+    "resourceName": "126",
+    "assetBundleName": "chat41",
+    "filterType": 5,
+    "howToGet": "レイドイベント「精霊奉葬」獲得可能",
+    "itemMstId": 2714,
+    "replaceMessage": "[*126]",
+    "isAnytime": 0,
+    "startTime": 1610082000,
+    "endTime": 1611241199,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 127,
+    "name": "ラプンツェル/超絶カワイイ",
+    "resourceName": "127",
+    "assetBundleName": "chat41",
+    "filterType": 35,
+    "howToGet": "レイドイベント「精霊奉葬」獲得可能",
+    "itemMstId": 2715,
+    "replaceMessage": "[*127]",
+    "isAnytime": 0,
+    "startTime": 1610082000,
+    "endTime": 1611241199,
+    "createdTime": null
+  },
+  {
     "chatStampMstId": 128,
     "name": "マッチ売りの少女/燃えるネ",
     "resourceName": "128",
