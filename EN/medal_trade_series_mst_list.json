@@ -380,11 +380,11 @@
   {
     "medalTradeSeriesMstId": 900001,
     "name": "Gladiator Medal",
-    "description": "Medal awarded when recovering SP at the Colosseum.",
+    "description": "Medal awarded based on weapon usage at the Colosseum.",
     "resourceName": "item20201119_gachaticket_colosseum",
     "assetBundleName": "900062",
     "medalTradeGroupMstId": 0,
-    "wayToGet": "Can earn as an SP recovery reward at the Colosseum.",
+    "wayToGet": "Can earn as a reward by using weapons at the Colosseum.",
     "priority": 7,
     "itemMstId": 900062,
     "startTime": 1605765600,
