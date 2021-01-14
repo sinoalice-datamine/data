@@ -14079,6 +14079,25 @@
     "createdTime": 1467266408
   },
   {
+    "gachaSeriesMstId": 1880,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 4842,
+    "isAlways": false,
+    "name": "SSジョブ確定ガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅰ)\r\n枚数：11回ガチャで100枚\r\n有効期限：2021年2月7日23:59",
+    "priority": 10000,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=7142&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 0,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 5001,
     "gachaGroupId": 9,
     "topBannerMstId": 0,

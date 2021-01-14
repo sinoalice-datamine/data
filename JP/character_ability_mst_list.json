@@ -53538,5 +53538,45 @@
     "effectType": 13,
     "effectValue": 5036,
     "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 5675,
+    "characterMstId": 278,
+    "name": "Gretelエリアで楽器(火)30%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 5676,
+    "characterMstId": 278,
+    "name": "物理防御+700",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 700,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 5677,
+    "characterMstId": 314,
+    "name": "Pinocchioエリアで祈祷(火)30%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5678,
+    "characterMstId": 314,
+    "name": "魔法防御+700",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 700,
+    "cardDetailType": 4
   }
 ]
