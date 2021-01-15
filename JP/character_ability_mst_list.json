@@ -53480,6 +53480,246 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 5569,
+    "characterMstId": 428,
+    "name": "Nutcrackerエリアで刀剣60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5570,
+    "characterMstId": 428,
+    "name": "刀剣10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5571,
+    "characterMstId": 428,
+    "name": "刀剣ジョブ使用時、物理ダメージ1%UP",
+    "releaseLevel": 3,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6097,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5572,
+    "characterMstId": 428,
+    "name": "打撃ジョブ使用時、物理ダメージ1%UP",
+    "releaseLevel": 4,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6098,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5573,
+    "characterMstId": 428,
+    "name": "射出ジョブ使用時、魔法ダメージ1%UP",
+    "releaseLevel": 5,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6099,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5574,
+    "characterMstId": 428,
+    "name": "長柄ジョブ使用時、魔法ダメージ1%UP",
+    "releaseLevel": 6,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5575,
+    "characterMstId": 428,
+    "name": "楽器ジョブ使用時、バフ効果1%UP",
+    "releaseLevel": 7,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6101,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5576,
+    "characterMstId": 428,
+    "name": "魔書ジョブ使用時、デバフ効果1%UP",
+    "releaseLevel": 8,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6102,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5577,
+    "characterMstId": 428,
+    "name": "祈祷ジョブ使用時、回復効果1%UP",
+    "releaseLevel": 9,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6103,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5578,
+    "characterMstId": 428,
+    "name": "魔具ジョブ使用時、魔法ダメージ1%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6104,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5599,
+    "characterMstId": 429,
+    "name": "Gretelエリアで長柄30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5600,
+    "characterMstId": 429,
+    "name": "長柄10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5601,
+    "characterMstId": 429,
+    "name": "魔法防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5602,
+    "characterMstId": 429,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5603,
+    "characterMstId": 429,
+    "name": "Gretelエリアで長柄10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5604,
+    "characterMstId": 429,
+    "name": "物理防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5605,
+    "characterMstId": 429,
+    "name": "Gretelエリアで長柄20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5606,
+    "characterMstId": 429,
+    "name": "魔法防御+1000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 1000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5607,
+    "characterMstId": 429,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5608,
+    "characterMstId": 429,
+    "name": "魔法攻撃時ｲﾉﾁ取得量3%UP(開始～終了5分前)",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6118,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5609,
+    "characterMstId": 429,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5610,
+    "characterMstId": 429,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5611,
+    "characterMstId": 429,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5612,
+    "characterMstId": 429,
+    "name": "魔法攻撃+1000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 1000,
+    "cardDetailType": 8
+  },
+  {
     "characterAbilityMstId": 5655,
     "characterMstId": 134,
     "name": "HP+200",
