@@ -16235,6 +16235,23 @@
     "autoSkillPercentageType": 0
   },
   {
+    "skillMstId": 2022,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "Evil Blaze of Protection (III)",
+    "description": "Deals great M.DMG to 1 to 2 enemies.\\nSlightly increases own M.DEF.",
+    "attackEffect": 0,
+    "sp": 22,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 6,
+    "typeLabel": "multiple enemies",
+    "primaryIcon": 2,
+    "secondaryIcon": 7,
+    "rangeIcon": 2,
+    "autoSkillPercentageType": 0
+  },
+  {
     "skillMstId": 2023,
     "category": 1,
     "setEffectSeriesId": 0,
@@ -16265,6 +16282,23 @@
     "typeLabel": "Multiple Allies/Self",
     "primaryIcon": 6,
     "secondaryIcon": 0,
+    "rangeIcon": 2,
+    "autoSkillPercentageType": 0
+  },
+  {
+    "skillMstId": 2026,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "Evil Blaze of Protection (III)",
+    "description": "Deals great M.DMG to 1 to 2 enemies.\\nSlightly increases own M.DEF.",
+    "attackEffect": 0,
+    "sp": 22,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 6,
+    "typeLabel": "multiple enemies",
+    "primaryIcon": 2,
+    "secondaryIcon": 7,
     "rangeIcon": 2,
     "autoSkillPercentageType": 0
   },
