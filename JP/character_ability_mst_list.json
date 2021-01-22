@@ -53720,6 +53720,286 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 5613,
+    "characterMstId": 430,
+    "name": "Dorothyエリアで打撃30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5614,
+    "characterMstId": 430,
+    "name": "打撃10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5615,
+    "characterMstId": 430,
+    "name": "物理防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5616,
+    "characterMstId": 430,
+    "name": "打撃ジョブで被ダメージ時、防御15%DOWN",
+    "releaseLevel": 4,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6150,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5617,
+    "characterMstId": 430,
+    "name": "Dorothyエリアで打撃10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5618,
+    "characterMstId": 430,
+    "name": "魔法防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5619,
+    "characterMstId": 430,
+    "name": "Dorothyエリアで打撃20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5620,
+    "characterMstId": 430,
+    "name": "物理攻撃+400",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5621,
+    "characterMstId": 430,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5622,
+    "characterMstId": 430,
+    "name": "打撃ジョブ使用時、物理ダメージ3%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6149,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5623,
+    "characterMstId": 430,
+    "name": "物理攻撃+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5624,
+    "characterMstId": 430,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5625,
+    "characterMstId": 430,
+    "name": "物理攻撃+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5626,
+    "characterMstId": 430,
+    "name": "物理攻撃+1000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 1000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5627,
+    "characterMstId": 431,
+    "name": "Kaguyahimeエリアで祈祷30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5628,
+    "characterMstId": 431,
+    "name": "祈祷10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5629,
+    "characterMstId": 431,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5630,
+    "characterMstId": 431,
+    "name": "物理防御+800",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 800,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5631,
+    "characterMstId": 431,
+    "name": "Kaguyahimeエリアで祈祷10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5632,
+    "characterMstId": 431,
+    "name": "物理攻撃+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5633,
+    "characterMstId": 431,
+    "name": "Kaguyahimeエリアで祈祷20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5634,
+    "characterMstId": 431,
+    "name": "魔法防御+800",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 800,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5635,
+    "characterMstId": 431,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5636,
+    "characterMstId": 431,
+    "name": "祈祷ジョブ使用時、回復効果1%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6103,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5637,
+    "characterMstId": 431,
+    "name": "魔法防御+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5638,
+    "characterMstId": 431,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5639,
+    "characterMstId": 431,
+    "name": "物理防御+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5640,
+    "characterMstId": 431,
+    "name": "劣勢時、回復効果2%UP",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6151,
+    "cardDetailType": 4
+  },
+  {
     "characterAbilityMstId": 5655,
     "characterMstId": 134,
     "name": "HP+200",
