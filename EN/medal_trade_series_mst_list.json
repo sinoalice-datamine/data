@@ -252,6 +252,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 27,
+    "name": "Medal of Desire (II)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "0003",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoire.",
+    "priority": 35,
+    "itemMstId": 163,
+    "startTime": 1611640800,
+    "endTime": 1615820399,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 28,
     "name": "Hatter Medal",
     "description": "Medal collected by Parrah-Noya.",
@@ -291,6 +305,20 @@
     "itemMstId": 706,
     "startTime": 1606456800,
     "endTime": 1607320799,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 47,
+    "name": "Gear Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20210114_medal_jinai",
+    "assetBundleName": "0490",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 490,
+    "startTime": 1611640800,
+    "endTime": 1613455199,
     "isDeleted": false
   },
   {

@@ -440,6 +440,16 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 70,
+    "mapType": 1,
+    "mapGroup": 41,
+    "mapGroupLv": 1,
+    "name": "Baptism of Giant Soldiers",
+    "description": "January Conquest Event",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 75,
     "mapType": 1,
     "mapGroup": 45,
@@ -457,6 +467,26 @@
     "name": "Twilight Illusionist",
     "description": "Twilight Illusionist (Hard)",
     "announceUrl": "/web/announce/body?announceMstId=552&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 89,
+    "mapType": 1,
+    "mapGroup": 83,
+    "mapGroupLv": 1,
+    "name": "End of the Dreary World",
+    "description": "塵埃ノ果テNormal",
+    "announceUrl": "/web/announce/body?announceMstId=565&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 90,
+    "mapType": 1,
+    "mapGroup": 83,
+    "mapGroupLv": 2,
+    "name": "End of the Dreary World (Hard)",
+    "description": "塵埃ノ果テHard",
+    "announceUrl": "/web/announce/body?announceMstId=565&&isHideBackButton=1",
     "createdTime": 1483974000
   },
   {
@@ -497,6 +527,16 @@
     "name": "An End to Summer Dreams (Hard)",
     "description": "Clam Digging Event",
     "announceUrl": "/web/announce/body?announceMstId=1149&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 106,
+    "mapType": 1,
+    "mapGroup": 62,
+    "mapGroupLv": 1,
+    "name": "Infinite Gears",
+    "description": "Get materials to upgrade weapons and armor.",
+    "announceUrl": "",
     "createdTime": 1483974000
   },
   {

@@ -144,6 +144,18 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 74,
+    "title": "Event Login Bonus ①",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1611640800,
+    "endTime": 1612933199,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 78,
     "title": "Collaboration Event ①",
     "cycleType": 2,
@@ -389,8 +401,20 @@
     "cycleType": 200,
     "displayType": 2,
     "pickupSkillType": 1,
-    "startTime": 1608789600,
+    "startTime": 1611637200,
     "endTime": 2145884399,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900015,
+    "title": "Server Integration Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1611723600,
+    "endTime": 1612241999,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""

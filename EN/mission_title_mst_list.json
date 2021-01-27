@@ -72,6 +72,12 @@
     "endTime": 1599112799
   },
   {
+    "missionTitleMstId": 33,
+    "title": "\"End of the Dreary World\" Mission",
+    "startTime": 1611640800,
+    "endTime": 1612936799
+  },
+  {
     "missionTitleMstId": 35,
     "title": "Invaders from Space Mission",
     "startTime": 1600318800,
@@ -81,13 +87,19 @@
     "missionTitleMstId": 38,
     "title": "Revival Mission",
     "startTime": 1603173600,
-    "endTime": 2145884399
+    "endTime": 2143292399
   },
   {
     "missionTitleMstId": 39,
     "title": "\"Festival of Deceit and Madness\" Mission",
     "startTime": 1603173600,
     "endTime": 1604383199
+  },
+  {
+    "missionTitleMstId": 41,
+    "title": "Server Integration Missions",
+    "startTime": 1611709200,
+    "endTime": 1612969199
   },
   {
     "missionTitleMstId": 61,
@@ -142,5 +154,17 @@
     "title": "6 Month Anniversary Missions 2",
     "startTime": 1609426800,
     "endTime": 1609826399
+  },
+  {
+    "missionTitleMstId": 900007,
+    "title": "Colosseum SP Mission",
+    "startTime": 1611982800,
+    "endTime": 1612069199
+  },
+  {
+    "missionTitleMstId": 900008,
+    "title": "Key of Infinite Gears Mission",
+    "startTime": 1422234000,
+    "endTime": 2143328400
   }
 ]
