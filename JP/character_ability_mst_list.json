@@ -30142,11 +30142,11 @@
   {
     "characterAbilityMstId": 3055,
     "characterMstId": 229,
-    "name": "Pinocchioエリアで長柄30%UP",
+    "name": "Pinocchioエリアで長柄40%UP",
     "releaseLevel": 1,
     "skillType": 2,
     "effectType": 6,
-    "effectValue": 30,
+    "effectValue": 40,
     "cardDetailType": 8
   },
   {
@@ -30252,11 +30252,11 @@
   {
     "characterAbilityMstId": 3066,
     "characterMstId": 229,
-    "name": "射出5%UP",
+    "name": "射出10%UP",
     "releaseLevel": 12,
     "skillType": 2,
     "effectType": 6,
-    "effectValue": 5,
+    "effectValue": 10,
     "cardDetailType": 7
   },
   {
@@ -34022,11 +34022,11 @@
   {
     "characterAbilityMstId": 3461,
     "characterMstId": 277,
-    "name": "Akazukinエリアで刀剣30%UP",
+    "name": "Akazukinエリアで刀剣40%UP",
     "releaseLevel": 1,
     "skillType": 2,
     "effectType": 6,
-    "effectValue": 30,
+    "effectValue": 40,
     "cardDetailType": 5
   },
   {
@@ -34132,11 +34132,11 @@
   {
     "characterAbilityMstId": 3472,
     "characterMstId": 277,
-    "name": "打撃5%UP",
+    "name": "打撃10%UP",
     "releaseLevel": 12,
     "skillType": 2,
     "effectType": 6,
-    "effectValue": 5,
+    "effectValue": 10,
     "cardDetailType": 6
   },
   {
@@ -36582,11 +36582,11 @@
   {
     "characterAbilityMstId": 3725,
     "characterMstId": 298,
-    "name": "Mermaidエリアで打撃30%UP",
+    "name": "Mermaidエリアで打撃40%UP",
     "releaseLevel": 1,
     "skillType": 2,
     "effectType": 6,
-    "effectValue": 30,
+    "effectValue": 40,
     "cardDetailType": 6
   },
   {
@@ -36692,11 +36692,11 @@
   {
     "characterAbilityMstId": 3736,
     "characterMstId": 298,
-    "name": "刀剣5%UP",
+    "name": "刀剣10%UP",
     "releaseLevel": 12,
     "skillType": 2,
     "effectType": 6,
-    "effectValue": 5,
+    "effectValue": 10,
     "cardDetailType": 5
   },
   {
@@ -39182,21 +39182,21 @@
   {
     "characterAbilityMstId": 4037,
     "characterMstId": 336,
-    "name": "Ibarahimeエリアで魔書30%UP",
+    "name": "Ibarahimeエリアで魔書40%UP",
     "releaseLevel": 1,
     "skillType": 2,
     "effectType": 6,
-    "effectValue": 30,
+    "effectValue": 40,
     "cardDetailType": 2
   },
   {
     "characterAbilityMstId": 4038,
     "characterMstId": 336,
-    "name": "魔書8%UP",
+    "name": "魔書10%UP",
     "releaseLevel": 2,
     "skillType": 2,
     "effectType": 6,
-    "effectValue": 8,
+    "effectValue": 10,
     "cardDetailType": 2
   },
   {
@@ -39292,11 +39292,11 @@
   {
     "characterAbilityMstId": 4048,
     "characterMstId": 336,
-    "name": "楽器4%UP",
+    "name": "楽器5%UP",
     "releaseLevel": 12,
     "skillType": 2,
     "effectType": 6,
-    "effectValue": 4,
+    "effectValue": 5,
     "cardDetailType": 1
   },
   {
@@ -41602,11 +41602,11 @@
   {
     "characterAbilityMstId": 4281,
     "characterMstId": 349,
-    "name": "モノガタリで長柄30%UP",
+    "name": "モノガタリで長柄40%UP",
     "releaseLevel": 1,
     "skillType": 2,
     "effectType": 6,
-    "effectValue": 30,
+    "effectValue": 40,
     "cardDetailType": 8
   },
   {
@@ -41712,11 +41712,11 @@
   {
     "characterAbilityMstId": 4292,
     "characterMstId": 349,
-    "name": "射出5%UP",
+    "name": "射出10%UP",
     "releaseLevel": 12,
     "skillType": 2,
     "effectType": 6,
-    "effectValue": 5,
+    "effectValue": 10,
     "cardDetailType": 7
   },
   {
@@ -43038,6 +43038,26 @@
     "effectType": 2,
     "effectValue": 700,
     "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4425,
+    "characterMstId": 229,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4426,
+    "characterMstId": 229,
+    "name": "HP+500",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 8
   },
   {
     "characterAbilityMstId": 4427,
@@ -45062,11 +45082,11 @@
   {
     "characterAbilityMstId": 4641,
     "characterMstId": 377,
-    "name": "Kaguyahimeエリアで祈祷30%UP",
+    "name": "Kaguyahimeエリアで祈祷40%UP",
     "releaseLevel": 1,
     "skillType": 2,
     "effectType": 6,
-    "effectValue": 30,
+    "effectValue": 40,
     "cardDetailType": 4
   },
   {
@@ -45172,11 +45192,11 @@
   {
     "characterAbilityMstId": 4652,
     "characterMstId": 377,
-    "name": "魔具5%UP",
+    "name": "魔具10%UP",
     "releaseLevel": 12,
     "skillType": 2,
     "effectType": 6,
-    "effectValue": 5,
+    "effectValue": 10,
     "cardDetailType": 3
   },
   {
@@ -49642,11 +49662,11 @@
   {
     "characterAbilityMstId": 5115,
     "characterMstId": 401,
-    "name": "Gretelエリアで射出30%UP",
+    "name": "Gretelエリアで射出40%UP",
     "releaseLevel": 1,
     "skillType": 2,
     "effectType": 6,
-    "effectValue": 30,
+    "effectValue": 40,
     "cardDetailType": 7
   },
   {
@@ -49752,11 +49772,11 @@
   {
     "characterAbilityMstId": 5126,
     "characterMstId": 401,
-    "name": "長柄5%UP",
+    "name": "長柄10%UP",
     "releaseLevel": 12,
     "skillType": 2,
     "effectType": 6,
-    "effectValue": 5,
+    "effectValue": 10,
     "cardDetailType": 8
   },
   {
@@ -53998,6 +54018,146 @@
     "effectType": 13,
     "effectValue": 6151,
     "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5641,
+    "characterMstId": 432,
+    "name": "LittlePigsエリアで楽器40%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 40,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 5642,
+    "characterMstId": 432,
+    "name": "楽器10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 5643,
+    "characterMstId": 432,
+    "name": "物理防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 5644,
+    "characterMstId": 432,
+    "name": "魔法防御+100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 5645,
+    "characterMstId": 432,
+    "name": "LittlePigsエリアで魔書20%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5646,
+    "characterMstId": 432,
+    "name": "物理攻撃+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 5647,
+    "characterMstId": 432,
+    "name": "LittlePigsエリアで楽器20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 5648,
+    "characterMstId": 432,
+    "name": "物理防御+200",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 5649,
+    "characterMstId": 432,
+    "name": "魔法防御+200",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 5650,
+    "characterMstId": 432,
+    "name": "HP+500",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 5651,
+    "characterMstId": 432,
+    "name": "物理攻撃+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 5652,
+    "characterMstId": 432,
+    "name": "魔書5%UP",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5653,
+    "characterMstId": 432,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 5654,
+    "characterMstId": 432,
+    "name": "HP+500",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 1
   },
   {
     "characterAbilityMstId": 5655,
