@@ -9669,7 +9669,7 @@
     "KR": "<color=#B42F00>{0}</color>개 남음",
     "DE": "<color=#B42F00>{0}</color> verbleibend",
     "FR": "<color=#B42F00>{0}</color> restant(es)",
-    "ES": "<color=#B42F00>{0}</color> restante",
+    "ES": "<color=#B42F00>{0}</color> restante(s)",
     "TH": "เหลืออีก<color=#B42F00>{0}</color>",
     "VN": "Còn lại "
   },
@@ -11643,7 +11643,7 @@
     "KR": "<color=#B42F00FF>{0}</color>개 남음",
     "DE": "<color=#B42F00FF>{0}</color> verbleibend",
     "FR": "<color=#B42F00FF>{0}</color> restant(es)",
-    "ES": "<color=#B42F00FF>{0}</color> restante",
+    "ES": "<color=#B42F00FF>{0}</color> restante (s)",
     "TH": "เหลืออีก<color=#B42F00FF>{0}</color>",
     "VN": "Còn lại <color=#B42F00FF>{0}</color>"
   },
@@ -14134,8 +14134,8 @@
     "EN": "</color> more time(s) for reward",
     "KR": "</color>회 뽑기 시 보상 획득",
     "DE": "</color>x beschwören für Belohnung.",
-    "FR": "</color> tirages avant récomp.",
-    "ES": "</color> grimorios para recomp.",
+    "FR": "</color> tirage(s) avant récomp.",
+    "ES": "</color> grimorio(s) para recomp.",
     "TH": "</color> ครั้ง จะได้รับรางวัล",
     "VN": "Giành phần thưởng sau </color> Sách phép"
   },
@@ -19997,12 +19997,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "シズが加入しました",
-    "EN": "",
+    "EN": "Shizu has joined your party.",
     "KR": "시즈가 등장하였습니다.",
-    "DE": "",
+    "DE": "Shizu ist dabei",
     "FR": "Shizu nous a rejoint.",
     "ES": "Se ha añadido a Shizu",
-    "TH": "",
+    "TH": "ชิสุมาเข้าร่วมด้วยแล้ว",
     "VN": ""
   },
   {
@@ -20011,12 +20011,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "シズが離脱しました",
-    "EN": "",
+    "EN": "Shizu has left your party.",
     "KR": "시즈가 퇴장하였습니다.",
-    "DE": "",
+    "DE": "Shizu ist gegangen",
     "FR": "Shizu s'est retirée.",
     "ES": "Se ha retirado a Shizu",
-    "TH": "",
+    "TH": "ชิสุออกไปแล้ว",
     "VN": ""
   },
   {
@@ -20025,12 +20025,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "リムルが加入しました",
-    "EN": "",
+    "EN": "Rimuru has joined your party.",
     "KR": "리무루가 등장하였습니다.",
-    "DE": "",
+    "DE": "Rimuru ist dabei",
     "FR": "Limule nous a rejoint.",
     "ES": "Se ha añadido a Rimuru",
-    "TH": "",
+    "TH": "ริมุรุมาเข้าร่วมด้วยแล้ว",
     "VN": ""
   },
   {
@@ -20039,12 +20039,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "スノウとアリスが離脱しました",
-    "EN": "",
+    "EN": "Snow White and Alice have left your party.",
     "KR": "백설공주와 앨리스가 퇴장하였습니다.",
-    "DE": "",
+    "DE": "Schneewittchen und Alice sind gegangen",
     "FR": "Blanche-Neige et Alice se sont retirées.",
     "ES": "Se han retirado a Alicia y a Blancanieves",
-    "TH": "",
+    "TH": "สโนว์ไวท์กับอลิซออกไปแล้ว",
     "VN": ""
   },
   {
@@ -20053,12 +20053,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "Hardが解放されました",
-    "EN": "",
+    "EN": "Hard mode has unlocked.",
     "KR": "Hard가 해금되었습니다.",
-    "DE": "",
+    "DE": "Schwer wurde freigeschaltet.",
     "FR": "Le mode Difficile a été débloqué.",
     "ES": "Se ha desbloqueado el modo Difícil",
-    "TH": "",
+    "TH": "โหมด Hard ปลดล็อกแล้ว",
     "VN": ""
   },
   {
@@ -20067,12 +20067,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "未開放です。",
-    "EN": "",
+    "EN": "Locked",
     "KR": "미개방 상태입니다.",
-    "DE": "",
+    "DE": "Noch nicht freigeschaltet.",
     "FR": "Verrouillé.",
     "ES": "Por desbloquear.",
-    "TH": "",
+    "TH": "ยังไม่เปิด",
     "VN": ""
   }
 ]
