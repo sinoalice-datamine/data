@@ -11682,28 +11682,6 @@
     "endTime": 1924959599
   },
   {
-    "missionMstId": 900281,
-    "missionUniqueId": 900281,
-    "missionUniquePriority": 1,
-    "missionType": 2,
-    "priority": 30,
-    "title": "Purify 1 time",
-    "description": "Purification can only be done once every 8 hours, or you may use a purification ticket.",
-    "missionTitleMstId": 1,
-    "objectType": 1,
-    "objectId": 900063,
-    "num": 1,
-    "resetType": 1,
-    "resetCycle": 1,
-    "conditionsType": 50,
-    "conditionsObjectId": 0,
-    "conditionsCount": 1,
-    "activeView": 1,
-    "optionType": 0,
-    "startTime": 1609477200,
-    "endTime": 1612155599
-  },
-  {
     "missionMstId": 900282,
     "missionUniqueId": 900282,
     "missionUniquePriority": 1,
