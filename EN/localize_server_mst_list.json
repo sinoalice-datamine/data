@@ -16664,7 +16664,7 @@
     "TLM": 51092,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign07.tier29/description",
-    "JP": "有償魔晶石354個＋「真紅の追放者セシリア」の獲得",
+    "JP": "有償魔晶石354個＋「寄生木の楔ドリュアス」の獲得",
     "EN": "Paid Twilight Crystal x354 & Cecilia, the Crimson Banisher",
     "KR": "유료 마정석 354개+\"진홍의 추방자 세실리아\" 획득",
     "DE": "Erhalte bezahlte Zwielichtkristalle x354 + Cecilia, Purpurrote Exilierte",
@@ -17183,12 +17183,12 @@
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign04.tier25a/description",
     "JP": "有償魔晶石306個＋「束縛の鬼槍」、初回のみ「アリス/大鬼族(オーガ)」",
-    "EN": "Twilight Crystals x306 & Masochism's Intent (First-time Only: Princess Kaguya/Alternative)",
+    "EN": "Twilight Crystal x306 & Ogre of Bondage Spear (First-time Only: Alice/Ogre)",
     "KR": "유료 마정석 306개+\"속박의 귀창\", 첫 회 한정 \"앨리스/오거\"",
-    "DE": "306 bezahlte Zwielichtkristalle + „Wille des Masochismus“ und nur beim ersten Mal: „Prinzessin Kaguya/Alternativ“.",
-    "FR": "306 cristaux crépusculaires payés + But masochiste, avec 1re fois seulement Princesse Kaguya/Alternative.",
-    "ES": "Al comprar Crist. del ocaso x306 + 1º vez «Propósito masoquista» + «Princesa Kaguya/Alternativo»",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+\"เจตนาของความวิปริต\", \"เจ้าหญิงคางูยะ/ออลเทอร์นาทิฟ\" ครั้งแรกเท่านั้น",
+    "DE": "306 bezahlte Zwielichtkristalle + „Ogerspeer der Fesselung“ und nur beim ersten Mal: „Alice/Oger“.",
+    "FR": "306 cristaux crépusculaires payés + « Lance démoniaque de la servitude » avec 1re fois seulement « Alice/Ogre ».",
+    "ES": "Al comprar Crist. del ocaso x306 + «Lanza demoniaca de la esclavitud», 1ª vez «Alicia/Ogro»",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+\"หอกยักษ์แห่งการผูกมัด\", ครั้งแรกเท่านั้น \"อลิซ/เผ่ายักษ์กินคน(โอเกอร์)\"",
     "VN": ""
   },
   {
@@ -19591,12 +19591,12 @@
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign04.tier41/description",
     "JP": "有償魔晶石502個＋「アリス/大鬼族(オーガ)のアルカナ Lv.1」の獲得",
-    "EN": "Paid Twilight Crystal x502 & Pinocchio/X-mas Arcana Lv. 1",
+    "EN": "Paid Twilight Crystal x502 & Alice/Ogre Arcana Lv. 1",
     "KR": "유료 마정석 502개+\"앨리스/오거의 아르카나 Lv.1\" 획득",
-    "DE": "Erhalte bezahlte Zwielichtkristalle x502 + Pinocchio/Weihnachten Arkana St. 1",
-    "FR": "502 cristaux crépusculaires payés + Pinocchio/Arcane de Noël de Niv.1",
-    "ES": "Al comprar Cristales del ocaso x502 + «Pinocho / Arcano de Navidad nv. 1»",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 502ชิ้น+รับ \"พินอคคิโอ/อาร์คาน่าคริสต์มาส Lv.1\"",
+    "DE": "Erhalte bezahlte Zwielichtkristalle x502 + Alice/Oger Arkana St. 1",
+    "FR": "502 cristaux crépusculaires payés + Acquisition d'« Arcane de Niv. 1 pour Alice/Ogre »",
+    "ES": "Al comprar Cristales del ocaso x502 + se podrá recibir a «Alicia/Ogro Arcano de Navidad nv. 1»",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 502ชิ้น+รับ \"อลิซ/อาร์คาน่าเผ่ายักษ์กินคน(โอเกอร์) Lv.1\"",
     "VN": ""
   },
   {
@@ -20829,6 +20829,20 @@
     "FR": "Fantôme (Moi, en Slime)",
     "ES": "Espíritu (Yo, un Slime)",
     "TH": "จิตวิญญาณ(Tensura)",
+    "VN": ""
+  },
+  {
+    "id": 1489,
+    "TLM": 51697,
+    "Type": 0,
+    "GameKey": "Server/campaign.royalcreator.present.message",
+    "JP": "ロイヤルクリエイター報酬",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
     "VN": ""
   }
 ]

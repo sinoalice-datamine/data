@@ -3162,6 +3162,23 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 224,
+    "questMapMstId": 71,
+    "name": "Howl of the Dark World",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/66",
+    "bgResourceName": "0066",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 225,
     "questMapMstId": 59,
     "name": "Book of Delusion",

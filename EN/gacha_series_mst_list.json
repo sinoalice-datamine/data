@@ -1088,6 +1088,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 103,
+    "gachaGroupId": 3,
+    "bannerMstId": 294,
+    "isAlways": false,
+    "name": "Rain of Iron Arrows",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅱ)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-Medal of desire (Ⅱ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 440,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=699&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 106,
     "gachaGroupId": 3,
     "bannerMstId": 299,
@@ -1494,5 +1511,22 @@
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",
     "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 900010,
+    "gachaGroupId": 3,
+    "bannerMstId": 900078,
+    "isAlways": false,
+    "name": "Back Alley Reaper",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅱ)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-Medal of desire (Ⅱ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 435,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=790&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1611846000
   }
 ]
