@@ -4706,5 +4706,38 @@
     "description": "防具「陰影の少女、依存の少女」Hard",
     "announceUrl": "",
     "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 457,
+    "mapType": 1,
+    "mapGroup": 286,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "創生の版菓",
+    "description": "メダル「創生の版菓」Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 458,
+    "mapType": 1,
+    "mapGroup": 286,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "創生の版菓Hard",
+    "description": "メダル「創生の版菓」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 459,
+    "mapType": 1,
+    "mapGroup": 287,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "ボーナスイベント",
+    "description": "メダル「創生の版菓」ボーナスイベント",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
   }
 ]

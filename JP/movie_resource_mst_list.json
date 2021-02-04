@@ -5679,5 +5679,28 @@
     "museumEndTime": 1924959599,
     "vibStartTime": -1.0,
     "skipButtonType": 0
+  },
+  {
+    "movieResourceMstId": 260,
+    "movieTitle": "『創生の版菓』OP",
+    "resourceName": "Valentine_2021_opening",
+    "isPreDownLoad": 0,
+    "type": 1,
+    "value": 825,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1612418400,
+    "endTime": 1613627999,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "条件なし　表示されていたらバグ",
+    "thumbAssetBundleName": "museumthumbnail/260",
+    "thumbResourceName": "Valentine_2021_opening",
+    "museumStartTime": 1612418400,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0,
+    "skipButtonType": 0
   }
 ]

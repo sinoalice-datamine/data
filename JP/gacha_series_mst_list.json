@@ -14231,6 +14231,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 1883,
+    "gachaGroupId": 4,
+    "topBannerMstId": 0,
+    "bannerMstId": 4851,
+    "isAlways": false,
+    "name": "チケットガチャ～版菓の闇～",
+    "description": "-",
+    "noticeMessage": "このガチャチケットは『版菓の闇ガチャ』で獲得できます。\r\n※このガチャでは『ヨクボウメダル(Ⅱ)』と『はめるん(総選挙ノ投票券)』はおまけとして獲得できません。",
+    "priority": 9200,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=7186&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 0,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 5001,
     "gachaGroupId": 9,
     "topBannerMstId": 0,
@@ -20252,6 +20271,25 @@
     "pickupFirstResourceAssetBundleName": "",
     "setItemPickupPosition": 2,
     "createdTime": 1467266414
+  },
+  {
+    "gachaSeriesMstId": 102470,
+    "gachaGroupId": 5,
+    "topBannerMstId": 0,
+    "bannerMstId": 4850,
+    "isAlways": false,
+    "name": "版菓の闇ガチャ",
+    "description": "-",
+    "noticeMessage": "このガチャで獲得できるアイテムは以下の通りです。\r\n・ヨクボウメダル(Ⅱ)：STEP1～2で各50枚　STEP3～5で各100枚\r\n有効期限：2021年3月7日23:59\r\n・はめるん(総選挙ノ投票券)：STEP1～2で各2500枚　STEP3～5で各5000枚\r\n有効期限：2021年2月18日23:59",
+    "priority": 16010,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=7185&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": null
   },
   {
     "gachaSeriesMstId": 102480,

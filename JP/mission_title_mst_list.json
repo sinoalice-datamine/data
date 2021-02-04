@@ -4375,6 +4375,20 @@
     "endTime": 1612407599
   },
   {
+    "missionTitleMstId": 657,
+    "title": "「創生の版菓」ミッション",
+    "priority": 20003,
+    "startTime": 1612414800,
+    "endTime": 1613624399
+  },
+  {
+    "missionTitleMstId": 658,
+    "title": "イベントデイリーミッション",
+    "priority": 20004,
+    "startTime": 1612414800,
+    "endTime": 1613624399
+  },
+  {
     "missionTitleMstId": 659,
     "title": "「全能の栞」マンスリーミッション",
     "priority": 0,
@@ -4492,5 +4506,12 @@
     "priority": 0,
     "startTime": 1614222000,
     "endTime": 1614481199
+  },
+  {
+    "missionTitleMstId": 677,
+    "title": "人気投票 デイリーミッション",
+    "priority": 0,
+    "startTime": 1612414800,
+    "endTime": 1613660399
   }
 ]
