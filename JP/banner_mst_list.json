@@ -101682,5 +101682,27 @@
     "optionType": 0,
     "isDeleted": false,
     "createdTime": 1483974000
+  },
+  {
+    "bannerMstId": 4967,
+    "type": 11,
+    "startTime": 1612774800,
+    "endTime": 1612882799,
+    "priority": 6000,
+    "transitionSceneName": "GvgTournamentMainTop",
+    "objectId": 0,
+    "announceMstId": 0,
+    "osType": 0,
+    "isBeginner": false,
+    "beginnerDays": 0,
+    "isDisplayHome": true,
+    "assetBundleName": "wallbanner/20210208_colosseumsin7",
+    "resourceName": "4967",
+    "badgeAssetBundleName": "",
+    "badgeResourceName": "",
+    "badgeEndTime": null,
+    "optionType": 0,
+    "isDeleted": false,
+    "createdTime": 1536764400
   }
 ]
