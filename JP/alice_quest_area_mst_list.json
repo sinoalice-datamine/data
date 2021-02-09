@@ -14837,5 +14837,24 @@
     "disableMultipleCharacter": false,
     "startTime": null,
     "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 831,
+    "questMapMstId": 463,
+    "name": "渾融ノ奇獣",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/48",
+    "bgResourceName": "0048",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "startTime": null,
+    "createdTime": 1483974000
   }
 ]
