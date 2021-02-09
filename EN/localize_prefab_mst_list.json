@@ -3047,7 +3047,7 @@
     "KR": "어쩌고저쩌고 마도서가\\\\n선물함으로 지급되었습니다.",
     "DE": "Irgendein Zauberbuch wurde\\\\nirgendwie an deine Geschenkbox geschickt.",
     "FR": "Le Tome Machin Chose\\\\na été envoyé dans votre boîte à cadeaux.",
-    "ES": "El libro tal y tal\\\\nse ha enviado a tu caja de regalos.",
+    "ES": "El libro mágico tal y tal\\\\nse ha enviado a tu caja de regalos.",
     "TH": "ตำราเวทมนตร์อะไรสักอย่าง\\\\nถูกส่งไปยังกล่องของขวัญแล้ว",
     "VN": "Cuốn sách đó đó\\\\nđã được gửi tới Hộp quà của bạn."
   },
@@ -4096,7 +4096,7 @@
     "EN": "Recover",
     "KR": "회 복",
     "DE": "Regeneration",
-    "FR": "Récupérer",
+    "FR": "Récup.",
     "ES": "Recuperar",
     "TH": "ฟื้นฟู",
     "VN": "Phục hồi"
@@ -4699,7 +4699,7 @@
     "KR": "어쩌고저쩌고 마도서가\\\\n선물함으로 지급되었습니다.",
     "DE": "Irgendein Zauberbuch wurde\\\\nirgendwie an deine Geschenkbox geschickt.",
     "FR": "Le Tome Machin-Chose\\\\na été envoyé dans votre boîte à cadeaux.",
-    "ES": "El libro tal y tal\\\\nse envió a tu caja de regalos.",
+    "ES": "El libro mágico tal y tal\\\\nse envió a tu caja de regalos.",
     "TH": "ตำราเวทมนตร์อะไรสักอย่าง\\\\nถูกส่งไปยังกล่องของขวัญแล้ว",
     "VN": "Cuốn sách đó đó\\\\nđã được gửi tới Hộp quà của bạn."
   },
@@ -10561,7 +10561,7 @@
     "Type": 0,
     "GameKey": "PREFAB/0098",
     "JP": "貴方ガ何と戦って何を得るノカ。",
-    "EN": "Pick your battles, take your winnings.",
+    "EN": "Pick your battles,\\ntake your winnings.",
     "KR": "당신이 무엇과 싸우고 무엇을 얻을지.",
     "DE": "Kämpfe deine Schlachten und schnapp dir deinen Gewinn.",
     "FR": "Choisissez vos combats, récupérez vos gains.",
@@ -11922,8 +11922,8 @@
     "EN": "Recover",
     "KR": "회복",
     "DE": "Regeneration",
-    "FR": "Récupérer",
-    "ES": "Recuperar",
+    "FR": "Récup.",
+    "ES": "Recupe.",
     "TH": "ฟื้นฟู",
     "VN": "Phục hồi"
   },
@@ -16949,7 +16949,7 @@
     "KR": "게임을 시작하기 위한\r\n리소스를 다운로드합니다.",
     "DE": "Zum Spielstart benötigte Ressourcen\r\nwerden runtergeladen.",
     "FR": "Téléchargement des ressources\r\npour démarrer le jeu.",
-    "ES": "Antes de comenzar a jugar\r\nPor favor descarga la versión lanzada.",
+    "ES": "Antes de comenzar a jugar,\r\npor favor descarga la versión lanzada.",
     "TH": "ทำการดาวน์โหลด\r\nรีซอร์สเพื่อเริ่มเกม",
     "VN": ""
   },
@@ -16991,7 +16991,7 @@
     "KR": "<color=#A54410>\"ON\"</color>으로 설정하면 다양한 안내를 받을 수 있대요.",
     "DE": "Wenn du sie <color=#A54410>„aktivierst“</color> erhältst du allerhand Informationen.",
     "FR": "Il faut donner sa <color=#A54410>« permission »</color> !",
-    "ES": "¡Irán a parar a <color=#A54410>«Permiso»</color>!",
+    "ES": "Podrás recibir notificaciones al pulsar en <color=#A54410>«Permiso»</color>.",
     "TH": "ข้อมูลแคมเปญหรืออีเว้นท์ล่าสุด\r\nและอื่นๆ...",
     "VN": ""
   },
@@ -17075,7 +17075,7 @@
     "KR": "숙련도",
     "DE": "Expertise",
     "FR": "Points de maîtrise ",
-    "ES": "Maestría de clase",
+    "ES": "Nivel de maestría",
     "TH": "ความเชี่ยวชาญ",
     "VN": ""
   },
@@ -17102,8 +17102,8 @@
     "EN": "These values are from the Colosseum.",
     "KR": "이 수치는 콜로세움 수치입니다.",
     "DE": "Diese Werte sind für das Kolosseum.",
-    "FR": "Cette valeur est liée au Colisée.",
-    "ES": "Este valor está vinculado al Coliseo.",
+    "FR": "Ces valeurs sont celles du Colisée.",
+    "ES": "Estos son valores del Coliseo.",
     "TH": "ค่าตัวเลขนี้เป็นค่าของโคลอสเซียม",
     "VN": ""
   },

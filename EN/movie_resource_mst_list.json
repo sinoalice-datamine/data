@@ -315,6 +315,27 @@
     "vibStartTime": -1.0
   },
   {
+    "movieResourceMstId": 27,
+    "movieTitle": "7th Gran Colosseum Opening",
+    "resourceName": "GvGEventMovie",
+    "isPreDownLoad": 1,
+    "type": 2,
+    "value": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1612933200,
+    "endTime": 1613192399,
+    "isMuseum": 0,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "Bug if No Display shows",
+    "thumbAssetBundleName": "museumthumbnail/27",
+    "thumbResourceName": "GvGEventMovie",
+    "museumStartTime": 1612933200,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0
+  },
+  {
     "movieResourceMstId": 29,
     "movieTitle": "SINoALICE OP",
     "resourceName": "TutorialOP",

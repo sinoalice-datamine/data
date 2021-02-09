@@ -1465,7 +1465,7 @@
     "KR": "보유 숙련도",
     "DE": "Aktuelle Expertise",
     "FR": "Maîtrise actuelle",
-    "ES": "Maestría actual",
+    "ES": "Maestría de clase actual",
     "TH": "ความเชี่ยวชาญที่มี",
     "VN": "Độ tinh thông hiện tại"
   },
@@ -5539,7 +5539,7 @@
     "KR": "숙련도 배분",
     "DE": "Punkte für Expertise vergeben",
     "FR": "Assigner des points de maîtrise",
-    "ES": "Asignar puntos de maestría",
+    "ES": "Asignar puntos de Maestría de clase",
     "TH": "มอบหมายความเชี่ยวชาญ",
     "VN": "Chỉ định điểm tinh thông"
   },
@@ -9569,7 +9569,7 @@
     "JP": "相手の気絶回数",
     "EN": "Enemy KOs",
     "KR": "상대 기절 횟수",
-    "DE": "Bewusstlosigkeitsanzahl des Gegners",
+    "DE": "Gegner bewusstlos",
     "FR": "Nombre de fois où l'adversaire a été K.O.",
     "ES": "Nº de adversarios derrotados",
     "TH": "จำนวนการน็อกคู่ต่อสู้",
@@ -10157,7 +10157,7 @@
     "JP": "参加ユーザーがいないためログがありません。",
     "EN": "No logs available due to no participating users.",
     "KR": "참가 유저가 없어 기록이 존재하지 않습니다.",
-    "DE": "Da es keine teilnehmenden Spieler gibt, ist kein Log vorhanden.",
+    "DE": "Da es keine teilnehmenden Spieler gibt,\\nist kein Log vorhanden.",
     "FR": "Il n'y a pas de journal car il\\nn'y a aucun utilisateur participant.",
     "ES": "Sin usuarios participando, no hay registros.",
     "TH": "ไม่มีบันทึกเนื่องจากไม่มีผู้ใช้ที่เข้าร่วม",
@@ -10186,7 +10186,7 @@
     "EN": "This weapon type was not used in battle.",
     "KR": "해당 종류의 무기를 사용하고 있지 않습니다.",
     "DE": "Du verwendest diese Art von Waffe nicht.",
-    "FR": "Vous ne pas utilisez ce type d'arme.",
+    "FR": "Vous n’avez pas utilisé ce type d’arme.",
     "ES": "No se han utilizado ese tipo de armas.",
     "TH": "ไม่ได้ใช้อาวุธประเภทที่เกี่ยวข้อง",
     "VN": ""
@@ -10199,7 +10199,7 @@
     "JP": "気絶回数",
     "EN": "KOs",
     "KR": "기절 횟수",
-    "DE": "Bewusstlosigkeitsanzahl",
+    "DE": "Bewusstlos",
     "FR": "Nombre de K.O.",
     "ES": "Nº de derrotas",
     "TH": "จำนวนสลบ",
@@ -10217,6 +10217,34 @@
     "FR": "Dégâts",
     "ES": "Daño",
     "TH": "ความเสียหาย",
+    "VN": ""
+  },
+  {
+    "id": 731,
+    "TLM": 51695,
+    "Type": 0,
+    "GameKey": "SCENE",
+    "JP": "SR装備獲得時のチャット自動投稿",
+    "EN": "",
+    "KR": "SR 장비 획득 시 길드 채팅에 자동 게시",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
+    "VN": ""
+  },
+  {
+    "id": 732,
+    "TLM": 51696,
+    "Type": 0,
+    "GameKey": "SCENE",
+    "JP": "ガチャでSR装備を獲得した時に、ギルドチャットに自動で投稿します。",
+    "EN": "",
+    "KR": "뽑기에서 SR 장비 획득 시 길드 채팅에 자동으로 게시됩니다.",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
     "VN": ""
   }
 ]
