@@ -238,5 +238,29 @@
     "shipPartsBodyMstId": 108,
     "shipPartsRoofMstId": 107,
     "shipPartsAttachedMstId": 109
+  },
+  {
+    "guildShipSeriesMstId": 32,
+    "name": "雛祭シリーズ(1部)",
+    "description": "第39回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 111,
+    "shipPartsRoofMstId": 110,
+    "shipPartsAttachedMstId": 112
+  },
+  {
+    "guildShipSeriesMstId": 33,
+    "name": "雛祭シリーズ(2部)",
+    "description": "第39回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 114,
+    "shipPartsRoofMstId": 113,
+    "shipPartsAttachedMstId": 115
+  },
+  {
+    "guildShipSeriesMstId": 34,
+    "name": "雛祭シリーズ(3部)",
+    "description": "第39回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 117,
+    "shipPartsRoofMstId": 116,
+    "shipPartsAttachedMstId": 118
   }
 ]
