@@ -1664,5 +1664,22 @@
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",
     "createdTime": 1611846000
+  },
+  {
+    "gachaSeriesMstId": 900012,
+    "gachaGroupId": 3,
+    "bannerMstId": 900080,
+    "isAlways": false,
+    "name": "Darkroom Researcher",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅱ)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-Medal of desire (Ⅱ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 455,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=783&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1611846000
   }
 ]
