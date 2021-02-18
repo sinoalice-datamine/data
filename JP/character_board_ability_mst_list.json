@@ -15622,5 +15622,455 @@
     "effectType": 6,
     "effectValue": 4,
     "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 1785,
+    "characterUniqueId": 70,
+    "name": "エリアUP",
+    "description": "リムルのジョブを編成時、転スラエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1786,
+    "characterUniqueId": 70,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP リムルのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1787,
+    "characterUniqueId": 70,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP リムルのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1788,
+    "characterUniqueId": 70,
+    "name": "物魔攻撃UP",
+    "description": "リムルのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1789,
+    "characterUniqueId": 70,
+    "name": "物魔防御UP",
+    "description": "リムルのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1790,
+    "characterUniqueId": 70,
+    "name": "メダルUP",
+    "description": "リムルのジョブを編成時、転スラエリアでメダル獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1791,
+    "characterUniqueId": 70,
+    "name": "メダルUP",
+    "description": "リムルのジョブを編成時、転スラエリアでメダル獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1792,
+    "characterUniqueId": 70,
+    "name": "物攻+300",
+    "description": "リムルのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1793,
+    "characterUniqueId": 70,
+    "name": "物防+300",
+    "description": "リムルのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1794,
+    "characterUniqueId": 70,
+    "name": "魔攻+300",
+    "description": "リムルのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1795,
+    "characterUniqueId": 70,
+    "name": "魔防+300",
+    "description": "リムルのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1796,
+    "characterUniqueId": 70,
+    "name": "魔書 2%UP",
+    "description": "リムルのジョブを編成時、魔書2%UP",
+    "effectType": 6,
+    "effectValue": 2,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 1797,
+    "characterUniqueId": 67,
+    "name": "エリアUP",
+    "description": "シズのジョブを編成時、転スラエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1798,
+    "characterUniqueId": 67,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP シズのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1799,
+    "characterUniqueId": 67,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP シズのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1800,
+    "characterUniqueId": 67,
+    "name": "物魔攻撃UP",
+    "description": "シズのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1801,
+    "characterUniqueId": 67,
+    "name": "物魔防御UP",
+    "description": "シズのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1802,
+    "characterUniqueId": 67,
+    "name": "メダルUP",
+    "description": "シズのジョブを編成時、転スラエリアでメダル獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1803,
+    "characterUniqueId": 67,
+    "name": "メダルUP",
+    "description": "シズのジョブを編成時、転スラエリアでメダル獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1804,
+    "characterUniqueId": 67,
+    "name": "物攻+300",
+    "description": "シズのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1805,
+    "characterUniqueId": 67,
+    "name": "物防+300",
+    "description": "シズのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1806,
+    "characterUniqueId": 67,
+    "name": "魔攻+300",
+    "description": "シズのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1807,
+    "characterUniqueId": 67,
+    "name": "魔防+300",
+    "description": "シズのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1808,
+    "characterUniqueId": 67,
+    "name": "刀剣 4%UP",
+    "description": "シズのジョブを編成時、刀剣4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 1809,
+    "characterUniqueId": 69,
+    "name": "エリアUP",
+    "description": "シュナのジョブを編成時、転スラエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1810,
+    "characterUniqueId": 69,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP シュナのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1811,
+    "characterUniqueId": 69,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP シュナのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1812,
+    "characterUniqueId": 69,
+    "name": "物魔攻撃UP",
+    "description": "シュナのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1813,
+    "characterUniqueId": 69,
+    "name": "物魔防御UP",
+    "description": "シュナのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1814,
+    "characterUniqueId": 69,
+    "name": "メダルUP",
+    "description": "シュナのジョブを編成時、転スラエリアでメダル獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1815,
+    "characterUniqueId": 69,
+    "name": "メダルUP",
+    "description": "シュナのジョブを編成時、転スラエリアでメダル獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1816,
+    "characterUniqueId": 69,
+    "name": "物攻+300",
+    "description": "シュナのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1817,
+    "characterUniqueId": 69,
+    "name": "物防+300",
+    "description": "シュナのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1818,
+    "characterUniqueId": 69,
+    "name": "魔攻+300",
+    "description": "シュナのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1819,
+    "characterUniqueId": 69,
+    "name": "魔防+300",
+    "description": "シュナのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1820,
+    "characterUniqueId": 69,
+    "name": "祈祷 4%UP",
+    "description": "シュナのジョブを編成時、祈祷4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 1821,
+    "characterUniqueId": 68,
+    "name": "エリアUP",
+    "description": "ミリムのジョブを編成時、転スラエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1822,
+    "characterUniqueId": 68,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP ミリムのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1823,
+    "characterUniqueId": 68,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP ミリムのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1824,
+    "characterUniqueId": 68,
+    "name": "物魔攻撃UP",
+    "description": "ミリムのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1825,
+    "characterUniqueId": 68,
+    "name": "物魔防御UP",
+    "description": "ミリムのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1826,
+    "characterUniqueId": 68,
+    "name": "メダルUP",
+    "description": "ミリムのジョブを編成時、転スラエリアでメダル獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1827,
+    "characterUniqueId": 68,
+    "name": "メダルUP",
+    "description": "ミリムのジョブを編成時、転スラエリアでメダル獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1828,
+    "characterUniqueId": 68,
+    "name": "物攻+300",
+    "description": "ミリムのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1829,
+    "characterUniqueId": 68,
+    "name": "物防+300",
+    "description": "ミリムのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1830,
+    "characterUniqueId": 68,
+    "name": "魔攻+300",
+    "description": "ミリムのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1831,
+    "characterUniqueId": 68,
+    "name": "魔防+300",
+    "description": "ミリムのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1832,
+    "characterUniqueId": 68,
+    "name": "射出 4%UP",
+    "description": "ミリムのジョブを編成時、射出4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 1833,
+    "characterUniqueId": 1,
+    "name": "メダルUP",
+    "description": "アリスのジョブを編成時、転スラエリアでメダル獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1834,
+    "characterUniqueId": 2,
+    "name": "メダルUP",
+    "description": "スノウホワイトのジョブを編成時、転スラエリアでメダル獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
   }
 ]

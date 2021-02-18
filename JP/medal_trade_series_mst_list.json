@@ -3248,6 +3248,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 218,
+    "name": "スライムメダル",
+    "description": "ギシンアンキが集めているメダル\r\n※2021年3月11日23:59まで",
+    "resourceName": "item20210218_ten_sura_gacha",
+    "assetBundleName": "2951",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年3月11日23:59まで",
+    "priority": 56,
+    "itemMstId": 2951,
+    "startTime": 1613624400,
+    "endTime": 1615474799,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 219,
     "name": "ハッターメダル ",
     "description": "ギシンアンキが集めているメダル※2021年2月2日23:59まで",
@@ -3292,6 +3308,22 @@
     "itemMstId": 2963,
     "startTime": 1611640800,
     "endTime": 1612709999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 222,
+    "name": "抗魔の仮面メダル ",
+    "description": "ギシンアンキが集めているメダル\r\n※2021年3月11日23:59まで",
+    "resourceName": "item20210218_ten_sura_event",
+    "assetBundleName": "2964",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2021年3月11日23:59まで",
+    "priority": 43,
+    "itemMstId": 2964,
+    "startTime": 1613624400,
+    "endTime": 1615474799,
     "displayType": 0,
     "isDeleted": false
   },

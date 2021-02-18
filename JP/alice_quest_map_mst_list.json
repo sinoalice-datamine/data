@@ -4675,6 +4675,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 450,
+    "mapType": 1,
+    "mapGroup": 282,
+    "mapGroupLv": 1,
+    "mapCategory": 3,
+    "name": "転生ノ童謡",
+    "description": "転スラコラボNormal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 451,
+    "mapType": 1,
+    "mapGroup": 282,
+    "mapGroupLv": 2,
+    "mapCategory": 3,
+    "name": "転生ノ童謡Hard",
+    "description": "転スラコラボHard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 453,
     "mapType": 1,
     "mapGroup": 190,
