@@ -5917,7 +5917,7 @@
     "KR": "전투력 {0} 이상 도전 가능",
     "DE": "Verfügbar ab {0} Punkten.",
     "FR": "Défi dispo. pour les utilisateurs avec\\\\nun total de plus de {0} points.",
-    "ES": "Hay un desafío disponible para los usuarios con {0} de Clasificación global.",
+    "ES": "Desafío disponible para usuarios con\\\\nClasificación global superior a {0}",
     "TH": "การท้าทายนี้สำหรับผู้เล่นที่มีค่ารวม {0}ขึ้นไป",
     "VN": "Thử thách có sẵn cho người dùng có {0} điểm tổng."
   },
@@ -19563,10 +19563,10 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "参加報酬：",
-    "EN": "Particip. Reward: ",
+    "EN": "Reward: ",
     "KR": "참가 보상: ",
     "DE": "Teiln.-Belohnungen:",
-    "FR": "Récompenses de participation :",
+    "FR": "Récomp. de partici.",
     "ES": "Rec. particip.:",
     "TH": "รางวัลการเข้าร่วม：",
     "VN": ""
@@ -20099,7 +20099,7 @@
     "KR": "간편 초대",
     "DE": "Schnelleinladung",
     "FR": "Invitation rapide",
-    "ES": "",
+    "ES": "Invitación rápida",
     "TH": "การเชิญอย่างรวดเร็ว",
     "VN": ""
   },
@@ -20111,9 +20111,9 @@
     "JP": "除名 / 予約",
     "EN": "Expel/Reserve",
     "KR": "제명/예약",
-    "DE": "Entfernen/Vormerken",
+    "DE": "Entfernen / Vormerken",
     "FR": "Exclusion / Demande",
-    "ES": "",
+    "ES": "Expulsión / reserva",
     "TH": "ลบชื่อ/จอง",
     "VN": ""
   },
@@ -20127,7 +20127,7 @@
     "KR": "제명 예약 완료",
     "DE": "Entfernen vorgemerkt",
     "FR": "Demande d'exclusion terminée",
-    "ES": "",
+    "ES": "Reserva de expulsión completada",
     "TH": "จองการลบชื่อแล้ว",
     "VN": ""
   },
@@ -20141,7 +20141,7 @@
     "KR": "제명하기",
     "DE": "Entfernen",
     "FR": "Exclure",
-    "ES": "",
+    "ES": "Expulsar",
     "TH": "ลบชื่อ",
     "VN": ""
   },
@@ -20155,7 +20155,7 @@
     "KR": "제명 예약하기",
     "DE": "Entfernen vormerken",
     "FR": "Demande d'exclusion",
-    "ES": "",
+    "ES": "Reservar expulsión",
     "TH": "จองการลบชื่อ",
     "VN": ""
   },
@@ -20169,7 +20169,7 @@
     "KR": "※제명 예약된 길드원은 길드 정원이 꽉 찬 상태에서 새 유저가 길드 가입을 신청하면 자동으로 제명됩니다.",
     "DE": "*Zum Entfernen vorgemerkte Gildenmitglieder werden, wenn kein freier Platz für neue Mitglieder vorhanden ist, automatisch entfernt.",
     "FR": "*Le joueur qui est la cible d'une demande d'exclusion sera automatiquement exclus lorsqu'un nouvel utilisateur tentera de rejoindre la guilde s'il n'y a pas d'espace de membre de guilde disponible.",
-    "ES": "",
+    "ES": "La función de reserva de expulsión es una función que eliminará automáticamente a un miembro del gremio que haya sido reservado para expulsión cuando no haya más espacio en el momento de que nuevo miembro intente unirse al gremio. ",
     "TH": "*สมาชิกที่ถูกจองการลบชื่อ จะถูกลบชื่อออกโดยอัตโนมัติเมื่อมีผู้ใช้ใหม่ต้องการเข้ากิลด์ในตอนที่สมาชิกกิลด์เต็ม",
     "VN": ""
   },
@@ -20183,7 +20183,7 @@
     "KR": "{0} 님은 제명 예약 완료 상태입니다. 제명하시겠습니까?",
     "DE": "{0} ist zum Entfernen vorgemerkt. Wirklich entfernen?",
     "FR": "{0} est la cible d'une demande d'exclusion. Voulez-vous l'expulser ?",
-    "ES": "",
+    "ES": "Se ha expulsado a {0} de la lista. ¿Quieres expulsarlo/a?",
     "TH": "จองการลบชื่อคุณ{0}แล้ว ดำเนินการลบชื่อหรือไม่?",
     "VN": ""
   },
@@ -20197,7 +20197,7 @@
     "KR": "제명 예약 해제하기",
     "DE": "Entfernen vormerken aufheben",
     "FR": "Supprimer la demande d'exclusion",
-    "ES": "",
+    "ES": "Desbloquear reserva de expulsión",
     "TH": "ยกเลิกการจองการลบชื่อ",
     "VN": ""
   },
