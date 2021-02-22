@@ -1717,6 +1717,23 @@
     "createdTime": 1611846000
   },
   {
+    "gachaSeriesMstId": 900013,
+    "gachaGroupId": 3,
+    "bannerMstId": 293,
+    "isAlways": false,
+    "name": "Double Trouble",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅱ)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-Medal of desire (Ⅱ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 480,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=794&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1611846000
+  },
+  {
     "gachaSeriesMstId": 900014,
     "gachaGroupId": 5,
     "bannerMstId": 900081,

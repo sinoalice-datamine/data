@@ -38,8 +38,8 @@
   {
     "missionTitleMstId": 11,
     "title": "Prison of the Abyss",
-    "startTime": 1609999200,
-    "endTime": 1611622799
+    "startTime": 1613973600,
+    "endTime": 1615787999
   },
   {
     "missionTitleMstId": 12,
@@ -172,5 +172,17 @@
     "title": "Key of Infinite Gears Mission",
     "startTime": 1422234000,
     "endTime": 2143328400
+  },
+  {
+    "missionTitleMstId": 900009,
+    "title": "End of Month Global Missions",
+    "startTime": 1614402000,
+    "endTime": 1614488399
+  },
+  {
+    "missionTitleMstId": 900010,
+    "title": "End of Month Global Daily Missions",
+    "startTime": 1613973600,
+    "endTime": 1614574799
   }
 ]
