@@ -7807,7 +7807,7 @@
     "KR": "\\\\n을(를) 수령하시겠습니까?",
     "DE": "\\\\nwird angenommen.\\\\nBist du sicher?",
     "FR": "\\\\nsera ou seront récupéré(es).\\\\nConfirmer ?",
-    "ES": "\\\\nse reclamarán.\\\\n¿Seguro?",
+    "ES": "\\\\n se va a reclamar.\\\\n¿Seguro?",
     "TH": "\\\\nเก็บ\\\\nคุณแน่ใจหรือไม่?",
     "VN": "\\\\nsẽ được lấy.\\\\nBạn có chắc không?"
   },
@@ -7821,7 +7821,7 @@
     "KR": "\\\\n을(를) 반납하시겠습니까?",
     "DE": "\\\\nwird zurückgegeben.\\\\nBist du sicher?",
     "FR": "\\\\nsera ou seront rendu(es).\\\\nConfirmer ?",
-    "ES": "\\\\nse devolverán.\\\\n¿Seguro?",
+    "ES": "\\\\n se va a devolver.\\\\n¿Seguro?",
     "TH": "\\\\nคืน\\\\nคุณแน่ใจหรือไม่?",
     "VN": "\\\\nsẽ được trả lại.\\\\nBạn có chắc không?"
   },
@@ -10355,7 +10355,7 @@
     "KR": "\\\\n을(를) 수령하였습니다.",
     "DE": "\\\\nwurde angenommen.",
     "FR": "\\\\na été récupéré(e).",
-    "ES": "Se reclamó\\\\n .",
+    "ES": "\\\\n se ha reclamado.",
     "TH": "\\\\nได้รับแล้ว",
     "VN": "\\\\nđã được nhận."
   },
@@ -10369,7 +10369,7 @@
     "KR": "\\\\n을(를) 반납하였습니다.",
     "DE": "\\\\nwurde zurückgegeben.",
     "FR": "\\\\na été rendu(e).",
-    "ES": " se devolvió.\\\\n",
+    "ES": "\\\\n se ha devuelto.",
     "TH": "\\\\nคืนแล้ว",
     "VN": "\\\\nđã được trả lại."
   },
@@ -12399,7 +12399,7 @@
     "KR": "개의 아이템을 선택하였습니다.\\\\n판매하시겠습니까?",
     "DE": " Item(s) zum Verkauf ausgewählt.\\\\nBist du sicher?",
     "FR": " objet(s) sélectionné(s) pour la vente.\\\\nConfirmer ?",
-    "ES": "objeto(s) seleccionados para vender.\\\\n¿Estás Seguro?",
+    "ES": " objeto(s) seleccionados para vender.\\\\n¿Estás Seguro?",
     "TH": " ไอเท็ม ถูกเลือก\\\\nดำเนินการขายหรือไม่?",
     "VN": "đã chọn – vật phẩm để bán.\\\\nBạn có chắc không?"
   },
@@ -20183,7 +20183,7 @@
     "KR": "{0} 님은 제명 예약 완료 상태입니다. 제명하시겠습니까?",
     "DE": "{0} ist zum Entfernen vorgemerkt. Wirklich entfernen?",
     "FR": "{0} est la cible d'une demande d'exclusion. Voulez-vous l'expulser ?",
-    "ES": "Se ha expulsado a {0} de la lista. ¿Quieres expulsarlo/a?",
+    "ES": "Se ha puesto a {0} en reserva para expulsión. ¿Quieres expulsarlo/a?",
     "TH": "จองการลบชื่อคุณ{0}แล้ว ดำเนินการลบชื่อหรือไม่?",
     "VN": ""
   },
@@ -20197,7 +20197,7 @@
     "KR": "제명 예약 해제하기",
     "DE": "Entfernen vormerken aufheben",
     "FR": "Supprimer la demande d'exclusion",
-    "ES": "Desbloquear reserva de expulsión",
+    "ES": "Cancelar reserva de expulsión",
     "TH": "ยกเลิกการจองการลบชื่อ",
     "VN": ""
   },
@@ -20213,6 +20213,34 @@
     "FR": "Groupe {0}",
     "ES": "Grupo {0}",
     "TH": "กลุ่ม {0}",
+    "VN": ""
+  },
+  {
+    "id": 1445,
+    "TLM": 51719,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "メインセットは選択できません",
+    "EN": "Main set cannot be selected.",
+    "KR": "메인 세트는 선택할 수 없습니다.",
+    "DE": "Hauptset kann nicht ausgewählt werden.",
+    "FR": "Ens. princ. non sélectionnable.",
+    "ES": "No se puede seleccionar el set principal",
+    "TH": "ไม่สามารถเลือกเซ็ตหลักได้",
+    "VN": ""
+  },
+  {
+    "id": 1446,
+    "TLM": 51720,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "コロシアム期間中は選択できません",
+    "EN": "Cannot select during the Colosseum.",
+    "KR": "콜로세움 기간 중에는 선택할 수 없습니다.",
+    "DE": "Kann während des Kolosseums nicht ausgewählt werden.",
+    "FR": "Non sélectionnable lors du Colisée.",
+    "ES": "No se puede seleccionar cuando se está usando en el Coliseo.",
+    "TH": "ไม่สามารถเลือกได้ในช่วงโคลอสเซียม",
     "VN": ""
   }
 ]

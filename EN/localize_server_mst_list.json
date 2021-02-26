@@ -20854,7 +20854,7 @@
     "EN": "Acquire <color=#B42F00>%s</color> from %s.",
     "KR": "<color=#B42F00>%s</color>을(를) %s에서 획득",
     "DE": "<color=#B42F00>%s</color> via %s erhalten.",
-    "FR": "Obtenez <color=#B42F00>%s</color> dans %s.",
+    "FR": "<color=#B42F00>%s</color> obtenu dans %s.",
     "ES": "<color=#B42F00>%s</color> se recibe en %s",
     "TH": "<color=#B42F00>%s</color>รับที่%s",
     "VN": ""
@@ -20899,6 +20899,20 @@
     "FR": "Récompenses de butin",
     "ES": "Nº de recompensas obtenibles",
     "TH": "จำนวนได้รับรางวัลดร็อป",
+    "VN": ""
+  },
+  {
+    "id": 1494,
+    "TLM": 51715,
+    "Type": 0,
+    "GameKey": "ServerData/presentBoxMsg.stepup.lap.bonus",
+    "JP": "(ステップアップガチャ周回特典 %LOOP%周目 STEP%STEP%)",
+    "EN": "(STEP Grimoire bonus on Round %LOOP% STEP %STEP%)",
+    "KR": "(스텝업 뽑기 반복 특전 %LOOP%회차 STEP%STEP%)",
+    "DE": "(Step-Up Grimoire Runden Extra - %LOOP%. Runde STEP %STEP%)",
+    "FR": "(Avantages hebdomadaire pour le Grimoire de rang supérieur : Semaine numéro %LOOP% - STEP %STEP%)",
+    "ES": "(Beneficio por ronda en el Grimorio de avance: en la ronda%LOOP% se volverá al PASO%STEP%)",
+    "TH": "(สิทธิประโยชน์จากกรีมัวร์สเต็ปอัพใน รอบที่%LOOP% STEP%STEP%)",
     "VN": ""
   }
 ]
