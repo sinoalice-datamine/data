@@ -14307,6 +14307,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 1890,
+    "gachaGroupId": 4,
+    "topBannerMstId": 0,
+    "bannerMstId": 4981,
+    "isAlways": false,
+    "name": "DMM GAMES FESTIVALチケットガチャ",
+    "description": "-",
+    "noticeMessage": "このガチャのガチャチケットは「DMM GAMES FESTIVAL」の特典アイテムです。\r\n※このガチャでは『ヨクボウメダル』はおまけとして獲得できません。",
+    "priority": 200,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": true,
+    "announceUrl": "/web/announce/body?announceMstId=7411&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 0,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 1900,
     "gachaGroupId": 3,
     "topBannerMstId": 0,
@@ -14704,6 +14723,25 @@
     "pickupFirstResourceAssetBundleName": "",
     "setItemPickupPosition": 0,
     "createdTime": 1467266432
+  },
+  {
+    "gachaSeriesMstId": 1930,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 4952,
+    "isAlways": false,
+    "name": "3月ピックアップガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅲ)\r\n枚数：1回ガチャで10枚、11回ガチャで100枚\r\n有効期限：2021年4月7日23:59",
+    "priority": 120,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=7366&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 0,
+    "createdTime": 1467266400
   },
   {
     "gachaSeriesMstId": 5001,
@@ -21050,5 +21088,24 @@
     "pickupFirstResourceAssetBundleName": "",
     "setItemPickupPosition": 2,
     "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 102520,
+    "gachaGroupId": 5,
+    "topBannerMstId": 0,
+    "bannerMstId": 4953,
+    "isAlways": false,
+    "name": "聖ノ祝祭",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅲ)\r\n枚数：STEP1～2で各50枚　STEP3～5で各100枚\r\n有効期限：2021年4月7日23:59",
+    "priority": 17000,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=7369&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266414
   }
 ]
