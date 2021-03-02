@@ -5725,5 +5725,28 @@
     "museumEndTime": 1924959599,
     "vibStartTime": -1.0,
     "skipButtonType": 0
+  },
+  {
+    "movieResourceMstId": 261,
+    "movieTitle": "3月2日更新分 次回予告",
+    "resourceName": "tota_c16",
+    "isPreDownLoad": 0,
+    "type": 21,
+    "value": 0,
+    "value2": 0,
+    "condition": 0,
+    "canNotDeleteLocal": 0,
+    "startTime": 1614661200,
+    "endTime": 1895896799,
+    "isMuseum": 1,
+    "museumTermType": 5,
+    "museumTermId": 0,
+    "museumTermText": "条件なし　表示されていたらバグ",
+    "thumbAssetBundleName": "museumthumbnail/225",
+    "thumbResourceName": "tota_a01",
+    "museumStartTime": 1614661200,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0,
+    "skipButtonType": 0
   }
 ]

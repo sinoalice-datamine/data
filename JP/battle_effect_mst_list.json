@@ -4044,5 +4044,19 @@
     "cueSheet": "se_touta_c",
     "cueName": "se_touta_c@015_R",
     "createdTime": 1485961200
+  },
+  {
+    "battleEffectMstId": 324,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "",
+    "cueName": "",
+    "createdTime": 1485961226
   }
 ]
