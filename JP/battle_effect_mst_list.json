@@ -4058,5 +4058,47 @@
     "cueSheet": "",
     "cueName": "",
     "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 331,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": -100,
+    "additionalPositionZ": 0,
+    "magnificationScale": 60,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 10,
+    "cueSheet": "se_touta_5syou",
+    "cueName": "se_touta_5syou@001_R",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 332,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 60,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 10,
+    "cueSheet": "se_touta_5syou",
+    "cueName": "se_touta_5syou@002_L",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 333,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 60,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 10,
+    "cueSheet": "se_touta_5syou",
+    "cueName": "se_touta_5syou@003_R",
+    "createdTime": 1485961226
   }
 ]
