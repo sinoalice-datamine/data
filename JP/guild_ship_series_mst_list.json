@@ -262,5 +262,29 @@
     "shipPartsBodyMstId": 117,
     "shipPartsRoofMstId": 116,
     "shipPartsAttachedMstId": 118
+  },
+  {
+    "guildShipSeriesMstId": 35,
+    "name": "桜乱シリーズ(1部)",
+    "description": "第40回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 120,
+    "shipPartsRoofMstId": 119,
+    "shipPartsAttachedMstId": 121
+  },
+  {
+    "guildShipSeriesMstId": 36,
+    "name": "桜乱シリーズ(2部)",
+    "description": "第40回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 123,
+    "shipPartsRoofMstId": 122,
+    "shipPartsAttachedMstId": 124
+  },
+  {
+    "guildShipSeriesMstId": 37,
+    "name": "桜乱シリーズ(3部)",
+    "description": "第40回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 126,
+    "shipPartsRoofMstId": 125,
+    "shipPartsAttachedMstId": 127
   }
 ]
