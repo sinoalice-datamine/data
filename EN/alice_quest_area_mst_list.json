@@ -3383,6 +3383,23 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 248,
+    "questMapMstId": 88,
+    "name": "Hatred's Curse",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/21",
+    "bgResourceName": "0021",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 249,
     "questMapMstId": 89,
     "name": "End of the Dreary World",
