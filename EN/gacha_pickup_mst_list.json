@@ -180,6 +180,51 @@
     "createdTime": 1467266400
   },
   {
+    "gachaPickupMstId": 363,
+    "gachaSeriesMstId": 125,
+    "objectType": 1,
+    "objectId": 1803,
+    "pickupSkillType": 1,
+    "priority": 1,
+    "pickupBgResourceName": "",
+    "pickupBgAssetBundleName": "",
+    "positionX": 0,
+    "positionY": 0,
+    "startTime": 1615874400,
+    "endTime": 1617083999,
+    "createdTime": 1467266400
+  },
+  {
+    "gachaPickupMstId": 364,
+    "gachaSeriesMstId": 125,
+    "objectType": 2,
+    "objectId": 1811,
+    "pickupSkillType": 1,
+    "priority": 2,
+    "pickupBgResourceName": "",
+    "pickupBgAssetBundleName": "",
+    "positionX": 0,
+    "positionY": 0,
+    "startTime": 1615874400,
+    "endTime": 1617083999,
+    "createdTime": 1467266400
+  },
+  {
+    "gachaPickupMstId": 365,
+    "gachaSeriesMstId": 125,
+    "objectType": 1,
+    "objectId": 1805,
+    "pickupSkillType": 1,
+    "priority": 4,
+    "pickupBgResourceName": "",
+    "pickupBgAssetBundleName": "",
+    "positionX": 0,
+    "positionY": 0,
+    "startTime": 1615874400,
+    "endTime": 1617083999,
+    "createdTime": 1467266400
+  },
+  {
     "gachaPickupMstId": 438,
     "gachaSeriesMstId": 150,
     "objectType": 1,
@@ -641,7 +686,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1614837600,
-    "endTime": 1616047199,
+    "endTime": 1616043599,
     "createdTime": 1611846000
   },
   {
@@ -656,7 +701,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1614837600,
-    "endTime": 1616047199,
+    "endTime": 1616043599,
     "createdTime": 1611846000
   },
   {
@@ -671,7 +716,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1614837600,
-    "endTime": 1616047199,
+    "endTime": 1616043599,
     "createdTime": 1611846000
   },
   {
@@ -702,6 +747,21 @@
     "positionY": 0,
     "startTime": 1614837600,
     "endTime": 1616047199,
+    "createdTime": 1467266400
+  },
+  {
+    "gachaPickupMstId": 900075,
+    "gachaSeriesMstId": 125,
+    "objectType": 1,
+    "objectId": 1809,
+    "pickupSkillType": 1,
+    "priority": 3,
+    "pickupBgResourceName": "",
+    "pickupBgAssetBundleName": "",
+    "positionX": 0,
+    "positionY": 0,
+    "startTime": 1615874400,
+    "endTime": 1617083999,
     "createdTime": 1467266400
   }
 ]
