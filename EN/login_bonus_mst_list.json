@@ -276,6 +276,30 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 126,
+    "title": "Event Bonus ①",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1616047200,
+    "endTime": 1616648399,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 127,
+    "title": "Event Bonus ②",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1616648400,
+    "endTime": 1617253199,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 130,
     "title": "Welcome Back Login Bonus",
     "cycleType": 5,

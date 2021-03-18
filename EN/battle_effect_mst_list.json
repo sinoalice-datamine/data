@@ -1610,6 +1610,48 @@
     "createdTime": 1485961226
   },
   {
+    "battleEffectMstId": 181,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_camp_quest",
+    "cueName": "se_camp_quest@001_R",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 182,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_camp_quest",
+    "cueName": "se_camp_quest@002_R",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 183,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_camp_quest",
+    "cueName": "se_camp_quest@004_R",
+    "createdTime": 1485961226
+  },
+  {
     "battleEffectMstId": 296,
     "positionType": 3,
     "additionalPositionX": 3,

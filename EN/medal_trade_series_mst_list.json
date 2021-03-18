@@ -420,6 +420,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 79,
+    "name": "Camp Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20210318_medal_tenmaku",
+    "assetBundleName": "1109",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 1109,
+    "startTime": 1616047200,
+    "endTime": 1617861599,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 222,
     "name": "Magic-seal Mask Medal",
     "description": "Medal collected by Parrah-Noya.",

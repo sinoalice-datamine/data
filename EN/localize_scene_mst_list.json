@@ -10249,6 +10249,48 @@
   },
   {
     "id": 733,
+    "TLM": 51712,
+    "Type": 0,
+    "GameKey": "SCENE",
+    "JP": "ギルド募集",
+    "EN": "",
+    "KR": "길드 모집",
+    "DE": "Gilde gesucht",
+    "FR": "",
+    "ES": "",
+    "TH": "รับสมัครกิลด์",
+    "VN": ""
+  },
+  {
+    "id": 734,
+    "TLM": 51713,
+    "Type": 0,
+    "GameKey": "SCENE",
+    "JP": "メンバー募集",
+    "EN": "",
+    "KR": "길드원 모집",
+    "DE": "Mitglieder gesucht",
+    "FR": "",
+    "ES": "",
+    "TH": "รับสมัครสมาชิก",
+    "VN": ""
+  },
+  {
+    "id": 735,
+    "TLM": 51714,
+    "Type": 0,
+    "GameKey": "SCENE",
+    "JP": "ギルド加入希望",
+    "EN": "",
+    "KR": "길드 가입 희망",
+    "DE": "Tritt einer Gilde bei",
+    "FR": "",
+    "ES": "",
+    "TH": "ต้องการเข้าร่วมกิลด์",
+    "VN": ""
+  },
+  {
+    "id": 736,
     "TLM": 51716,
     "Type": 0,
     "GameKey": "SCENE",
@@ -10262,7 +10304,7 @@
     "VN": ""
   },
   {
-    "id": 734,
+    "id": 737,
     "TLM": 51717,
     "Type": 0,
     "GameKey": "SCENE",
@@ -10276,7 +10318,7 @@
     "VN": ""
   },
   {
-    "id": 735,
+    "id": 738,
     "TLM": 51718,
     "Type": 0,
     "GameKey": "SCENE",
@@ -10287,6 +10329,20 @@
     "FR": "Force vitale obtenue par toutes les guildes",
     "ES": "Fuerza vital adquirida por todos los gremios",
     "TH": "พลังชีวิตที่ได้รับของทุกกิลด์",
+    "VN": ""
+  },
+  {
+    "id": 739,
+    "TLM": 51711,
+    "Type": 0,
+    "GameKey": "SCENE",
+    "JP": "投稿",
+    "EN": "",
+    "KR": "게시하기",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "โพสต์",
     "VN": ""
   }
 ]
