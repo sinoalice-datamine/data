@@ -3680,6 +3680,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 246,
+    "name": "ラプンツェルメダル",
+    "description": "ガチャで獲得できるメダル\r\n※2021年4月3日23:59まで",
+    "resourceName": "item20200124_pinocchio_gacha",
+    "assetBundleName": "1959",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年4月3日23:59まで",
+    "priority": 43,
+    "itemMstId": 3130,
+    "startTime": 1616133600,
+    "endTime": 1617461999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 247,
     "name": "サイリウムメダル",
     "description": "ギシンアンキが集めているメダル※2021年4月1日23:59まで",
