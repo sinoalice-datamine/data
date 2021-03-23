@@ -57280,6 +57280,146 @@
     "cardDetailType": 5
   },
   {
+    "characterAbilityMstId": 5923,
+    "characterMstId": 441,
+    "name": "LittlePigsエリアで祈祷(火)30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5924,
+    "characterMstId": 441,
+    "name": "全武器種(水)25%DOWN",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 5925,
+    "characterMstId": 441,
+    "name": "モノガタリで祈祷(火)25%UP",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5926,
+    "characterMstId": 441,
+    "name": "祈祷(火)15%UP",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5927,
+    "characterMstId": 441,
+    "name": "魔法防御+100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5928,
+    "characterMstId": 441,
+    "name": "物理防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5929,
+    "characterMstId": 441,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5930,
+    "characterMstId": 441,
+    "name": "物理攻撃+100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5931,
+    "characterMstId": 441,
+    "name": "LittlePigsエリアで祈祷(火)10%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5932,
+    "characterMstId": 441,
+    "name": "HP+100",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5933,
+    "characterMstId": 441,
+    "name": "HP+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5934,
+    "characterMstId": 441,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5935,
+    "characterMstId": 441,
+    "name": "LittlePigsエリアで祈祷(火)30%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5936,
+    "characterMstId": 441,
+    "name": "魔法防御+700",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 700,
+    "cardDetailType": 4
+  },
+  {
     "characterAbilityMstId": 5937,
     "characterMstId": 452,
     "name": "SnowWhiteエリアで長柄60%UP",
@@ -58078,5 +58218,225 @@
     "effectType": 13,
     "effectValue": 5033,
     "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6061,
+    "characterMstId": 441,
+    "name": "火属性武器使用時、回復効果3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6278,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6062,
+    "characterMstId": 441,
+    "name": "水属性武器使用時、回復効果3%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6438,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6063,
+    "characterMstId": 274,
+    "name": "火属性武器使用時、回復効果3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6278,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6064,
+    "characterMstId": 274,
+    "name": "魔法防御+700",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 700,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6065,
+    "characterMstId": 172,
+    "name": "風属性武器使用時、回復効果3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5824,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6066,
+    "characterMstId": 172,
+    "name": "魔法防御+700",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 700,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6067,
+    "characterMstId": 275,
+    "name": "Kaguyahimeエリアで射出(火)30%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6068,
+    "characterMstId": 275,
+    "name": "魔法防御+700",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 700,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6069,
+    "characterMstId": 275,
+    "name": "火属性武器使用時、魔法ダメージ3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6432,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6070,
+    "characterMstId": 275,
+    "name": "魔法防御+700",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 700,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6071,
+    "characterMstId": 151,
+    "name": "水属性武器使用時、魔法ダメージ3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6433,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6072,
+    "characterMstId": 151,
+    "name": "魔法攻撃+700",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 700,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6073,
+    "characterMstId": 149,
+    "name": "風属性武器使用時、物理ダメージ3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6277,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6074,
+    "characterMstId": 149,
+    "name": "火属性武器使用時、物理ダメージ3%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6016,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6075,
+    "characterMstId": 305,
+    "name": "火属性武器使用時、バフ効果3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6434,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6076,
+    "characterMstId": 305,
+    "name": "風属性武器使用時、バフ効果3%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6436,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6077,
+    "characterMstId": 266,
+    "name": "水属性武器使用時、デバフ効果3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5825,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6078,
+    "characterMstId": 266,
+    "name": "風属性武器使用時、デバフ効果3%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5322,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6099,
+    "characterMstId": 99,
+    "name": "火属性武器使用時、バフ効果5%UP",
+    "releaseLevel": 13,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6440,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6100,
+    "characterMstId": 99,
+    "name": "火属性武器使用時、回復効果5%UP",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6442,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6101,
+    "characterMstId": 99,
+    "name": "火属性武器使用時、デバフ効果5%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6441,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6102,
+    "characterMstId": 99,
+    "name": "火属性武器使用時、ダメージ5%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6439,
+    "cardDetailType": 5
   }
 ]
