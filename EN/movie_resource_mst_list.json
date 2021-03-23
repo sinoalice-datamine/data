@@ -735,6 +735,27 @@
     "vibStartTime": -1.0
   },
   {
+    "movieResourceMstId": 79,
+    "movieTitle": "Next Act Announcement",
+    "resourceName": "GenjitsuEndMovie",
+    "isPreDownLoad": 0,
+    "type": 13,
+    "value": 3545,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1616479200,
+    "endTime": 1924959599,
+    "isMuseum": 1,
+    "museumTermType": 1,
+    "museumTermId": 3545,
+    "museumTermText": "Clear Act of Reality (Normal), Chapter 5: Verse 10",
+    "thumbAssetBundleName": "museumthumbnail/72",
+    "thumbResourceName": "GenjitsuEndMovie",
+    "museumStartTime": 1616479200,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0
+  },
+  {
     "movieResourceMstId": 83,
     "movieTitle": "NieR RepliCant OP",
     "resourceName": "RepliCantOPMovie",
