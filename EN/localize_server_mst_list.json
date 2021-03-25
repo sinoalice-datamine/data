@@ -21166,5 +21166,61 @@
     "ES": "Se han enviado las siguientes recompensas a tu caja de regalos:",
     "TH": "รางวัลต่อไปนี้ถูกส่งไปยังกล่องของขวัญแล้ว",
     "VN": ""
+  },
+  {
+    "id": 1513,
+    "TLM": 51764,
+    "Type": 0,
+    "GameKey": "Server/common.label.skillJobLevel",
+    "JP": "JLv.",
+    "EN": "CLv.",
+    "KR": "JLv.",
+    "DE": "Klassen St.",
+    "FR": "Niv. Classe",
+    "ES": "Nv. de clase",
+    "TH": "JLv",
+    "VN": ""
+  },
+  {
+    "id": 1514,
+    "TLM": 51767,
+    "Type": 0,
+    "GameKey": "Server/error.900001",
+    "JP": "1日に作成可能なスレッド数は1件までです。",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
+    "VN": ""
+  },
+  {
+    "id": 1515,
+    "TLM": 51768,
+    "Type": 0,
+    "GameKey": "Server/error.900002",
+    "JP": "ギルドに所属していないため投稿できません。",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
+    "VN": ""
+  },
+  {
+    "id": 1516,
+    "TLM": 51769,
+    "Type": 0,
+    "GameKey": "Server/error.900003",
+    "JP": "ギルドマスターもしくはサブマスターの権限がないため投稿できません。",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
+    "VN": ""
   }
 ]

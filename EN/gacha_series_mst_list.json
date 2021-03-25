@@ -1564,6 +1564,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 237,
+    "gachaGroupId": 3,
+    "bannerMstId": 678,
+    "isAlways": false,
+    "name": "Backlit Longing Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅲ)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-Medal of desire (Ⅲ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 560,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=897&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 534,
     "gachaGroupId": 3,
     "bannerMstId": 1230,
