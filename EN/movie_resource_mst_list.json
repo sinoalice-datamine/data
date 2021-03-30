@@ -399,6 +399,27 @@
     "vibStartTime": -1.0
   },
   {
+    "movieResourceMstId": 33,
+    "movieTitle": "April Fools",
+    "resourceName": "AprilFoolMovie",
+    "isPreDownLoad": 0,
+    "type": 2,
+    "value": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 1,
+    "startTime": 1617253200,
+    "endTime": 1617857999,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "Bug if No Conditions shows",
+    "thumbAssetBundleName": "museumthumbnail/33",
+    "thumbResourceName": "AprilFoolMovie",
+    "museumStartTime": 1617253200,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0
+  },
+  {
     "movieResourceMstId": 38,
     "movieTitle": "Box Grimoire",
     "resourceName": "GvGBoxGacha",
