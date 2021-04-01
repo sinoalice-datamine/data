@@ -3790,5 +3790,21 @@
     "endTime": 1620399599,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 254,
+    "name": "いらすとやメダル",
+    "description": "ギシンアンキが集めているメダル※2021年4月19日23:59まで",
+    "resourceName": "item20210401_event_april",
+    "assetBundleName": "3197",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2021年4月19日23:59まで",
+    "priority": 43,
+    "itemMstId": 3197,
+    "startTime": 1617202800,
+    "endTime": 1618844399,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]
