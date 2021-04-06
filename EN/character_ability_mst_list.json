@@ -2202,7 +2202,7 @@
   {
     "characterAbilityMstId": 221,
     "characterMstId": 19,
-    "name": "Instrument +10% (Gretel+ stages",
+    "name": "Instrument +10% (Gretel+ stages)",
     "releaseLevel": 5,
     "skillType": 2,
     "effectType": 6,
@@ -2242,7 +2242,7 @@
   {
     "characterAbilityMstId": 225,
     "characterMstId": 19,
-    "name": "Instrument +10% (Gretel+ stages",
+    "name": "Instrument +10% (Gretel+ stages)",
     "releaseLevel": 9,
     "skillType": 2,
     "effectType": 6,
@@ -9440,6 +9440,126 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 1083,
+    "characterMstId": 89,
+    "name": "Staff +30% (Cinderella+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1084,
+    "characterMstId": 89,
+    "name": "Staff +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1085,
+    "characterMstId": 89,
+    "name": "M.DEF +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1086,
+    "characterMstId": 89,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1087,
+    "characterMstId": 89,
+    "name": "Staff +10% (Cinderella+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1088,
+    "characterMstId": 89,
+    "name": "M.ATK +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1089,
+    "characterMstId": 89,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1090,
+    "characterMstId": 89,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1091,
+    "characterMstId": 89,
+    "name": "Staff +10% (Cinderella+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1092,
+    "characterMstId": 89,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1093,
+    "characterMstId": 89,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1094,
+    "characterMstId": 89,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
     "characterAbilityMstId": 1095,
     "characterMstId": 90,
     "name": "Projectile +50% (Cinderella+ stages)",
@@ -13538,6 +13658,26 @@
     "effectType": 4,
     "effectValue": 200,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4595,
+    "characterMstId": 89,
+    "name": "Staff +10% (Cinderella+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4596,
+    "characterMstId": 89,
+    "name": "HP +400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 400,
+    "cardDetailType": 4
   },
   {
     "characterAbilityMstId": 5505,

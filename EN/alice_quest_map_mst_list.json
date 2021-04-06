@@ -561,6 +561,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 77,
+    "mapType": 1,
+    "mapGroup": 46,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Blood-Stained Tome",
+    "description": "Blood-Stained Tome (Normal)",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 78,
+    "mapType": 1,
+    "mapGroup": 46,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "Blood-Stained Tome",
+    "description": "Blood-Stained Tome (Hard)",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 86,
     "mapType": 1,
     "mapGroup": 51,
@@ -657,6 +679,17 @@
     "name": "An End to Summer Dreams (Hard)",
     "description": "Clam Digging Event",
     "announceUrl": "/web/announce/body?announceMstId=1149&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 98,
+    "mapType": 1,
+    "mapGroup": 57,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Baptism of Corrosion",
+    "description": "Conquest: Slade Redux (Hard)",
+    "announceUrl": "",
     "createdTime": 1483974000
   },
   {
