@@ -1577,7 +1577,7 @@
     "KR": "게시글이 없습니다.",
     "DE": "Es gibt kein Thema.",
     "FR": "Aucun fil de discussion existant.",
-    "ES": "No existe hilo.",
+    "ES": "No existe ningún hilo.",
     "TH": "ไม่มีหัวข้อ",
     "VN": "Không tồn tại chuỗi trò chuyện nào."
   },
@@ -21221,6 +21221,48 @@
     "FR": "Impossible de publier. Aucun privilège de maître ou de sous-maître de guilde.",
     "ES": "No puedes publicar un mensaje porque no cuentas con el privilegio del Jefe del gremio ni del Subjefe de gremio.",
     "TH": "ไม่สามารถโพสต์ได้เนื่องจากไม่มีสิทธิ์ของกิลด์มาสเตอร์หรือรองมาสเตอร์",
+    "VN": ""
+  },
+  {
+    "id": 1517,
+    "TLM": 51781,
+    "Type": 0,
+    "GameKey": "Server/common.label.subjugationTotalPoint",
+    "JP": "合計討伐pt",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
+    "VN": ""
+  },
+  {
+    "id": 1518,
+    "TLM": 51782,
+    "Type": 0,
+    "GameKey": "Server/common.label.subjugationPointGetLimit",
+    "JP": "獲得できる討伐pt",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
+    "VN": ""
+  },
+  {
+    "id": 1519,
+    "TLM": 51783,
+    "Type": 0,
+    "GameKey": "Server/common.label.clearCount",
+    "JP": "クリア回数",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
     "VN": ""
   }
 ]

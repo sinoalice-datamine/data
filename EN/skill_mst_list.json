@@ -21556,6 +21556,23 @@
     "autoSkillPercentageType": 0
   },
   {
+    "skillMstId": 2919,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "Incantation of Submission (II)",
+    "description": "Reduces P.DEF and M.DEF of 2 enemies.",
+    "attackEffect": 0,
+    "sp": 25,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 43,
+    "typeLabel": "Multiple Enemies",
+    "primaryIcon": 23,
+    "secondaryIcon": 0,
+    "rangeIcon": 3,
+    "autoSkillPercentageType": 0
+  },
+  {
     "skillMstId": 2921,
     "category": 4,
     "setEffectSeriesId": 0,
@@ -21587,6 +21604,23 @@
     "primaryIcon": 2,
     "secondaryIcon": 7,
     "rangeIcon": 2,
+    "autoSkillPercentageType": 0
+  },
+  {
+    "skillMstId": 2925,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "Incantation of Submission (II)",
+    "description": "Reduces P.DEF and M.DEF of 2 enemies.",
+    "attackEffect": 0,
+    "sp": 25,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 43,
+    "typeLabel": "Multiple Enemies",
+    "primaryIcon": 23,
+    "secondaryIcon": 0,
+    "rangeIcon": 3,
     "autoSkillPercentageType": 0
   },
   {
@@ -23715,6 +23749,23 @@
     "autoSkillPercentageType": 0
   },
   {
+    "skillMstId": 3334,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "Breath of Assault (II)",
+    "description": "Restores HP to 2 allies and\\nslightly increases ally's P.ATK. ",
+    "attackEffect": 0,
+    "sp": 26,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 37,
+    "typeLabel": "Multiple Allies/Self",
+    "primaryIcon": 3,
+    "secondaryIcon": 4,
+    "rangeIcon": 3,
+    "autoSkillPercentageType": 0
+  },
+  {
     "skillMstId": 3335,
     "category": 1,
     "setEffectSeriesId": 0,
@@ -24562,6 +24613,23 @@
     "primaryIcon": 3,
     "secondaryIcon": 31,
     "rangeIcon": 2,
+    "autoSkillPercentageType": 0
+  },
+  {
+    "skillMstId": 3425,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "Breath of Assault (II)",
+    "description": "Restores HP to 2 allies and\\nslightly increases ally's P.ATK. ",
+    "attackEffect": 0,
+    "sp": 26,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 37,
+    "typeLabel": "Multiple Allies/Self",
+    "primaryIcon": 3,
+    "secondaryIcon": 4,
+    "rangeIcon": 3,
     "autoSkillPercentageType": 0
   },
   {
