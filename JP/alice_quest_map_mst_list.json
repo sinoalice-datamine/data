@@ -4906,6 +4906,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 476,
+    "mapType": 1,
+    "mapGroup": 300,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "幻影ノ狭間 Normal",
+    "description": "FFBEコラボ復刻",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 477,
+    "mapType": 1,
+    "mapGroup": 300,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "幻影ノ狭間 Hard",
+    "description": "FFBEコラボ復刻",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 478,
     "mapType": 1,
     "mapGroup": 301,
@@ -4924,6 +4946,28 @@
     "mapCategory": 0,
     "name": "狂奔スル慈愛Hard",
     "description": "防具「狂奔スル慈愛」Hard",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 483,
+    "mapType": 1,
+    "mapGroup": 304,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "最凶ノ兵器",
+    "description": "討伐「最凶ノ兵器」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 484,
+    "mapType": 1,
+    "mapGroup": 304,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "最凶ノ兵器",
+    "description": "討伐「最凶ノ兵器」Hard",
     "announceUrl": "",
     "createdTime": 1483974000
   }

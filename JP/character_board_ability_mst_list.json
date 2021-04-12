@@ -7887,7 +7887,7 @@
     "characterBoardAbilityMstId": 913,
     "characterUniqueId": 42,
     "name": "チケットUP",
-    "description": "レインのジョブを編成時、FFBEエリアで新射的チケット獲得倍率+0.1倍",
+    "description": "レインのジョブを編成時、FFBEエリアでウラ射的チケット獲得倍率+0.1倍",
     "effectType": 15,
     "effectValue": 10,
     "cardDetailType": 0
@@ -7941,7 +7941,7 @@
     "characterBoardAbilityMstId": 919,
     "characterUniqueId": 43,
     "name": "エリアUP",
-    "description": "フィーナ/魔人フィーナのジョブを編成時、FFBEエリアで全武器種5%UP",
+    "description": "フィーナのジョブを編成時、FFBEエリアで全武器種5%UP",
     "effectType": 6,
     "effectValue": 5,
     "cardDetailType": 0
@@ -7950,7 +7950,7 @@
     "characterBoardAbilityMstId": 920,
     "characterUniqueId": 43,
     "name": "SP供給/噺",
-    "description": "SP供給/噺 Lv1UP フィーナ/魔人フィーナのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "description": "SP供給/噺 Lv1UP フィーナのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
     "effectType": 14,
     "effectValue": 1,
     "cardDetailType": 0
@@ -7959,7 +7959,7 @@
     "characterBoardAbilityMstId": 921,
     "characterUniqueId": 43,
     "name": "SP供給/決闘",
-    "description": "SP供給/決闘 Lv1UP フィーナ/魔人フィーナのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "description": "SP供給/決闘 Lv1UP フィーナのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
     "effectType": 13,
     "effectValue": 1,
     "cardDetailType": 0
@@ -7968,7 +7968,7 @@
     "characterBoardAbilityMstId": 922,
     "characterUniqueId": 43,
     "name": "物魔攻撃UP",
-    "description": "フィーナ/魔人フィーナのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "description": "フィーナのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
     "effectType": 11,
     "effectValue": 250,
     "cardDetailType": 0
@@ -7977,7 +7977,7 @@
     "characterBoardAbilityMstId": 923,
     "characterUniqueId": 43,
     "name": "物魔防御UP",
-    "description": "フィーナ/魔人フィーナのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "description": "フィーナのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
     "effectType": 12,
     "effectValue": 250,
     "cardDetailType": 0
@@ -7986,7 +7986,7 @@
     "characterBoardAbilityMstId": 924,
     "characterUniqueId": 43,
     "name": "チケットUP",
-    "description": "フィーナ/魔人フィーナのジョブを編成時、FFBEエリアで新射的チケット獲得倍率+0.2倍",
+    "description": "フィーナのジョブを編成時、FFBEエリアでウラ射的チケット獲得倍率+0.2倍",
     "effectType": 15,
     "effectValue": 20,
     "cardDetailType": 0
@@ -7995,7 +7995,7 @@
     "characterBoardAbilityMstId": 925,
     "characterUniqueId": 43,
     "name": "物攻+300",
-    "description": "フィーナ/魔人フィーナのジョブを編成時、物理攻撃 +300",
+    "description": "フィーナのジョブを編成時、物理攻撃 +300",
     "effectType": 2,
     "effectValue": 300,
     "cardDetailType": 0
@@ -8004,7 +8004,7 @@
     "characterBoardAbilityMstId": 926,
     "characterUniqueId": 43,
     "name": "物防+300",
-    "description": "フィーナ/魔人フィーナのジョブを編成時、物理防御 +300",
+    "description": "フィーナのジョブを編成時、物理防御 +300",
     "effectType": 3,
     "effectValue": 300,
     "cardDetailType": 0
@@ -8013,7 +8013,7 @@
     "characterBoardAbilityMstId": 927,
     "characterUniqueId": 43,
     "name": "魔攻+300",
-    "description": "フィーナ/魔人フィーナのジョブを編成時、魔法攻撃 +300",
+    "description": "フィーナのジョブを編成時、魔法攻撃 +300",
     "effectType": 4,
     "effectValue": 300,
     "cardDetailType": 0
@@ -8022,7 +8022,7 @@
     "characterBoardAbilityMstId": 928,
     "characterUniqueId": 43,
     "name": "魔防+300",
-    "description": "フィーナ/魔人フィーナのジョブを編成時、魔法防御 +300",
+    "description": "フィーナのジョブを編成時、魔法防御 +300",
     "effectType": 5,
     "effectValue": 300,
     "cardDetailType": 0
@@ -8031,7 +8031,7 @@
     "characterBoardAbilityMstId": 929,
     "characterUniqueId": 43,
     "name": "射出 4%UP",
-    "description": "フィーナ/魔人フィーナのジョブを編成時、射出4%UP",
+    "description": "フィーナのジョブを編成時、射出4%UP",
     "effectType": 6,
     "effectValue": 4,
     "cardDetailType": 7
@@ -8040,7 +8040,7 @@
     "characterBoardAbilityMstId": 930,
     "characterUniqueId": 6,
     "name": "チケットUP",
-    "description": "人魚姫のジョブを編成時、FFBEエリアで新射的チケット獲得倍率+0.2倍",
+    "description": "人魚姫のジョブを編成時、FFBEエリアでウラ射的チケット獲得倍率+0.2倍",
     "effectType": 15,
     "effectValue": 20,
     "cardDetailType": 0
@@ -8049,7 +8049,7 @@
     "characterBoardAbilityMstId": 931,
     "characterUniqueId": 20,
     "name": "チケットUP",
-    "description": "三匹の子豚のジョブを編成時、FFBEエリアで新射的チケット獲得倍率+0.2倍",
+    "description": "三匹の子豚のジョブを編成時、FFBEエリアでウラ射的チケット獲得倍率+0.2倍",
     "effectType": 15,
     "effectValue": 20,
     "cardDetailType": 0
@@ -16069,6 +16069,60 @@
     "characterUniqueId": 2,
     "name": "メダルUP",
     "description": "スノウホワイトのジョブを編成時、転スラエリアでメダル獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1835,
+    "characterUniqueId": 43,
+    "name": "チケットUP",
+    "description": "フィーナのジョブを編成時、FFBEエリアでウラ射的チケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1836,
+    "characterUniqueId": 43,
+    "name": "物攻+250",
+    "description": "フィーナのジョブを編成時、物理攻撃 +250",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1837,
+    "characterUniqueId": 43,
+    "name": "物防+250",
+    "description": "フィーナのジョブを編成時、物理防御 +250",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1838,
+    "characterUniqueId": 43,
+    "name": "魔攻+250",
+    "description": "フィーナのジョブを編成時、魔法攻撃 +250",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1839,
+    "characterUniqueId": 43,
+    "name": "魔防+250",
+    "description": "フィーナのジョブを編成時、魔法防御 +250",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1840,
+    "characterUniqueId": 8,
+    "name": "チケットUP",
+    "description": "いばら姫のジョブを編成時、FFBEエリアでウラ射的チケット獲得倍率+0.2倍",
     "effectType": 15,
     "effectValue": 20,
     "cardDetailType": 0
