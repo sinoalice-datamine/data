@@ -1615,6 +1615,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 156,
+    "gachaGroupId": 3,
+    "bannerMstId": 403,
+    "isAlways": false,
+    "name": "Echoing Chants",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅳ)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-Medal of desire (Ⅳ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 620,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=970&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 159,
     "gachaGroupId": 3,
     "bannerMstId": 429,
