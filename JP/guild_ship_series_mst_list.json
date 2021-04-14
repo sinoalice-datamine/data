@@ -286,5 +286,29 @@
     "shipPartsBodyMstId": 126,
     "shipPartsRoofMstId": 125,
     "shipPartsAttachedMstId": 127
+  },
+  {
+    "guildShipSeriesMstId": 38,
+    "name": "海都シリーズ(1部)",
+    "description": "第41回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 134,
+    "shipPartsRoofMstId": 133,
+    "shipPartsAttachedMstId": 135
+  },
+  {
+    "guildShipSeriesMstId": 39,
+    "name": "海都シリーズ(2部)",
+    "description": "第41回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 137,
+    "shipPartsRoofMstId": 136,
+    "shipPartsAttachedMstId": 138
+  },
+  {
+    "guildShipSeriesMstId": 40,
+    "name": "海都シリーズ(3部)",
+    "description": "第41回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 140,
+    "shipPartsRoofMstId": 139,
+    "shipPartsAttachedMstId": 141
   }
 ]

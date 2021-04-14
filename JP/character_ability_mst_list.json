@@ -59320,6 +59320,146 @@
     "cardDetailType": 5
   },
   {
+    "characterAbilityMstId": 6103,
+    "characterMstId": 462,
+    "name": "Hamelnエリアで魔書30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6104,
+    "characterMstId": 462,
+    "name": "魔書10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6105,
+    "characterMstId": 462,
+    "name": "魔法防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6106,
+    "characterMstId": 462,
+    "name": "物理防御+100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6107,
+    "characterMstId": 462,
+    "name": "Hamelnエリアで魔書10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6108,
+    "characterMstId": 462,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6109,
+    "characterMstId": 462,
+    "name": "HP+50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6110,
+    "characterMstId": 462,
+    "name": "物理攻撃+100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6111,
+    "characterMstId": 462,
+    "name": "Hamelnエリアで魔書10%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6112,
+    "characterMstId": 462,
+    "name": "HP+50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6113,
+    "characterMstId": 462,
+    "name": "HP+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6114,
+    "characterMstId": 462,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6115,
+    "characterMstId": 462,
+    "name": "Hamelnエリアで魔書10%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6116,
+    "characterMstId": 462,
+    "name": "HP+400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
     "characterAbilityMstId": 6117,
     "characterMstId": 105,
     "name": "水属性武器使用時、物理ダメージ3%UP",
@@ -59698,5 +59838,25 @@
     "effectType": 5,
     "effectValue": 300,
     "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6243,
+    "characterMstId": 462,
+    "name": "物理攻撃+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6244,
+    "characterMstId": 462,
+    "name": "魔書ジョブ使用時、デバフ効果2%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5034,
+    "cardDetailType": 2
   }
 ]

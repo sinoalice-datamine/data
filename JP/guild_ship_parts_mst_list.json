@@ -1546,5 +1546,113 @@
     "fltParam": 0,
     "pdlmParam": 1,
     "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 133,
+    "name": "海都シリーズ(1部)[船楼]",
+    "description": "第41回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップの船楼パーツ",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1536,
+    "pdlmParam": 24,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 134,
+    "name": "海都シリーズ(1部)[船体]",
+    "description": "第41回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップの船体パーツ",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 32,
+    "pdlmParam": 16,
+    "rttParam": 1
+  },
+  {
+    "guildShipPartsMstId": 135,
+    "name": "海都シリーズ(1部)[灯篭]",
+    "description": "第41回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップの船楼パーツ",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 136,
+    "name": "海都シリーズ(2部)[船楼]",
+    "description": "第41回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップの船楼パーツ",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1536,
+    "pdlmParam": 24,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 137,
+    "name": "海都シリーズ(2部)[船体]",
+    "description": "第41回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップの船体パーツ",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 32,
+    "pdlmParam": 16,
+    "rttParam": 1
+  },
+  {
+    "guildShipPartsMstId": 138,
+    "name": "海都シリーズ(2部)[灯篭]",
+    "description": "第41回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップの船楼パーツ",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 139,
+    "name": "海都シリーズ(3部)[船楼]",
+    "description": "第41回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップの船楼パーツ",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1536,
+    "pdlmParam": 24,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 140,
+    "name": "海都シリーズ(3部)[船体]",
+    "description": "第41回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップの船体パーツ",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 16,
+    "rttParam": 1
+  },
+  {
+    "guildShipPartsMstId": 141,
+    "name": "海都シリーズ(3部)[灯篭]",
+    "description": "第41回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップの船楼パーツ",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1,
+    "pdlmParam": 0,
+    "rttParam": 0
   }
 ]
