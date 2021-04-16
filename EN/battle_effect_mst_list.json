@@ -1652,6 +1652,20 @@
     "createdTime": 1485961226
   },
   {
+    "battleEffectMstId": 221,
+    "positionType": 1,
+    "additionalPositionX": -500,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_ReZero",
+    "cueName": "se_ReZero@002",
+    "createdTime": 1485961226
+  },
+  {
     "battleEffectMstId": 296,
     "positionType": 3,
     "additionalPositionX": 3,

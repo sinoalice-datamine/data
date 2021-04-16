@@ -324,6 +324,18 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 181,
+    "title": "Collab Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1618552800,
+    "endTime": 1619758799,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 304,
     "title": "Event Bonus",
     "cycleType": 2,
@@ -547,6 +559,18 @@
     "pickupSkillType": 1,
     "startTime": 1618293600,
     "endTime": 1618549199,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900019,
+    "title": "Welcome Back Login Bonus",
+    "cycleType": 5,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1618549200,
+    "endTime": 2145884399,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""

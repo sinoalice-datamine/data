@@ -378,6 +378,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 50,
+    "name": "Arcana Medal",
+    "description": "A medal that is an incidental byproduct of purchasing certain twilight crystals",
+    "resourceName": "item1",
+    "assetBundleName": "0045",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by buying twilight crystals with the Arcana Medal.",
+    "priority": 37,
+    "itemMstId": 793,
+    "startTime": 1618552800,
+    "endTime": 1620367199,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 51,
     "name": "Taito Medal",
     "description": "Medal from a collaboration grimoire.",
@@ -445,6 +459,34 @@
     "itemMstId": 1109,
     "startTime": 1616047200,
     "endTime": 1617861599,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 117,
+    "name": "mana medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20210416_medal_rizero",
+    "assetBundleName": "1656",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 1656,
+    "startTime": 1618552800,
+    "endTime": 1620367199,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 118,
+    "name": "Puck medal",
+    "description": "Medal from a collaboration grimoire.",
+    "resourceName": "item20210416_gacha_rezero",
+    "assetBundleName": "1696",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 36,
+    "itemMstId": 1696,
+    "startTime": 1618552800,
+    "endTime": 1620399599,
     "isDeleted": false
   },
   {

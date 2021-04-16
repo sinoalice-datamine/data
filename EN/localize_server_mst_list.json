@@ -12245,7 +12245,7 @@
     "KR": "%s 이후에는 이 이야기에 도전할 수 없습니다. \\\\n열쇠를 사용하시겠습니까?",
     "DE": "Sobald du diese Geschichte geschafft hast %s, kannst du sie nicht mehr länger erleben.\\\\nMöchtest du einen Schlüssel verwenden?",
     "FR": "Si vous passez %s, vous ne pourrez plus participer à cette histoire.\\\\nVoulez-vous utiliser une clé ?",
-    "ES": "Una vez que completes %s, ya no podrás participar de esta historia.\\\\n¿Quieres usar una llave?",
+    "ES": "Una vez que completes,  ya no podrás participar de esta historia.\\\\n¿Quieres usar una llave?",
     "TH": "เมื่อผ่าน%s คุณจะไม่สามารถเล่นเนื้อเรื่องนี้ได้อีก\\\\nคุณต้องการใช้กุญแจหรือไม่?",
     "VN": "\"VN\": null"
   },
@@ -16665,12 +16665,12 @@
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign07.tier29/description",
     "JP": "有償魔晶石354個＋「蠱惑の羽 ユリシス」の獲得",
-    "EN": "Paid Twilight Crystal x354 & Dryas, Yuno, The Dark Loner",
+    "EN": "Paid Twilight Crystal x354 & Ulysses, Wings of Enchantment",
     "KR": "유료 마정석 354개+\"고혹의 날개 율리시스\" 획득",
-    "DE": "Erhalte bezahlte Zwielichtkristalle x354 + Yuno, schwarze Isolation",
-    "FR": "354 cristaux crépusculaires payés + Dryade, cheville de gui",
-    "ES": "Al comprar Cristales del ocaso x354 + obt. «Yuno, la soledad negra»",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 354ชิ้น+รับ\"ยูโนะ ความโดดเดี่ยวที่มืดมน\"",
+    "DE": "Erhalte bezahlte Zwielichtkristalle x354 + Ulysses, Flügel der Verführung",
+    "FR": "354 cristaux crépusculaires payés + Anticlée enchanteresse",
+    "ES": "Al comprar Cristales del ocaso x354 + obt. «Ulises, las alas de la seducción»",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 354ชิ้น+รับ\"ยูลิซีส ปีกแห่งการยั่วยุ\"",
     "VN": ""
   },
   {
@@ -21233,8 +21233,8 @@
     "KR": "",
     "DE": "",
     "FR": "",
-    "ES": "",
-    "TH": "",
+    "ES": "Puntos de conquista",
+    "TH": "pt พิชิตรวม",
     "VN": ""
   },
   {
@@ -21247,8 +21247,8 @@
     "KR": "",
     "DE": "",
     "FR": "",
-    "ES": "",
-    "TH": "",
+    "ES": "Puntos obtenibles",
+    "TH": "pt พิชิตที่สามารถได้รับ",
     "VN": ""
   },
   {
@@ -21261,8 +21261,50 @@
     "KR": "",
     "DE": "",
     "FR": "",
-    "ES": "",
-    "TH": "",
+    "ES": "Veces completadas",
+    "TH": "จำนวนครั้งที่ผ่าน",
+    "VN": ""
+  },
+  {
+    "id": 1520,
+    "TLM": 51791,
+    "Type": 0,
+    "GameKey": "Server/error.19999",
+    "JP": "着せ替えを所持していません",
+    "EN": "You do not have an outfit change.",
+    "KR": "보유한 코스튬이 없습니다.",
+    "DE": "Du besitzt kein Outfit zum wechseln.",
+    "FR": "Aucun habillage disponible",
+    "ES": "No dispones de ropa para cambiarte",
+    "TH": "ไม่มีชุดเปลี่ยน",
+    "VN": ""
+  },
+  {
+    "id": 1521,
+    "TLM": 51792,
+    "Type": 0,
+    "GameKey": "ServerData/config.ColosseumSP.Title2",
+    "JP": "第四回",
+    "EN": "4th",
+    "KR": "제4회",
+    "DE": "4.",
+    "FR": "4e",
+    "ES": "4ª vez",
+    "TH": "ครั้งที่สี่",
+    "VN": ""
+  },
+  {
+    "id": 1522,
+    "TLM": 51793,
+    "Type": 0,
+    "GameKey": "ServerData/config.ColosseumSP.Comment2",
+    "JP": "※コンボ数9999マデ、ダメージがUPシマス。\\n※SPが600に、SP回復量も2バイ\\n※コンボチャンス時に、コンボ数が3加算サレマス",
+    "EN": "Notes:\\n-Damage increases up to 9,999 combos.\\n-When SP is 600, SP recovery amount doubles.\\n-Number of combos are added by three during a combo chance.",
+    "KR": "※콤보 수 9999까지 대미지가 상승합니다.\\n※SP가 600에 SP 회복량도 2배\\n※콤보 찬스 시 콤보 수가 3 가산됩니다.",
+    "DE": "*Bis zu 9999 Kombos wird der Schaden erhöht.\\n*Bei 600 SP verdoppelt sich die SP-Wiederherstellung.\\n*Fügt bei Kombo-Chance der Kombo Anzahl 3 hinzu.",
+    "FR": "*COmBo MaX dE 9999, AuGm. DéGâTs.\\n*SP dE 600, RéCup. SP dOuBlée\\n*lE nOmBrE dE ComBo AuGm. De 3 En CaS de ComBo.",
+    "ES": "*Al hacer un combo 9.999. aumento del daño.\\n*PH 600, recuperación de PH x2\\n*Al tener oportunidad de hacer un combo, la cantidad de combo se multiplica x3.",
+    "TH": "*UPค่าความเสียหายจนถึงคอมโบที่ 9999\\n*เมื่อ SP 600 จำนวนการฟื้นฟู SP เพิ่มเป็น 2 เท่า\\n*ในช่วงโอกาสคอมโบ จำนวนคอมโบจะถูกเพิ่มอีก 3",
     "VN": ""
   }
 ]
