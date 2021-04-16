@@ -15523,6 +15523,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 2014,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 5149,
+    "isAlways": false,
+    "name": "新生　歴戦ノ魔装ガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅳ)\r\n枚数：1回ガチャで10枚、11回ガチャで100枚\r\n有効期限：2021年5月7日23:59",
+    "priority": 14150,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=7644&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 0,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 5001,
     "gachaGroupId": 9,
     "topBannerMstId": 0,
