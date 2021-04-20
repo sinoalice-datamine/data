@@ -15236,5 +15236,43 @@
     "disableMultipleCharacter": true,
     "startTime": null,
     "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 853,
+    "questMapMstId": 485,
+    "name": "怨嗟ノ混沌",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/175",
+    "bgResourceName": "0175",
+    "cueSheetName": "bgm_FFBE",
+    "cueName": "bgm_FFBE@004",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "startTime": null,
+    "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 854,
+    "questMapMstId": 486,
+    "name": "怨嗟ノ混沌",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/175",
+    "bgResourceName": "0175",
+    "cueSheetName": "bgm_FFBE",
+    "cueName": "bgm_FFBE@004",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "startTime": null,
+    "createdTime": 1483974000
   }
 ]

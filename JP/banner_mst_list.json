@@ -106436,6 +106436,28 @@
     "createdTime": 1483974000
   },
   {
+    "bannerMstId": 5124,
+    "type": 1,
+    "startTime": 1618898400,
+    "endTime": 1619535599,
+    "priority": 8200,
+    "transitionSceneName": "QuestMenu",
+    "objectId": 853,
+    "announceMstId": 7620,
+    "osType": 0,
+    "isBeginner": false,
+    "beginnerDays": 0,
+    "isDisplayHome": true,
+    "assetBundleName": "banner20210420_event_ffbe",
+    "resourceName": "5124",
+    "badgeAssetBundleName": "",
+    "badgeResourceName": "",
+    "badgeEndTime": null,
+    "optionType": 0,
+    "isDeleted": false,
+    "createdTime": 1483974000
+  },
+  {
     "bannerMstId": 5125,
     "type": 7,
     "startTime": 1616576400,
