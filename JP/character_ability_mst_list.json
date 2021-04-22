@@ -59840,6 +59840,166 @@
     "cardDetailType": 4
   },
   {
+    "characterAbilityMstId": 6155,
+    "characterMstId": 466,
+    "name": "Pinocchioエリアで刀剣(風)30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6156,
+    "characterMstId": 466,
+    "name": "全武器種(火)25%DOWN",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 6157,
+    "characterMstId": 466,
+    "name": "モノガタリで刀剣(風)25%UP",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6158,
+    "characterMstId": 466,
+    "name": "刀剣(風)15%UP",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6159,
+    "characterMstId": 466,
+    "name": "物理攻撃+100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6160,
+    "characterMstId": 466,
+    "name": "物理防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6161,
+    "characterMstId": 466,
+    "name": "HP+50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6162,
+    "characterMstId": 466,
+    "name": "物理攻撃+100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6163,
+    "characterMstId": 466,
+    "name": "Pinocchioエリアで刀剣(風)10%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6164,
+    "characterMstId": 466,
+    "name": "HP+50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6165,
+    "characterMstId": 466,
+    "name": "物理攻撃+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6166,
+    "characterMstId": 466,
+    "name": "物理攻撃+300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6167,
+    "characterMstId": 466,
+    "name": "Pinocchioエリアで刀剣(風)30%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6168,
+    "characterMstId": 466,
+    "name": "物理防御+700",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 700,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6169,
+    "characterMstId": 466,
+    "name": "風属性武器使用時、物理ダメージ3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6277,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6170,
+    "characterMstId": 466,
+    "name": "物理攻撃+700",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 700,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 6243,
     "characterMstId": 462,
     "name": "物理攻撃+400",
@@ -59858,5 +60018,125 @@
     "effectType": 13,
     "effectValue": 5034,
     "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6361,
+    "characterMstId": 299,
+    "name": "火属性武器使用時、物理ダメージ3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6016,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6362,
+    "characterMstId": 299,
+    "name": "水属性武器使用時、物理ダメージ3%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6195,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6363,
+    "characterMstId": 206,
+    "name": "水属性武器使用時、物理ダメージ3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6195,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6364,
+    "characterMstId": 206,
+    "name": "物理防御+700",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 700,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6377,
+    "characterMstId": 180,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6378,
+    "characterMstId": 180,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6379,
+    "characterMstId": 180,
+    "name": "Ibarahimeエリアで射出(水)30%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6380,
+    "characterMstId": 180,
+    "name": "魔法防御+700",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 700,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6381,
+    "characterMstId": 180,
+    "name": "水属性武器使用時、魔法ダメージ3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6433,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6382,
+    "characterMstId": 180,
+    "name": "風属性武器使用時、魔法ダメージ3%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5756,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6383,
+    "characterMstId": 422,
+    "name": "魔法防御+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 6384,
+    "characterMstId": 422,
+    "name": "魔具ジョブ使用時、魔法ダメージ2%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5036,
+    "cardDetailType": 3
   }
 ]
