@@ -672,6 +672,27 @@
     "vibStartTime": -1.0
   },
   {
+    "movieResourceMstId": 67,
+    "movieTitle": "Act of Hatred New Chapter: Aladdin",
+    "resourceName": "Alice_Aladdin_OP_Movie",
+    "isPreDownLoad": 0,
+    "type": 2,
+    "value": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1619157600,
+    "endTime": 1620367199,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "Bug if No Conditions shows",
+    "thumbAssetBundleName": "museumthumbnail/66",
+    "thumbResourceName": "Alice_Aladdin_OP_Movie",
+    "museumStartTime": 1619157600,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0
+  },
+  {
     "movieResourceMstId": 68,
     "movieTitle": "Space Invaders Collaboration Announcement",
     "resourceName": "spaceinvader02",

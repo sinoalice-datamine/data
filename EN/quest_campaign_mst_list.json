@@ -8,7 +8,7 @@
     "startDate": 1609426800,
     "endDate": 1610550000,
     "everydayStartTime": null,
-    "everydayEndTime": 1609167599,
+    "everydayEndTime": 1619189999,
     "campaignType": 4,
     "campaignValue": 2.0,
     "createdTime": 1483974000
@@ -22,7 +22,7 @@
     "startDate": 1609426800,
     "endDate": 1610550000,
     "everydayStartTime": null,
-    "everydayEndTime": 1609167599,
+    "everydayEndTime": 1619189999,
     "campaignType": 1,
     "campaignValue": 0.5,
     "createdTime": 1483974000
@@ -36,7 +36,7 @@
     "startDate": 1609426800,
     "endDate": 1610550000,
     "everydayStartTime": null,
-    "everydayEndTime": 1609167599,
+    "everydayEndTime": 1619189999,
     "campaignType": 1,
     "campaignValue": 0.5,
     "createdTime": 1483974000
@@ -50,7 +50,7 @@
     "startDate": 1609426800,
     "endDate": 1610550000,
     "everydayStartTime": null,
-    "everydayEndTime": 1609167599,
+    "everydayEndTime": 1619189999,
     "campaignType": 1,
     "campaignValue": 0.5,
     "createdTime": 1483974000
@@ -64,7 +64,7 @@
     "startDate": 1609426800,
     "endDate": 1610550000,
     "everydayStartTime": null,
-    "everydayEndTime": 1609167599,
+    "everydayEndTime": 1619189999,
     "campaignType": 1,
     "campaignValue": 0.5,
     "createdTime": 1483974000
@@ -78,7 +78,7 @@
     "startDate": 1609426800,
     "endDate": 1610550000,
     "everydayStartTime": null,
-    "everydayEndTime": 1609167599,
+    "everydayEndTime": 1619189999,
     "campaignType": 1,
     "campaignValue": 0.5,
     "createdTime": 1483974000
@@ -92,7 +92,7 @@
     "startDate": 1609426800,
     "endDate": 1610550000,
     "everydayStartTime": null,
-    "everydayEndTime": 1609167599,
+    "everydayEndTime": 1619189999,
     "campaignType": 1,
     "campaignValue": 0.5,
     "createdTime": 1483974000
@@ -106,7 +106,35 @@
     "startDate": 1609426800,
     "endDate": 1610550000,
     "everydayStartTime": null,
-    "everydayEndTime": 1609167599,
+    "everydayEndTime": 1619189999,
+    "campaignType": 1,
+    "campaignValue": 0.5,
+    "createdTime": 1483974000
+  },
+  {
+    "questCampaignMstId": 9,
+    "mapType": 0,
+    "questAreaMstId": 0,
+    "questStageMstId": 0,
+    "dayOfWeek": 0,
+    "startDate": 1619103600,
+    "endDate": 1620313200,
+    "everydayStartTime": null,
+    "everydayEndTime": 1619189999,
+    "campaignType": 4,
+    "campaignValue": 2.0,
+    "createdTime": 1483974000
+  },
+  {
+    "questCampaignMstId": 10,
+    "mapType": 0,
+    "questAreaMstId": 0,
+    "questStageMstId": 0,
+    "dayOfWeek": 0,
+    "startDate": 1619103600,
+    "endDate": 1620313200,
+    "everydayStartTime": null,
+    "everydayEndTime": 1619189999,
     "campaignType": 1,
     "campaignValue": 0.5,
     "createdTime": 1483974000
