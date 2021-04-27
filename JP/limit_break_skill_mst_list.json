@@ -502,5 +502,33 @@
     "description": "コロシアム中、常に魔法防御力が超特大アップ(上昇値：+600～+2000)し、物理攻撃力と魔法攻撃力が特大ダウンする。(減少値：-200～-600)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 76
+  },
+  {
+    "limitBreakSkillMstId": 77,
+    "name": "攻刃ノ秘術/噺(肆)",
+    "description": "モノガタリ中、常に物理攻撃力が超特大アップする。(パラメータ上昇値：+600～2500)　※上昇値はスキルLvにより異なる",
+    "skillMstId": 0,
+    "limitBreakSkillAbilityUniqueId": 77
+  },
+  {
+    "limitBreakSkillMstId": 78,
+    "name": "攻魔ノ秘術/噺(肆)",
+    "description": "モノガタリ中、常に魔法攻撃力が超特大アップする。(パラメータ上昇値：+600～2500)　※上昇値はスキルLvにより異なる",
+    "skillMstId": 0,
+    "limitBreakSkillAbilityUniqueId": 78
+  },
+  {
+    "limitBreakSkillMstId": 79,
+    "name": "防刃ノ秘術/噺(肆)",
+    "description": "モノガタリ中、常に物理防御力が超特大アップする。(パラメータ上昇値：+600～2500)　※上昇値はスキルLvにより異なる",
+    "skillMstId": 0,
+    "limitBreakSkillAbilityUniqueId": 79
+  },
+  {
+    "limitBreakSkillMstId": 80,
+    "name": "防魔ノ秘術/噺(肆)",
+    "description": "モノガタリ中、常に魔法防御力が超特大アップする。(パラメータ上昇値：+600～2500)　※上昇値はスキルLvにより異なる",
+    "skillMstId": 0,
+    "limitBreakSkillAbilityUniqueId": 80
   }
 ]

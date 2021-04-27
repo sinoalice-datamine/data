@@ -60138,5 +60138,45 @@
     "effectType": 13,
     "effectValue": 5036,
     "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 6401,
+    "characterMstId": 300,
+    "name": "Kaguyahimeエリアで長柄(水)30%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6402,
+    "characterMstId": 300,
+    "name": "魔法攻撃+700",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 700,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6403,
+    "characterMstId": 19,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6404,
+    "characterMstId": 19,
+    "name": "楽器ジョブ使用時、バフ効果2%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5033,
+    "cardDetailType": 1
   }
 ]
