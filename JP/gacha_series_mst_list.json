@@ -22534,6 +22534,25 @@
     "createdTime": 1467266414
   },
   {
+    "gachaSeriesMstId": 102600,
+    "gachaGroupId": 5,
+    "topBannerMstId": 0,
+    "bannerMstId": 5152,
+    "isAlways": false,
+    "name": "聖ノ祝祭",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅴ)\r\n枚数：STEP1～2で各50枚　STEP3～5で各100枚\r\n有効期限：2021年6月7日23:59",
+    "priority": 14005,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=7648&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266414
+  },
+  {
     "gachaSeriesMstId": 102650,
     "gachaGroupId": 5,
     "topBannerMstId": 0,
