@@ -298,8 +298,8 @@
     "wayToGet": "イベントを行うことで獲得することができます。",
     "priority": 30,
     "itemMstId": 345,
-    "startTime": 1617202800,
-    "endTime": 1618498799,
+    "startTime": 1619794800,
+    "endTime": 1621090799,
     "displayType": 0,
     "isDeleted": false
   },
@@ -3776,6 +3776,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 252,
+    "name": "ランドセルメダル",
+    "description": "ギシンアンキが集めているメダル※2021年5月24日23:59まで",
+    "resourceName": "item20210503_event_loli2",
+    "assetBundleName": "3186",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2021年5月24日23:59まで",
+    "priority": 43,
+    "itemMstId": 3186,
+    "startTime": 1620021600,
+    "endTime": 1621868399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 253,
     "name": "ヨクボウメダル(Ⅳ)",
     "description": "ガチャで獲得できるメダル\r\n※2021年5月7日23:59まで",
@@ -3900,6 +3916,22 @@
     "itemMstId": 3300,
     "startTime": 1619499600,
     "endTime": 1621177199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 262,
+    "name": "童歌の人形メダル",
+    "description": "ギシンアンキが集めているメダル\r\n※2021年5月24日23:59まで",
+    "resourceName": "item20210503_loli2_gacha",
+    "assetBundleName": "3324",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年5月24日23:59まで",
+    "priority": 55,
+    "itemMstId": 3324,
+    "startTime": 1620021600,
+    "endTime": 1621868399,
     "displayType": 0,
     "isDeleted": false
   }
