@@ -7440,6 +7440,46 @@
     "cardDetailType": 5
   },
   {
+    "characterAbilityMstId": 803,
+    "characterMstId": 24,
+    "name": "Staff +10% (Princess Kaguya+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 804,
+    "characterMstId": 24,
+    "name": "Cost +2",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 805,
+    "characterMstId": 25,
+    "name": "Blade +10% (Little Mermaid+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 806,
+    "characterMstId": 25,
+    "name": "Cost +2",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 807,
     "characterMstId": 34,
     "name": "Polearm +10% (Sleeping Beauty+ stages)",
@@ -10700,6 +10740,26 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 1263,
+    "characterMstId": 20,
+    "name": "Tome +10% (Pinocchio+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1264,
+    "characterMstId": 20,
+    "name": "Cost +2",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 2
+  },
+  {
     "characterAbilityMstId": 1265,
     "characterMstId": 22,
     "name": "Staff +10% (Alice+ stages)",
@@ -11098,6 +11158,46 @@
     "effectType": 6,
     "effectValue": 5,
     "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1427,
+    "characterMstId": 48,
+    "name": "HP +2500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1428,
+    "characterMstId": 48,
+    "name": "M.ATK +500",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1429,
+    "characterMstId": 103,
+    "name": "HP +2500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1430,
+    "characterMstId": 103,
+    "name": "P.ATK +500",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 6
   },
   {
     "characterAbilityMstId": 1431,
@@ -11932,6 +12032,126 @@
   {
     "characterAbilityMstId": 1576,
     "characterMstId": 124,
+    "name": "M.ATK +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1577,
+    "characterMstId": 125,
+    "name": "Polearm +30% (Dorothy+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1578,
+    "characterMstId": 125,
+    "name": "Polearm +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1579,
+    "characterMstId": 125,
+    "name": "M.ATK +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1580,
+    "characterMstId": 125,
+    "name": "M.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1581,
+    "characterMstId": 125,
+    "name": "Polearm +10% (Dorothy+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1582,
+    "characterMstId": 125,
+    "name": "M.ATK +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1583,
+    "characterMstId": 125,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1584,
+    "characterMstId": 125,
+    "name": "M.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1585,
+    "characterMstId": 125,
+    "name": "Polearm +10% (Dorothy+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1586,
+    "characterMstId": 125,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1587,
+    "characterMstId": 125,
+    "name": "M.ATK +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1588,
+    "characterMstId": 125,
     "name": "M.ATK +200",
     "releaseLevel": 12,
     "skillType": 1,
@@ -14020,6 +14240,46 @@
     "cardDetailType": 4
   },
   {
+    "characterAbilityMstId": 2169,
+    "characterMstId": 31,
+    "name": "Blade +10% (Red Riding Hood+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2170,
+    "characterMstId": 31,
+    "name": "Cost +2",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2171,
+    "characterMstId": 35,
+    "name": "Heavy +10% (Cinderella+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2172,
+    "characterMstId": 35,
+    "name": "Cost +2",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 2217,
     "characterMstId": 173,
     "name": "Instrument +30% (Alice+ stages)",
@@ -15538,6 +15798,26 @@
     "effectType": 1,
     "effectValue": 400,
     "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4833,
+    "characterMstId": 125,
+    "name": "Polearm +10% (Dorothy+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4834,
+    "characterMstId": 125,
+    "name": "M.ATK +400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
   },
   {
     "characterAbilityMstId": 5505,
