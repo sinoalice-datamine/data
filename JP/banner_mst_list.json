@@ -108986,5 +108986,27 @@
     "optionType": 0,
     "isDeleted": false,
     "createdTime": 1483974000
+  },
+  {
+    "bannerMstId": 5318,
+    "type": 11,
+    "startTime": 1620637200,
+    "endTime": 1620745199,
+    "priority": 6000,
+    "transitionSceneName": "GvgTournamentMainTop",
+    "objectId": 0,
+    "announceMstId": 0,
+    "osType": 0,
+    "isBeginner": false,
+    "beginnerDays": 0,
+    "isDisplayHome": true,
+    "assetBundleName": "wallbanner/20210510_colosseumsin8",
+    "resourceName": "5318",
+    "badgeAssetBundleName": "",
+    "badgeResourceName": "",
+    "badgeEndTime": null,
+    "optionType": 0,
+    "isDeleted": false,
+    "createdTime": 1536764400
   }
 ]
