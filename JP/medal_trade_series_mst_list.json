@@ -3934,5 +3934,37 @@
     "endTime": 1621868399,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 265,
+    "name": "ジョブメダル",
+    "description": "魔晶石購入特典のジョブと交換できるメダル\r\n※2021年6月3日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "217",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ジョブメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2021年6月3日23:59まで",
+    "priority": 37,
+    "itemMstId": 3396,
+    "startTime": 1621058400,
+    "endTime": 1622732399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 266,
+    "name": "アルカナメダル",
+    "description": "アルカナと交換できるメダル\r\n※2021年6月3日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "216",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "アルカナメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2021年6月3日23:59まで",
+    "priority": 37,
+    "itemMstId": 3397,
+    "startTime": 1621058400,
+    "endTime": 1622732399,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]
