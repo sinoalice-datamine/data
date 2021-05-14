@@ -2040,6 +2040,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 476,
+    "gachaGroupId": 3,
+    "bannerMstId": 811,
+    "isAlways": false,
+    "name": "Nighttime Frenzy Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅴ)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\nMedal of desire (Ⅴ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 730,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=1055&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 534,
     "gachaGroupId": 3,
     "bannerMstId": 1230,
