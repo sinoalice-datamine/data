@@ -15350,5 +15350,24 @@
     "disableMultipleCharacter": true,
     "startTime": null,
     "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 910,
+    "questMapMstId": 504,
+    "name": "夢骸ノ冥宮",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/44",
+    "bgResourceName": "0044",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": true,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "startTime": null,
+    "createdTime": 1483974000
   }
 ]

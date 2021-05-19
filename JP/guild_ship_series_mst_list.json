@@ -310,5 +310,29 @@
     "shipPartsBodyMstId": 140,
     "shipPartsRoofMstId": 139,
     "shipPartsAttachedMstId": 141
+  },
+  {
+    "guildShipSeriesMstId": 41,
+    "name": "華燭シリーズ(1部)",
+    "description": "第42回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 143,
+    "shipPartsRoofMstId": 142,
+    "shipPartsAttachedMstId": 144
+  },
+  {
+    "guildShipSeriesMstId": 42,
+    "name": "華燭シリーズ(2部)",
+    "description": "第42回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 146,
+    "shipPartsRoofMstId": 145,
+    "shipPartsAttachedMstId": 147
+  },
+  {
+    "guildShipSeriesMstId": 43,
+    "name": "華燭シリーズ(3部)",
+    "description": "第42回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 149,
+    "shipPartsRoofMstId": 148,
+    "shipPartsAttachedMstId": 150
   }
 ]
