@@ -858,6 +858,17 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 157,
+    "mapType": 1,
+    "mapGroup": 92,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Stone Pillar Personified",
+    "description": "Conquest: Ajatar",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 166,
     "mapType": 1,
     "mapGroup": 100,
@@ -998,6 +1009,28 @@
     "name": "A Faraway Vow (Hard)",
     "description": "リゼロコラボHard",
     "announceUrl": "/web/announce/body?announceMstId=4254&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 401,
+    "mapType": 1,
+    "mapGroup": 247,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Mirrored Rozen Maidens",
+    "description": "ローゼンコラボ",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 402,
+    "mapType": 1,
+    "mapGroup": 247,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "Mirrored Rozen Maidens (Hard)",
+    "description": "ローゼンコラボHard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
     "createdTime": 1483974000
   },
   {

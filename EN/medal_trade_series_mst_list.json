@@ -504,6 +504,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 200,
+    "name": "Rose Medal",
+    "description": "Medal from a collaboration grimoire.",
+    "resourceName": "item20210521_gacha_rozen",
+    "assetBundleName": "2660",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 56,
+    "itemMstId": 2660,
+    "startTime": 1621576800,
+    "endTime": 1623423599,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 222,
     "name": "Magic-seal Mask Medal",
     "description": "Medal collected by Parrah-Noya.",
