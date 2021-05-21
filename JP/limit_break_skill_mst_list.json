@@ -170,336 +170,336 @@
   {
     "limitBreakSkillMstId": 29,
     "name": "攻刃ノ禁術/噺(壱)",
-    "description": "モノガタリ中、常に物理攻撃力がアップ(上昇値：+15～+150)し、物理防御力が小ダウンする。(減少値：-5～-50)　※上昇値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に物理攻撃力がアップする。(上昇値：+15～150)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 29
   },
   {
     "limitBreakSkillMstId": 30,
     "name": "攻魔ノ禁術/噺(壱)",
-    "description": "モノガタリ中、常に魔法攻撃力がアップ(上昇値：+15～+150)し、魔法防御力が小ダウンする。(減少値：-5～-50)　※上昇値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に魔法攻撃力がアップする。(上昇値：+15～150)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 30
   },
   {
     "limitBreakSkillMstId": 31,
     "name": "防刃ノ禁術/噺(壱)",
-    "description": "モノガタリ中、常に物理防御力がアップ(上昇値：+15～+150)し、物理攻撃力が小ダウンする。(減少値：-5～-50)　※上昇値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に物理防御力がアップする。(上昇値：+15～150)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 31
   },
   {
     "limitBreakSkillMstId": 32,
     "name": "防魔ノ禁術/噺(壱)",
-    "description": "モノガタリ中、常に魔法防御力がアップ(上昇値：+15～+150)し、魔法攻撃力が小ダウンする。(減少値：-5～-50)　※上昇値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に魔法防御力がアップする。(上昇値：+15～150)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 32
   },
   {
     "limitBreakSkillMstId": 33,
     "name": "攻刃ノ禁術/噺(弐)",
-    "description": "モノガタリ中、常に物理攻撃力が大アップ(上昇値：+150～+900)し、物理防御力が中ダウンする。(減少値：-50～-300)　※上昇値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に物理攻撃力が大アップする。(上昇値：+150～900)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 33
   },
   {
     "limitBreakSkillMstId": 34,
     "name": "攻魔ノ禁術/噺(弐)",
-    "description": "モノガタリ中、常に魔法攻撃力が大アップ(上昇値：+150～+900)し、魔法防御力が中ダウンする。(減少値：-50～-300)　※上昇値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に魔法攻撃力が大アップする。(上昇値：+150～900)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 34
   },
   {
     "limitBreakSkillMstId": 35,
     "name": "防刃ノ禁術/噺(弐)",
-    "description": "モノガタリ中、常に物理防御力が大アップ(上昇値：+150～+900)し、物理攻撃力が中ダウンする。(減少値：-50～-300)　※上昇値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に物理防御力が大アップする。(上昇値：+150～900)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 35
   },
   {
     "limitBreakSkillMstId": 36,
     "name": "防魔ノ禁術/噺(弐)",
-    "description": "モノガタリ中、常に魔法防御力が大アップ(上昇値：+150～+900)し、魔法攻撃力が中ダウンする。(減少値：-50～-300)　※上昇値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に魔法防御力が大アップする。(上昇値：+150～900)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 36
   },
   {
     "limitBreakSkillMstId": 37,
     "name": "攻刃ノ禁術/噺(参)",
-    "description": "モノガタリ中、常に物理攻撃力が特大アップ(上昇値：+300～+1200)し、物理防御力が大ダウンする。(減少値：-100～-400)　※上昇値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に物理攻撃力が特大アップする。(上昇値：+300～1200)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 37
   },
   {
     "limitBreakSkillMstId": 38,
     "name": "攻魔ノ禁術/噺(参)",
-    "description": "モノガタリ中、常に魔法攻撃力が特大アップ(上昇値：+300～+1200)し、魔法防御力が大ダウンする。(減少値：-100～-400)　※上昇値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に魔法攻撃力が特大アップする。(上昇値：+300～1200)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 38
   },
   {
     "limitBreakSkillMstId": 39,
     "name": "防刃ノ禁術/噺(参)",
-    "description": "モノガタリ中、常に物理防御力が特大アップ(上昇値：+300～+1200)し、物理攻撃力が大ダウンする。(減少値：-100～-400)　※上昇値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に物理防御力が特大アップする。(上昇値：+300～1200)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 39
   },
   {
     "limitBreakSkillMstId": 40,
     "name": "防魔ノ禁術/噺(参)",
-    "description": "モノガタリ中、常に魔法防御力が特大アップ(上昇値：+300～+1200)し、魔法攻撃力が大ダウンする。(減少値：-100～-400)　※上昇値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に魔法防御力が特大アップする。(上昇値：+300～1200)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 40
   },
   {
     "limitBreakSkillMstId": 41,
     "name": "攻刃ノ禁術/決闘(壱)",
-    "description": "コロシアム中、常に物理攻撃力がアップ(上昇値：+15～+150)し、物理防御力が小ダウンする。(減少値：-5～-50)　※上昇値はスキルLvにより異なる",
+    "description": "コロシアム中、常に物理攻撃力がアップする。(上昇値：+15～150)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 41
   },
   {
     "limitBreakSkillMstId": 42,
     "name": "攻魔ノ禁術/決闘(壱)",
-    "description": "コロシアム中、常に魔法攻撃力がアップ(上昇値：+15～+150)し、魔法防御力が小ダウンする。(減少値：-5～-50)　※上昇値はスキルLvにより異なる",
+    "description": "コロシアム中、常に魔法攻撃力がアップする。(上昇値：+15～150)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 42
   },
   {
     "limitBreakSkillMstId": 43,
     "name": "防刃ノ禁術/決闘(壱)",
-    "description": "コロシアム中、常に物理防御力がアップ(上昇値：+15～+150)し、物理攻撃力が小ダウンする。(減少値：-5～-50)　※上昇値はスキルLvにより異なる",
+    "description": "コロシアム中、常に物理防御力がアップする。(上昇値：+15～150)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 43
   },
   {
     "limitBreakSkillMstId": 44,
     "name": "防魔ノ禁術/決闘(壱)",
-    "description": "コロシアム中、常に魔法防御力がアップ(上昇値：+15～+150)し、魔法攻撃力が小ダウンする。(減少値：-5～-50)　※上昇値はスキルLvにより異なる",
+    "description": "コロシアム中、常に魔法防御力がアップする。(上昇値：+15～150)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 44
   },
   {
     "limitBreakSkillMstId": 45,
     "name": "攻刃ノ禁術/決闘(弐)",
-    "description": "コロシアム中、常に物理攻撃力が大アップ(上昇値：+150～+900)し、物理防御力が中ダウンする。(減少値：-50～-300)　※上昇値はスキルLvにより異なる",
+    "description": "コロシアム中、常に物理攻撃力が大アップする。(上昇値：+150～900)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 45
   },
   {
     "limitBreakSkillMstId": 46,
     "name": "攻魔ノ禁術/決闘(弐)",
-    "description": "コロシアム中、常に魔法攻撃力が大アップ(上昇値：+150～+900)し、魔法防御力が中ダウンする。(減少値：-50～-300)　※上昇値はスキルLvにより異なる",
+    "description": "コロシアム中、常に魔法攻撃力が大アップする。(上昇値：+150～900)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 46
   },
   {
     "limitBreakSkillMstId": 47,
     "name": "防刃ノ禁術/決闘(弐)",
-    "description": "コロシアム中、常に物理防御力が大アップ(上昇値：+150～+900)し、物理攻撃力が中ダウンする。(減少値：-50～-300)　※上昇値はスキルLvにより異なる",
+    "description": "コロシアム中、常に物理防御力が大アップする。(上昇値：+150～900)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 47
   },
   {
     "limitBreakSkillMstId": 48,
     "name": "防魔ノ禁術/決闘(弐)",
-    "description": "コロシアム中、常に魔法防御力が大アップ(上昇値：+150～+900)し、魔法攻撃力が中ダウンする。(減少値：-50～-300)　※上昇値はスキルLvにより異なる",
+    "description": "コロシアム中、常に魔法防御力が大アップする。(上昇値：+150～900)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 48
   },
   {
     "limitBreakSkillMstId": 49,
     "name": "攻刃ノ禁術/決闘(参)",
-    "description": "コロシアム中、常に物理攻撃力が特大アップ(上昇値：+300～+1200)し、物理防御力が大ダウンする。(減少値：-100～-400)　※上昇値はスキルLvにより異なる",
+    "description": "コロシアム中、常に物理攻撃力が特大アップする。(上昇値：+300～1200)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 49
   },
   {
     "limitBreakSkillMstId": 50,
     "name": "攻魔ノ禁術/決闘(参)",
-    "description": "コロシアム中、常に魔法攻撃力が特大アップ(上昇値：+300～+1200)し、魔法防御力が大ダウンする。(減少値：-100～-400)　※上昇値はスキルLvにより異なる",
+    "description": "コロシアム中、常に魔法攻撃力が特大アップする。(上昇値：+300～1200)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 50
   },
   {
     "limitBreakSkillMstId": 51,
     "name": "防刃ノ禁術/決闘(参)",
-    "description": "コロシアム中、常に物理防御力が特大アップ(上昇値：+300～+1200)し、物理攻撃力が大ダウンする。(減少値：-100～-400)　※上昇値はスキルLvにより異なる",
+    "description": "コロシアム中、常に物理防御力が特大アップする。(上昇値：+300～1200)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 51
   },
   {
     "limitBreakSkillMstId": 52,
     "name": "防魔ノ禁術/決闘(参)",
-    "description": "コロシアム中、常に魔法防御力が特大アップ(上昇値：+300～+1200)し、魔法攻撃力が大ダウンする。(減少値：-100～-400)　※上昇値はスキルLvにより異なる",
+    "description": "コロシアム中、常に魔法防御力が特大アップする。(上昇値：+300～1200)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 52
   },
   {
     "limitBreakSkillMstId": 53,
     "name": "攻刃ノ鬼術/噺(壱)",
-    "description": "モノガタリ中、常に物理攻撃力がアップ(上昇値：+30～+300)し、物理防御力と魔法防御力が小ダウンする。(減少値：-10～-100)　※値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に物理攻撃力がアップする。(上昇値：+30～300)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 53
   },
   {
     "limitBreakSkillMstId": 54,
     "name": "攻魔ノ鬼術/噺(壱)",
-    "description": "モノガタリ中、常に魔法攻撃力がアップ(上昇値：+30～+300)し、物理防御力と魔法防御力が小ダウンする。(減少値：-10～-100)　※値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に魔法攻撃力がアップする。(上昇値：+30～300)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 54
   },
   {
     "limitBreakSkillMstId": 55,
     "name": "防刃ノ鬼術/噺(壱)",
-    "description": "モノガタリ中、常に物理防御力がアップ(上昇値：+30～+300)し、物理攻撃力と魔法攻撃力が小ダウンする。(減少値：-10～-100)　※値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に物理防御力がアップする。(上昇値：+30～300)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 55
   },
   {
     "limitBreakSkillMstId": 56,
     "name": "防魔ノ鬼術/噺(壱)",
-    "description": "モノガタリ中、常に魔法防御力がアップ(上昇値：+30～+300)し、物理攻撃力と魔法攻撃力が小ダウンする。(減少値：-10～-100)　※値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に魔法防御力がアップする。(上昇値：+30～300)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 56
   },
   {
     "limitBreakSkillMstId": 57,
     "name": "攻刃ノ鬼術/噺(弐)",
-    "description": "モノガタリ中、常に物理攻撃力が特大アップ(上昇値：+300～+1600)し、物理防御力と魔法防御力が大ダウンする。(減少値：-100～-500)　※値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に物理攻撃力が特大アップする。(上昇値：+300～1600)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 57
   },
   {
     "limitBreakSkillMstId": 58,
     "name": "攻魔ノ鬼術/噺(弐)",
-    "description": "モノガタリ中、常に魔法攻撃力が特大アップ(上昇値：+300～+1600)し、物理防御力と魔法防御力が大ダウンする。(減少値：-100～-500)　※値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に魔法攻撃力が特大アップする。(上昇値：+300～1600)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 58
   },
   {
     "limitBreakSkillMstId": 59,
     "name": "防刃ノ鬼術/噺(弐)",
-    "description": "モノガタリ中、常に物理防御力が特大アップ(上昇値：+300～+1600)し、物理攻撃力と魔法攻撃力が大ダウンする。(減少値：-100～-500)　※値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に物理防御力が特大アップする。(上昇値：+300～1600)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 59
   },
   {
     "limitBreakSkillMstId": 60,
     "name": "防魔ノ鬼術/噺(弐)",
-    "description": "モノガタリ中、常に魔法防御力が特大アップ(上昇値：+300～+1600)し、物理攻撃力と魔法攻撃力が大ダウンする。(減少値：-100～-500)　※値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に魔法防御力が特大アップする。(上昇値：+300～1600)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 60
   },
   {
     "limitBreakSkillMstId": 61,
     "name": "攻刃ノ鬼術/噺(参)",
-    "description": "モノガタリ中、常に物理攻撃力が超特大アップ(上昇値：+600～+2000)し、物理防御力と魔法防御力が特大ダウンする。(減少値：-200～-600)　※値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に物理攻撃力が超特大アップする。(上昇値：+600～2000)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 61
   },
   {
     "limitBreakSkillMstId": 62,
     "name": "攻魔ノ鬼術/噺(参)",
-    "description": "モノガタリ中、常に魔法攻撃力が超特大アップ(上昇値：+600～+2000)し、物理防御力と魔法防御力が特大ダウンする。(減少値：-200～-600)　※値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に魔法攻撃力が超特大アップする。(上昇値：+600～2000)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 62
   },
   {
     "limitBreakSkillMstId": 63,
     "name": "防刃ノ鬼術/噺(参)",
-    "description": "モノガタリ中、常に物理防御力が超特大アップ(上昇値：+600～+2000)し、物理攻撃力と魔法攻撃力が特大ダウンする。(減少値：-200～-600)　※値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に物理防御力が超特大アップする。(上昇値：+600～2000)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 63
   },
   {
     "limitBreakSkillMstId": 64,
     "name": "防魔ノ鬼術/噺(参)",
-    "description": "モノガタリ中、常に魔法防御力が超特大アップ(上昇値：+600～+2000)し、物理攻撃力と魔法攻撃力が特大ダウンする。(減少値：-200～-600)　※値はスキルLvにより異なる",
+    "description": "モノガタリ中、常に魔法防御力が超特大アップする。(上昇値：+600～2000)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 64
   },
   {
     "limitBreakSkillMstId": 65,
     "name": "攻刃ノ鬼術/決闘(壱)",
-    "description": "コロシアム中、常に物理攻撃力がアップ(上昇値：+30～+300)し、物理防御力と魔法防御力が小ダウンする。(減少値：-10～-100)　※値はスキルLvにより異なる",
+    "description": "コロシアム中、常に物理攻撃力がアップする。(上昇値：+30～300)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 65
   },
   {
     "limitBreakSkillMstId": 66,
     "name": "攻魔ノ鬼術/決闘(壱)",
-    "description": "コロシアム中、常に魔法攻撃力がアップ(上昇値：+30～+300)し、物理防御力と魔法防御力が小ダウンする。(減少値：-10～-100)　※値はスキルLvにより異なる",
+    "description": "コロシアム中、常に魔法攻撃力がアップする。(上昇値：+30～300)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 66
   },
   {
     "limitBreakSkillMstId": 67,
     "name": "防刃ノ鬼術/決闘(壱)",
-    "description": "コロシアム中、常に物理防御力がアップ(上昇値：+30～+300)し、物理攻撃力と魔法攻撃力が小ダウンする。(減少値：-10～-100)　※値はスキルLvにより異なる",
+    "description": "コロシアム中、常に物理防御力がアップする。(上昇値：+30～300)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 67
   },
   {
     "limitBreakSkillMstId": 68,
     "name": "防魔ノ鬼術/決闘(壱)",
-    "description": "コロシアム中、常に魔法防御力がアップ(上昇値：+30～+300)し、物理攻撃力と魔法攻撃力が小ダウンする。(減少値：-10～-100)　※値はスキルLvにより異なる",
+    "description": "コロシアム中、常に魔法防御力がアップする。(上昇値：+30～300)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 68
   },
   {
     "limitBreakSkillMstId": 69,
     "name": "攻刃ノ鬼術/決闘(弐)",
-    "description": "コロシアム中、常に物理攻撃力が特大アップ(上昇値：+300～+1600)し、物理防御力と魔法防御力が大ダウンする。(減少値：-100～-500)　※値はスキルLvにより異なる",
+    "description": "コロシアム中、常に物理攻撃力が特大アップする。(上昇値：+300～1600)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 69
   },
   {
     "limitBreakSkillMstId": 70,
     "name": "攻魔ノ鬼術/決闘(弐)",
-    "description": "コロシアム中、常に魔法攻撃力が特大アップ(上昇値：+300～+1600)し、物理防御力と魔法防御力が大ダウンする。(減少値：-100～-500)　※値はスキルLvにより異なる",
+    "description": "コロシアム中、常に魔法攻撃力が特大アップする。(上昇値：+300～1600)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 70
   },
   {
     "limitBreakSkillMstId": 71,
     "name": "防刃ノ鬼術/決闘(弐)",
-    "description": "コロシアム中、常に物理防御力が特大アップ(上昇値：+300～+1600)し、物理攻撃力と魔法攻撃力が大ダウンする。(減少値：-100～-500)　※値はスキルLvにより異なる",
+    "description": "コロシアム中、常に物理防御力が特大アップする。(上昇値：+300～1600)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 71
   },
   {
     "limitBreakSkillMstId": 72,
     "name": "防魔ノ鬼術/決闘(弐)",
-    "description": "コロシアム中、常に魔法防御力が特大アップ(上昇値：+300～+1600)し、物理攻撃力と魔法攻撃力が大ダウンする。(減少値：-100～-500)　※値はスキルLvにより異なる",
+    "description": "コロシアム中、常に魔法防御力が特大アップする。(上昇値：+300～1600)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 72
   },
   {
     "limitBreakSkillMstId": 73,
     "name": "攻刃ノ鬼術/決闘(参)",
-    "description": "コロシアム中、常に物理攻撃力が超特大アップ(上昇値：+600～+2000)し、物理防御力と魔法防御力が特大ダウンする。(減少値：-200～-600)　※値はスキルLvにより異なる",
+    "description": "コロシアム中、常に物理攻撃力が超特大アップする。(上昇値：+600～2000)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 73
   },
   {
     "limitBreakSkillMstId": 74,
     "name": "攻魔ノ鬼術/決闘(参)",
-    "description": "コロシアム中、常に魔法攻撃力が超特大アップ(上昇値：+600～+2000)し、物理防御力と魔法防御力が特大ダウンする。(減少値：-200～-600)　※値はスキルLvにより異なる",
+    "description": "コロシアム中、常に魔法攻撃力が超特大アップする。(上昇値：+600～2000)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 74
   },
   {
     "limitBreakSkillMstId": 75,
     "name": "防刃ノ鬼術/決闘(参)",
-    "description": "コロシアム中、常に物理防御力が超特大アップ(上昇値：+600～+2000)し、物理攻撃力と魔法攻撃力が特大ダウンする。(減少値：-200～-600)　※値はスキルLvにより異なる",
+    "description": "コロシアム中、常に物理防御力が超特大アップする。(上昇値：+600～2000)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 75
   },
   {
     "limitBreakSkillMstId": 76,
     "name": "防魔ノ鬼術/決闘(参)",
-    "description": "コロシアム中、常に魔法防御力が超特大アップ(上昇値：+600～+2000)し、物理攻撃力と魔法攻撃力が特大ダウンする。(減少値：-200～-600)　※値はスキルLvにより異なる",
+    "description": "コロシアム中、常に魔法防御力が超特大アップする。(上昇値：+600～2000)　※値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 76
   },
