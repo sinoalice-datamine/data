@@ -9222,7 +9222,7 @@
     "DE": "%s%s/%s Belohnung",
     "FR": "%s%s/%s Récompense",
     "ES": "Recompensa: %s%s/%s",
-    "TH": "รางวัล%s%s/%s",
+    "TH": "รางวัล%s%s%s",
     "VN": "{0} {1}/{2} phần thưởng"
   },
   {
@@ -16626,7 +16626,7 @@
     "EN": "T.Crys. x208 & Weapon",
     "KR": "마정석 208개+무기",
     "DE": "Zwielichtkristalle x208+Waffe",
-    "FR": "208 cr. crépusculaires＋arme",
+    "FR": "208 cr. crépusculaires + arme",
     "ES": "Crist. del ocaso x208 + Arma",
     "TH": "คริสตัลสนธยา 208ชิ้น+อาวุธ",
     "VN": ""
@@ -16654,7 +16654,7 @@
     "EN": "T.Crys. x354 & Nightmare",
     "KR": "마정석 354개+나이트메어",
     "DE": "Zwielichtkr. x354 + Albtraum",
-    "FR": "354 cris. crépus. ＋ Cauchemar",
+    "FR": "354 cris. crépus. + Cauchemar",
     "ES": "Crist. ocaso x354 + Pesadilla",
     "TH": "คริสตัลสนธยา 354ชิ้น+ไนท์แมร์",
     "VN": ""
@@ -16664,13 +16664,13 @@
     "TLM": 51092,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign07.tier29/description",
-    "JP": "有償魔晶石354個＋「蠱惑の羽 ユリシス」の獲得",
+    "JP": "有償魔晶石354個＋「群集のトト」の獲得",
     "EN": "Paid Twilight Crystal x354 & Ulysses, Wings of Enchantment",
-    "KR": "유료 마정석 354개+\"고혹의 날개 율리시스\" 획득",
+    "KR": "유료 마정석 354개+\"무리 지은 토토\" 획득",
     "DE": "Erhalte bezahlte Zwielichtkristalle x354 + Ulysses, Flügel der Verführung",
-    "FR": "354 cristaux crépusculaires payés + Anticlée enchanteresse",
+    "FR": "354 cristaux crépusculaires payés + Rassemblement de Toto",
     "ES": "Al comprar Cristales del ocaso x354 + obt. «Ulises, las alas de la seducción»",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 354ชิ้น+รับ\"ยูลิซีส ปีกแห่งการยั่วยุ\"",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 354ชิ้น+รับ \"โตโต้ในฝูง\"",
     "VN": ""
   },
   {
@@ -19282,13 +19282,13 @@
     "TLM": 51509,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign05.tier25a/description",
-    "JP": "有償魔晶石306個＋「依存のリース」、初回のみ「ピノキオ/X-mas」",
+    "JP": "有償魔晶石306個＋「探究の大剣」、初回のみ「ドロシー/ブレイカー」",
     "EN": "Paid Twilight Crystal x306 & Wreath of Dependence (First-time Only: Pinocchio/X-mas)",
-    "KR": "유료 마정석 306개+\"의존의 리스\", 첫 회 한정 \"피노키오/X-mas\"",
+    "KR": "유료 마정석 306개+\"탐구의 대검\", 첫 회 한정 \"도로시/브레이커\"",
     "DE": "306 bezahlte Zwielichtkristalle + „Kranz der Abhängigkeit“ + Beim 1. Mal: Pinocchio/Weihnachten",
     "FR": "306 cristaux crépusculaires payés + Couronne de la dépendance avec 1re fois seulement Pinocchio/Noël",
     "ES": "Al comprar Cristales del ocaso x306 + «Corona de flores de la dependencia» + 1º vez «Pinocho/Navidad»",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+\"พวงดอกไม้แห่งการพึ่งพา\", ครั้งแรกเท่านั้นรับ \"พินอคคิโอ/คริสต์มาส\"",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+\"ดาบใหญ่แห่งการไต่สวน\", ครั้งแรกเท่านั้นรับ \"โดโรธี/เบรคเกอร์\"",
     "VN": ""
   },
   {
@@ -19310,13 +19310,13 @@
     "TLM": 51511,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign05.tier25b/description",
-    "JP": "有償魔晶石306個＋「依存のリース」の獲得",
+    "JP": "有償魔晶石306個＋「探究の大剣」の獲得",
     "EN": "Paid Twilight Crystal x306 & Wreath of Dependence",
-    "KR": "유료 마정석 306개+\"의존의 리스\" 획득",
+    "KR": "유료 마정석 306개+\"탐구의 대검\" 획득",
     "DE": "Erhalte 306 bezahlte Zwielichtkristalle + „Kranz der Abhängigkeit“",
     "FR": "306 cristaux crépusculaires payés. + Couronne de la dépendance",
     "ES": "Al comprar Cristales del ocaso x306 + Obt. «Corona de flores de la dependencia»",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+ได้รับ \"พวงดอกไม้แห่งการพึ่งพา\"",
+    "TH": "คริสตัลสนธยาจ่ายเงิน 306ชิ้น+ได้รับ \"ดาบใหญ่แห่งการไต่สวน\"",
     "VN": ""
   },
   {
@@ -21497,9 +21497,9 @@
     "JP": "※ナイトメアの準備時間ガ５秒二。ナイトメア召喚マツリ\\n※10分経過でナイトメアが再召喚可能\\n※メンバー全員の総合値ヲ超強化&固定化でトンデモダメージ",
     "EN": "*5 sec. nightmare wait time. Nightmare Summoning Bash\\n*10 secs. for nightmare re-summons\\n*Boosted points & damage",
     "KR": "※나이트메어의 준비 시간이 5초가 됩니다. 나이트메어 소환 축제.\\n※10분 경과 시 나이트메어 재소환 가능\\n※모든 길드원의 전투력을 초강화&고정화하여 강력한 대미지로",
-    "DE": "*Die Vorbereitungszeit vom Albtraum beträgt 5 Sekunden. Ein wahres Dämonen Festival.\\nNach 10 Minuten, kannst du den Albtraum erneut Beschwören.\\n*Eine Superverstärkung und Festlegung des Gesamtwerts beschwören Mitglieder verursacht enormen Schaden.",
-    "FR": "Temps de préparation pour l'activation de Cauchemar est de 5 secondes. Festival d'invocations de Cauchemars.\\n*Le cauchemar peut être invoqué à nouveau après 10 minutes.\\n*Dégâts énormes avec amélio. des pts totaux.",
-    "ES": "*Tendrás 5 segundos para preparar a las Pesadillas. Es un festival de invocación de Pesadillas.\\n*El valor total de todos los miembros está altamente reforzado y preparado para causar un daño tremendo",
+    "DE": "*Die Vorbereitungszeit vom Albtraum beträgt 5 Sekunden. Ein wahres Dämonen Festival.\\nNach 10 Minuten kannst du den Albtraum erneut Beschwören.\\n*Gesamtwert und Schaden von allen Mitgliedern sind erhöht.",
+    "FR": "*Temps de préparation pour l'activation de Cauchemar est de 5 secondes. Festival d'invocations de Cauchemars.\\n*Le cauchemar peut être invoqué à nouveau après 10 minutes.\\n*Dégâts énormes avec amélioration des pts totaux.",
+    "ES": "*Tendrás 5 segundos para preparar a las Pesadillas. Es un festival de invocación de Pesadillas.\\nLas Pesadillas podrán volver a ser invocadas de nuevo pasados 10 minutos.\\n*El valor total de todos los miembros está altamente reforzado y preparado para causar un daño tremendo",
     "TH": "*เทศกาลเรียกไนท์แมร์ เวลาการเตรียมไนท์แมร์เหลือ 5 วินาที\\n*สามารถเรียกไนท์แมร์ได้อีกครั้งเมื่อผ่านไป 10 นาที\\n*อัพเกรด & คงที่ค่ารวมสมาชิกทุกคน ทำให้ DMG สุดยอด",
     "VN": ""
   },
@@ -21523,12 +21523,12 @@
     "Type": 0,
     "GameKey": "Server/quest.questAreaWindowText.44.2",
     "JP": "笛吹き男は笛を吹く。\\n醜いものは目に入れず、\\nその醜さを踏み潰し、\\n美しいもののために笛を吹く。",
-    "EN": "",
-    "KR": "피리 부는 사나이는 피리를 불었다.\\n추악한 것은 눈에 담지 않았으며,\\n그 추악함을 짓밟으며,\\n아름다운 것을 위해 피리를 불었다.",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "EN": "The piper plays his pipe.\\nTrampling over the unsightly before it reaches his sight.\\nFor his song is only for the beautiful.",
+    "KR": "피리 부는 사나이가 피리를 분다.\\n추악한 것은 눈에 담지 않고\\n그 추악함을 짓밟으며,\\n아름다운 것을 위해 피리를 분다.",
+    "DE": "Der Rattenfänger, tat sein bestes, um seine Schönheit aufrechtzuerhalten. Er zerstört die Hässlichkeit ohne ihr auch nur einen Blick zu zuwerfen.\\nFür die schönen Sachen, spielt er auf seiner Flöte.",
+    "FR": "L'homme à la flûte joue de son instrument.\\nLa laideur ne se reflette pas dans ses yeux.\\nIl piétinne ce qui est laid,\\net joue de sa flûte pour célébrer la beauté.",
+    "ES": "Para proteger su hermosura,\\nel flautista haría lo que fuese.\\nPara que la fealdad no entrara en sus ojos,\\nni siquiera respirar el mismo aire.",
+    "TH": "ชายเป่าปี่เป่าปี่ของเขา\\nไม่ยอมมองสิ่งที่ไม่สวยงาม\\nบดขยี้ความไม่สวยงามนั้นทิ้ง\\nเป่าปี่บรรเลงเพื่อสิ่งที่งดงามเพียงเท่านั้น",
     "VN": ""
   }
 ]

@@ -558,5 +558,19 @@
     "startTime": 1613624400,
     "endTime": 1615474799,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900004,
+    "name": "9 Million Medal",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item20210525_gacha_step_900memory",
+    "assetBundleName": "900202",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 32,
+    "itemMstId": 900202,
+    "startTime": 1621922400,
+    "endTime": 1623077999,
+    "isDeleted": false
   }
 ]
