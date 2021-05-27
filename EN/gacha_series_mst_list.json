@@ -2091,6 +2091,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 664,
+    "gachaGroupId": 3,
+    "bannerMstId": 1540,
+    "isAlways": false,
+    "name": "The Greatest General Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅴ)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\nMedal of desire (Ⅴ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 800,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=1126&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 825,
     "gachaGroupId": 4,
     "bannerMstId": 2483,
