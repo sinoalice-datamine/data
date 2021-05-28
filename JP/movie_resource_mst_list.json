@@ -5978,5 +5978,28 @@
     "museumEndTime": 1622905199,
     "vibStartTime": -1.0,
     "skipButtonType": 0
+  },
+  {
+    "movieResourceMstId": 288,
+    "movieTitle": "通算ログインボーナスARIGATO1460日版",
+    "resourceName": "LoginBonus1460",
+    "isPreDownLoad": 0,
+    "type": 11,
+    "value": 0,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1622178000,
+    "endTime": 1922594400,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "条件なし　表示されていたらバグ",
+    "thumbAssetBundleName": "museumthumbnail/288",
+    "thumbResourceName": "LoginBonus1460",
+    "museumStartTime": 1622178000,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0,
+    "skipButtonType": 0
   }
 ]
