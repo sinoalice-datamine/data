@@ -168,13 +168,13 @@
     "campaign_mode": "5",
     "priority": "9",
     "consumable": "0",
-    "limited_count": "1",
+    "limited_count": "2",
     "product_type": "0",
     "price": "120",
     "default_product_id": "jp.co.pokelabo.sinoalice.crystal120a",
     "default_price": "120",
-    "start_datetime": "2021-05-19T15:00:00+0900",
-    "end_datetime": "2021-05-25T14:59:59+0900"
+    "start_datetime": "2021-05-30T15:00:00+0900",
+    "end_datetime": "2021-06-05T23:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign01.crystal3000a",
@@ -190,13 +190,13 @@
     "campaign_mode": "5",
     "priority": "12",
     "consumable": "0",
-    "limited_count": "1",
+    "limited_count": "2",
     "product_type": "0",
     "price": "3060",
     "default_product_id": "jp.co.pokelabo.sinoalice.crystal3000a",
     "default_price": "3060",
-    "start_datetime": "2021-05-19T15:00:00+0900",
-    "end_datetime": "2021-05-25T14:59:59+0900"
+    "start_datetime": "2021-05-30T15:00:00+0900",
+    "end_datetime": "2021-06-05T23:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign01.crystal360a",
@@ -212,13 +212,13 @@
     "campaign_mode": "5",
     "priority": "10",
     "consumable": "0",
-    "limited_count": "1",
+    "limited_count": "2",
     "product_type": "0",
     "price": "370",
     "default_product_id": "jp.co.pokelabo.sinoalice.crystal360a",
     "default_price": "370",
-    "start_datetime": "2021-05-19T15:00:00+0900",
-    "end_datetime": "2021-05-25T14:59:59+0900"
+    "start_datetime": "2021-05-30T15:00:00+0900",
+    "end_datetime": "2021-06-05T23:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign01.crystal5000a",
@@ -234,13 +234,13 @@
     "campaign_mode": "5",
     "priority": "13",
     "consumable": "0",
-    "limited_count": "1",
+    "limited_count": "2",
     "product_type": "0",
     "price": "5020",
     "default_product_id": "jp.co.pokelabo.sinoalice.crystal5000a",
     "default_price": "5020",
-    "start_datetime": "2021-05-19T15:00:00+0900",
-    "end_datetime": "2021-05-25T14:59:59+0900"
+    "start_datetime": "2021-05-30T15:00:00+0900",
+    "end_datetime": "2021-06-05T23:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign01.crystal600a",
@@ -256,13 +256,13 @@
     "campaign_mode": "5",
     "priority": "11",
     "consumable": "0",
-    "limited_count": "1",
+    "limited_count": "2",
     "product_type": "0",
     "price": "610",
     "default_product_id": "jp.co.pokelabo.sinoalice.crystal600a",
     "default_price": "610",
-    "start_datetime": "2021-05-19T15:00:00+0900",
-    "end_datetime": "2021-05-25T14:59:59+0900"
+    "start_datetime": "2021-05-30T15:00:00+0900",
+    "end_datetime": "2021-06-05T23:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign01.crystal7400a",
@@ -278,13 +278,13 @@
     "campaign_mode": "5",
     "priority": "14",
     "consumable": "0",
-    "limited_count": "1",
+    "limited_count": "2",
     "product_type": "0",
     "price": "7500",
     "default_product_id": "jp.co.pokelabo.sinoalice.crystal7400a",
     "default_price": "7500",
-    "start_datetime": "2021-05-19T15:00:00+0900",
-    "end_datetime": "2021-05-25T14:59:59+0900"
+    "start_datetime": "2021-05-30T15:00:00+0900",
+    "end_datetime": "2021-06-05T23:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign01.crystal9800a",
@@ -300,13 +300,13 @@
     "campaign_mode": "5",
     "priority": "15",
     "consumable": "0",
-    "limited_count": "1",
+    "limited_count": "2",
     "product_type": "0",
     "price": "10000",
     "default_product_id": "jp.co.pokelabo.sinoalice.crystal9800a",
     "default_price": "10000",
-    "start_datetime": "2021-05-19T15:00:00+0900",
-    "end_datetime": "2021-05-25T14:59:59+0900"
+    "start_datetime": "2021-05-30T15:00:00+0900",
+    "end_datetime": "2021-06-05T23:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign03.crystal5000a",
@@ -475,7 +475,25 @@
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign13.crystal5020a",
-    "description": "有償魔晶石502個＋おまけで「ナイトメアメダル」1枚獲得",
+    "name": "魔晶石502個＋ナイトメアメダル",
+    "description": "有償魔晶石502個＋おまけでナイトメアメダル1枚",
+    "thumbnail_url": "",
+    "charge_gem": "502",
+    "free_gem": "0",
+    "increase_gem": "0",
+    "bonus_gem": "0",
+    "total_gem": "502",
+    "campaign_type": "2",
+    "campaign_mode": "6",
+    "priority": "0",
+    "consumable": "0",
+    "limited_count": "5",
+    "product_type": "0",
+    "price": "5020",
+    "default_product_id": "jp.co.pokelabo.sinoalice.campaign13.crystal5020a",
+    "default_price": "5020",
+    "start_datetime": "2021-05-30T15:00:00+0900",
+    "end_datetime": "2021-06-05T23:59:59+0900",
     "iconResourceName": "shop_icon/20200121_nightmaremedal:20200121_nightmaremedal_01.png"
   },
   {
