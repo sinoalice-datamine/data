@@ -105,6 +105,27 @@
     "vibStartTime": -1.0
   },
   {
+    "movieResourceMstId": 9,
+    "movieTitle": "Fishing Star Event OP",
+    "resourceName": "TurisutaMovie1",
+    "isPreDownLoad": 0,
+    "type": 1,
+    "value": 210,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1622786400,
+    "endTime": 1623995999,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "Bug if No Conditions shows",
+    "thumbAssetBundleName": "museumthumbnail/9",
+    "thumbResourceName": "TurisutaMovie1",
+    "museumStartTime": 1622786400,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0
+  },
+  {
     "movieResourceMstId": 11,
     "movieTitle": "3rd Gran Colosseum Opening",
     "resourceName": "GvGEventMovie",

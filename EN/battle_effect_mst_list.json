@@ -1246,6 +1246,34 @@
     "createdTime": 1485961226
   },
   {
+    "battleEffectMstId": 112,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_quest",
+    "cueName": "se_quest@078",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 113,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_quest",
+    "cueName": "se_quest@079",
+    "createdTime": 1485961226
+  },
+  {
     "battleEffectMstId": 133,
     "positionType": 1,
     "additionalPositionX": -100,

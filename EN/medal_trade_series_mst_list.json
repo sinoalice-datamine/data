@@ -224,6 +224,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 22,
+    "name": "Fishing Star Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20210604_medal_tsurisuta",
+    "assetBundleName": "0357",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 31,
+    "itemMstId": 357,
+    "startTime": 1622786400,
+    "endTime": 1624600799,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 24,
     "name": "Holiday Medal",
     "description": "A medal that is an incidental byproduct of a Grimoire.",
