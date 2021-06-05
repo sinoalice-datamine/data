@@ -3984,6 +3984,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 267,
+    "name": "キューブメダル",
+    "description": "ギシンアンキが集めているメダル※2021年6月29日23:59まで",
+    "resourceName": "item20210606_event_goushi4",
+    "assetBundleName": "3251",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2021年6月29日23:59まで",
+    "priority": 43,
+    "itemMstId": 3251,
+    "startTime": 1622905200,
+    "endTime": 1624978799,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 268,
     "name": "ナイトメアメダル",
     "description": "魔晶石購入特典のナイトメアと交換できるメダル\r\n※2021年6月12日23:59まで",
@@ -3996,6 +4012,38 @@
     "itemMstId": 3408,
     "startTime": 1622354400,
     "endTime": 1623509999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 271,
+    "name": "ヨクボウメダル(4th)",
+    "description": "ギシンアンキが集めているメダル\r\n※2021年6月29日23:59まで",
+    "resourceName": "item20210606_funeralgacha",
+    "assetBundleName": "3419",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年6月29日23:59まで",
+    "priority": 55,
+    "itemMstId": 3419,
+    "startTime": 1622905200,
+    "endTime": 1624978799,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 273,
+    "name": "4周年記念メダル",
+    "description": "ギシンアンキが集めているメダル\r\n※2021年6月29日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "0003",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年6月29日23:59まで",
+    "priority": 55,
+    "itemMstId": 3450,
+    "startTime": 1622905200,
+    "endTime": 1624978799,
     "displayType": 0,
     "isDeleted": false
   }

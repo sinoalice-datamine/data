@@ -5928,6 +5928,14 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 766,
+    "title": "生前葬記念ミッション",
+    "priority": 49997,
+    "startTime": 1622905200,
+    "endTime": 1625547599,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 776,
     "title": "淘汰篇SPウィークリーミッション",
     "priority": 49999,
@@ -5952,11 +5960,59 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 779,
+    "title": "Gift～参列感謝のデイリーミッション～",
+    "priority": 100,
+    "startTime": 1622905200,
+    "endTime": 1623250799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 780,
+    "title": "Gift～参列感謝のデイリーミッション～",
+    "priority": 100,
+    "startTime": 1623250800,
+    "endTime": 1623596399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 781,
+    "title": "Gift～参列感謝のデイリーミッション～",
+    "priority": 100,
+    "startTime": 1623596400,
+    "endTime": 1623941999,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 782,
+    "title": "Gift～参列感謝のデイリーミッション～",
+    "priority": 100,
+    "startTime": 1623942000,
+    "endTime": 1624287599,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 784,
     "title": "「全能の栞」マンスリーミッション",
     "priority": 0,
     "startTime": 1622473200,
     "endTime": 1625065199,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 786,
+    "title": "「シンデレラは四度死ぬ」ミッション",
+    "priority": 20004,
+    "startTime": 1622905200,
+    "endTime": 1624337999,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 787,
+    "title": "イベントデイリーミッション",
+    "priority": 20004,
+    "startTime": 1622905200,
+    "endTime": 1624337999,
     "isHideTime": false
   },
   {

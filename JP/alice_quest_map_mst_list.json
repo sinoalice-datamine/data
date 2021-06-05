@@ -5038,6 +5038,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 489,
+    "mapType": 1,
+    "mapGroup": 308,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "シンデレラは四度死ぬ Normal",
+    "description": "シンデレラは四度死ぬ Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 490,
+    "mapType": 1,
+    "mapGroup": 308,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "シンデレラは四度死ぬ Hard",
+    "description": "シンデレラは四度死ぬ Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 491,
     "mapType": 1,
     "mapGroup": 491,
@@ -5133,6 +5155,17 @@
     "mapCategory": 3,
     "name": "夢骸ノ冥宮～第壱夜～",
     "description": "ソロイベント",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 505,
+    "mapType": 1,
+    "mapGroup": 501,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "終ワリへのレクイエム",
+    "description": "終ワリへのレクイエム",
     "announceUrl": "",
     "createdTime": 1483974000
   },

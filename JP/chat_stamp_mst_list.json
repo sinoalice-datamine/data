@@ -1874,5 +1874,47 @@
     "startTime": 1619503200,
     "endTime": 1622386799,
     "createdTime": null
+  },
+  {
+    "chatStampMstId": 152,
+    "name": "ギシンアンキ/デス！",
+    "resourceName": "152",
+    "assetBundleName": "chat54",
+    "filterType": 99,
+    "howToGet": "『呪4周年シノアリス生前葬　Invitation～生前葬のご案内キャンペーン～』で獲得可能",
+    "itemMstId": 3442,
+    "replaceMessage": "[*152]",
+    "isAnytime": 0,
+    "startTime": 1622905200,
+    "endTime": 1624337999,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 153,
+    "name": "ギシンアンキ/チーン",
+    "resourceName": "153",
+    "assetBundleName": "chat54",
+    "filterType": 99,
+    "howToGet": "『呪4周年シノアリス生前葬　Speech～参列者様のスピーチキャンペーン～』で獲得可能",
+    "itemMstId": 3442,
+    "replaceMessage": "[*153]",
+    "isAnytime": 0,
+    "startTime": 1622905200,
+    "endTime": 1624337999,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 154,
+    "name": "アリス/合掌",
+    "resourceName": "154",
+    "assetBundleName": "chat54",
+    "filterType": 1,
+    "howToGet": "『呪4周年シノアリス生前葬　Speech～参列者様のスピーチキャンペーン～』で獲得可能",
+    "itemMstId": 3444,
+    "replaceMessage": "[*154]",
+    "isAnytime": 0,
+    "startTime": 1622905200,
+    "endTime": 1624337999,
+    "createdTime": null
   }
 ]
