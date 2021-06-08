@@ -24208,6 +24208,23 @@
     "autoSkillPercentageType": 0
   },
   {
+    "skillMstId": 3250,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "Flaming Pursuit (III)",
+    "description": "Deals great P.DMG to 1 enemy, adding 5 hits to your combo during a combo chance.",
+    "attackEffect": 0,
+    "sp": 20,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 509,
+    "typeLabel": "Single Enemy",
+    "primaryIcon": 1,
+    "secondaryIcon": 24,
+    "rangeIcon": 1,
+    "autoSkillPercentageType": 0
+  },
+  {
     "skillMstId": 3251,
     "category": 1,
     "setEffectSeriesId": 0,
@@ -25225,6 +25242,23 @@
     "primaryIcon": 2,
     "secondaryIcon": 13,
     "rangeIcon": 2,
+    "autoSkillPercentageType": 0
+  },
+  {
+    "skillMstId": 3355,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "Flaming Pursuit (III)",
+    "description": "Deals great P.DMG to 1 enemy, adding 5 hits to your combo during a combo chance.",
+    "attackEffect": 0,
+    "sp": 20,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 509,
+    "typeLabel": "Single Enemy",
+    "primaryIcon": 1,
+    "secondaryIcon": 24,
+    "rangeIcon": 1,
     "autoSkillPercentageType": 0
   },
   {
@@ -29057,7 +29091,7 @@
     "category": 4,
     "setEffectSeriesId": 0,
     "name": "I'm in big trouble now!!!",
-    "description": "自身の物理攻撃力、魔法攻撃力、物理防御力、魔法防御力を倍ダウンする。",
+    "description": "",
     "attackEffect": 0,
     "sp": 0,
     "maxLevel": 15,

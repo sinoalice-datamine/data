@@ -364,6 +364,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 37,
+    "name": "1st Anniversary Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20210608_fest_before_1staniv",
+    "assetBundleName": "0601",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned as a login bonus during a certain period. ",
+    "priority": 34,
+    "itemMstId": 601,
+    "startTime": 1624856400,
+    "endTime": 1627707599,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 45,
     "name": "Arcana Medal",
     "description": "A medal that is an incidental byproduct of purchasing certain twilight crystals",
