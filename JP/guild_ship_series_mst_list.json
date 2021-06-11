@@ -334,5 +334,29 @@
     "shipPartsBodyMstId": 149,
     "shipPartsRoofMstId": 148,
     "shipPartsAttachedMstId": 150
+  },
+  {
+    "guildShipSeriesMstId": 45,
+    "name": "茶会シリーズ(1部)",
+    "description": "第43回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 155,
+    "shipPartsRoofMstId": 154,
+    "shipPartsAttachedMstId": 156
+  },
+  {
+    "guildShipSeriesMstId": 46,
+    "name": "茶会シリーズ(2部)",
+    "description": "第43回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 158,
+    "shipPartsRoofMstId": 157,
+    "shipPartsAttachedMstId": 159
+  },
+  {
+    "guildShipSeriesMstId": 47,
+    "name": "茶会シリーズ(3部)",
+    "description": "第43回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 161,
+    "shipPartsRoofMstId": 160,
+    "shipPartsAttachedMstId": 162
   }
 ]
