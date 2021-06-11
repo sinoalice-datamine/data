@@ -20702,7 +20702,7 @@
     "DE": "Ausrüstung Details",
     "FR": "Informations de l'ensemble",
     "ES": "Detalles de la composición",
-    "TH": "รายละเอียดการประกอบ",
+    "TH": "ดีเทลการประกอบ",
     "VN": ""
   },
   {
@@ -21123,6 +21123,34 @@
     "FR": "Toutes les Classes d'assistance seront retirées\\nÊtes-vous sûr ?",
     "ES": "Te desequiparás la Clase de apoyo\\n¿estás de acuerdo?",
     "TH": "คุณต้องการถอด\\nคลาสซัพพอร์ตทั้งหมดใช่ไหม?",
+    "VN": ""
+  },
+  {
+    "id": 1510,
+    "TLM": 51960,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "選択したジョブは\\n既にサポートジョブにセットされています。\\n\\nベースジョブと同一のジョブは\\nサポートジョブにセットできないため\\n該当のジョブはサポートジョブから外れます。",
+    "EN": "The selected class is already set as support class.\\n\\nBecause the base class and support class cannot be the same, this class will be removed.",
+    "KR": "선택한 직업은\\n이미 지원 직업으로 설정되어 있습니다.\\n\\n베이스 직업과 같은 직업은\\n지원 직업으로 설정할 수 없으므로\\n해당 직업은 지원 직업에서 제외됩니다.",
+    "DE": "Die ausgewählte Klasse ist\\nbereits als Unterstützungs Klasse gesetzt.\\n\\nDa eine Klasse nicht als die gleiche Klassen wie die Basis Klasse als Unterstützungs Klasse gesetzt werden kann,\\nwird diese Klasse als Unterstützungs Klasse entfernt.",
+    "FR": "La Classe sélectionnée\\nest déjà définie Classe d'assistance.\\n\\nUne Classe ne peut pas être définie comme Classe d'assistance\\nsi elle est identique à votre Classe de base,\\ncette Classe est donc retirée de vos Classes d'assistance.",
+    "ES": "La clase seleccionada\\nya se encuentra como Clase de apoyo.\\n\\nLa clase base y la misma clase\\nno se pueden equipar como set de clase de apoyo\\npor lo que la clase en cuestión se desequipará como clase de apoyo. ",
+    "TH": "คลาสที่ทำการเลือก\\nถูกตั้งเป็นคลาสซัพพอร์ตอยู่แล้ว\\n\\nคลาสที่เหมือนกับคลาสเบส\\nไม่สามารถตั้งค่าเป็นคลาสซัพพอร์ตได้\\nจะทำการถอดคลาสดังกล่าวออกจากคลาสซัพพอร์ต",
+    "VN": ""
+  },
+  {
+    "id": 1511,
+    "TLM": 51961,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "この表の数値はコロシアムスキルのみの数値です。\\nコロシアム補助スキル・サポートスキルの効果値は含まれません。",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
     "VN": ""
   }
 ]
