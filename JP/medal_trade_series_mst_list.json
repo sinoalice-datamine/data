@@ -4046,5 +4046,21 @@
     "endTime": 1624978799,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 274,
+    "name": "ナイトメアメダル",
+    "description": "魔晶石購入特典のナイトメアと交換できるメダル\r\n※2021年6月30日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "0274",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ナイトメアメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2021年6月30日23:59まで",
+    "priority": 37,
+    "itemMstId": 3487,
+    "startTime": 1623736800,
+    "endTime": 1625065199,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]

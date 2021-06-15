@@ -6300,5 +6300,28 @@
     "museumEndTime": 1924959599,
     "vibStartTime": -1.0,
     "skipButtonType": 0
+  },
+  {
+    "movieResourceMstId": 292,
+    "movieTitle": "現実篇新章追加\r\n『アラジン』『ラプンツェル』",
+    "resourceName": "genjitsu_Aladdin_Rapunzel",
+    "isPreDownLoad": 0,
+    "type": 2,
+    "value": 0,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1623733200,
+    "endTime": 1626965999,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "条件なし　表示されていたらバグ",
+    "thumbAssetBundleName": "museumthumbnail/292",
+    "thumbResourceName": "genjitsu_Aladdin_Rapunzel",
+    "museumStartTime": 1623733200,
+    "museumEndTime": 1626965999,
+    "vibStartTime": -1.0,
+    "skipButtonType": 0
   }
 ]
