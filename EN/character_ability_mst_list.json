@@ -14820,6 +14820,26 @@
     "cardDetailType": 1
   },
   {
+    "characterAbilityMstId": 2061,
+    "characterMstId": 12,
+    "name": "Tome +10% (Cinderella+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 2062,
+    "characterMstId": 12,
+    "name": "Cost +2",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 2
+  },
+  {
     "characterAbilityMstId": 2063,
     "characterMstId": 154,
     "name": "Blade +30% (Alice+ stages)",

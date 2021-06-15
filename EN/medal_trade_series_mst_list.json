@@ -602,6 +602,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 900003,
+    "name": "Specialization Medal (1st Anni.)",
+    "description": "A medal that is an incidental byproduct of the vanguard/rearguard grimoires.",
+    "resourceName": "item20210511_gacha_zenkou",
+    "assetBundleName": "900201",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 167,
+    "itemMstId": 900201,
+    "startTime": 1623736800,
+    "endTime": 1630421999,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 900004,
     "name": "9 Million Medal",
     "description": "A medal that is an incidental byproduct of a Grimoire.",

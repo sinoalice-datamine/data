@@ -9822,7 +9822,7 @@
     "EN": "{0} will be appointed as {1}.\\\\nProceed?",
     "KR": "[{0}] 님을 {1}에\\\\n임명하시겠습니까?",
     "DE": "{0} wird zu {1} ernannt.\\\\nBist du sicher?",
-    "FR": "{0} sera nommé(e) {1}.\\\\nConfirmer ?",
+    "FR": "{0} sera en charge de la {1}.\\\\nConfirmer ?",
     "ES": "Se designará a {0} como {1}.\\\\n¿Seguro?",
     "TH": "แต่งตั้งให้\"{0}\" เป็น {1}\\\\nคุณแน่ใจหรือไม่?",
     "VN": "{0} sẽ được chỉ định làm {1}.\\\\nBạn có chắc không?"
@@ -9836,7 +9836,7 @@
     "EN": "{0} will be removed from the position of {1}.\\\\nProceed?",
     "KR": "[{0}] 님을 {1}에서\\\\n해임하시겠습니까?",
     "DE": "{0} wird von {1} entfernt.\\\\nBist du sicher?",
-    "FR": "{0} sera supprimé(e) de {1}.\\\\nConfirmer ?",
+    "FR": "{0} ne sera plus en charge de la {1}.\\\\nConfirmer ?",
     "ES": "Se eliminará a {0} de {1}.\\\\n¿Seguro?",
     "TH": "ปลด \"{0}\" จาก {1}\\\\nคุณแน่ใจหรือไม่?",
     "VN": "{0} sẽ bị xóa khỏi {1}.\\\\nBạn có chắc không?"
@@ -21145,12 +21145,26 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "この表の数値はコロシアムスキルのみの数値です。\\nコロシアム補助スキル・サポートスキルの効果値は含まれません。",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "EN": "The values listed on this table are for colosseum skills only.\\nValues for colosseum support skills and other support skills are not included.",
+    "KR": "이 표의 수치는 콜로세움 스킬 한정 수치입니다.\\n콜로세움 보조 스킬/지원 스킬의 효과치는 포함되지 않습니다.",
+    "DE": "Die Zahlen in dieser Tabelle gelten nur für Kolosseumsfertigkeiten.\\nDie Effektwerte der Kolosseumsfertigkeiten (Unterstützung) ・ Unterstützungs Fertigkeit sind nicht enthalten.",
+    "FR": "Les valeurs indiquées dans ce tableau concernent uniquement les compétences de Colisée.\\nLes valeurs effectives des compétences de soutien de Colisée et les Compétences d'assistance ne sont pas comprises.",
+    "ES": "Los valores mostrados solamente tienen relación con las habilidades del Coliseo.\\nNo se incluyen los valores reales de las habilidades de apoyo del Coliseo.",
+    "TH": "ค่าที่แสดงนี้ เป็นค่าของสกิลโคลอสเซียมเท่านั้น\\nไม่รวมค่าผลสกิลสนับสนุนโคลอสเซียม, สกิลซัพพอร์ต",
+    "VN": ""
+  },
+  {
+    "id": 1512,
+    "TLM": 51964,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "{0} MAX!",
+    "EN": "{0} MAX!",
+    "KR": "{0} 최대!",
+    "DE": "Max. {0}",
+    "FR": "{0} MAX !",
+    "ES": "¡{0} MÁX!",
+    "TH": "{0} MAX!",
     "VN": ""
   }
 ]
