@@ -3978,6 +3978,23 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 290,
+    "questMapMstId": 118,
+    "name": "Snake Eyes",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/17",
+    "bgResourceName": "0017",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 291,
     "questMapMstId": 119,
     "name": "Experimental Weapon's Resolve",
