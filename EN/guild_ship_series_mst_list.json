@@ -1,0 +1,34 @@
+[
+  {
+    "guildShipSeriesMstId": 1,
+    "name": "Origin Series",
+    "description": "Origin Series Guildship",
+    "shipPartsBodyMstId": 2,
+    "shipPartsRoofMstId": 1,
+    "shipPartsAttachedMstId": 3
+  },
+  {
+    "guildShipSeriesMstId": 2,
+    "name": "Flyfish Series",
+    "description": "Flyfish Series Guildship",
+    "shipPartsBodyMstId": 5,
+    "shipPartsRoofMstId": 4,
+    "shipPartsAttachedMstId": 6
+  },
+  {
+    "guildShipSeriesMstId": 3,
+    "name": "Origin Series: Bronze",
+    "description": "Origin Series: Bronze Guildship",
+    "shipPartsBodyMstId": 8,
+    "shipPartsRoofMstId": 7,
+    "shipPartsAttachedMstId": 9
+  },
+  {
+    "guildShipSeriesMstId": 44,
+    "name": "Emil Series",
+    "description": "Emil Series Guildship",
+    "shipPartsBodyMstId": 152,
+    "shipPartsRoofMstId": 151,
+    "shipPartsAttachedMstId": 153
+  }
+]
