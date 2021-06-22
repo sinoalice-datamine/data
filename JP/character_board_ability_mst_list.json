@@ -8051,7 +8051,7 @@
     "name": "チケットUP",
     "description": "三匹の子豚のジョブを編成時、FFBEエリアでウラ射的チケット獲得倍率+0.2倍",
     "effectType": 15,
-    "effectValue": 20,
+    "effectValue": 0,
     "cardDetailType": 0
   },
   {
@@ -12855,7 +12855,7 @@
     "characterBoardAbilityMstId": 1465,
     "characterUniqueId": 25,
     "name": "チケットUP",
-    "description": "青年ニーアのジョブを編成時、NieR Replicantエリアで新射的チケット獲得倍率+0.1倍",
+    "description": "青年ニーアのジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.1倍",
     "effectType": 15,
     "effectValue": 10,
     "cardDetailType": 0
@@ -12909,7 +12909,7 @@
     "characterBoardAbilityMstId": 1471,
     "characterUniqueId": 30,
     "name": "エリアUP",
-    "description": "エミール分裂体のジョブを編成時、NieR Replicantエリアで全武器種5%UP",
+    "description": "エミール(レプリカント)のジョブを編成時、NieR Replicantエリアで全武器種5%UP",
     "effectType": 6,
     "effectValue": 5,
     "cardDetailType": 0
@@ -12918,7 +12918,7 @@
     "characterBoardAbilityMstId": 1472,
     "characterUniqueId": 30,
     "name": "SP供給/噺",
-    "description": "SP供給/噺 Lv1UP エミール分裂体のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "description": "SP供給/噺 Lv1UP エミール(レプリカント)のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
     "effectType": 14,
     "effectValue": 1,
     "cardDetailType": 0
@@ -12927,7 +12927,7 @@
     "characterBoardAbilityMstId": 1473,
     "characterUniqueId": 30,
     "name": "SP供給/決闘",
-    "description": "SP供給/決闘 Lv1UP エミール分裂体のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "description": "SP供給/決闘 Lv1UP エミール(レプリカント)のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
     "effectType": 13,
     "effectValue": 1,
     "cardDetailType": 0
@@ -12936,7 +12936,7 @@
     "characterBoardAbilityMstId": 1474,
     "characterUniqueId": 30,
     "name": "物魔攻撃UP",
-    "description": "エミール分裂体のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "description": "エミール(レプリカント)のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
     "effectType": 11,
     "effectValue": 250,
     "cardDetailType": 0
@@ -12945,7 +12945,7 @@
     "characterBoardAbilityMstId": 1475,
     "characterUniqueId": 30,
     "name": "物魔防御UP",
-    "description": "エミール分裂体のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "description": "エミール(レプリカント)のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
     "effectType": 12,
     "effectValue": 250,
     "cardDetailType": 0
@@ -12954,7 +12954,7 @@
     "characterBoardAbilityMstId": 1476,
     "characterUniqueId": 30,
     "name": "チケットUP",
-    "description": "エミール分裂体のジョブを編成時、NieR Replicantエリアで新射的チケット獲得倍率+0.1倍",
+    "description": "エミール(レプリカント)のジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.1倍",
     "effectType": 15,
     "effectValue": 10,
     "cardDetailType": 0
@@ -12963,7 +12963,7 @@
     "characterBoardAbilityMstId": 1477,
     "characterUniqueId": 30,
     "name": "物攻+300",
-    "description": "エミール分裂体のジョブを編成時、物理攻撃 +300",
+    "description": "エミール(レプリカント)のジョブを編成時、物理攻撃 +300",
     "effectType": 2,
     "effectValue": 300,
     "cardDetailType": 0
@@ -12972,7 +12972,7 @@
     "characterBoardAbilityMstId": 1478,
     "characterUniqueId": 30,
     "name": "物防+300",
-    "description": "エミール分裂体のジョブを編成時、物理防御 +300",
+    "description": "エミール(レプリカント)のジョブを編成時、物理防御 +300",
     "effectType": 3,
     "effectValue": 300,
     "cardDetailType": 0
@@ -12981,7 +12981,7 @@
     "characterBoardAbilityMstId": 1479,
     "characterUniqueId": 30,
     "name": "魔攻+300",
-    "description": "エミール分裂体のジョブを編成時、魔法攻撃 +300",
+    "description": "エミール(レプリカント)のジョブを編成時、魔法攻撃 +300",
     "effectType": 4,
     "effectValue": 300,
     "cardDetailType": 0
@@ -12990,7 +12990,7 @@
     "characterBoardAbilityMstId": 1480,
     "characterUniqueId": 30,
     "name": "魔防+300",
-    "description": "エミール分裂体のジョブを編成時、魔法防御 +300",
+    "description": "エミール(レプリカント)のジョブを編成時、魔法防御 +300",
     "effectType": 5,
     "effectValue": 300,
     "cardDetailType": 0
@@ -12999,7 +12999,7 @@
     "characterBoardAbilityMstId": 1481,
     "characterUniqueId": 30,
     "name": "楽器 2%UP",
-    "description": "エミール分裂体のジョブを編成時、楽器2%UP",
+    "description": "エミール(レプリカント)のジョブを編成時、楽器2%UP",
     "effectType": 6,
     "effectValue": 2,
     "cardDetailType": 1
@@ -13053,7 +13053,7 @@
     "characterBoardAbilityMstId": 1487,
     "characterUniqueId": 26,
     "name": "チケットUP",
-    "description": "少年ニーアのジョブを編成時、NieR Replicantエリアで新射的チケット獲得倍率+0.1倍",
+    "description": "少年ニーアのジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.1倍",
     "effectType": 15,
     "effectValue": 10,
     "cardDetailType": 0
@@ -13152,7 +13152,7 @@
     "characterBoardAbilityMstId": 1498,
     "characterUniqueId": 27,
     "name": "チケットUP",
-    "description": "カイネのジョブを編成時、NieR Replicantエリアで新射的チケット獲得倍率+0.2倍",
+    "description": "カイネのジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.2倍",
     "effectType": 15,
     "effectValue": 20,
     "cardDetailType": 0
@@ -13161,7 +13161,7 @@
     "characterBoardAbilityMstId": 1499,
     "characterUniqueId": 27,
     "name": "チケットUP",
-    "description": "カイネのジョブを編成時、NieR Replicantエリアで新射的チケット獲得倍率+0.1倍",
+    "description": "カイネのジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.1倍",
     "effectType": 15,
     "effectValue": 10,
     "cardDetailType": 0
@@ -13260,7 +13260,7 @@
     "characterBoardAbilityMstId": 1510,
     "characterUniqueId": 28,
     "name": "チケットUP",
-    "description": "少年エミールのジョブを編成時、NieR Replicantエリアで新射的チケット獲得倍率+0.2倍",
+    "description": "少年エミールのジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.2倍",
     "effectType": 15,
     "effectValue": 20,
     "cardDetailType": 0
@@ -13269,7 +13269,7 @@
     "characterBoardAbilityMstId": 1511,
     "characterUniqueId": 28,
     "name": "チケットUP",
-    "description": "少年エミールのジョブを編成時、NieR Replicantエリアで新射的チケット獲得倍率+0.1倍",
+    "description": "少年エミールのジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.1倍",
     "effectType": 15,
     "effectValue": 10,
     "cardDetailType": 0
@@ -13368,7 +13368,7 @@
     "characterBoardAbilityMstId": 1522,
     "characterUniqueId": 29,
     "name": "チケットUP",
-    "description": "デボル&ポポルのジョブを編成時、NieR Replicantエリアで新射的チケット獲得倍率+0.2倍",
+    "description": "デボル&ポポルのジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.2倍",
     "effectType": 15,
     "effectValue": 20,
     "cardDetailType": 0
@@ -13377,7 +13377,7 @@
     "characterBoardAbilityMstId": 1523,
     "characterUniqueId": 29,
     "name": "チケットUP",
-    "description": "デボル&ポポルのジョブを編成時、NieR Replicantエリアで新射的チケット獲得倍率+0.1倍",
+    "description": "デボル&ポポルのジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.1倍",
     "effectType": 15,
     "effectValue": 10,
     "cardDetailType": 0
@@ -13476,7 +13476,7 @@
     "characterBoardAbilityMstId": 1534,
     "characterUniqueId": 53,
     "name": "チケットUP",
-    "description": "仮面の王＆フィーアのジョブを編成時、NieR Replicantエリアで新射的チケット獲得倍率+0.2倍",
+    "description": "仮面の王＆フィーアのジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.2倍",
     "effectType": 15,
     "effectValue": 20,
     "cardDetailType": 0
@@ -13485,7 +13485,7 @@
     "characterBoardAbilityMstId": 1535,
     "characterUniqueId": 53,
     "name": "チケットUP",
-    "description": "仮面の王＆フィーアのジョブを編成時、NieR Replicantエリアで新射的チケット獲得倍率+0.1倍",
+    "description": "仮面の王＆フィーアのジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.1倍",
     "effectType": 15,
     "effectValue": 10,
     "cardDetailType": 0
@@ -13584,7 +13584,7 @@
     "characterBoardAbilityMstId": 1546,
     "characterUniqueId": 54,
     "name": "チケットUP",
-    "description": "ヨナのジョブを編成時、NieR Replicantエリアで新射的チケット獲得倍率+0.2倍",
+    "description": "ヨナのジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.2倍",
     "effectType": 15,
     "effectValue": 20,
     "cardDetailType": 0
@@ -13593,7 +13593,7 @@
     "characterBoardAbilityMstId": 1547,
     "characterUniqueId": 54,
     "name": "チケットUP",
-    "description": "ヨナのジョブを編成時、NieR Replicantエリアで新射的チケット獲得倍率+0.1倍",
+    "description": "ヨナのジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.1倍",
     "effectType": 15,
     "effectValue": 10,
     "cardDetailType": 0
@@ -13647,7 +13647,7 @@
     "characterBoardAbilityMstId": 1553,
     "characterUniqueId": 26,
     "name": "チケットUP",
-    "description": "少年ニーアのジョブを編成時、NieR Replicantエリアで新射的チケット獲得倍率+0.2倍",
+    "description": "少年ニーアのジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.2倍",
     "effectType": 15,
     "effectValue": 20,
     "cardDetailType": 0
@@ -16123,6 +16123,456 @@
     "characterUniqueId": 8,
     "name": "チケットUP",
     "description": "いばら姫のジョブを編成時、FFBEエリアでウラ射的チケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1841,
+    "characterUniqueId": 29,
+    "name": "物攻+250",
+    "description": "デボル&ポポルのジョブを編成時、物理攻撃 +250",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1842,
+    "characterUniqueId": 29,
+    "name": "物防+250",
+    "description": "デボル&ポポルのジョブを編成時、物理防御 +250",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1843,
+    "characterUniqueId": 29,
+    "name": "魔攻+250",
+    "description": "デボル&ポポルのジョブを編成時、魔法攻撃 +250",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1844,
+    "characterUniqueId": 29,
+    "name": "魔防+250",
+    "description": "デボル&ポポルのジョブを編成時、魔法防御 +250",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1845,
+    "characterUniqueId": 26,
+    "name": "物攻+250",
+    "description": "少年ニーアのジョブを編成時、物理攻撃 +250",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1846,
+    "characterUniqueId": 26,
+    "name": "物防+250",
+    "description": "少年ニーアのジョブを編成時、物理防御 +250",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1847,
+    "characterUniqueId": 26,
+    "name": "魔攻+250",
+    "description": "少年ニーアのジョブを編成時、魔法攻撃 +250",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1848,
+    "characterUniqueId": 26,
+    "name": "魔防+250",
+    "description": "少年ニーアのジョブを編成時、魔法防御 +250",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1849,
+    "characterUniqueId": 25,
+    "name": "物攻+250",
+    "description": "青年ニーアのジョブを編成時、物理攻撃 +250",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1850,
+    "characterUniqueId": 25,
+    "name": "物防+250",
+    "description": "青年ニーアのジョブを編成時、物理防御 +250",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1851,
+    "characterUniqueId": 25,
+    "name": "魔攻+250",
+    "description": "青年ニーアのジョブを編成時、魔法攻撃 +250",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1852,
+    "characterUniqueId": 25,
+    "name": "魔防+250",
+    "description": "青年ニーアのジョブを編成時、魔法防御 +250",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1853,
+    "characterUniqueId": 27,
+    "name": "物攻+250",
+    "description": "カイネのジョブを編成時、物理攻撃 +250",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1854,
+    "characterUniqueId": 27,
+    "name": "物防+250",
+    "description": "カイネのジョブを編成時、物理防御 +250",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1855,
+    "characterUniqueId": 27,
+    "name": "魔攻+250",
+    "description": "カイネのジョブを編成時、魔法攻撃 +250",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1856,
+    "characterUniqueId": 27,
+    "name": "魔防+250",
+    "description": "カイネのジョブを編成時、魔法防御 +250",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1857,
+    "characterUniqueId": 28,
+    "name": "物攻+250",
+    "description": "少年エミールのジョブを編成時、物理攻撃 +250",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1858,
+    "characterUniqueId": 28,
+    "name": "物防+250",
+    "description": "少年エミールのジョブを編成時、物理防御 +250",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1859,
+    "characterUniqueId": 28,
+    "name": "魔攻+250",
+    "description": "少年エミールのジョブを編成時、魔法攻撃 +250",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1860,
+    "characterUniqueId": 28,
+    "name": "魔防+250",
+    "description": "少年エミールのジョブを編成時、魔法防御 +250",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1861,
+    "characterUniqueId": 30,
+    "name": "物攻+500",
+    "description": "エミール(レプリカント)のジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1862,
+    "characterUniqueId": 30,
+    "name": "物防+500",
+    "description": "エミール(レプリカント)のジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1863,
+    "characterUniqueId": 30,
+    "name": "魔攻+500",
+    "description": "エミール(レプリカント)のジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1864,
+    "characterUniqueId": 30,
+    "name": "魔防+500",
+    "description": "エミール(レプリカント)のジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1865,
+    "characterUniqueId": 53,
+    "name": "物攻+250",
+    "description": "仮面の王＆フィーアのジョブを編成時、物理攻撃 +250",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1866,
+    "characterUniqueId": 53,
+    "name": "物防+250",
+    "description": "仮面の王＆フィーアのジョブを編成時、物理防御 +250",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1867,
+    "characterUniqueId": 53,
+    "name": "魔攻+250",
+    "description": "仮面の王＆フィーアのジョブを編成時、魔法攻撃 +250",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1868,
+    "characterUniqueId": 53,
+    "name": "魔防+250",
+    "description": "仮面の王＆フィーアのジョブを編成時、魔法防御 +250",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1869,
+    "characterUniqueId": 54,
+    "name": "物攻+250",
+    "description": "ヨナのジョブを編成時、物理攻撃 +250",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1870,
+    "characterUniqueId": 54,
+    "name": "物防+250",
+    "description": "ヨナのジョブを編成時、物理防御 +250",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1871,
+    "characterUniqueId": 54,
+    "name": "魔攻+250",
+    "description": "ヨナのジョブを編成時、魔法攻撃 +250",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1872,
+    "characterUniqueId": 54,
+    "name": "魔防+250",
+    "description": "ヨナのジョブを編成時、魔法防御 +250",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1873,
+    "characterUniqueId": 73,
+    "name": "物攻+250",
+    "description": "謎の少女のジョブを編成時、物理攻撃 +250",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1874,
+    "characterUniqueId": 73,
+    "name": "物防+250",
+    "description": "謎の少女のジョブを編成時、物理防御 +250",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1875,
+    "characterUniqueId": 73,
+    "name": "魔攻+250",
+    "description": "謎の少女のジョブを編成時、魔法攻撃 +250",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1876,
+    "characterUniqueId": 73,
+    "name": "魔防+250",
+    "description": "謎の少女のジョブを編成時、魔法防御 +250",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1877,
+    "characterUniqueId": 73,
+    "name": "エリアUP",
+    "description": "謎の少女のジョブを編成時、NieR Replicantエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1878,
+    "characterUniqueId": 73,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 謎の少女のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1879,
+    "characterUniqueId": 73,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 謎の少女のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1880,
+    "characterUniqueId": 73,
+    "name": "物魔攻撃UP",
+    "description": "謎の少女のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1881,
+    "characterUniqueId": 73,
+    "name": "物魔防御UP",
+    "description": "謎の少女のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1882,
+    "characterUniqueId": 73,
+    "name": "物攻+300",
+    "description": "謎の少女のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1883,
+    "characterUniqueId": 73,
+    "name": "物防+300",
+    "description": "謎の少女のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1884,
+    "characterUniqueId": 73,
+    "name": "魔攻+300",
+    "description": "謎の少女のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1885,
+    "characterUniqueId": 73,
+    "name": "魔防+300",
+    "description": "謎の少女のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1886,
+    "characterUniqueId": 73,
+    "name": "魔具 4%UP",
+    "description": "謎の少女のジョブを編成時、魔具4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 1887,
+    "characterUniqueId": 20,
+    "name": "チケットUP",
+    "description": "三匹の子豚のジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1888,
+    "characterUniqueId": 73,
+    "name": "チケットUP",
+    "description": "謎の少女のジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1889,
+    "characterUniqueId": 73,
+    "name": "チケットUP",
+    "description": "謎の少女のジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1890,
+    "characterUniqueId": 30,
+    "name": "チケットUP",
+    "description": "エミール(レプリカント)のジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.2倍",
     "effectType": 15,
     "effectValue": 20,
     "cardDetailType": 0

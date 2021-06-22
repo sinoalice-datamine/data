@@ -1764,6 +1764,42 @@
     "rttParam": 0
   },
   {
+    "guildShipPartsMstId": 151,
+    "name": "エミール号シリーズ[船楼]",
+    "description": "エミール号シリーズの船楼パーツ",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 0,
+    "fltParam": 4352,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 152,
+    "name": "エミール号シリーズ[船体]",
+    "description": "エミール号シリーズの船体パーツ",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 32,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 153,
+    "name": "エミール号シリーズ[灯篭]",
+    "description": "エミール号シリーズの灯篭パーツ",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 1,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
     "guildShipPartsMstId": 154,
     "name": "茶会シリーズ(1部)[船楼]",
     "description": "第43回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップの船楼パーツ",

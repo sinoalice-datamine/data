@@ -244,7 +244,7 @@
   {
     "characterBoardMstId": 27,
     "characterUniqueId": 30,
-    "name": "エミール分裂体",
+    "name": "エミール(レプリカント)",
     "priority": 385,
     "boardAssetBundleName": "board/30",
     "boardResourceName": "030",
@@ -679,6 +679,17 @@
     "boardResourceName": "068",
     "boardTopAssetBundleName": "boardtop/68",
     "boardTopResourceName": "068",
+    "materialSourceText": "封魂の解放に必要な素材が不足しています。"
+  },
+  {
+    "characterBoardMstId": 67,
+    "characterUniqueId": 73,
+    "name": "謎の少女",
+    "priority": 388,
+    "boardAssetBundleName": "board/73",
+    "boardResourceName": "073",
+    "boardTopAssetBundleName": "boardtop/73",
+    "boardTopResourceName": "073",
     "materialSourceText": "封魂の解放に必要な素材が不足しています。"
   }
 ]

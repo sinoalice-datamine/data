@@ -5148,6 +5148,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 499,
+    "mapType": 1,
+    "mapGroup": 499,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "虚辞ト贖罪",
+    "description": "レプリカント復刻",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 500,
+    "mapType": 1,
+    "mapGroup": 499,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "虚辞ト贖罪Hard",
+    "description": "レプリカント復刻Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 501,
     "mapType": 1,
     "mapGroup": 500,
