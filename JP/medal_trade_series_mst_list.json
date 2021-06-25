@@ -4016,6 +4016,38 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 269,
+    "name": "ジョブメダル",
+    "description": "魔晶石購入特典のジョブと交換できるメダル\r\n※2021年7月7日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "217",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ジョブメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2021年7月7日23:59まで",
+    "priority": 37,
+    "itemMstId": 3420,
+    "startTime": 1624600800,
+    "endTime": 1625669999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 270,
+    "name": "アルカナメダル",
+    "description": "アルカナと交換できるメダル\r\n※2021年7月7日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "216",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "アルカナメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2021年7月7日23:59まで",
+    "priority": 37,
+    "itemMstId": 3421,
+    "startTime": 1624600800,
+    "endTime": 1625669999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 271,
     "name": "ヨクボウメダル(4th)",
     "description": "ギシンアンキが集めているメダル\r\n※2021年6月29日23:59まで",
