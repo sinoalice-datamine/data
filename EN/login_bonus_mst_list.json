@@ -594,7 +594,7 @@
     "displayType": 2,
     "pickupSkillType": 1,
     "startTime": 1611637200,
-    "endTime": 2145884399,
+    "endTime": 1624856399,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""
@@ -732,6 +732,18 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 900025,
+    "title": "1st Anniversary Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1624860000,
+    "endTime": 1626065999,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 900026,
     "title": "Collaboration Event Special Login Bonus",
     "cycleType": 2,
@@ -739,6 +751,18 @@
     "pickupSkillType": 1,
     "startTime": 1624251600,
     "endTime": 1624510799,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900027,
+    "title": "1st Anniversary Special Comeback Bonus",
+    "cycleType": 200,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1624867200,
+    "endTime": 1627275599,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""

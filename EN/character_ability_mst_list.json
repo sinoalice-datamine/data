@@ -10620,6 +10620,246 @@
     "cardDetailType": 7
   },
   {
+    "characterAbilityMstId": 1167,
+    "characterMstId": 99,
+    "name": "Blade (Fire) +30% (Alice+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1168,
+    "characterMstId": 99,
+    "name": "All Weapons (Water) -75%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -75,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 1169,
+    "characterMstId": 99,
+    "name": "All Weapons (Wind) -75%",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -75,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 1170,
+    "characterMstId": 99,
+    "name": "Blade (Fire) +10% (Alice+ stages)",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1171,
+    "characterMstId": 99,
+    "name": "Blade (Fire) +10% (Alice+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1172,
+    "characterMstId": 99,
+    "name": "Blade (Fire) +20% (Story)",
+    "releaseLevel": 6,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1173,
+    "characterMstId": 99,
+    "name": "Blade (Fire) +10% (Story)",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1174,
+    "characterMstId": 99,
+    "name": "Blade (Fire) +10%",
+    "releaseLevel": 8,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1175,
+    "characterMstId": 99,
+    "name": "P.DEF +500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1176,
+    "characterMstId": 99,
+    "name": "Blade (Fire) +10%",
+    "releaseLevel": 10,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1177,
+    "characterMstId": 99,
+    "name": "P.ATK +500",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1178,
+    "characterMstId": 99,
+    "name": "P.DMG +1.5% when using blade class",
+    "releaseLevel": 12,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900001,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1179,
+    "characterMstId": 100,
+    "name": "Projectile (Wind) +30% (Alice+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1180,
+    "characterMstId": 100,
+    "name": "All Weapons (Fire) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 1181,
+    "characterMstId": 100,
+    "name": "Projectile (Wind) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1182,
+    "characterMstId": 100,
+    "name": "Projectile (Wind) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1183,
+    "characterMstId": 100,
+    "name": "M.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1184,
+    "characterMstId": 100,
+    "name": "M.ATK +800",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 800,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1185,
+    "characterMstId": 100,
+    "name": "HP +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1186,
+    "characterMstId": 100,
+    "name": "M.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1187,
+    "characterMstId": 100,
+    "name": "Projectile (Wind) +10% (Alice+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1188,
+    "characterMstId": 100,
+    "name": "M.DMG +1.5% when using projectile class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900003,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1189,
+    "characterMstId": 100,
+    "name": "M.ATK +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1190,
+    "characterMstId": 100,
+    "name": "M.DEF +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
     "characterAbilityMstId": 1191,
     "characterMstId": 96,
     "name": "Staff +30% (Three Little Pigs+ stages)",
@@ -10738,6 +10978,126 @@
     "effectType": 1,
     "effectValue": 200,
     "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1215,
+    "characterMstId": 98,
+    "name": "Tome (Fire) +30% (Gretel+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1216,
+    "characterMstId": 98,
+    "name": "All Weapons (Water) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 1217,
+    "characterMstId": 98,
+    "name": "Tome (Fire) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1218,
+    "characterMstId": 98,
+    "name": "Tome (Fire) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1219,
+    "characterMstId": 98,
+    "name": "M.DEF +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1220,
+    "characterMstId": 98,
+    "name": "P.DEF +800",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 800,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1221,
+    "characterMstId": 98,
+    "name": "M.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1222,
+    "characterMstId": 98,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1223,
+    "characterMstId": 98,
+    "name": "Tome (Fire) +10% (Gretel+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1224,
+    "characterMstId": 98,
+    "name": "Debuff effect +1.5% when using tome class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900006,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1225,
+    "characterMstId": 98,
+    "name": "HP +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1226,
+    "characterMstId": 98,
+    "name": "HP +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 2
   },
   {
     "characterAbilityMstId": 1227,
@@ -13357,6 +13717,26 @@
     "skillType": 1,
     "effectType": 1,
     "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1703,
+    "characterMstId": 33,
+    "name": "Cost +2",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1704,
+    "characterMstId": 33,
+    "name": "Buff effect +1.5% when using instrument class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900005,
     "cardDetailType": 1
   },
   {
@@ -16040,6 +16420,46 @@
     "cardDetailType": 4
   },
   {
+    "characterAbilityMstId": 2517,
+    "characterMstId": 100,
+    "name": "Projectile (Wind) +30% (Alice+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 2518,
+    "characterMstId": 100,
+    "name": "M.DEF +800",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 800,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 2519,
+    "characterMstId": 98,
+    "name": "Tome (Fire) +30% (Gretel+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 2520,
+    "characterMstId": 98,
+    "name": "P.ATK +800",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 800,
+    "cardDetailType": 2
+  },
+  {
     "characterAbilityMstId": 2903,
     "characterMstId": 120,
     "name": "Tome +10% (Aladdin+ stages)",
@@ -17518,6 +17938,26 @@
     "effectType": 1,
     "effectValue": 400,
     "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4261,
+    "characterMstId": 107,
+    "name": "Artifact +10% (Alice+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 4262,
+    "characterMstId": 107,
+    "name": "M.DMG +1.5% when using artifact class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900008,
+    "cardDetailType": 3
   },
   {
     "characterAbilityMstId": 4595,
@@ -20118,5 +20558,125 @@
     "effectType": 3,
     "effectValue": 200,
     "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 900025,
+    "characterMstId": 6,
+    "name": "Cost +2",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 900026,
+    "characterMstId": 6,
+    "name": "P.DMG +1.5% when using heavy class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900002,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 900027,
+    "characterMstId": 7,
+    "name": "Cost +2",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 900028,
+    "characterMstId": 7,
+    "name": "P.DMG +1.5% when using blade class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900001,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 900029,
+    "characterMstId": 9,
+    "name": "Cost +2",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 900030,
+    "characterMstId": 9,
+    "name": "M.DMG +1.5% when using polearm class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900004,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 900031,
+    "characterMstId": 10,
+    "name": "Cost +2",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 900032,
+    "characterMstId": 10,
+    "name": "Recovery effect +1.5% when using staff class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900007,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 900033,
+    "characterMstId": 16,
+    "name": "Cost +2",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 900034,
+    "characterMstId": 16,
+    "name": "Debuff effect +1.5% when using tome class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900006,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 900035,
+    "characterMstId": 26,
+    "name": "Cost +2",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 900036,
+    "characterMstId": 26,
+    "name": "M.DMG +1.5% when using projectile class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900003,
+    "cardDetailType": 7
   }
 ]

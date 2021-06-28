@@ -63,6 +63,27 @@
     "updatedTime": null
   },
   {
+    "itemShopMstId": 102,
+    "name": "1st Anniversary Item Set",
+    "description": "Gift set of bargain items.",
+    "resourceName": "0001",
+    "assetBundleName": "itemex",
+    "priority": 5,
+    "saleType": 2,
+    "normalItemShopMstId": 0,
+    "paymentType": 1,
+    "price": 300,
+    "countLimitType": 1,
+    "limitNumber": 5,
+    "announceMstId": 0,
+    "startTime": 1624860000,
+    "endTime": 1626069599,
+    "isHidden": false,
+    "isDeleted": false,
+    "createdTime": 1483974000,
+    "updatedTime": null
+  },
+  {
     "itemShopMstId": 140,
     "name": "+EXP Vial",
     "description": "Doubles EXP earned during the story for 30 minutes.",

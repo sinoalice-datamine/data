@@ -672,6 +672,27 @@
     "vibStartTime": -1.0
   },
   {
+    "movieResourceMstId": 55,
+    "movieTitle": "Another Alice OP",
+    "resourceName": "Alice1stAniversaryMovie",
+    "isPreDownLoad": 0,
+    "type": 1,
+    "value": 629,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1624860000,
+    "endTime": 1626069599,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "Bug if No Conditions shows",
+    "thumbAssetBundleName": "museumthumbnail/55",
+    "thumbResourceName": "Alice1stAniversaryMovie",
+    "museumStartTime": 1624860000,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0
+  },
+  {
     "movieResourceMstId": 64,
     "movieTitle": "9th Gran Colosseum Opening",
     "resourceName": "GvGEventMovie",

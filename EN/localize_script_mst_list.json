@@ -21166,5 +21166,47 @@
     "ES": "¡{0} MÁX!",
     "TH": "{0} MAX!",
     "VN": ""
+  },
+  {
+    "id": 1513,
+    "TLM": 52013,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "コンボダメージUP Lv.{0}",
+    "EN": "Lv. {0}Combo DMG boost",
+    "KR": "콤보 대미지 상승 Lv.{0}",
+    "DE": "Kombo Schaden erhöht, St. {0}",
+    "FR": "Augmentation des dégâts des Combos au Niv. {0}",
+    "ES": "Aumento de daño por combo Nv.{0}",
+    "TH": "ความเสียหายคอมโบ UP Lv.{0}",
+    "VN": ""
+  },
+  {
+    "id": 1514,
+    "TLM": 52014,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "コンボダメージUP Lv.{0} 突破！",
+    "EN": "Lv. {0} Reached! Combo DMG boost",
+    "KR": "콤보 대미지 상승 Lv.{0} 돌파!",
+    "DE": "Kombo Schaden erhöht, St. {0} erreicht!",
+    "FR": "Augmentation des dégâts des Combos au Niv. {0} atteint !",
+    "ES": "Aumento de daño por combo Nv.{0}¡Superado!",
+    "TH": "ความเสียหายคอมโบ UP ข้ามถึง Lv.{0}!",
+    "VN": ""
+  },
+  {
+    "id": 1515,
+    "TLM": 52015,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "コンボダメージUP Lv.{0} MAX！",
+    "EN": "Lv. {0}Max Combo DMG boost",
+    "KR": "콤보 대미지 상승 Lv.{0} 최대!",
+    "DE": "Kombo Schaden erhöht, St. {0} MAX!",
+    "FR": "Augmentation des dégâts des Combos au Niv. {0} MAX !",
+    "ES": "Aumento de daño por combo Nv.{0}¡MAX!",
+    "TH": "ความเสียหายคอมโบ UP Lv.{0} MAX!",
+    "VN": ""
   }
 ]

@@ -1442,6 +1442,20 @@
     "updatedTime": 1483196400
   },
   {
+    "helpMstId": 123,
+    "categoryType": 2,
+    "mainCategoryId": 7,
+    "mainCategoryOrder": 0,
+    "subCategoryOrder": 7,
+    "title": "Support Class",
+    "content": "The support class is a feature that allows you to equip other classes as gear.\\n\\nWhen equipping a class as a support class, each equipped support class will grant an extra 100 HP and will also grant you support skills unlocked by that support class.\\n\\nThis feature is available to players who’ve reached 80,000 points.\\n\\nAttention\\n-There is no support class slot for sub gear.\\n-You cannot set your base class as a support class.",
+    "transitionCaption": "",
+    "transitionSceneName": "",
+    "isDeleted": false,
+    "createdTime": 1483196400,
+    "updatedTime": 1483196400
+  },
+  {
     "helpMstId": 900001,
     "categoryType": 2,
     "mainCategoryId": 2,

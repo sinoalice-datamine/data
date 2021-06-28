@@ -1089,6 +1089,17 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 336,
+    "mapType": 1,
+    "mapGroup": 208,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "アリス、もう一人(ライト版)",
+    "description": "CP「アリス、もう一人(ライト版)」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 401,
     "mapType": 1,
     "mapGroup": 247,
@@ -1174,6 +1185,17 @@
     "name": "Bonus Stage",
     "description": "Medal: X-mas Feast",
     "announceUrl": "/web/announce/body?announceMstId=2314&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 900003,
+    "mapType": 1,
+    "mapGroup": 900003,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "A Terrifying 1st Anniversary Nightmares' Tale",
+    "description": "Reflections of a Year Quest",
+    "announceUrl": "",
     "createdTime": 1483974000
   }
 ]

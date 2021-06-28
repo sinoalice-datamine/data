@@ -378,6 +378,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 40,
+    "name": "Medal of Desire (VII)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "0003",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 40,
+    "itemMstId": 168,
+    "startTime": 1624860000,
+    "endTime": 1629125999,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 45,
     "name": "Arcana Medal",
     "description": "A medal that is an incidental byproduct of purchasing certain twilight crystals",
