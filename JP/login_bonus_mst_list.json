@@ -3949,6 +3949,17 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 369,
+    "title": "シノアリスの日プレゼント",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1624996800,
+    "endTime": 1625255999,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 100002,
     "title": "Rank100応援ボーナス①",
     "cycleType": 7,
@@ -4077,6 +4088,28 @@
     "pickupSkillType": 1,
     "startTime": 1622473200,
     "endTime": 1625065199,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 100014,
+    "title": "Rank100応援ボーナス①",
+    "cycleType": 7,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1625065200,
+    "endTime": 1627743599,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 100015,
+    "title": "Rank100応援ボーナス②",
+    "cycleType": 7,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1625065200,
+    "endTime": 1627743599,
     "resourceName": "1",
     "assetBundleName": ""
   }

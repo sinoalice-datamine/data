@@ -64720,6 +64720,846 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 6649,
+    "characterMstId": 499,
+    "name": "Hamelnエリアで打撃30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6650,
+    "characterMstId": 499,
+    "name": "打撃10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6651,
+    "characterMstId": 499,
+    "name": "物理防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6652,
+    "characterMstId": 499,
+    "name": "物理防御+1000",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 1000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6653,
+    "characterMstId": 499,
+    "name": "Hamelnエリアで打撃10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6654,
+    "characterMstId": 499,
+    "name": "魔法防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6655,
+    "characterMstId": 499,
+    "name": "Hamelnエリアで打撃20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6656,
+    "characterMstId": 499,
+    "name": "HP+1000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6657,
+    "characterMstId": 499,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6658,
+    "characterMstId": 499,
+    "name": "物理攻撃+2000",
+    "releaseLevel": 10,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 2000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6659,
+    "characterMstId": 499,
+    "name": "物理攻撃+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6660,
+    "characterMstId": 499,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6661,
+    "characterMstId": 499,
+    "name": "物理攻撃+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6662,
+    "characterMstId": 499,
+    "name": "打撃ｼﾞｮﾌﾞ使用時、ｺﾛｼｱﾑ補助発動確率2%UP",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6920,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6663,
+    "characterMstId": 500,
+    "name": "SnowWhiteエリアで長柄30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6664,
+    "characterMstId": 500,
+    "name": "長柄10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6665,
+    "characterMstId": 500,
+    "name": "魔法防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6666,
+    "characterMstId": 500,
+    "name": "魔法防御+1000",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 1000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6667,
+    "characterMstId": 500,
+    "name": "SnowWhiteエリアで長柄10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6668,
+    "characterMstId": 500,
+    "name": "物理防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6669,
+    "characterMstId": 500,
+    "name": "SnowWhiteエリアで長柄20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6670,
+    "characterMstId": 500,
+    "name": "HP+1000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6671,
+    "characterMstId": 500,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6672,
+    "characterMstId": 500,
+    "name": "魔法攻撃+2000",
+    "releaseLevel": 10,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 2000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6673,
+    "characterMstId": 500,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6674,
+    "characterMstId": 500,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6675,
+    "characterMstId": 500,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6676,
+    "characterMstId": 500,
+    "name": "長柄ｼﾞｮﾌﾞ使用時、ｺﾛｼｱﾑ補助発動確率2%UP",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6922,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6677,
+    "characterMstId": 501,
+    "name": "Gretelエリアで魔書30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6678,
+    "characterMstId": 501,
+    "name": "魔書10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6679,
+    "characterMstId": 501,
+    "name": "物理防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6680,
+    "characterMstId": 501,
+    "name": "物理攻撃+1000",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 1000,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6681,
+    "characterMstId": 501,
+    "name": "Gretelエリアで魔書10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6682,
+    "characterMstId": 501,
+    "name": "魔法防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6683,
+    "characterMstId": 501,
+    "name": "Gretelエリアで魔書20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6684,
+    "characterMstId": 501,
+    "name": "HP+1000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1000,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6685,
+    "characterMstId": 501,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6686,
+    "characterMstId": 501,
+    "name": "魔法攻撃+2000",
+    "releaseLevel": 10,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 2000,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6687,
+    "characterMstId": 501,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6688,
+    "characterMstId": 501,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6689,
+    "characterMstId": 501,
+    "name": "物理攻撃+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6690,
+    "characterMstId": 501,
+    "name": "魔書ｼﾞｮﾌﾞ使用時、ｺﾛｼｱﾑ補助発動確率2%UP",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6924,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6691,
+    "characterMstId": 502,
+    "name": "Kaguyahimeエリアで楽器30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6692,
+    "characterMstId": 502,
+    "name": "楽器10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6693,
+    "characterMstId": 502,
+    "name": "魔法防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6694,
+    "characterMstId": 502,
+    "name": "魔法攻撃+1000",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 1000,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6695,
+    "characterMstId": 502,
+    "name": "Kaguyahimeエリアで楽器10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6696,
+    "characterMstId": 502,
+    "name": "物理防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6697,
+    "characterMstId": 502,
+    "name": "Kaguyahimeエリアで楽器20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6698,
+    "characterMstId": 502,
+    "name": "HP+1000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1000,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6699,
+    "characterMstId": 502,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6700,
+    "characterMstId": 502,
+    "name": "物理攻撃+2000",
+    "releaseLevel": 10,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 2000,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6701,
+    "characterMstId": 502,
+    "name": "物理攻撃+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6702,
+    "characterMstId": 502,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6703,
+    "characterMstId": 502,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6704,
+    "characterMstId": 502,
+    "name": "楽器ｼﾞｮﾌﾞ使用時、ｺﾛｼｱﾑ補助発動確率2%UP",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6923,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6705,
+    "characterMstId": 503,
+    "name": "Aladdinエリアで射出30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6706,
+    "characterMstId": 503,
+    "name": "射出10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6707,
+    "characterMstId": 503,
+    "name": "魔法防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6708,
+    "characterMstId": 503,
+    "name": "物理防御+1000",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 1000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6709,
+    "characterMstId": 503,
+    "name": "Aladdinエリアで射出10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6710,
+    "characterMstId": 503,
+    "name": "物理防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6711,
+    "characterMstId": 503,
+    "name": "Aladdinエリアで射出20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6712,
+    "characterMstId": 503,
+    "name": "HP+1500",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1500,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6713,
+    "characterMstId": 503,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6714,
+    "characterMstId": 503,
+    "name": "魔法防御+2000",
+    "releaseLevel": 10,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 2000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6715,
+    "characterMstId": 503,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6716,
+    "characterMstId": 503,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6717,
+    "characterMstId": 503,
+    "name": "魔法防御+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6718,
+    "characterMstId": 503,
+    "name": "射出ｼﾞｮﾌﾞ使用時、ｺﾛｼｱﾑ補助発動確率2%UP",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6921,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 6719,
+    "characterMstId": 504,
+    "name": "Mermaidエリアで祈祷30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6720,
+    "characterMstId": 504,
+    "name": "祈祷10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6721,
+    "characterMstId": 504,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6722,
+    "characterMstId": 504,
+    "name": "魔法防御+1250",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 1250,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6723,
+    "characterMstId": 504,
+    "name": "Mermaidエリアで祈祷10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6724,
+    "characterMstId": 504,
+    "name": "物理攻撃+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6725,
+    "characterMstId": 504,
+    "name": "Mermaidエリアで祈祷20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6726,
+    "characterMstId": 504,
+    "name": "HP+1500",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6727,
+    "characterMstId": 504,
+    "name": "HP+100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6728,
+    "characterMstId": 504,
+    "name": "物理防御+1750",
+    "releaseLevel": 10,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 1750,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6729,
+    "characterMstId": 504,
+    "name": "魔法防御+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6730,
+    "characterMstId": 504,
+    "name": "HP+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6731,
+    "characterMstId": 504,
+    "name": "物理防御+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6732,
+    "characterMstId": 504,
+    "name": "祈祷ｼﾞｮﾌﾞ使用時、ｺﾛｼｱﾑ補助発動確率2%UP",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6925,
+    "cardDetailType": 4
+  },
+  {
     "characterAbilityMstId": 6809,
     "characterMstId": 279,
     "name": "水属性武器使用時、回復効果3%UP",
@@ -64778,5 +65618,45 @@
     "effectType": 4,
     "effectValue": 700,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6819,
+    "characterMstId": 237,
+    "name": "Aliceエリアで刀剣(風)30%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6820,
+    "characterMstId": 237,
+    "name": "物理防御+700",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 700,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6821,
+    "characterMstId": 27,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6822,
+    "characterMstId": 27,
+    "name": "楽器ジョブ使用時、バフ効果2%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5033,
+    "cardDetailType": 1
   }
 ]
