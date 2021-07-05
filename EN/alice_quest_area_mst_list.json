@@ -3978,6 +3978,23 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 283,
+    "questMapMstId": 111,
+    "name": "Wings of Fate",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/14",
+    "bgResourceName": "0014",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 290,
     "questMapMstId": 118,
     "name": "Snake Eyes",

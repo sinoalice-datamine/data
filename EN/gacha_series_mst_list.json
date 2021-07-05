@@ -2312,6 +2312,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 490,
+    "gachaGroupId": 3,
+    "bannerMstId": 798,
+    "isAlways": false,
+    "name": "Raven of Greed Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (VII)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-Medal of desire (VII)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 1030,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=1327&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 534,
     "gachaGroupId": 3,
     "bannerMstId": 1230,
