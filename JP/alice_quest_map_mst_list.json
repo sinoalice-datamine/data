@@ -5245,5 +5245,38 @@
     "description": "悪夢の祝宴",
     "announceUrl": "",
     "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 508,
+    "mapType": 1,
+    "mapGroup": 504,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "烈日の夏、流行の焼け跡",
+    "description": "メダル「日焼けイベント」Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 509,
+    "mapType": 1,
+    "mapGroup": 504,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "烈日の夏、流行の焼け跡",
+    "description": "メダル「日焼けイベント」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 510,
+    "mapType": 1,
+    "mapGroup": 505,
+    "mapGroupLv": 1,
+    "mapCategory": 5,
+    "name": "アラジン日焼けサロン",
+    "description": "メダル「日焼けイベント」Hard",
+    "announceUrl": "",
+    "createdTime": 1483974000
   }
 ]

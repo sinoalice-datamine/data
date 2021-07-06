@@ -6369,5 +6369,28 @@
     "museumEndTime": 1626965999,
     "vibStartTime": -1.0,
     "skipButtonType": 0
+  },
+  {
+    "movieResourceMstId": 293,
+    "movieTitle": "『烈日の夏、流行の焼け跡』OP",
+    "resourceName": "2021summer_sunburn_opening",
+    "isPreDownLoad": 0,
+    "type": 2,
+    "value": 0,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1625547600,
+    "endTime": 1626760799,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "条件なし　表示されていたらバグ",
+    "thumbAssetBundleName": "museumthumbnail/293",
+    "thumbResourceName": "2021summer_sunburn_opening",
+    "museumStartTime": 1625547600,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0,
+    "skipButtonType": 0
   }
 ]

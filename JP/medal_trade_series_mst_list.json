@@ -4158,5 +4158,53 @@
     "endTime": 1626361199,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 278,
+    "name": "日焼け止めメダル",
+    "description": "ギシンアンキが集めているメダル※2021年7月27日23:59まで",
+    "resourceName": "item20210706_event_summer",
+    "assetBundleName": "3500",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2021年7月27日23:59まで",
+    "priority": 43,
+    "itemMstId": 3500,
+    "startTime": 1625547600,
+    "endTime": 1627397999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 279,
+    "name": "おひさまメダル",
+    "description": "ギシンアンキが集めているメダル\r\n※2021年7月27日23:59まで",
+    "resourceName": "item20210706_mizugi_gacha",
+    "assetBundleName": "3511",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年7月27日23:59まで",
+    "priority": 55,
+    "itemMstId": 3511,
+    "startTime": 1625547600,
+    "endTime": 1627397999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 280,
+    "name": "回顧録メダル",
+    "description": "ギシンアンキが集めているメダル\r\n※2021年7月27日23:59まで",
+    "resourceName": "item20210706_mizugi_gacha",
+    "assetBundleName": "3512",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年7月27日23:59まで",
+    "priority": 55,
+    "itemMstId": 3512,
+    "startTime": 1625547600,
+    "endTime": 1627397999,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]
