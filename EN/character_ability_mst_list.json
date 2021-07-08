@@ -13720,6 +13720,46 @@
     "cardDetailType": 1
   },
   {
+    "characterAbilityMstId": 1659,
+    "characterMstId": 93,
+    "name": "M.DEF +650",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 650,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1660,
+    "characterMstId": 93,
+    "name": "M.ATK +650",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 650,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1661,
+    "characterMstId": 114,
+    "name": "P.DEF +650",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 650,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1662,
+    "characterMstId": 114,
+    "name": "P.ATK +650",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 650,
+    "cardDetailType": 1
+  },
+  {
     "characterAbilityMstId": 1703,
     "characterMstId": 33,
     "name": "Cost +2",

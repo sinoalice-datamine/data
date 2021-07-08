@@ -1,9 +1,9 @@
 {
-  "lastCreatedTime": "2021-07-05 15:08:14",
+  "lastCreatedTime": "2021-07-08 15:18:38",
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
-      "version": 25468892,
+      "version": 25728073,
       "names": [
         "item_mst_list"
       ]
@@ -45,7 +45,7 @@
     },
     {
       "mstTableId": 9,
-      "version": 2042,
+      "version": 2043,
       "names": [
         "card_mst_list_en",
         "card_mst_list_kr",
@@ -99,21 +99,21 @@
     },
     {
       "mstTableId": 20,
-      "version": 1080,
+      "version": 1081,
       "names": [
         "gacha_mst_list"
       ]
     },
     {
       "mstTableId": 21,
-      "version": 1083,
+      "version": 1084,
       "names": [
         "gacha_pickup_mst_list"
       ]
     },
     {
       "mstTableId": 22,
-      "version": 1049,
+      "version": 1050,
       "names": [
         "gacha_series_mst_list"
       ]
@@ -127,7 +127,7 @@
     },
     {
       "mstTableId": 25,
-      "version": 929,
+      "version": 930,
       "names": [
         "card_story_mst_list"
       ]
@@ -211,7 +211,7 @@
     },
     {
       "mstTableId": 38,
-      "version": 3310,
+      "version": 3315,
       "names": [
         "banner_mst_list"
       ]
@@ -239,7 +239,7 @@
     },
     {
       "mstTableId": 42,
-      "version": 528,
+      "version": 529,
       "names": [
         "character_ability_mst_list"
       ]
@@ -341,7 +341,7 @@
     },
     {
       "mstTableId": 58,
-      "version": 437,
+      "version": 438,
       "names": [
         "gacha_bonus_mst_list"
       ]
@@ -362,7 +362,7 @@
     },
     {
       "mstTableId": 61,
-      "version": 755,
+      "version": 756,
       "names": [
         "card_evolution_mst_list"
       ]
@@ -705,35 +705,35 @@
     },
     {
       "mstTableId": 1004,
-      "version": 83,
+      "version": 84,
       "names": [
         "localize_image_mst_list"
       ]
     },
     {
       "mstTableId": 1005,
-      "version": 102,
+      "version": 103,
       "names": [
         "localize_prefab_mst_list"
       ]
     },
     {
       "mstTableId": 1006,
-      "version": 85,
+      "version": 86,
       "names": [
         "localize_scene_mst_list"
       ]
     },
     {
       "mstTableId": 1007,
-      "version": 106,
+      "version": 107,
       "names": [
         "localize_script_mst_list"
       ]
     },
     {
       "mstTableId": 1008,
-      "version": 117,
+      "version": 118,
       "names": [
         "localize_server_mst_list"
       ]
