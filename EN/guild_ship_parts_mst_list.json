@@ -108,6 +108,78 @@
     "rttParam": 0
   },
   {
+    "guildShipPartsMstId": 10,
+    "name": "Castle in the Sky Series: Superstructure(League 1)",
+    "description": "Ship superstructure rewarded to League 1 top overall ranking guilds at the 12th Gran Colosseum",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1536,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 11,
+    "name": "Castle in the Sky Series: Hull (League 1)",
+    "description": "Ship hull rewarded to League 1 top overall ranking guilds at the 12th Gran Colosseum",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 32,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 12,
+    "name": "Castle in the Sky Series: Lantern (League 1)",
+    "description": "Ship lantern rewarded to League 1 top overall ranking guilds at the 12th Gran Colosseum",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 13,
+    "name": "Castle in the Sky Series: Superstructure(League 2)",
+    "description": "Ship superstructure rewarded to League 2 top overall ranking guilds at the 12th Gran Colosseum",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1536,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 14,
+    "name": "Castle in the Sky Series: Hull (League 2)",
+    "description": "Ship hull rewarded to League 2 top overall ranking guilds at the 12th Gran Colosseum",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 32,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 15,
+    "name": "Castle in the Sky Series: Lantern (League 2)",
+    "description": "Ship lantern rewarded to League 2 top overall ranking guilds at the 12th Gran Colosseum",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
     "guildShipPartsMstId": 151,
     "name": "Emil Series (Superstructure)",
     "description": "Superstructure for the Emil guildship series",
