@@ -24624,6 +24624,25 @@
     "createdTime": 1467266414
   },
   {
+    "gachaSeriesMstId": 102870,
+    "gachaGroupId": 5,
+    "topBannerMstId": 0,
+    "bannerMstId": 5516,
+    "isAlways": false,
+    "name": "世界ノ軌跡",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅶ)\r\n枚数：STEP1～3で各100枚\r\n有効期限：2021年8月7日23:59",
+    "priority": 15600,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=8252&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266414
+  },
+  {
     "gachaSeriesMstId": 1000002,
     "gachaGroupId": 4,
     "topBannerMstId": 0,
