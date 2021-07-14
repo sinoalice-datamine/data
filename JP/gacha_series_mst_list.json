@@ -16549,6 +16549,25 @@
     "createdTime": 1467266432
   },
   {
+    "gachaSeriesMstId": 2117,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 5600,
+    "isAlways": false,
+    "name": "傲慢ノ獣戒ガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅶ)\r\n枚数：1回ガチャで10枚、11回ガチャで100枚\r\n有効期限：2021年8月7日23:59",
+    "priority": 15700,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=8305&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 0,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 5001,
     "gachaGroupId": 9,
     "topBannerMstId": 0,

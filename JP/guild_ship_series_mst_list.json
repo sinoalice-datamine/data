@@ -366,5 +366,29 @@
     "shipPartsBodyMstId": 161,
     "shipPartsRoofMstId": 160,
     "shipPartsAttachedMstId": 162
+  },
+  {
+    "guildShipSeriesMstId": 48,
+    "name": "溟海シリーズ(1部)",
+    "description": "第43回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 164,
+    "shipPartsRoofMstId": 163,
+    "shipPartsAttachedMstId": 165
+  },
+  {
+    "guildShipSeriesMstId": 49,
+    "name": "溟海シリーズ(2部)",
+    "description": "第43回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 167,
+    "shipPartsRoofMstId": 166,
+    "shipPartsAttachedMstId": 168
+  },
+  {
+    "guildShipSeriesMstId": 50,
+    "name": "溟海シリーズ(3部)",
+    "description": "第43回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 170,
+    "shipPartsRoofMstId": 169,
+    "shipPartsAttachedMstId": 171
   }
 ]
