@@ -11760,6 +11760,126 @@
     "cardDetailType": 3
   },
   {
+    "characterAbilityMstId": 1299,
+    "characterMstId": 105,
+    "name": "Blade (Water) +30% (Little Mermaid+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1300,
+    "characterMstId": 105,
+    "name": "All Weapons (Wind) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 1301,
+    "characterMstId": 105,
+    "name": "Blade (Water) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1302,
+    "characterMstId": 105,
+    "name": "Blade (Water) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1303,
+    "characterMstId": 105,
+    "name": "P.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1304,
+    "characterMstId": 105,
+    "name": "P.ATK +800",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 800,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1305,
+    "characterMstId": 105,
+    "name": "HP +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1306,
+    "characterMstId": 105,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1307,
+    "characterMstId": 105,
+    "name": "Blade (Water) +10% (Little Mermaid+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1308,
+    "characterMstId": 105,
+    "name": "P.DMG +1.5% when using blade class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900001,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1309,
+    "characterMstId": 105,
+    "name": "P.ATK +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1310,
+    "characterMstId": 105,
+    "name": "P.ATK +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 1319,
     "characterMstId": 106,
     "name": "Staff +30% (Pinocchio+ stages)",
@@ -16898,6 +17018,26 @@
     "effectType": 1,
     "effectValue": 200,
     "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2939,
+    "characterMstId": 105,
+    "name": "Blade (Water) +30% (Little Mermaid+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2940,
+    "characterMstId": 105,
+    "name": "P.DEF +800",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 800,
+    "cardDetailType": 5
   },
   {
     "characterAbilityMstId": 2977,
