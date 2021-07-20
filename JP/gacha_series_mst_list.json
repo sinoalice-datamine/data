@@ -16549,6 +16549,25 @@
     "createdTime": 1467266432
   },
   {
+    "gachaSeriesMstId": 2116,
+    "gachaGroupId": 4,
+    "topBannerMstId": 0,
+    "bannerMstId": 5577,
+    "isAlways": false,
+    "name": "チケットガチャ～第4回人気投票結果～",
+    "description": "-",
+    "noticeMessage": "このガチャのガチャチケットは『世界ノ軌跡』で獲得できます。\r\n※このガチャでは『ヨクボウメダル(Ⅶ)』はおまけとして獲得できません。",
+    "priority": 9200,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=8256&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 0,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 2117,
     "gachaGroupId": 3,
     "topBannerMstId": 0,
@@ -16565,6 +16584,25 @@
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",
     "setItemPickupPosition": 0,
+    "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 2119,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 5602,
+    "isAlways": false,
+    "name": "第4回人気投票結果ガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅶ)\r\n枚数：11回ガチャで100枚\r\n有効期限：2021年8月7日23:59",
+    "priority": 15750,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=6570&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
     "createdTime": 1467266400
   },
   {

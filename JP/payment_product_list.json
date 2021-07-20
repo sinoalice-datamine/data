@@ -700,6 +700,28 @@
     "iconResourceName": "shop_icon/20190926_tokukoro_mcp:20190926_tokukoro_mcp_01.png"
   },
   {
+    "product_id": "jp.co.pokelabo.sinoalice.campaign17.crystal3000a",
+    "name": "魔晶石612個",
+    "description": "有償魔晶石306個＋無償魔晶石11個。さらに今なら＋無償魔晶石295個。",
+    "thumbnail_url": "",
+    "charge_gem": "306",
+    "free_gem": "306",
+    "increase_gem": "0",
+    "bonus_gem": "0",
+    "total_gem": "612",
+    "campaign_type": "2",
+    "campaign_mode": "6",
+    "priority": "12",
+    "consumable": "0",
+    "limited_count": "3",
+    "product_type": "0",
+    "price": "3060",
+    "default_product_id": "jp.co.pokelabo.sinoalice.campaign17.crystal3000a",
+    "default_price": "3060",
+    "start_datetime": "2021-07-20T15:00:00+0900",
+    "end_datetime": "2021-07-29T14:59:59+0900"
+  },
+  {
     "product_id": "jp.co.pokelabo.sinoalice.campaign17.crystal5000a",
     "name": "魔晶石1,004個",
     "description": "有償魔晶石502個＋無償魔晶石21個。さらに今なら＋無償魔晶石481個。",
@@ -718,8 +740,8 @@
     "price": "5020",
     "default_product_id": "jp.co.pokelabo.sinoalice.campaign17.crystal5000a",
     "default_price": "5020",
-    "start_datetime": "2021-07-06T14:00:00+0900",
-    "end_datetime": "2021-07-13T14:59:59+0900"
+    "start_datetime": "2021-07-20T15:00:00+0900",
+    "end_datetime": "2021-07-29T14:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign17.crystal9800a",
