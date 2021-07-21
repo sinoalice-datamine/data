@@ -67040,6 +67040,166 @@
     "cardDetailType": 5
   },
   {
+    "characterAbilityMstId": 6889,
+    "characterMstId": 513,
+    "name": "Rapunzelエリアで長柄(火)30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6890,
+    "characterMstId": 513,
+    "name": "全武器種(水)25%DOWN",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 6891,
+    "characterMstId": 513,
+    "name": "モノガタリで長柄(火)25%UP",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6892,
+    "characterMstId": 513,
+    "name": "長柄(火)15%UP",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6893,
+    "characterMstId": 513,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6894,
+    "characterMstId": 513,
+    "name": "魔法防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6895,
+    "characterMstId": 513,
+    "name": "HP+50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6896,
+    "characterMstId": 513,
+    "name": "魔法防御+100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6897,
+    "characterMstId": 513,
+    "name": "Rapunzelエリアで長柄(火)10%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6898,
+    "characterMstId": 513,
+    "name": "HP+50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6899,
+    "characterMstId": 513,
+    "name": "魔法防御+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6900,
+    "characterMstId": 513,
+    "name": "魔法防御+300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6901,
+    "characterMstId": 513,
+    "name": "Rapunzelエリアで長柄(火)30%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6902,
+    "characterMstId": 513,
+    "name": "魔法攻撃+700",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 700,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6903,
+    "characterMstId": 513,
+    "name": "火属性武器使用時、魔法ダメージ3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6432,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6904,
+    "characterMstId": 513,
+    "name": "魔法防御+700",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 700,
+    "cardDetailType": 8
+  },
+  {
     "characterAbilityMstId": 7017,
     "characterMstId": 510,
     "name": "SnowWhiteエリアで楽器60%UP",
