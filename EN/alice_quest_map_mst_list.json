@@ -825,6 +825,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 116,
+    "mapType": 1,
+    "mapGroup": 69,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Ultramarine Summer's Lament",
+    "description": "Summer Medal Event",
+    "announceUrl": "/web/announce/body?announceMstId=1613&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 117,
+    "mapType": 1,
+    "mapGroup": 69,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "Ultramarine Summer's Lament (Hard)",
+    "description": "Summer Medal Event",
+    "announceUrl": "/web/announce/body?announceMstId=1613&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 118,
     "mapType": 1,
     "mapGroup": 70,
@@ -931,6 +953,17 @@
     "mapCategory": 0,
     "name": "Shape of Indigo (Hard)",
     "description": "October Armor Event",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 148,
+    "mapType": 1,
+    "mapGroup": 89,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Guard Dog of Purgatory",
+    "description": "Conquest: Cerberus",
     "announceUrl": "",
     "createdTime": 1483974000
   },

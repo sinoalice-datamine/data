@@ -12000,6 +12000,606 @@
     "cardDetailType": 4
   },
   {
+    "characterAbilityMstId": 1331,
+    "characterMstId": 112,
+    "name": "Instrument +10% (Nutcracker+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1332,
+    "characterMstId": 112,
+    "name": "Instrument +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1333,
+    "characterMstId": 112,
+    "name": "M.DEF +50",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1334,
+    "characterMstId": 112,
+    "name": "P.DEF +50",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1335,
+    "characterMstId": 112,
+    "name": "Instrument +10% (Nutcracker+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1336,
+    "characterMstId": 112,
+    "name": "M.ATK +50",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1337,
+    "characterMstId": 112,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1338,
+    "characterMstId": 112,
+    "name": "P.ATK +50",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1339,
+    "characterMstId": 112,
+    "name": "Instrument +10% (Nutcracker+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1340,
+    "characterMstId": 112,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1341,
+    "characterMstId": 112,
+    "name": "Instrument +20% (Nutcracker+ stages)",
+    "releaseLevel": 11,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1342,
+    "characterMstId": 112,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1343,
+    "characterMstId": 108,
+    "name": "Blade +30% (Gretel+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1344,
+    "characterMstId": 108,
+    "name": "Blade +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1345,
+    "characterMstId": 108,
+    "name": "P.ATK +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1346,
+    "characterMstId": 108,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1347,
+    "characterMstId": 108,
+    "name": "Blade +10% (Gretel+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1348,
+    "characterMstId": 108,
+    "name": "P.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1349,
+    "characterMstId": 108,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1350,
+    "characterMstId": 108,
+    "name": "P.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1351,
+    "characterMstId": 108,
+    "name": "Blade +10% (Gretel+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1352,
+    "characterMstId": 108,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1353,
+    "characterMstId": 108,
+    "name": "P.DEF +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1354,
+    "characterMstId": 108,
+    "name": "P.DEF +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1355,
+    "characterMstId": 109,
+    "name": "Heavy +30% (Alice+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1356,
+    "characterMstId": 109,
+    "name": "Heavy +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1357,
+    "characterMstId": 109,
+    "name": "P.ATK +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1358,
+    "characterMstId": 109,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1359,
+    "characterMstId": 109,
+    "name": "Heavy +10% (Alice+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1360,
+    "characterMstId": 109,
+    "name": "P.ATK +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1361,
+    "characterMstId": 109,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1362,
+    "characterMstId": 109,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1363,
+    "characterMstId": 109,
+    "name": "Heavy +10% (Alice+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1364,
+    "characterMstId": 109,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1365,
+    "characterMstId": 109,
+    "name": "P.ATK +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1366,
+    "characterMstId": 109,
+    "name": "P.ATK +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1367,
+    "characterMstId": 110,
+    "name": "Staff +30% (Dorothy+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1368,
+    "characterMstId": 110,
+    "name": "Staff +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1369,
+    "characterMstId": 110,
+    "name": "M.DEF +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1370,
+    "characterMstId": 110,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1371,
+    "characterMstId": 110,
+    "name": "Staff +10% (Dorothy+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1372,
+    "characterMstId": 110,
+    "name": "M.ATK +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1373,
+    "characterMstId": 110,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1374,
+    "characterMstId": 110,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1375,
+    "characterMstId": 110,
+    "name": "Staff +10% (Dorothy+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1376,
+    "characterMstId": 110,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1377,
+    "characterMstId": 110,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1378,
+    "characterMstId": 110,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 1379,
+    "characterMstId": 111,
+    "name": "Projectile +30% (Snow White+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1380,
+    "characterMstId": 111,
+    "name": "Projectile +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1381,
+    "characterMstId": 111,
+    "name": "M.ATK +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1382,
+    "characterMstId": 111,
+    "name": "M.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1383,
+    "characterMstId": 111,
+    "name": "Projectile +10% (Snow White+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1384,
+    "characterMstId": 111,
+    "name": "M.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1385,
+    "characterMstId": 111,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1386,
+    "characterMstId": 111,
+    "name": "M.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1387,
+    "characterMstId": 111,
+    "name": "Projectile +10% (Snow White+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1388,
+    "characterMstId": 111,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1389,
+    "characterMstId": 111,
+    "name": "M.DEF +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 1390,
+    "characterMstId": 111,
+    "name": "M.DEF +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
     "characterAbilityMstId": 1391,
     "characterMstId": 114,
     "name": "Instrument +30% (Little Mermaid+ stages)",
@@ -16858,6 +17458,106 @@
     "effectType": 9,
     "effectValue": 800,
     "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 2723,
+    "characterMstId": 112,
+    "name": "Instrument +10% (Nutcracker+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2724,
+    "characterMstId": 112,
+    "name": "Cost +2",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2791,
+    "characterMstId": 108,
+    "name": "Blade +10% (Gretel+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2792,
+    "characterMstId": 108,
+    "name": "P.DEF +500",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2793,
+    "characterMstId": 109,
+    "name": "Heavy +10% (Alice+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2794,
+    "characterMstId": 109,
+    "name": "P.ATK +500",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2795,
+    "characterMstId": 110,
+    "name": "Staff +10% (Dorothy+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2796,
+    "characterMstId": 110,
+    "name": "HP+500",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2797,
+    "characterMstId": 111,
+    "name": "Projectile +10% (Snow White+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 2798,
+    "characterMstId": 111,
+    "name": "M.DEF +500",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 7
   },
   {
     "characterAbilityMstId": 2903,

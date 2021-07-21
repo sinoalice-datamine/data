@@ -392,6 +392,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 43,
+    "name": "Summer Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20210721_medal_summer",
+    "assetBundleName": "0650",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 650,
+    "startTime": 1626847200,
+    "endTime": 1628661599,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 45,
     "name": "Arcana Medal",
     "description": "A medal that is an incidental byproduct of purchasing certain twilight crystals",
