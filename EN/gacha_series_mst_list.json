@@ -2142,6 +2142,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 215,
+    "gachaGroupId": 3,
+    "bannerMstId": 593,
+    "isAlways": false,
+    "name": "Feast of the Ravenous Tiger Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (VII)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-Medal of desire (VII)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 1150,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=1407&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 216,
     "gachaGroupId": 3,
     "bannerMstId": 539,

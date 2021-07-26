@@ -28320,6 +28320,26 @@
     "skillEffectParam2": 0
   },
   {
+    "skillMstId": 2975,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "Gathered Thirst (I)",
+    "description": "Reduces P.DEF and M.DEF of 1 to 2 enemies.\\nEffectiveness will depend on how many wind affinity is equipped in your main set.",
+    "attackEffect": 0,
+    "sp": 20,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 523,
+    "typeLabel": "Multiple Enemies",
+    "primaryIcon": 23,
+    "secondaryIcon": 31,
+    "rangeIcon": 2,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0
+  },
+  {
     "skillMstId": 2983,
     "category": 1,
     "setEffectSeriesId": 0,
