@@ -1,5 +1,5 @@
 {
-  "lastCreatedTime": "2021-07-21 16:32:11",
+  "lastCreatedTime": "2021-07-27 16:02:52",
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
@@ -66,14 +66,14 @@
     },
     {
       "mstTableId": 16,
-      "version": 298,
+      "version": 299,
       "names": [
         "login_bonus_mst_list"
       ]
     },
     {
       "mstTableId": 17,
-      "version": 290,
+      "version": 291,
       "names": [
         "login_bonus_reward_mst_list"
       ]
@@ -115,7 +115,7 @@
     },
     {
       "mstTableId": 23,
-      "version": 636,
+      "version": 642,
       "names": [
         "mission_mst_list"
       ]
@@ -178,14 +178,14 @@
     },
     {
       "mstTableId": 34,
-      "version": 235,
+      "version": 237,
       "names": [
         "resource_file_mst_list"
       ]
     },
     {
       "mstTableId": 35,
-      "version": 112,
+      "version": 113,
       "names": [
         "chat_stamp_mst_list"
       ]
@@ -199,35 +199,35 @@
     },
     {
       "mstTableId": 37,
-      "version": 506,
+      "version": 512,
       "names": [
         "mission_title_mst_list"
       ]
     },
     {
       "mstTableId": 38,
-      "version": 2848,
+      "version": 2855,
       "names": [
         "banner_mst_list"
       ]
     },
     {
       "mstTableId": 39,
-      "version": 219,
+      "version": 220,
       "names": [
         "alice_quest_scenario_mst_list"
       ]
     },
     {
       "mstTableId": 40,
-      "version": 238,
+      "version": 239,
       "names": [
         "alice_quest_story_mst_list"
       ]
     },
     {
       "mstTableId": 41,
-      "version": 206,
+      "version": 207,
       "names": [
         "quest_boss_story_mst_list"
       ]
@@ -262,14 +262,14 @@
     },
     {
       "mstTableId": 46,
-      "version": 315,
+      "version": 316,
       "names": [
         "alice_quest_area_mst_list"
       ]
     },
     {
       "mstTableId": 47,
-      "version": 368,
+      "version": 369,
       "names": [
         "quest_stage_mst_list"
       ]
@@ -360,21 +360,21 @@
     },
     {
       "mstTableId": 62,
-      "version": 242,
+      "version": 243,
       "names": [
         "quest_enemy_mst_list"
       ]
     },
     {
       "mstTableId": 63,
-      "version": 528,
+      "version": 533,
       "names": [
         "quest_schedule_mst_list"
       ]
     },
     {
       "mstTableId": 64,
-      "version": 47,
+      "version": 48,
       "names": [
         "quest_campaign_mst_list"
       ]
@@ -409,7 +409,7 @@
     },
     {
       "mstTableId": 69,
-      "version": 227,
+      "version": 228,
       "names": [
         "movie_resource_mst_list"
       ]
