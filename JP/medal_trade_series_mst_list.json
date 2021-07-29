@@ -298,8 +298,8 @@
     "wayToGet": "イベントを行うことで獲得することができます。",
     "priority": 30,
     "itemMstId": 345,
-    "startTime": 1625065200,
-    "endTime": 1626361199,
+    "startTime": 1627743600,
+    "endTime": 1629039599,
     "displayType": 0,
     "isDeleted": false
   },
@@ -4208,6 +4208,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 282,
+    "name": "ヨクボウメダル(Ⅷ)",
+    "description": "ガチャで獲得できるメダル\r\n※2021年9月7日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年9月7日23:59まで",
+    "priority": 55,
+    "itemMstId": 3532,
+    "startTime": 1627538400,
+    "endTime": 1631026799,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 283,
     "name": "ジョブメダル",
     "description": "魔晶石購入特典のジョブと交換できるメダル\r\n※2021年8月5日23:59まで",
@@ -4236,6 +4252,22 @@
     "itemMstId": 3576,
     "startTime": 1626933600,
     "endTime": 1628175599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 285,
+    "name": "ナイトメアメダル",
+    "description": "魔晶石購入特典のナイトメアと交換できるメダル\r\n※2021年8月12日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "0285",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ナイトメアメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2021年8月12日23:59まで",
+    "priority": 37,
+    "itemMstId": 3577,
+    "startTime": 1627538400,
+    "endTime": 1628780399,
     "displayType": 0,
     "isDeleted": false
   }

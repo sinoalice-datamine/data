@@ -4015,6 +4015,17 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 376,
+    "title": "ギルドイベントボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1627761600,
+    "endTime": 1628348399,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 100002,
     "title": "Rank100応援ボーナス①",
     "cycleType": 7,
@@ -4165,6 +4176,28 @@
     "pickupSkillType": 1,
     "startTime": 1625065200,
     "endTime": 1627743599,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 100016,
+    "title": "Rank100応援ボーナス①",
+    "cycleType": 7,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1627743600,
+    "endTime": 1630421999,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 100017,
+    "title": "Rank100応援ボーナス②",
+    "cycleType": 7,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1627743600,
+    "endTime": 1630421999,
     "resourceName": "1",
     "assetBundleName": ""
   }
