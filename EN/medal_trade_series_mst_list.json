@@ -205,8 +205,8 @@
     "wayToGet": "Earned by playing an event.",
     "priority": 30,
     "itemMstId": 345,
-    "startTime": 1625032800,
-    "endTime": 1626325199,
+    "startTime": 1627624800,
+    "endTime": 1628917199,
     "isDeleted": false
   },
   {
@@ -403,6 +403,20 @@
     "itemMstId": 650,
     "startTime": 1626847200,
     "endTime": 1628661599,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 44,
+    "name": "Medal of Desire (VIII)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "0003",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 40,
+    "itemMstId": 169,
+    "startTime": 1627624800,
+    "endTime": 1631804399,
     "isDeleted": false
   },
   {
