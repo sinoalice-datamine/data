@@ -2601,6 +2601,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 512,
+    "gachaGroupId": 3,
+    "bannerMstId": 1177,
+    "isAlways": false,
+    "name": "Lazy Bear Cub Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (VIII)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-Medal of desire (VIII)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 1200,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=1446&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 534,
     "gachaGroupId": 3,
     "bannerMstId": 1230,

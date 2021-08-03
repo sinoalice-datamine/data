@@ -15700,6 +15700,126 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 1925,
+    "characterMstId": 150,
+    "name": "Instrument (Fire) +30% (Sleeping Beauty+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1926,
+    "characterMstId": 150,
+    "name": "All Weapons (Water) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 1927,
+    "characterMstId": 150,
+    "name": "Instrument (Fire) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1928,
+    "characterMstId": 150,
+    "name": "Instrument (Fire) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1929,
+    "characterMstId": 150,
+    "name": "M.DEF +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 1930,
+    "characterMstId": 150,
+    "name": "P.ATK +800",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 800,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 1931,
+    "characterMstId": 150,
+    "name": "M.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 1932,
+    "characterMstId": 150,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 1933,
+    "characterMstId": 150,
+    "name": "Instrument (Fire) +10% (Sleeping Beauty+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1934,
+    "characterMstId": 150,
+    "name": "Buff effect +1.5% when using instrument class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900005,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1935,
+    "characterMstId": 150,
+    "name": "HP +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 1936,
+    "characterMstId": 150,
+    "name": "HP +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
     "characterAbilityMstId": 1949,
     "characterMstId": 94,
     "name": "Instrument +10% (Princess Kaguya+ stages)",
@@ -18998,6 +19118,26 @@
     "effectType": 2,
     "effectValue": 350,
     "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 3625,
+    "characterMstId": 150,
+    "name": "Instrument (Fire) +30% (Sleeping Beauty+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 3626,
+    "characterMstId": 150,
+    "name": "M.ATK +800",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 800,
+    "cardDetailType": 1
   },
   {
     "characterAbilityMstId": 3641,
