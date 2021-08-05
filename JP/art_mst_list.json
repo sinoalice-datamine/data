@@ -1053,7 +1053,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -1076,7 +1076,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -1559,7 +1559,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -1582,7 +1582,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -1790,6 +1790,52 @@
     "bonusValue": 0,
     "durationEffectType": 0,
     "durationEffectAttribute": 0,
+    "durationEffectDetailType": 0,
+    "durationEffectValue": 0
+  },
+  {
+    "artMstId": 116,
+    "artUniqueId": 3,
+    "eternalArtType": 0,
+    "jobMstId": 0,
+    "name": "号令ハ疾風ノ加護トナル(Ⅰ)",
+    "learnLevel": 1,
+    "rangeType": 2,
+    "resourceName": "1",
+    "assetbundleName": "art1",
+    "description": "味方全体の風属性スキルの効果が増加。",
+    "levelUpDescription": "",
+    "leadTime": 100,
+    "duration": 100,
+    "isGvg": 1,
+    "sp": 200,
+    "bonusType": 0,
+    "bonusValue": 0,
+    "durationEffectType": 1,
+    "durationEffectAttribute": 345,
+    "durationEffectDetailType": 0,
+    "durationEffectValue": 0
+  },
+  {
+    "artMstId": 117,
+    "artUniqueId": 3,
+    "eternalArtType": 0,
+    "jobMstId": 0,
+    "name": "号令ハ疾風ノ加護トナル(Ⅱ)",
+    "learnLevel": 1,
+    "rangeType": 2,
+    "resourceName": "1",
+    "assetbundleName": "art1",
+    "description": "味方全体の風属性スキルの効果が大増加。",
+    "levelUpDescription": "",
+    "leadTime": 90,
+    "duration": 110,
+    "isGvg": 1,
+    "sp": 200,
+    "bonusType": 0,
+    "bonusValue": 0,
+    "durationEffectType": 1,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -2111,7 +2157,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -2134,7 +2180,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -2157,7 +2203,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -2180,7 +2226,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -2203,7 +2249,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -2226,7 +2272,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -2249,7 +2295,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -2272,7 +2318,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -2295,7 +2341,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -2318,7 +2364,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -2341,7 +2387,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -3261,7 +3307,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -3307,7 +3353,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -3376,7 +3422,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -3790,7 +3836,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -3813,7 +3859,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -4296,7 +4342,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -4319,7 +4365,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -4848,7 +4894,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -4871,7 +4917,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -4894,7 +4940,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -4917,7 +4963,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -4940,7 +4986,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -4963,7 +5009,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -4986,7 +5032,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -5009,7 +5055,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -5032,7 +5078,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -5055,7 +5101,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -5078,7 +5124,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -5998,7 +6044,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -6044,7 +6090,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -6113,7 +6159,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -6688,7 +6734,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -6711,7 +6757,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -6734,7 +6780,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -6757,7 +6803,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -6872,7 +6918,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -6895,7 +6941,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -6918,7 +6964,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -6941,7 +6987,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -7700,7 +7746,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -7723,7 +7769,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -7746,7 +7792,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -7769,7 +7815,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -9586,7 +9632,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -9609,7 +9655,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -9632,7 +9678,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -9655,7 +9701,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -9678,7 +9724,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -9701,7 +9747,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -10506,7 +10552,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -10529,7 +10575,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -10690,7 +10736,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -10713,7 +10759,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -10966,7 +11012,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -10989,7 +11035,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -11012,7 +11058,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -11035,7 +11081,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -12438,7 +12484,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -12461,7 +12507,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -12484,7 +12530,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -12507,7 +12553,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -12981,7 +13027,7 @@
     "rangeType": 5,
     "resourceName": "1",
     "assetbundleName": "art1",
-    "description": "火属性の武器スキル効果が増加するが、敵から受ける水属性ダメージも増加",
+    "description": "火属性の武器スキル効果が増加するが、敵から受ける水属性ダメージも増加。",
     "levelUpDescription": "",
     "leadTime": 70,
     "duration": 80,
@@ -12990,7 +13036,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -13004,7 +13050,7 @@
     "rangeType": 5,
     "resourceName": "1",
     "assetbundleName": "art1",
-    "description": "火属性の武器スキル効果が増加するが、敵から受ける水属性ダメージも増加",
+    "description": "火属性の武器スキル効果が増加するが、敵から受ける水属性ダメージも増加。",
     "levelUpDescription": "",
     "leadTime": 10,
     "duration": 20,
@@ -13013,7 +13059,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -13027,7 +13073,7 @@
     "rangeType": 5,
     "resourceName": "1",
     "assetbundleName": "art1",
-    "description": "火属性の武器スキル効果が大増加するが、敵から受ける水属性ダメージも増加",
+    "description": "火属性の武器スキル効果が大増加するが、敵から受ける水属性ダメージも増加。",
     "levelUpDescription": "",
     "leadTime": 60,
     "duration": 90,
@@ -13036,7 +13082,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -13050,7 +13096,7 @@
     "rangeType": 5,
     "resourceName": "1",
     "assetbundleName": "art1",
-    "description": "火属性の武器スキル効果が大増加するが、敵から受ける水属性ダメージも増加",
+    "description": "火属性の武器スキル効果が大増加するが、敵から受ける水属性ダメージも増加。",
     "levelUpDescription": "",
     "leadTime": 10,
     "duration": 20,
@@ -13059,7 +13105,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -13542,7 +13588,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -13565,7 +13611,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -13588,7 +13634,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -13611,7 +13657,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -13818,7 +13864,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -13841,7 +13887,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -13864,7 +13910,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -13887,7 +13933,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -13910,7 +13956,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -13933,7 +13979,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -13956,7 +14002,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -13979,7 +14025,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -17682,7 +17728,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -17705,7 +17751,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -17728,7 +17774,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -17751,7 +17797,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18050,7 +18096,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18073,7 +18119,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18096,7 +18142,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18119,7 +18165,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18234,7 +18280,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18257,7 +18303,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18280,7 +18326,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18303,7 +18349,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18326,7 +18372,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18349,7 +18395,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18372,7 +18418,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18395,7 +18441,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18533,7 +18579,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18648,7 +18694,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18671,7 +18717,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18694,7 +18740,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -18717,7 +18763,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -21362,7 +21408,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -21385,7 +21431,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -24030,7 +24076,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -24053,7 +24099,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -24076,7 +24122,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -24099,7 +24145,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -24214,7 +24260,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -24237,7 +24283,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -26790,7 +26836,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -26813,7 +26859,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -26836,7 +26882,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -26859,7 +26905,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -27250,7 +27296,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -27273,7 +27319,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -27296,7 +27342,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -27319,7 +27365,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -29918,7 +29964,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -29941,7 +29987,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -29964,7 +30010,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -29987,7 +30033,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -36174,7 +36220,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -36197,7 +36243,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -36220,7 +36266,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -36818,7 +36864,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -36841,7 +36887,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -36864,7 +36910,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -42384,7 +42430,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -42407,7 +42453,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -42430,7 +42476,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -42453,7 +42499,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -42568,7 +42614,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -42591,7 +42637,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -42614,7 +42660,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -42637,7 +42683,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -42660,7 +42706,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -42683,7 +42729,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -42706,7 +42752,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -42729,7 +42775,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -42752,7 +42798,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -42775,7 +42821,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -42798,7 +42844,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -42821,7 +42867,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -45926,7 +45972,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -45949,7 +45995,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -45972,7 +46018,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -45995,7 +46041,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -48594,7 +48640,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -48617,7 +48663,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -53056,7 +53102,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -53079,7 +53125,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -53102,7 +53148,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -53125,7 +53171,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -53148,7 +53194,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -53171,7 +53217,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -56138,7 +56184,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -56161,7 +56207,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -56184,7 +56230,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -56207,7 +56253,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -56414,7 +56460,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -56437,7 +56483,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -56460,7 +56506,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -56483,7 +56529,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -56506,7 +56552,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -56529,7 +56575,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -56552,7 +56598,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -56575,7 +56621,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -59404,7 +59450,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -59450,7 +59496,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -59473,7 +59519,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -59496,7 +59542,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -59519,7 +59565,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -63958,7 +64004,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -63981,7 +64027,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -64004,7 +64050,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -64027,7 +64073,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -64050,7 +64096,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -64073,7 +64119,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -64096,7 +64142,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -64119,7 +64165,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -64418,7 +64464,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -64441,7 +64487,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -64464,7 +64510,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -64487,7 +64533,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -67178,7 +67224,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -67201,7 +67247,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -67224,7 +67270,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -67247,7 +67293,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -67270,7 +67316,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -67293,7 +67339,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -67316,7 +67362,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -67339,7 +67385,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -67362,7 +67408,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -67385,7 +67431,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -67408,7 +67454,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -67431,7 +67477,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -75481,7 +75527,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -75504,7 +75550,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -78195,7 +78241,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -78218,7 +78264,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -78241,7 +78287,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -78264,7 +78310,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -82059,7 +82105,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -82082,7 +82128,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -84635,7 +84681,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -84658,7 +84704,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -84681,7 +84727,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -84704,7 +84750,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -88453,7 +88499,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -88476,7 +88522,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -94571,7 +94617,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -94594,7 +94640,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -94617,7 +94663,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -94640,7 +94686,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -94755,7 +94801,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -94778,7 +94824,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -94801,7 +94847,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -94824,7 +94870,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -95169,7 +95215,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -95192,7 +95238,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -95215,7 +95261,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -95238,7 +95284,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -95261,7 +95307,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -95284,7 +95330,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -97952,7 +97998,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -97998,7 +98044,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -98895,7 +98941,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -98941,7 +98987,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -98987,7 +99033,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -99010,7 +99056,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -99033,7 +99079,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -99056,7 +99102,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -99079,7 +99125,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -99102,7 +99148,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -103725,7 +103771,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -103748,7 +103794,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -103771,7 +103817,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -103794,7 +103840,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -103817,7 +103863,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -103840,7 +103886,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -106347,7 +106393,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -106370,7 +106416,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -106393,7 +106439,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -106416,7 +106462,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -109153,7 +109199,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -109176,7 +109222,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -110119,7 +110165,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -110142,7 +110188,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -110211,7 +110257,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -110234,7 +110280,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -110257,7 +110303,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -110280,7 +110326,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -110303,7 +110349,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -110326,7 +110372,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -110349,7 +110395,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -110372,7 +110418,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -112971,7 +113017,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -112994,7 +113040,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113017,7 +113063,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113040,7 +113086,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113063,7 +113109,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113086,7 +113132,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113201,7 +113247,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113224,7 +113270,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113247,7 +113293,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113270,7 +113316,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113293,7 +113339,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113316,7 +113362,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113339,7 +113385,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113362,7 +113408,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113385,7 +113431,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113408,7 +113454,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113431,7 +113477,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113454,7 +113500,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113477,7 +113523,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113500,7 +113546,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113569,7 +113615,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -113592,7 +113638,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -116145,7 +116191,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -116168,7 +116214,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -116191,7 +116237,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -116214,7 +116260,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -116237,7 +116283,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -116260,7 +116306,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -116283,7 +116329,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -116306,7 +116352,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -120009,7 +120055,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -120032,7 +120078,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 2,
+    "durationEffectAttribute": 245,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -120101,7 +120147,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -120124,7 +120170,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -120193,7 +120239,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -120216,7 +120262,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -120239,7 +120285,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -120262,7 +120308,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -126403,7 +126449,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -126426,7 +126472,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -126449,7 +126495,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -126472,7 +126518,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 3,
+    "durationEffectAttribute": 345,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -126495,7 +126541,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -126518,7 +126564,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -126541,7 +126587,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   },
@@ -126564,7 +126610,7 @@
     "bonusType": 0,
     "bonusValue": 0,
     "durationEffectType": 1,
-    "durationEffectAttribute": 1,
+    "durationEffectAttribute": 145,
     "durationEffectDetailType": 0,
     "durationEffectValue": 0
   }

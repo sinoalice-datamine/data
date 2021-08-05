@@ -4270,5 +4270,37 @@
     "endTime": 1628780399,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 286,
+    "name": "回顧録メダル",
+    "description": "ギシンアンキが集めているメダル\r\n※2021年8月26日23:59まで",
+    "resourceName": "item20210706_mizugi_gacha",
+    "assetBundleName": "3589",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年8月26日23:59まで",
+    "priority": 55,
+    "itemMstId": 3589,
+    "startTime": 1628139600,
+    "endTime": 1629989999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 287,
+    "name": "うちわメダル",
+    "description": "ギシンアンキが集めているメダル\r\n※2021年8月26日23:59まで",
+    "resourceName": "item20210805_summer_gacha",
+    "assetBundleName": "3590",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年8月26日23:59まで",
+    "priority": 55,
+    "itemMstId": 3590,
+    "startTime": 1628139600,
+    "endTime": 1629989999,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]

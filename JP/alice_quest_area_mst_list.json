@@ -16547,5 +16547,43 @@
     "disableMultipleCharacter": true,
     "startTime": null,
     "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 920,
+    "questMapMstId": 514,
+    "name": "杪夏の影法師",
+    "collectItemId": 3520,
+    "exchangesSceneName": "SinShootingGachaTop",
+    "assetBundleName": "questareabackground/324",
+    "bgResourceName": "0324",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "startTime": null,
+    "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 921,
+    "questMapMstId": 515,
+    "name": "杪夏の影法師",
+    "collectItemId": 3520,
+    "exchangesSceneName": "SinShootingGachaTop",
+    "assetBundleName": "questareabackground/324",
+    "bgResourceName": "0324",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": false,
+    "startTime": null,
+    "createdTime": 1483974000
   }
 ]

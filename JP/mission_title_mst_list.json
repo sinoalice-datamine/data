@@ -6416,6 +6416,22 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 828,
+    "title": "「杪夏の影法師」ミッション",
+    "priority": 20003,
+    "startTime": 1628139600,
+    "endTime": 1629352799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 829,
+    "title": "イベントデイリーミッション",
+    "priority": 20004,
+    "startTime": 1628139600,
+    "endTime": 1629352799,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 830,
     "title": "夏イベント開催記念ｷｬﾝﾍﾟｰﾝﾐｯｼｮﾝ",
     "priority": 20004,
@@ -6589,6 +6605,14 @@
     "priority": 0,
     "startTime": 1628078100,
     "endTime": 1628175599,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 852,
+    "title": "陰陽武器リニューアル記念ミッション",
+    "priority": 0,
+    "startTime": 1628139600,
+    "endTime": 1630421999,
     "isHideTime": false
   }
 ]
