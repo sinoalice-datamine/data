@@ -803,6 +803,17 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 104,
+    "mapType": 1,
+    "mapGroup": 61,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Messenger of Gloom",
+    "description": "June Advent",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 106,
     "mapType": 1,
     "mapGroup": 62,
@@ -1228,6 +1239,28 @@
     "mapCategory": 0,
     "name": "Lies and Atonement (Hard)",
     "description": "レプリカント復刻Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 514,
+    "mapType": 1,
+    "mapGroup": 508,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "End of Summer Shadow",
+    "description": "夏祭りイベントNormal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 515,
+    "mapType": 1,
+    "mapGroup": 508,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "End of Summer Shadow (Hard)",
+    "description": "夏祭りイベントHard",
     "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
     "createdTime": 1483974000
   },

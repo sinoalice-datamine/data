@@ -480,6 +480,18 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 372,
+    "title": "Event Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1628143200,
+    "endTime": 1629349199,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 900001,
     "title": "RU Bonus",
     "cycleType": 100,
@@ -835,6 +847,18 @@
     "pickupSkillType": 1,
     "startTime": 1627624800,
     "endTime": 1628225999,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900031,
+    "title": "Event Special Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1628143200,
+    "endTime": 1628398799,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""

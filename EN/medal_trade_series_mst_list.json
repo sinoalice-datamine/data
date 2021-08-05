@@ -684,5 +684,19 @@
     "startTime": 1624341600,
     "endTime": 1626188399,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900006,
+    "name": "Paper Fan Medal",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item20210805_gacha_nouryou",
+    "assetBundleName": "900214",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 56,
+    "itemMstId": 900214,
+    "startTime": 1628143200,
+    "endTime": 1629989999,
+    "isDeleted": false
   }
 ]
