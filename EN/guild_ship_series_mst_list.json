@@ -40,6 +40,22 @@
     "shipPartsAttachedMstId": 15
   },
   {
+    "guildShipSeriesMstId": 7,
+    "name": "Glowing Castle Series (League 1)",
+    "description": "Ship rewarded to League 1 top overall ranking guilds at the 13th Gran Colosseum",
+    "shipPartsBodyMstId": 20,
+    "shipPartsRoofMstId": 19,
+    "shipPartsAttachedMstId": 21
+  },
+  {
+    "guildShipSeriesMstId": 8,
+    "name": "Glowing Castle Series (League 2)",
+    "description": "Ship rewarded to League 2 top overall ranking guilds at the 13th Gran Colosseum",
+    "shipPartsBodyMstId": 23,
+    "shipPartsRoofMstId": 22,
+    "shipPartsAttachedMstId": 24
+  },
+  {
     "guildShipSeriesMstId": 44,
     "name": "Emil Series",
     "description": "Emil Series Guildship",
