@@ -390,5 +390,29 @@
     "shipPartsBodyMstId": 170,
     "shipPartsRoofMstId": 169,
     "shipPartsAttachedMstId": 171
+  },
+  {
+    "guildShipSeriesMstId": 51,
+    "name": "蒸機シリーズ(1部)",
+    "description": "第45回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 178,
+    "shipPartsRoofMstId": 177,
+    "shipPartsAttachedMstId": 179
+  },
+  {
+    "guildShipSeriesMstId": 52,
+    "name": "蒸機シリーズ(2部)",
+    "description": "第45回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 181,
+    "shipPartsRoofMstId": 180,
+    "shipPartsAttachedMstId": 182
+  },
+  {
+    "guildShipSeriesMstId": 53,
+    "name": "蒸機シリーズ(3部)",
+    "description": "第45回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 184,
+    "shipPartsRoofMstId": 183,
+    "shipPartsAttachedMstId": 185
   }
 ]
