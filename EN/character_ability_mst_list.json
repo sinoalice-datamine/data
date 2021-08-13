@@ -17120,6 +17120,126 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 2173,
+    "characterMstId": 164,
+    "name": "Heavy (Wind) +30% (Snow White+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2174,
+    "characterMstId": 164,
+    "name": "All Weapons (Fire) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 2175,
+    "characterMstId": 164,
+    "name": "Heavy (Wind) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2176,
+    "characterMstId": 164,
+    "name": "Heavy (Wind) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2177,
+    "characterMstId": 164,
+    "name": "P.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2178,
+    "characterMstId": 164,
+    "name": "P.DEF +800",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 800,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2179,
+    "characterMstId": 164,
+    "name": "HP +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2180,
+    "characterMstId": 164,
+    "name": "P.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2181,
+    "characterMstId": 164,
+    "name": "Heavy (Wind) +10% (Snow White+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2182,
+    "characterMstId": 164,
+    "name": "P.DMG +1.5% when using heavy class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900002,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2183,
+    "characterMstId": 164,
+    "name": "P.DEF +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2184,
+    "characterMstId": 164,
+    "name": "P.DEF +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 2217,
     "characterMstId": 173,
     "name": "Instrument +30% (Alice+ stages)",
@@ -19117,6 +19237,26 @@
     "skillType": 1,
     "effectType": 2,
     "effectValue": 350,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 3491,
+    "characterMstId": 164,
+    "name": "Heavy (Wind) +30% (Snow White+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 3492,
+    "characterMstId": 164,
+    "name": "P.ATK +800",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 800,
     "cardDetailType": 6
   },
   {
