@@ -17600,6 +17600,126 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 2257,
+    "characterMstId": 172,
+    "name": "Staff (Wind) +30% (Princess Kaguya+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2258,
+    "characterMstId": 172,
+    "name": "All Weapons (Fire) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 2259,
+    "characterMstId": 172,
+    "name": "Staff (Wind) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2260,
+    "characterMstId": 172,
+    "name": "Staff (Wind) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2261,
+    "characterMstId": 172,
+    "name": "M.DEF +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2262,
+    "characterMstId": 172,
+    "name": "P.DEF +800",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 800,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2263,
+    "characterMstId": 172,
+    "name": "M.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2264,
+    "characterMstId": 172,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2265,
+    "characterMstId": 172,
+    "name": "Staff (Wind) +10% (Princess Kaguya+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2266,
+    "characterMstId": 172,
+    "name": "Recovery effect +1.5% when using staff class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900007,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2267,
+    "characterMstId": 172,
+    "name": "HP +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2268,
+    "characterMstId": 172,
+    "name": "HP +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 4
+  },
+  {
     "characterAbilityMstId": 2269,
     "characterMstId": 61,
     "name": "P.DEF +100",
@@ -19698,6 +19818,26 @@
     "effectType": 4,
     "effectValue": 300,
     "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4175,
+    "characterMstId": 172,
+    "name": "Staff (Wind) +30% (Princess Kaguya+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4176,
+    "characterMstId": 172,
+    "name": "M.DEF +800",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 800,
+    "cardDetailType": 4
   },
   {
     "characterAbilityMstId": 4177,
