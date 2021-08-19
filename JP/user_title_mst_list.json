@@ -98712,6 +98712,42 @@
     "createdTime": null
   },
   {
+    "userTitleMstId": 11002,
+    "name": "称号「憤狼の奉葬者」",
+    "detail": "レイドイベント「精霊奉葬」にて憤狼の精霊Genocideを自身がリーダーで奉葬したものに与えられる称号",
+    "assetBundleName": "user_title/32",
+    "resourceName": "0001",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 11003,
+    "name": "称号「憤狼に打ち勝ちしもの」",
+    "detail": "レイドイベント「精霊奉葬」にて憤狼の精霊Extremeを自身がリーダーで奉葬したものに与えられる称号",
+    "assetBundleName": "user_title/32",
+    "resourceName": "0002",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 11004,
+    "name": "称号「憤狼に抗いしもの」",
+    "detail": "レイドイベント「精霊奉葬」にて憤狼の精霊Hardを自身がリーダーで奉葬したものに与えられる称号",
+    "assetBundleName": "user_title/32",
+    "resourceName": "0003",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
+    "userTitleMstId": 11005,
+    "name": "称号「憤狼に挑みしもの」",
+    "detail": "レイドイベント「精霊奉葬」にて憤狼の精霊Normalを自身がリーダーで奉葬したものに与えられる称号",
+    "assetBundleName": "user_title/32",
+    "resourceName": "0004",
+    "limitTime": 1893423600,
+    "createdTime": null
+  },
+  {
     "userTitleMstId": 11006,
     "name": "第九回コロシアム・シン[Ultimate32-優勝]",
     "detail": "コロシアム・シンの最上位Divisionで優勝した証\r\n次回コロシアム・シン開催までは設定することで、バトル中に特別なエフェクトとアイコンが表示される。",

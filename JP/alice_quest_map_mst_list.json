@@ -4653,6 +4653,72 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 442,
+    "mapType": 1,
+    "mapGroup": 275,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "精霊奇譚",
+    "description": "レイド「精霊奇譚_シナリオ」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 443,
+    "mapType": 1,
+    "mapGroup": 276,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "精霊邂逅",
+    "description": "レイド「精霊奇譚_エンカウント」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 444,
+    "mapType": 1,
+    "mapGroup": 277,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "精霊邂逅",
+    "description": "レイド「精霊奇譚_エンカウント」Hard",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 445,
+    "mapType": 1,
+    "mapGroup": 278,
+    "mapGroupLv": 3,
+    "mapCategory": 0,
+    "name": "精霊邂逅",
+    "description": "レイド「精霊奇譚_エンカウント」Extreme",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 446,
+    "mapType": 1,
+    "mapGroup": 279,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "通常レイド",
+    "description": "レイド自体のクエスト用",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 447,
+    "mapType": 1,
+    "mapGroup": 280,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "ギルドレイド",
+    "description": "レイド自体のクエスト用",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 448,
     "mapType": 1,
     "mapGroup": 281,
@@ -4760,6 +4826,17 @@
     "name": "ボーナスイベント",
     "description": "メダル「創生の版菓」ボーナスイベント",
     "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 460,
+    "mapType": 1,
+    "mapGroup": 288,
+    "mapGroupLv": 4,
+    "mapCategory": 0,
+    "name": "精霊邂逅",
+    "description": "レイド「精霊奇譚_エンカウント」Genocide",
+    "announceUrl": "",
     "createdTime": 1483974000
   },
   {

@@ -3344,6 +3344,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 224,
+    "name": "禍メダル",
+    "description": "レイドイベント「精霊奉葬」で武勲を得た者のみ得られるメダル\r\n※2021年9月9日23:59まで",
+    "resourceName": "item20190115",
+    "assetBundleName": "934",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "レイドイベントの報酬で獲得できます。\r\n※有効期限2021年9月9日23:59まで",
+    "priority": 5,
+    "itemMstId": 2998,
+    "startTime": 1629867600,
+    "endTime": 1631199599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 225,
     "name": "ナイトメアメダル",
     "description": "魔晶石購入特典のナイトメアと交換できるメダル\r\n※2021年2月7日23:59まで",
@@ -4300,6 +4316,22 @@
     "itemMstId": 3590,
     "startTime": 1628139600,
     "endTime": 1629989999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 291,
+    "name": "ナイトメアメダル",
+    "description": "魔晶石購入特典のナイトメアと交換できるメダル\r\n※2021年9月1日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "0291",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ナイトメアメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2021年9月1日23:59まで",
+    "priority": 37,
+    "itemMstId": 3646,
+    "startTime": 1629352800,
+    "endTime": 1630508399,
     "displayType": 0,
     "isDeleted": false
   }
