@@ -3929,7 +3929,7 @@
     "KR": "마정석",
     "DE": "Zwielichtkristalle",
     "FR": "Cristaux crépusculaires",
-    "ES": "cristales del ocaso",
+    "ES": "Cristales del ocaso",
     "TH": "คริสตัลสนธยา",
     "VN": "Pha lê chạng vạng"
   },
@@ -21242,13 +21242,13 @@
     "TLM": 52045,
     "Type": 0,
     "GameKey": "SCRIPT",
-    "JP": "{0}\\n予選終了までお待ちください",
-    "EN": "Please wait {0}\\nuntil preliminaries have ended.",
-    "KR": "{0}\\n예선 종료까지 잠시 기다려 주세요.",
-    "DE": "",
-    "FR": "",
-    "ES": "Espera hasta que termine la {0}\\n clasificatoria ",
-    "TH": "",
+    "JP": "{0}\\n本戦終了までお待ちください",
+    "EN": "Please wait until finals\\nhave ended for {0}.",
+    "KR": "{0}\\n본선 종료까지 잠시 기다려 주세요.",
+    "DE": "Please wait until finals\\nhave ended for {0}.",
+    "FR": "Please wait until finals\\nhave ended for {0}.",
+    "ES": "Espera hasta que termine la Arena principal {0}\\n",
+    "TH": "Please wait until finals\\nhave ended for {0}.",
     "VN": ""
   },
   {
@@ -21259,10 +21259,10 @@
     "JP": "{0}pt",
     "EN": "{0} Pts.",
     "KR": "{0}pt",
-    "DE": "",
-    "FR": "",
+    "DE": "{0} Pts.",
+    "FR": "{0} Pts.",
     "ES": "{0} puntos",
-    "TH": "",
+    "TH": "{0} Pts.",
     "VN": ""
   },
   {
@@ -21273,10 +21273,10 @@
     "JP": "ギルドに所属していないため、\\nコロシアム・シンに参加できません。\\n参加するためには\\nギルドに加入する必要があります。",
     "EN": "You cannot enter the Colosseum\\nwithout joining a guild.\\nJoin a guild to participate.",
     "KR": "길드에 소속되지 않아\\n콜로세움 신에 참가할 수 없습니다.\\n참가하기 위해서는\\n길드에 가입해야 합니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "You cannot enter the Colosseum\\nwithout joining a guild.\\nJoin a guild to participate.",
+    "FR": "You cannot enter the Colosseum\\nwithout joining a guild.\\nJoin a guild to participate.",
     "ES": "No puedes entrar en el Coliseo Shin\\nsin unirte a un gremio.\\nPara participar, \\n¡afíliate a un gremio!",
-    "TH": "",
+    "TH": "You cannot enter the Colosseum\\nwithout joining a guild.\\nJoin a guild to participate.",
     "VN": ""
   },
   {
@@ -21287,10 +21287,10 @@
     "JP": "NO ENTRY",
     "EN": "Not Entered",
     "KR": "NO ENTRY",
-    "DE": "",
-    "FR": "",
+    "DE": "Not Entered",
+    "FR": "Not Entered",
     "ES": "Sin participación",
-    "TH": "",
+    "TH": "Not Entered",
     "VN": ""
   },
   {
@@ -21301,10 +21301,10 @@
     "JP": "シンpt",
     "EN": "Sin Pts.",
     "KR": "신 pt",
-    "DE": "",
-    "FR": "",
+    "DE": "Sin Pts.",
+    "FR": "Sin Pts.",
     "ES": "Puntos Shin",
-    "TH": "",
+    "TH": "Sin Pts.",
     "VN": ""
   },
   {
@@ -21315,10 +21315,10 @@
     "JP": "獲得イノチ",
     "EN": "Lifeforce Acquired",
     "KR": "획득 목숨",
-    "DE": "",
-    "FR": "",
+    "DE": "Lifeforce Acquired",
+    "FR": "Lifeforce Acquired",
     "ES": "Fuerza vital adquirida",
-    "TH": "",
+    "TH": "Lifeforce Acquired",
     "VN": ""
   },
   {
@@ -21329,10 +21329,10 @@
     "JP": "コロシアム・シン",
     "EN": "Colosseum Sin",
     "KR": "콜로세움 신",
-    "DE": "",
-    "FR": "",
+    "DE": "Colosseum Sin",
+    "FR": "Colosseum Sin",
     "ES": "Coliseo Shin",
-    "TH": "",
+    "TH": "Colosseum Sin",
     "VN": ""
   },
   {
@@ -21341,12 +21341,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "※{0}の報酬です。イベント終了後の配布となります。",
-    "EN": "-{0} reward. Rewards will be sent after the event.",
+    "EN": "-{0} rewards. Rewards will be sent after the event.",
     "KR": "※{0} 보상입니다. 이벤트 종료 후에 지급됩니다.",
-    "DE": "",
-    "FR": "",
-    "ES": "*Se trata de una recompensa {0}. Se repartirán al finalizar el evento.",
-    "TH": "",
+    "DE": "-{0} rewards. Rewards will be sent after the event.",
+    "FR": "-{0} rewards. Rewards will be sent after the event.",
+    "ES": "*Se trata de unas recompensas {0}. Se repartirán al finalizar el evento.",
+    "TH": "-{0} rewards. Rewards will be sent after the event.",
     "VN": ""
   },
   {
@@ -21357,10 +21357,10 @@
     "JP": "自分の所属しているトーナメント",
     "EN": "Your Tournaments",
     "KR": "자신이 소속되어 있는 토너먼트",
-    "DE": "",
-    "FR": "",
+    "DE": "Your Tournaments",
+    "FR": "Your Tournaments",
     "ES": "Torneo en el que participa el propio usuario",
-    "TH": "",
+    "TH": "Your Tournaments",
     "VN": ""
   },
   {
@@ -21371,10 +21371,10 @@
     "JP": "Ultimate32 トーナメント表",
     "EN": "Ultimate 32 Tournament Table",
     "KR": "Ultimate 32 토너먼트 표",
-    "DE": "",
-    "FR": "",
+    "DE": "Ultimate 32 Tournament Table",
+    "FR": "Ultimate 32 Tournament Table",
     "ES": "Tablón del torneo de los Ultimate 32",
-    "TH": "",
+    "TH": "Ultimate 32 Tournament Table",
     "VN": ""
   },
   {
@@ -21385,10 +21385,10 @@
     "JP": "{0}位@{1}位",
     "EN": "#{0} @ #{1}",
     "KR": "{0}위@{1}위",
-    "DE": "",
-    "FR": "",
+    "DE": "#{0} @ #{1}",
+    "FR": "#{0} @ #{1}",
     "ES": "Puesto {0} en el {1}",
-    "TH": "",
+    "TH": "#{0} @ #{1}",
     "VN": ""
   },
   {
@@ -21399,10 +21399,10 @@
     "JP": "アイコン＆エフェクト",
     "EN": "Icons & Effects",
     "KR": "아이콘&이펙트",
-    "DE": "",
-    "FR": "",
+    "DE": "Icons & Effects",
+    "FR": "Icons & Effects",
     "ES": "Iconos y efectos",
-    "TH": "",
+    "TH": "Icons & Effects",
     "VN": ""
   },
   {
@@ -21413,10 +21413,10 @@
     "JP": "バトル中、名前の隣に特別なアイコンが表示されます。\\nUltimate32において、ベスト16以上に入るとキャラクターに特別なエフェクトが表示されます。\\n※当イベントで配布される個人称号を設定することで、表示されます。\\n※次回コロシアム・シン本戦開催時には、表示されなくなります。",
     "EN": "A special icon will appear next to your name during battle.\\nFor the Ultimate 32, a special effect will appear for characters if you enter the top 16.\\n-These will appear by setting individual titles received from this event.\\n-These will not appear for the next Colosseum Sin event.",
     "KR": "전투 중, 유저명 옆에 특별한 아이콘이 표시됩니다.\\nUltimate 32에서 상위 16 이상에 들면 캐릭터에 특별한 이펙트가 표시됩니다.\\n※본 이벤트에서 지급되는 개인 칭호를 설정하면 표시됩니다.\\n※다음 콜로세움 신 본선 개최 시에는 표시되지 않습니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "A special icon will appear next to your name during battle.\\nFor the Ultimate 32, a special effect will appear for characters if you enter the top 16.\\n-These will appear by setting individual titles received from this event.\\n-These will not appear for the next Colosseum Sin event.",
+    "FR": "A special icon will appear next to your name during battle.\\nFor the Ultimate 32, a special effect will appear for characters if you enter the top 16.\\n-These will appear by setting individual titles received from this event.\\n-These will not appear for the next Colosseum Sin event.",
     "ES": "Durante la batalla, se mostrará un icono especial al lado del nombre.\\nLos que hayan entrado en el Ultimate 32 y en los mejores 16 podrán ver un efecto especial en sus personajes.\\n*Se podrán ver al equipar los títulos que se repartirán durante el evento.\\n*Durante el próximo Coliseo Shin no se mostrarán.",
-    "TH": "",
+    "TH": "A special icon will appear next to your name during battle.\\nFor the Ultimate 32, a special effect will appear for characters if you enter the top 16.\\n-These will appear by setting individual titles received from this event.\\n-These will not appear for the next Colosseum Sin event.",
     "VN": ""
   },
   {
@@ -21427,10 +21427,10 @@
     "JP": "出場者限定スタンプ",
     "EN": "Participant Exclusive Stamps",
     "KR": "진출자 한정 이모티콘",
-    "DE": "",
-    "FR": "",
+    "DE": "Participant Exclusive Stamps",
+    "FR": "Participant Exclusive Stamps",
     "ES": "Sellos exclusivos para los que hayan participado",
-    "TH": "",
+    "TH": "Participant Exclusive Stamps",
     "VN": ""
   },
   {
@@ -21441,10 +21441,10 @@
     "JP": "Ultimate32出場者しか使用できない限定スタンプを獲得できます。\\n※次回コロシアム・シン本戦開催時には、使用できなくなります。",
     "EN": "You can receive exclusive stamps that can only be used by players in the Ultimate 32.\\n-These cannot be used for the next Colosseum Sin event.",
     "KR": "Ultimate 32 진출자만이 사용할 수 있는 한정 이모티콘을 획득할 수 있습니다.\\n※다음 콜로세움 신 본선 개최 시에는 사용할 수 없습니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "You can receive exclusive stamps that can only be used by players in the Ultimate 32.\\n-These cannot be used for the next Colosseum Sin event.",
+    "FR": "You can receive exclusive stamps that can only be used by players in the Ultimate 32.\\n-These cannot be used for the next Colosseum Sin event.",
     "ES": "Solo podrán obtener sellos exclusivos aquellos participantes que hayan llegado al Ultimate 32.\\n*No se podrán utilizar en el siguiente Coliseo Shin.",
-    "TH": "",
+    "TH": "You can receive exclusive stamps that can only be used by players in the Ultimate 32.\\n-These cannot be used for the next Colosseum Sin event.",
     "VN": ""
   },
   {
@@ -21455,10 +21455,10 @@
     "JP": "特別な月間参戦ボーナス",
     "EN": "Special Monthly Participation Bonuses",
     "KR": "특별한 월간 참전 보너스",
-    "DE": "",
-    "FR": "",
+    "DE": "Special Monthly Participation Bonuses",
+    "FR": "Special Monthly Participation Bonuses",
     "ES": "Bonificación de participación mensual especial",
-    "TH": "",
+    "TH": "Special Monthly Participation Bonuses",
     "VN": ""
   },
   {
@@ -21469,10 +21469,10 @@
     "JP": "Ultimate32出場者は、コロシアム・シン本戦開催の翌月・翌々月のコロシアム月間参戦ボーナスが特別なものになります。",
     "EN": "Players in the Ultimate 32 will get a special Colosseum Monthly Participation Bonus in the 1st and 2nd month following the Colosseum Sin event.",
     "KR": "Ultimate 32 진출자는 콜로세움 신 본선 개최의 다음 달과 그다음 달의 콜로세움 월간 참전 보너스가 특별해집니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "Players in the Ultimate 32 will get a special Colosseum Monthly Participation Bonus in the 1st and 2nd month following the Colosseum Sin event.",
+    "FR": "Players in the Ultimate 32 will get a special Colosseum Monthly Participation Bonus in the 1st and 2nd month following the Colosseum Sin event.",
     "ES": "Los participantes del Ultimate32 recibirán una bonificación de participación mensual especial en el Coliseo durante el mes posterior y el siguiente después de la apertura del Coliseo Shin.",
-    "TH": "",
+    "TH": "Players in the Ultimate 32 will get a special Colosseum Monthly Participation Bonus in the 1st and 2nd month following the Colosseum Sin event.",
     "VN": ""
   },
   {
@@ -21483,10 +21483,10 @@
     "JP": "{0}グループ",
     "EN": "Group {0}",
     "KR": "{0} 그룹",
-    "DE": "",
-    "FR": "",
+    "DE": "Group {0}",
+    "FR": "Group {0}",
     "ES": "Grupo {0}",
-    "TH": "",
+    "TH": "Group {0}",
     "VN": ""
   },
   {
@@ -21497,10 +21497,10 @@
     "JP": "1回戦",
     "EN": "Round 1",
     "KR": "1회전",
-    "DE": "",
-    "FR": "",
+    "DE": "Round 1",
+    "FR": "Round 1",
     "ES": "1º Batalla",
-    "TH": "",
+    "TH": "Round 1",
     "VN": ""
   },
   {
@@ -21511,10 +21511,10 @@
     "JP": "2回戦",
     "EN": "Round 2",
     "KR": "2회전",
-    "DE": "",
-    "FR": "",
+    "DE": "Round 2",
+    "FR": "Round 2",
     "ES": "2º Batalla",
-    "TH": "",
+    "TH": "Round 2",
     "VN": ""
   },
   {
@@ -21525,10 +21525,10 @@
     "JP": "3回戦",
     "EN": "Round 3",
     "KR": "3회전",
-    "DE": "",
-    "FR": "",
+    "DE": "Round 3",
+    "FR": "Round 3",
     "ES": "3º Batalla",
-    "TH": "",
+    "TH": "Round 3",
     "VN": ""
   },
   {
@@ -21539,10 +21539,10 @@
     "JP": "準決勝",
     "EN": "Semifinals",
     "KR": "준결승",
-    "DE": "",
-    "FR": "",
+    "DE": "Semifinals",
+    "FR": "Semifinals",
     "ES": "Semifinales",
-    "TH": "",
+    "TH": "Semifinals",
     "VN": ""
   },
   {
@@ -21553,10 +21553,10 @@
     "JP": "決勝",
     "EN": "Finals",
     "KR": "결승",
-    "DE": "",
-    "FR": "",
+    "DE": "Finals",
+    "FR": "Finals",
     "ES": "Finales",
-    "TH": "",
+    "TH": "Finals",
     "VN": ""
   },
   {
@@ -21567,10 +21567,10 @@
     "JP": "ベスト32",
     "EN": "Top 32",
     "KR": "상위 32",
-    "DE": "",
-    "FR": "",
+    "DE": "Top 32",
+    "FR": "Top 32",
     "ES": "Los mejores 32",
-    "TH": "",
+    "TH": "Top 32",
     "VN": ""
   },
   {
@@ -21581,10 +21581,10 @@
     "JP": "ベスト16",
     "EN": "Top 16",
     "KR": "상위 16",
-    "DE": "",
-    "FR": "",
+    "DE": "Top 16",
+    "FR": "Top 16",
     "ES": "Los mejores 16",
-    "TH": "",
+    "TH": "Top 16",
     "VN": ""
   },
   {
@@ -21595,10 +21595,10 @@
     "JP": "ベスト8",
     "EN": "Top 8",
     "KR": "상위 8",
-    "DE": "",
-    "FR": "",
+    "DE": "Top 8",
+    "FR": "Top 8",
     "ES": "Los mejores 8",
-    "TH": "",
+    "TH": "Top 8",
     "VN": ""
   },
   {
@@ -21609,10 +21609,10 @@
     "JP": "ベスト4",
     "EN": "Top 4",
     "KR": "상위 4",
-    "DE": "",
-    "FR": "",
+    "DE": "Top 4",
+    "FR": "Top 4",
     "ES": "Los mejores 4",
-    "TH": "",
+    "TH": "Top 4",
     "VN": ""
   },
   {
@@ -21623,10 +21623,10 @@
     "JP": "準優勝",
     "EN": "Runner Up",
     "KR": "준우승",
-    "DE": "",
-    "FR": "",
+    "DE": "Runner Up",
+    "FR": "Runner Up",
     "ES": "Segundo lugar",
-    "TH": "",
+    "TH": "Runner Up",
     "VN": ""
   },
   {
@@ -21637,10 +21637,10 @@
     "JP": "優勝",
     "EN": "Winner",
     "KR": "우승",
-    "DE": "",
-    "FR": "",
+    "DE": "Winner",
+    "FR": "Winner",
     "ES": "Ganador",
-    "TH": "",
+    "TH": "Winner",
     "VN": ""
   },
   {
@@ -21833,10 +21833,10 @@
     "JP": "対戦相手",
     "EN": "Opposing Guild",
     "KR": "대전 상대",
-    "DE": "",
-    "FR": "",
+    "DE": "Opposing Guild",
+    "FR": "Opposing Guild",
     "ES": "Oponente",
-    "TH": "",
+    "TH": "Opposing Guild",
     "VN": ""
   },
   {
@@ -21847,10 +21847,10 @@
     "JP": "最終結果",
     "EN": "Final Results",
     "KR": "최종 결과",
-    "DE": "",
-    "FR": "",
+    "DE": "Final Results",
+    "FR": "Final Results",
     "ES": "Resultados finales",
-    "TH": "",
+    "TH": "Final Results",
     "VN": ""
   },
   {
@@ -21861,10 +21861,10 @@
     "JP": "ギルド選抜中",
     "EN": "Selecting Guilds",
     "KR": "길드 선발 중",
-    "DE": "",
-    "FR": "",
+    "DE": "Selecting Guilds",
+    "FR": "Selecting Guilds",
     "ES": "Eligiendo gremio",
-    "TH": "",
+    "TH": "Selecting Guilds",
     "VN": ""
   },
   {
@@ -21875,10 +21875,10 @@
     "JP": "{0}終了までお待ちください。",
     "EN": "Please wait until {0} finishes.",
     "KR": "{0} 종료까지 잠시 기다려 주세요.",
-    "DE": "",
-    "FR": "",
+    "DE": "Please wait until {0} finishes.",
+    "FR": "Please wait until {0} finishes.",
     "ES": "Espera hasta que termine {0}",
-    "TH": "",
+    "TH": "Please wait until {0} finishes.",
     "VN": ""
   },
   {
@@ -21889,10 +21889,10 @@
     "JP": "投票期限：{0:MM月dd日 HH:mm}",
     "EN": "Ballots Expire: {0:MM月dd日 HH:mm}",
     "KR": "투표 기간: {0:MM月dd日 HH:mm}",
-    "DE": "",
-    "FR": "",
+    "DE": "Ballots Expire: {0:MM月dd日 HH:mm}",
+    "FR": "Ballots Expire: {0:MM月dd日 HH:mm}",
     "ES": "Votaciones hasta: {0:MM月dd日 HH:mm}",
-    "TH": "",
+    "TH": "Ballots Expire: {0:MM月dd日 HH:mm}",
     "VN": ""
   },
   {
@@ -21903,10 +21903,10 @@
     "JP": "{0}期限：{1:MM月dd日}【獲得メダル{2}倍】",
     "EN": "{0} Expires: {1:MM月dd日} (medals {2}x)",
     "KR": "{0} 기간: {1:MM月dd日} [획득 메달 {2}배]",
-    "DE": "",
-    "FR": "",
+    "DE": "{0} Expires: {1:MM月dd日} (medals {2}x)",
+    "FR": "{0} Expires: {1:MM月dd日} (medals {2}x)",
     "ES": "{0} Hasta: {1:MM月dd日} [Medallas obtenidas {2} veces]",
-    "TH": "",
+    "TH": "{0} Expires: {1:MM月dd日} (medals {2}x)",
     "VN": ""
   },
   {
@@ -21917,10 +21917,10 @@
     "JP": "{0}投票期間中【獲得メダル{1}倍】",
     "EN": "During {0} Voting Period (medals {1}x)",
     "KR": "{0} 투표 기간 중 [획득 메달 {1}배]",
-    "DE": "",
-    "FR": "",
+    "DE": "During {0} Voting Period (medals {1}x)",
+    "FR": "During {0} Voting Period (medals {1}x)",
     "ES": "{0} En votación (Medallas obtenidas x{1})",
-    "TH": "",
+    "TH": "During {0} Voting Period (medals {1}x)",
     "VN": ""
   },
   {
@@ -21931,10 +21931,10 @@
     "JP": "投票開始までお待ちください。",
     "EN": "Please wait for voting to begin.",
     "KR": "투표 시작까지 잠시 기다려 주세요.",
-    "DE": "",
-    "FR": "",
+    "DE": "Please wait for voting to begin.",
+    "FR": "Please wait for voting to begin.",
     "ES": "Por favor, espera hasta que terminen las votaciones.",
-    "TH": "",
+    "TH": "Please wait for voting to begin.",
     "VN": ""
   },
   {
@@ -21945,10 +21945,10 @@
     "JP": "予選{0}位",
     "EN": "Preliminaries Rank {0}",
     "KR": "예선 {0}위",
-    "DE": "",
-    "FR": "",
+    "DE": "Preliminaries Rank {0}",
+    "FR": "Preliminaries Rank {0}",
     "ES": "Clasificatorias {0} Lugar",
-    "TH": "",
+    "TH": "Preliminaries Rank {0}",
     "VN": ""
   },
   {
@@ -21959,10 +21959,10 @@
     "JP": "{0}<size=24>[{1}]</size>",
     "EN": "{0} <size=24>[{1}]</size>",
     "KR": "{0} <size=24>[{1}]</size>",
-    "DE": "",
-    "FR": "",
+    "DE": "{0} <size=24>[{1}]</size>",
+    "FR": "{0} <size=24>[{1}]</size>",
     "ES": "{0}<size=24>[{1}]</size>",
-    "TH": "",
+    "TH": "{0} <size=24>[{1}]</size>",
     "VN": ""
   },
   {
@@ -21973,10 +21973,10 @@
     "JP": "投票履歴",
     "EN": "Vote History",
     "KR": "투표 이력",
-    "DE": "",
-    "FR": "",
+    "DE": "Vote History",
+    "FR": "Vote History",
     "ES": "Historial de votos",
-    "TH": "",
+    "TH": "Vote History",
     "VN": ""
   },
   {
@@ -21987,10 +21987,10 @@
     "JP": "合計",
     "EN": "Total",
     "KR": "합계",
-    "DE": "",
-    "FR": "",
+    "DE": "Total",
+    "FR": "Total",
     "ES": "Total",
-    "TH": "",
+    "TH": "Total",
     "VN": ""
   },
   {
@@ -22001,10 +22001,10 @@
     "JP": "投票履歴",
     "EN": "Vote History",
     "KR": "투표 이력",
-    "DE": "",
-    "FR": "",
+    "DE": "Vote History",
+    "FR": "Vote History",
     "ES": "Historial de votos",
-    "TH": "",
+    "TH": "Vote History",
     "VN": ""
   },
   {
@@ -22015,10 +22015,10 @@
     "JP": "SP回復中...",
     "EN": "Recovering SP...",
     "KR": "SP 회복 중……",
-    "DE": "",
-    "FR": "",
+    "DE": "Recovering SP...",
+    "FR": "Recovering SP...",
     "ES": "Recuperando PH...",
-    "TH": "",
+    "TH": "Recovering SP...",
     "VN": ""
   },
   {
@@ -22029,10 +22029,80 @@
     "JP": "対戦リプレイ",
     "EN": "Replay Battle",
     "KR": "대전 리플레이",
-    "DE": "",
-    "FR": "",
+    "DE": "Replay Battle",
+    "FR": "Replay Battle",
     "ES": "Repeticiones de batallas",
-    "TH": "",
+    "TH": "Replay Battle",
+    "VN": ""
+  },
+  {
+    "id": 1575,
+    "TLM": 52189,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "残り{0}日",
+    "EN": "{0}d left",
+    "KR": "앞으로 {0}일",
+    "DE": "{0}d left",
+    "FR": "{0}d left",
+    "ES": "Quedan {0} días",
+    "TH": "{0}d left",
+    "VN": ""
+  },
+  {
+    "id": 1576,
+    "TLM": 52190,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "残り{0}時間",
+    "EN": "{0}h left",
+    "KR": "앞으로 {0}시간",
+    "DE": "{0}h left",
+    "FR": "{0}h left",
+    "ES": "Quedan {0} horas",
+    "TH": "{0}h left",
+    "VN": ""
+  },
+  {
+    "id": 1577,
+    "TLM": 52191,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "残り{0}分",
+    "EN": "{0}m left",
+    "KR": "앞으로 {0}분",
+    "DE": "{0}m left",
+    "FR": "{0}m left",
+    "ES": "Quedan {0} minutos",
+    "TH": "{0}m left",
+    "VN": ""
+  },
+  {
+    "id": 1578,
+    "TLM": 52192,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "1分未満",
+    "EN": "less than one minute",
+    "KR": "1분 미만",
+    "DE": "less than one minute",
+    "FR": "less than one minute",
+    "ES": "Menos de un minuto",
+    "TH": "less than one minute",
+    "VN": ""
+  },
+  {
+    "id": 1579,
+    "TLM": 52187,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "設置",
+    "EN": "Settings",
+    "KR": "설치",
+    "DE": "Settings",
+    "FR": "Settings",
+    "ES": "Config.",
+    "TH": "Settings",
     "VN": ""
   }
 ]

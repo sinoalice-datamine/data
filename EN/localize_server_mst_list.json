@@ -11262,7 +11262,7 @@
     "GameKey": "Server/error.14057",
     "JP": "自ギルドのランキングデータが見つかりませんでした。",
     "EN": "Could not find ranking data on your guild.",
-    "KR": "소속된 길드의 랭킹 데이터를 찾을 수 없습니다.",
+    "KR": "소속 길드의 랭킹 데이터를 찾을 수 없습니다.",
     "DE": "Ranglisten-Daten für deine Gilde konnten nicht gefunden werden.",
     "FR": "Données de classement introuvables dans votre guilde.",
     "ES": "No he podido encontrar el rango de clasificación de tu gremio.",
@@ -14695,7 +14695,7 @@
     "KR": "마정석",
     "DE": "Zwielichtkristalle",
     "FR": "Cristaux crépusculaires",
-    "ES": "cristales del ocaso ",
+    "ES": "Cristales del ocaso",
     "TH": "คริสตัลสนธยา",
     "VN": "Pha lê chạng vạng"
   },
@@ -17424,7 +17424,7 @@
     "EN": "",
     "KR": "개",
     "DE": " Stück",
-    "FR": " ",
+    "FR": "",
     "ES": " conseg.",
     "TH": "x",
     "VN": ""
@@ -21858,9 +21858,9 @@
     "TLM": 51957,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign06.tier25a/description",
-    "JP": "有償魔晶石306個＋おまけで「白の書」、初回のみ「少年ニーア/ソーサラー」の解放",
+    "JP": "有償魔晶石306個＋おまけで「ユーフェミアの杖」、初回のみ「ユーフェミア/クレリック」の解放",
     "EN": "Twilight Crystals x306 & Grimoire Weiss (First-time only: Boy NieR/Sorcerer)",
-    "KR": "유료 마정석 306개+보너스로 \"백의 서\", 첫 회 한정 \"소년 니어/소서러\" 오픈",
+    "KR": "유료 마정석 306개 + 보너스로 \"유페미아의 지팡이\", 첫 회 한정 \"유페미아/클레릭\" 오픈",
     "DE": "306 bezahlte Zwielichtkristalle + „Weißes Buch“ und nur beim ersten Mal: „Junger Nier/Zauberer“.",
     "FR": "306 cristaux crépusculaires payés + en bonus  « Grimoire Weiss », avec 1re fois seulement Nier (Enfant)/Sorcier débloquée",
     "ES": "Al comprar Crist. del ocaso x306 + «Libro Blanco», 1ª vez solo desbloqueo «Nier (niño) /Hechicero»",
@@ -21874,7 +21874,7 @@
     "GameKey": "Server/com.global.sinoalice.campaign06.tier25b/title",
     "JP": "魔晶石306個＋武器取得",
     "EN": "T.Crys. x306 & Weapon",
-    "KR": "마정석 306개+무기 획득",
+    "KR": "마정석 306개 + 무기 획득",
     "DE": "Erhalte Zwielichtkristalle x306 + Waffe",
     "FR": "306 cristaux crépusculaires + Arme",
     "ES": "Crist. del ocaso x306 + obt. Arma",
@@ -21886,9 +21886,9 @@
     "TLM": 51959,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign06.tier25b/description",
-    "JP": "有償魔晶石306個＋おまけで「白の書」の獲得",
+    "JP": "有償魔晶石306個＋おまけで「ユーフェミアの杖」の獲得",
     "EN": "Twilight Crystals x306 & Grimoire Weiss",
-    "KR": "유료 마정석 306개 + 보너스로 \"백의 서\" 획득",
+    "KR": "유료 마정석 306개 + 보너스로 \"유페미아의 지팡이\" 획득",
     "DE": "Erhalte bezahlte Zwielichtkristalle x306 + „Weißes Buch“ als Extra",
     "FR": "306 cristaux crépusculaires payés + en bonus  « Grimoire Weiss »",
     "ES": "Al comprar Crist. del ocaso x306 + obt. «Libro Blanco»",
@@ -22603,10 +22603,10 @@
     "JP": "通常",
     "EN": "Regular",
     "KR": "일반",
-    "DE": "",
-    "FR": "",
+    "DE": "Regular",
+    "FR": "Regular",
     "ES": "Reportar",
-    "TH": "",
+    "TH": "Regular",
     "VN": ""
   },
   {
@@ -22617,10 +22617,10 @@
     "JP": "第1早期ボーナス",
     "EN": "1st Early Bonus",
     "KR": "제1 조기 보너스",
-    "DE": "",
-    "FR": "",
+    "DE": "1st Early Bonus",
+    "FR": "1st Early Bonus",
     "ES": "1º Bonificación anticipada",
-    "TH": "",
+    "TH": "1st Early Bonus",
     "VN": ""
   },
   {
@@ -22631,10 +22631,10 @@
     "JP": "第2早期ボーナス",
     "EN": "2nd Early Bonus",
     "KR": "제2 조기 보너스",
-    "DE": "",
-    "FR": "",
+    "DE": "2nd Early Bonus",
+    "FR": "2nd Early Bonus",
     "ES": "2º Bonificación anticipada",
-    "TH": "",
+    "TH": "2nd Early Bonus",
     "VN": ""
   },
   {
@@ -22645,10 +22645,10 @@
     "JP": "負けを次につなげるのはアナタ次第デス",
     "EN": "Who will lose is up to you.",
     "KR": "패배를 거울삼을지는 여러분에게 달렸어요.",
-    "DE": "",
-    "FR": "",
+    "DE": "Who will lose is up to you.",
+    "FR": "Who will lose is up to you.",
     "ES": "Depende de ti conectar con las otra derrotas",
-    "TH": "",
+    "TH": "Who will lose is up to you.",
     "VN": ""
   },
   {
@@ -22659,10 +22659,10 @@
     "JP": "マダマダ強くなれマス",
     "EN": "There's still time for you to get stronger.",
     "KR": "아직 더 강해질 수 있어요.",
-    "DE": "",
-    "FR": "",
+    "DE": "There's still time for you to get stronger.",
+    "FR": "There's still time for you to get stronger.",
     "ES": "Todavía puedes hacerte más fuerte",
-    "TH": "",
+    "TH": "There's still time for you to get stronger.",
     "VN": ""
   },
   {
@@ -22673,10 +22673,10 @@
     "JP": "アナタのギルドは強豪デス",
     "EN": "Your guild is quite a powerhouse.",
     "KR": "여러분의 길드는 강호입니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "Your guild is quite a powerhouse.",
+    "FR": "Your guild is quite a powerhouse.",
     "ES": "Tu gremio es increíblemente fuerte",
-    "TH": "",
+    "TH": "Your guild is quite a powerhouse.",
     "VN": ""
   },
   {
@@ -22687,10 +22687,10 @@
     "JP": "四天王!いい響きデス!",
     "EN": "The strongest of them all! Has a nice ring to it, yes?",
     "KR": "사천왕! 듣기 좋네요!",
-    "DE": "",
-    "FR": "",
+    "DE": "The strongest of them all! Has a nice ring to it, yes?",
+    "FR": "The strongest of them all! Has a nice ring to it, yes?",
     "ES": "¡Los cuatro reyes celestiales! ¡Qué bien suena!",
-    "TH": "",
+    "TH": "The strongest of them all! Has a nice ring to it, yes?",
     "VN": ""
   },
   {
@@ -22701,10 +22701,10 @@
     "JP": "『次は優勝』という目標が生まれマシタね",
     "EN": "The aim to win next time has sparked within, eh?",
     "KR": "\"다음엔 우승\"이라는 목표가 생겼군요.",
-    "DE": "",
-    "FR": "",
+    "DE": "The aim to win next time has sparked within, eh?",
+    "FR": "The aim to win next time has sparked within, eh?",
     "ES": "La próxima vez será la buena",
-    "TH": "",
+    "TH": "The aim to win next time has sparked within, eh?",
     "VN": ""
   },
   {
@@ -22715,10 +22715,10 @@
     "JP": "オメデトウゴザイマス――ここが頂点デス",
     "EN": "Congratulations. You have reached the top.",
     "KR": "축하합니다…… 이곳이 정점입니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "Congratulations. You have reached the top.",
+    "FR": "Congratulations. You have reached the top.",
     "ES": "¡Enhorabuena! Has llegado a lo más alto",
-    "TH": "",
+    "TH": "Congratulations. You have reached the top.",
     "VN": ""
   },
   {
@@ -22729,10 +22729,10 @@
     "JP": "血にまみれタ優勝おめでとうございマス",
     "EN": "Congrats to you on your bloody victory.",
     "KR": "피투성이 우승 축하합니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "Congrats to you on your bloody victory.",
+    "FR": "Congrats to you on your bloody victory.",
     "ES": "Enhorabuena por esta victoria tan sangrienta",
-    "TH": "",
+    "TH": "Congrats to you on your bloody victory.",
     "VN": ""
   },
   {
@@ -22743,10 +22743,10 @@
     "JP": "ご参加いただき、ありがとうございました",
     "EN": "Thank you very much for playing.",
     "KR": "참가해 주셔서 감사합니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "Thank you very much for playing.",
+    "FR": "Thank you very much for playing.",
     "ES": "¡Gracias por participar!",
-    "TH": "",
+    "TH": "Thank you very much for playing.",
     "VN": ""
   },
   {
@@ -22757,10 +22757,10 @@
     "JP": "Ａグループ",
     "EN": "Group A",
     "KR": "A 그룹",
-    "DE": "",
-    "FR": "",
+    "DE": "Group A",
+    "FR": "Group A",
     "ES": "Grupo A",
-    "TH": "",
+    "TH": "Group A",
     "VN": ""
   },
   {
@@ -22771,10 +22771,10 @@
     "JP": "Ｂグループ",
     "EN": "Group B",
     "KR": "B 그룹",
-    "DE": "",
-    "FR": "",
+    "DE": "Group B",
+    "FR": "Group B",
     "ES": "Grupo B",
-    "TH": "",
+    "TH": "Group B",
     "VN": ""
   },
   {
@@ -22785,10 +22785,10 @@
     "JP": "Ｃグループ",
     "EN": "Group C",
     "KR": "C 그룹",
-    "DE": "",
-    "FR": "",
+    "DE": "Group C",
+    "FR": "Group C",
     "ES": "Grupo C",
-    "TH": "",
+    "TH": "Group C",
     "VN": ""
   },
   {
@@ -22799,10 +22799,10 @@
     "JP": "Ｄグループ",
     "EN": "Group D",
     "KR": "D 그룹",
-    "DE": "",
-    "FR": "",
+    "DE": "Group D",
+    "FR": "Group D",
     "ES": "Grupo D",
-    "TH": "",
+    "TH": "Group D",
     "VN": ""
   },
   {
@@ -22813,10 +22813,10 @@
     "JP": "Ultimate32",
     "EN": "Ultimate 32",
     "KR": "Ultimate 32",
-    "DE": "",
-    "FR": "",
+    "DE": "Ultimate 32",
+    "FR": "Ultimate 32",
     "ES": "Ultimate 32",
-    "TH": "",
+    "TH": "Ultimate 32",
     "VN": ""
   },
   {
@@ -22827,10 +22827,10 @@
     "JP": "Super Division",
     "EN": "Super Division",
     "KR": "Super Division",
-    "DE": "",
-    "FR": "",
+    "DE": "Super Division",
+    "FR": "Super Division",
     "ES": "División super",
-    "TH": "",
+    "TH": "Super Division",
     "VN": ""
   },
   {
@@ -22841,10 +22841,10 @@
     "JP": "Normal Division",
     "EN": "Normal Division",
     "KR": "Normal Division",
-    "DE": "",
-    "FR": "",
+    "DE": "Normal Division",
+    "FR": "Normal Division",
     "ES": "División normal",
-    "TH": "",
+    "TH": "Normal Division",
     "VN": ""
   },
   {
@@ -22853,12 +22853,12 @@
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.qualifyingDivisionText.0",
     "JP": "%d位まで %sに出場可能です。",
-    "EN": "%d or better ranks will advance to the %s.",
+    "EN": "Ranks %d and better will advance to the %s.",
     "KR": "%d위까지 %s에 진출할 수 있습니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "Ranks %d and better will advance to the %s.",
+    "FR": "Ranks %d and better will advance to the %s.",
     "ES": "Con una clasificación de %d- o mejor podrás pasar a %s.",
-    "TH": "",
+    "TH": "Ranks %d and better will advance to the %s.",
     "VN": ""
   },
   {
@@ -22869,10 +22869,10 @@
     "JP": "現在の順位は %s出場圏内です。",
     "EN": "Current rank is eligible to advance to the %s.",
     "KR": "현재 %s 진출이 가능한 순위입니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "Current rank is eligible to advance to the %s.",
+    "FR": "Current rank is eligible to advance to the %s.",
     "ES": "Con el Rango actual podrás entrar en %s.",
-    "TH": "",
+    "TH": "Current rank is eligible to advance to the %s.",
     "VN": ""
   },
   {
@@ -22881,12 +22881,12 @@
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.qualifyingDivisionText.2",
     "JP": "%d位まで %sに出場可能です。",
-    "EN": "%d or better ranks will advance to the %s.",
+    "EN": "Ranks %d and better will advance to the %s.",
     "KR": "%d위까지 %s에 진출할 수 있습니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "Ranks %d and better will advance to the %s.",
+    "FR": "Ranks %d and better will advance to the %s.",
     "ES": "Con una clasificación de %d- o mejor podrás pasar a %s.",
-    "TH": "",
+    "TH": "Ranks %d and better will advance to the %s.",
     "VN": ""
   },
   {
@@ -22895,12 +22895,12 @@
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.qualifyingDivisionText.3",
     "JP": "%d位まで %sに出場可能です。",
-    "EN": "%d or better ranks will advance to the %s.",
+    "EN": "Ranks %d and better will advance to the %s.",
     "KR": "%d위까지 %s에 진출할 수 있습니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "Ranks %d and better will advance to the %s.",
+    "FR": "Ranks %d and better will advance to the %s.",
     "ES": "Con una clasificación de %d- o mejor podrás pasar a %s.",
-    "TH": "",
+    "TH": "Ranks %d and better will advance to the %s.",
     "VN": ""
   },
   {
@@ -22911,10 +22911,10 @@
     "JP": "%d月%d日になるまでランキングは確認できません。",
     "EN": "Rankings not available until %d/%d.",
     "KR": "%d월 %d일까지 랭킹을 확인할 수 없습니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "Rankings not available until %d/%d.",
+    "FR": "Rankings not available until %d/%d.",
     "ES": "No hay clasificaciones disponibles hasta hasta el %d/%d",
-    "TH": "",
+    "TH": "Rankings not available until %d/%d.",
     "VN": ""
   },
   {
@@ -22925,10 +22925,10 @@
     "JP": "第%d回コロシアム・シン",
     "EN": "Colosseum Sin #%d",
     "KR": "제%d회 콜로세움 신",
-    "DE": "",
-    "FR": "",
+    "DE": "Colosseum Sin #%d",
+    "FR": "Colosseum Sin #%d",
     "ES": "%dº vez del Coliseo Shin",
-    "TH": "",
+    "TH": "Colosseum Sin #%d",
     "VN": ""
   },
   {
@@ -22939,10 +22939,10 @@
     "JP": "第%d回コロシアム・シン %s %sの報酬です",
     "EN": "Colosseum Sin #%d %s %s reward.",
     "KR": "제%d회 콜로세움 신 %s %s 보상입니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "Colosseum Sin #%d %s %s reward.",
+    "FR": "Colosseum Sin #%d %s %s reward.",
     "ES": "%dº vez del Coliseo Shin %s Recompensas de %s",
-    "TH": "",
+    "TH": "Colosseum Sin #%d %s %s reward.",
     "VN": ""
   },
   {
@@ -22953,10 +22953,10 @@
     "JP": "第%d回コロシアム・シン %s 時間帯「%s」%sの報酬です",
     "EN": "Colosseum Sin # %d %s time slot reward %s for coming in at #%s.",
     "KR": "제%d회 콜로세움 신 %s 시간대 \"%s\" %s 보상입니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "Colosseum Sin # %d %s time slot reward %s for coming in at #%s.",
+    "FR": "Colosseum Sin # %d %s time slot reward %s for coming in at #%s.",
     "ES": "%dº vez del Coliseo Shin %s Recompensas %s de la Franja horaria «%s»",
-    "TH": "",
+    "TH": "Colosseum Sin # %d %s time slot reward %s for coming in at #%s.",
     "VN": ""
   },
   {
@@ -22967,10 +22967,10 @@
     "JP": "ベスト32",
     "EN": "Top 32",
     "KR": "상위 32",
-    "DE": "",
-    "FR": "",
+    "DE": "Top 32",
+    "FR": "Top 32",
     "ES": "Los mejores 32",
-    "TH": "",
+    "TH": "Top 32",
     "VN": ""
   },
   {
@@ -22981,10 +22981,10 @@
     "JP": "ベスト16",
     "EN": "Top 16",
     "KR": "상위 16",
-    "DE": "",
-    "FR": "",
+    "DE": "Top 16",
+    "FR": "Top 16",
     "ES": "Los mejores 16",
-    "TH": "",
+    "TH": "Top 16",
     "VN": ""
   },
   {
@@ -22995,10 +22995,10 @@
     "JP": "ベスト8",
     "EN": "Top 8",
     "KR": "상위 8",
-    "DE": "",
-    "FR": "",
+    "DE": "Top 8",
+    "FR": "Top 8",
     "ES": "Los mejores 8",
-    "TH": "",
+    "TH": "Top 8",
     "VN": ""
   },
   {
@@ -23009,10 +23009,10 @@
     "JP": "ベスト4",
     "EN": "Top 4",
     "KR": "상위 4",
-    "DE": "",
-    "FR": "",
+    "DE": "Top 4",
+    "FR": "Top 4",
     "ES": "Los mejores 4",
-    "TH": "",
+    "TH": "Top 4",
     "VN": ""
   },
   {
@@ -23023,10 +23023,10 @@
     "JP": "準優勝",
     "EN": "Runner Up",
     "KR": "준우승",
-    "DE": "",
-    "FR": "",
+    "DE": "Runner Up",
+    "FR": "Runner Up",
     "ES": "Segundo lugar",
-    "TH": "",
+    "TH": "Runner Up",
     "VN": ""
   },
   {
@@ -23037,10 +23037,10 @@
     "JP": "優勝",
     "EN": "Winner",
     "KR": "우승",
-    "DE": "",
-    "FR": "",
+    "DE": "Winner",
+    "FR": "Winner",
     "ES": "Ganador",
-    "TH": "",
+    "TH": "Winner",
     "VN": ""
   },
   {
@@ -23051,10 +23051,10 @@
     "JP": "ミッション達成報酬ガチャが解放されました。",
     "EN": "Mission Completion Reward Grimoire has been unlocked.",
     "KR": "미션 달성 보상 뽑기가 해금되었습니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "Mission Completion Reward Grimoire has been unlocked.",
+    "FR": "Mission Completion Reward Grimoire has been unlocked.",
     "ES": "Se ha desbloqueado el Grimorio de Recompensa de logro de misión",
-    "TH": "",
+    "TH": "Mission Completion Reward Grimoire has been unlocked.",
     "VN": ""
   },
   {
@@ -23065,10 +23065,10 @@
     "JP": "全クリアで解放",
     "EN": "Clear all to unlock",
     "KR": "모두 클리어 시 해금",
-    "DE": "",
-    "FR": "",
+    "DE": "Clear all to unlock",
+    "FR": "Clear all to unlock",
     "ES": "Se desbloquea al completar todo",
-    "TH": "",
+    "TH": "Clear all to unlock",
     "VN": ""
   },
   {
@@ -23079,10 +23079,10 @@
     "JP": "%m/%dに解放",
     "EN": "Unlocks %m/%d",
     "KR": "%m/%d에 해금",
-    "DE": "",
-    "FR": "",
+    "DE": "Unlocks %m/%d",
+    "FR": "Unlocks %m/%d",
     "ES": "Se desbloqueará el %d/%m",
-    "TH": "",
+    "TH": "Unlocks %m/%d",
     "VN": ""
   },
   {
@@ -23093,10 +23093,10 @@
     "JP": "キャンペーン期間終了間近のため、解放できません",
     "EN": "Cannot unlock due to campaign period ending.",
     "KR": "캠페인 기간 종료까지 얼마 남지 않아 해금할 수 없습니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "Cannot unlock due to campaign period ending.",
+    "FR": "Cannot unlock due to campaign period ending.",
     "ES": "No se puede desbloquear debido a que la campaña finalizará próximamente",
-    "TH": "",
+    "TH": "Cannot unlock due to campaign period ending.",
     "VN": ""
   },
   {
@@ -23135,10 +23135,10 @@
     "JP": "コードギアスコラボ記念プレゼントミッションの応募手順1が完了しました",
     "EN": "Step 1 to enter the Code Geass Collaboration Special Gift Mission has been completed",
     "KR": "코드 기아스 콜라보 기념 선물 미션 응모 순서 1이 완료되었습니다.",
-    "DE": "",
-    "FR": "",
+    "DE": "Step 1 to enter the Code Geass Collaboration Special Gift Mission has been completed",
+    "FR": "Step 1 to enter the Code Geass Collaboration Special Gift Mission has been completed",
     "ES": "Se ha completado el primer paso para la inscripción en la misión de regalos para la celebración de la colaboración con Code Geass",
-    "TH": "",
+    "TH": "Step 1 to enter the Code Geass Collaboration Special Gift Mission has been completed",
     "VN": ""
   },
   {
@@ -23149,10 +23149,10 @@
     "JP": "応募スル",
     "EN": "Enter",
     "KR": "응모하기",
-    "DE": "",
-    "FR": "",
+    "DE": "Enter",
+    "FR": "Enter",
     "ES": "Inscribirse",
-    "TH": "",
+    "TH": "Enter",
     "VN": ""
   },
   {
@@ -23163,10 +23163,10 @@
     "JP": "応募状況：",
     "EN": "Entry Status:",
     "KR": "응모 상황: ",
-    "DE": "",
-    "FR": "",
+    "DE": "Entry Status:",
+    "FR": "Entry Status:",
     "ES": "Estado de la inscripción:",
-    "TH": "",
+    "TH": "Entry Status:",
     "VN": ""
   },
   {
@@ -23175,12 +23175,12 @@
     "Type": 0,
     "GameKey": "Server/error.14083",
     "JP": "ランキングデータが見つかりませんでした。",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "EN": "Could not find ranking data.",
+    "KR": "랭킹 데이터를 찾을 수 없습니다.",
+    "DE": "Could not find ranking data.",
+    "FR": "Could not find ranking data.",
+    "ES": "No he podido encontrar el rango de clasificación.",
+    "TH": "Could not find ranking data.",
     "VN": ""
   },
   {
@@ -23189,12 +23189,12 @@
     "Type": 0,
     "GameKey": "Server/error.14084",
     "JP": "自ギルドのランキングデータが見つかりませんでした。",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "EN": "Could not find ranking data on your guild.",
+    "KR": "소속 길드의 랭킹 데이터를 찾을 수 없습니다.",
+    "DE": "Could not find ranking data on your guild.",
+    "FR": "Could not find ranking data on your guild.",
+    "ES": "No he podido encontrar el rango de clasificación de tu gremio.",
+    "TH": "Could not find ranking data on your guild.",
     "VN": ""
   }
 ]

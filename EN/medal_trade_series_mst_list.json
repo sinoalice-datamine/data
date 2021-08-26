@@ -402,7 +402,7 @@
     "priority": 43,
     "itemMstId": 650,
     "startTime": 1626847200,
-    "endTime": 1628056799,
+    "endTime": 1631167199,
     "isDeleted": false
   },
   {
@@ -504,6 +504,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 53,
+    "name": "Arcana Medal",
+    "description": "A medal that is an incidental byproduct of purchasing certain twilight crystals",
+    "resourceName": "item1",
+    "assetBundleName": "45",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by buying twilight crystals with the Arcana Medal.",
+    "priority": 37,
+    "itemMstId": 823,
+    "startTime": 1629957600,
+    "endTime": 1631771999,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 54,
     "name": "Halloween Medal",
     "description": "Medal collected by Parrah-Noya.",
@@ -585,6 +599,20 @@
     "itemMstId": 1696,
     "startTime": 1618552800,
     "endTime": 1620399599,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 156,
+    "name": "Hinaka Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20210826_medal_gemcom",
+    "assetBundleName": "2195",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 2195,
+    "startTime": 1629957600,
+    "endTime": 1631771999,
     "isDeleted": false
   },
   {
@@ -697,6 +725,20 @@
     "itemMstId": 900214,
     "startTime": 1628143200,
     "endTime": 1629989999,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900007,
+    "name": "Gem Co. Medal",
+    "description": "Medal from a collaboration grimoire.",
+    "resourceName": "item20210826_gacha_gemcam",
+    "assetBundleName": "2227",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 56,
+    "itemMstId": 2227,
+    "startTime": 1629957600,
+    "endTime": 1631804399,
     "isDeleted": false
   }
 ]
