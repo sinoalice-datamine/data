@@ -66666,11 +66666,11 @@
     "appearEffectType": 1,
     "destroyEffectType": 1,
     "infoAttack": 2,
-    "infoDefence": 4,
+    "infoDefence": 2,
     "infoMagicAttack": 2,
-    "infoMagicDefence": 4,
-    "infoAttackSpeed": 4,
-    "infoAttackArea": 5,
+    "infoMagicDefence": 2,
+    "infoAttackSpeed": 2,
+    "infoAttackArea": 1,
     "infoDetail": "【特徴】\r\n攻撃は物理攻撃しか行わない\r\n\r\n【攻略】\r\n物理防御力を上げるスキルを使うと有効。"
   },
   {
@@ -66909,7 +66909,7 @@
     "infoMagicDefence": 2,
     "infoAttackSpeed": 1,
     "infoAttackArea": 5,
-    "infoDetail": "【特徴】\r\nLeaderの距離に応じて攻撃パターンが変わる。\r\n攻撃力はそこまで高くない。\r\n3分間経てばクリアとなる。\r\n\r\n【攻略】\r\n距離に応じて武器を使い分けよう。\r\n与えたダメージがポイントとなるため、全力で攻撃しよう。"
+    "infoDetail": "【特徴】\r\nLeaderの武器種に応じて攻撃パターンが変わる。\r\n攻撃力はそこまで高くない。\r\n3分間経てばクリアとなる。\r\n\r\n【攻略】\r\n距離に応じて武器を使い分けよう。\r\n与えたダメージがスコアとなるため、全力で攻撃しよう。"
   },
   {
     "questEnemyMstId": 2018,

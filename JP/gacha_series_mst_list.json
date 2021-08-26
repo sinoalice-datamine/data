@@ -16815,6 +16815,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 2147,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 5721,
+    "isAlways": false,
+    "name": "『精霊奉葬』SS1点確定ガチャ+セットアイテム",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅷ)\r\n枚数：11回ガチャで100枚\r\n有効期限：2021年9月7日23:59",
+    "priority": 16600,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=8490&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 0,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 5001,
     "gachaGroupId": 9,
     "topBannerMstId": 0,

@@ -1,9 +1,9 @@
 {
-  "lastCreatedTime": "2021-08-19 16:15:06",
+  "lastCreatedTime": "2021-08-25 16:29:29",
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
-      "version": 965,
+      "version": 968,
       "names": [
         "item_mst_list"
       ]
@@ -17,7 +17,7 @@
     },
     {
       "mstTableId": 5,
-      "version": 323,
+      "version": 324,
       "names": [
         "art_mst_list"
       ]
@@ -31,28 +31,28 @@
     },
     {
       "mstTableId": 7,
-      "version": 398,
+      "version": 401,
       "names": [
         "medal_trade_series_mst_list"
       ]
     },
     {
       "mstTableId": 8,
-      "version": 986,
+      "version": 991,
       "names": [
         "medal_trade_mst_list"
       ]
     },
     {
       "mstTableId": 9,
-      "version": 866,
+      "version": 870,
       "names": [
         "card_mst_list"
       ]
     },
     {
       "mstTableId": 14,
-      "version": 533,
+      "version": 534,
       "names": [
         "skill_mst_list"
       ]
@@ -66,14 +66,14 @@
     },
     {
       "mstTableId": 16,
-      "version": 305,
+      "version": 307,
       "names": [
         "login_bonus_mst_list"
       ]
     },
     {
       "mstTableId": 17,
-      "version": 297,
+      "version": 299,
       "names": [
         "login_bonus_reward_mst_list"
       ]
@@ -94,35 +94,35 @@
     },
     {
       "mstTableId": 20,
-      "version": 1036,
+      "version": 1037,
       "names": [
         "gacha_mst_list"
       ]
     },
     {
       "mstTableId": 21,
-      "version": 1059,
+      "version": 1060,
       "names": [
         "gacha_pickup_mst_list"
       ]
     },
     {
       "mstTableId": 22,
-      "version": 736,
+      "version": 737,
       "names": [
         "gacha_series_mst_list"
       ]
     },
     {
       "mstTableId": 23,
-      "version": 655,
+      "version": 660,
       "names": [
         "mission_mst_list"
       ]
     },
     {
       "mstTableId": 25,
-      "version": 491,
+      "version": 493,
       "names": [
         "card_story_mst_list"
       ]
@@ -136,21 +136,21 @@
     },
     {
       "mstTableId": 27,
-      "version": 473,
+      "version": 474,
       "names": [
         "character_mst_list"
       ]
     },
     {
       "mstTableId": 28,
-      "version": 401,
+      "version": 402,
       "names": [
         "medal_trade_pickup_mst_list"
       ]
     },
     {
       "mstTableId": 29,
-      "version": 63,
+      "version": 64,
       "names": [
         "ultimate_art_method_mst_list"
       ]
@@ -178,14 +178,14 @@
     },
     {
       "mstTableId": 34,
-      "version": 239,
+      "version": 240,
       "names": [
         "resource_file_mst_list"
       ]
     },
     {
       "mstTableId": 35,
-      "version": 114,
+      "version": 116,
       "names": [
         "chat_stamp_mst_list"
       ]
@@ -199,14 +199,14 @@
     },
     {
       "mstTableId": 37,
-      "version": 525,
+      "version": 530,
       "names": [
         "mission_title_mst_list"
       ]
     },
     {
       "mstTableId": 38,
-      "version": 2906,
+      "version": 2921,
       "names": [
         "banner_mst_list"
       ]
@@ -234,7 +234,7 @@
     },
     {
       "mstTableId": 42,
-      "version": 426,
+      "version": 429,
       "names": [
         "character_ability_mst_list"
       ]
@@ -332,7 +332,7 @@
     },
     {
       "mstTableId": 58,
-      "version": 415,
+      "version": 416,
       "names": [
         "gacha_bonus_mst_list"
       ]
@@ -353,28 +353,28 @@
     },
     {
       "mstTableId": 61,
-      "version": 646,
+      "version": 648,
       "names": [
         "card_evolution_mst_list"
       ]
     },
     {
       "mstTableId": 62,
-      "version": 246,
+      "version": 247,
       "names": [
         "quest_enemy_mst_list"
       ]
     },
     {
       "mstTableId": 63,
-      "version": 542,
+      "version": 547,
       "names": [
         "quest_schedule_mst_list"
       ]
     },
     {
       "mstTableId": 64,
-      "version": 49,
+      "version": 50,
       "names": [
         "quest_campaign_mst_list"
       ]
@@ -402,14 +402,14 @@
     },
     {
       "mstTableId": 68,
-      "version": 190,
+      "version": 191,
       "names": [
         "navigator_talk_story_mst_list"
       ]
     },
     {
       "mstTableId": 69,
-      "version": 230,
+      "version": 231,
       "names": [
         "movie_resource_mst_list"
       ]
@@ -556,7 +556,7 @@
     },
     {
       "mstTableId": 97,
-      "version": 36,
+      "version": 38,
       "names": [
         "character_board_node_mst_list"
       ]
@@ -668,11 +668,11 @@
     },
     {
       "mstTableId": 114,
-      "version": 41
+      "version": 42
     },
     {
       "mstTableId": 115,
-      "version": 40
+      "version": 41
     },
     {
       "mstTableId": 116,
@@ -680,7 +680,7 @@
     },
     {
       "mstTableId": 117,
-      "version": 5
+      "version": 6
     },
     {
       "mstTableId": 118,

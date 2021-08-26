@@ -4320,6 +4320,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 289,
+    "name": "配当メダル・シン",
+    "description": "コロシアム・シン中のギシアン酒場で入手できるメダル\r\n※2021年9月26日23:59まで",
+    "resourceName": "item20190731_colloseumsin1_honsen",
+    "assetBundleName": "1319",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "コロシアム・シンのギシアン酒場にて獲得できます。\r\n※有効期限2021年9月26日23:59まで",
+    "priority": 38,
+    "itemMstId": 3530,
+    "startTime": 1629871200,
+    "endTime": 1632668399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 291,
     "name": "ナイトメアメダル",
     "description": "魔晶石購入特典のナイトメアと交換できるメダル\r\n※2021年9月1日23:59まで",
@@ -4332,6 +4348,38 @@
     "itemMstId": 3646,
     "startTime": 1629352800,
     "endTime": 1630508399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 292,
+    "name": "ジョブメダル",
+    "description": "魔晶石購入特典のジョブと交換できるメダル\r\n※2021年9月9日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "217",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ジョブメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2021年9月9日23:59まで",
+    "priority": 37,
+    "itemMstId": 3647,
+    "startTime": 1629867600,
+    "endTime": 1631199599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 293,
+    "name": "アルカナメダル",
+    "description": "アルカナと交換できるメダル\r\n※2021年9月9日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "216",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "アルカナメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2021年9月9日23:59まで",
+    "priority": 37,
+    "itemMstId": 3648,
+    "startTime": 1629867600,
+    "endTime": 1631199599,
     "displayType": 0,
     "isDeleted": false
   }
