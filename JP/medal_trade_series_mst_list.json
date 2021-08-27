@@ -4336,6 +4336,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 290,
+    "name": "ヨクボウメダル(Ⅸ)",
+    "description": "ガチャで獲得できるメダル\r\n※2021年10月7日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年10月7日23:59まで",
+    "priority": 55,
+    "itemMstId": 3649,
+    "startTime": 1630044000,
+    "endTime": 1633618799,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 291,
     "name": "ナイトメアメダル",
     "description": "魔晶石購入特典のナイトメアと交換できるメダル\r\n※2021年9月1日23:59まで",
