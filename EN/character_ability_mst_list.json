@@ -15760,6 +15760,126 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 1901,
+    "characterMstId": 149,
+    "name": "Heavy (Wind) +30% (Pinocchio+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1902,
+    "characterMstId": 149,
+    "name": "All Weapons (Fire) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 1903,
+    "characterMstId": 149,
+    "name": "Heavy (Wind) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1904,
+    "characterMstId": 149,
+    "name": "Heavy (Wind) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1905,
+    "characterMstId": 149,
+    "name": "P.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1906,
+    "characterMstId": 149,
+    "name": "P.DEF +800",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 800,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1907,
+    "characterMstId": 149,
+    "name": "HP +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1908,
+    "characterMstId": 149,
+    "name": "P.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1909,
+    "characterMstId": 149,
+    "name": "Heavy (Wind) +10% (Pinocchio+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1910,
+    "characterMstId": 149,
+    "name": "P.DMG +1.5% when using heavy class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900002,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1911,
+    "characterMstId": 149,
+    "name": "P.DEF +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 1912,
+    "characterMstId": 149,
+    "name": "P.DEF +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 1925,
     "characterMstId": 150,
     "name": "Instrument (Fire) +30% (Sleeping Beauty+ stages)",
@@ -18478,6 +18598,26 @@
     "effectType": 5,
     "effectValue": 500,
     "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 2813,
+    "characterMstId": 149,
+    "name": "Heavy (Wind) +30% (Pinocchio+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2814,
+    "characterMstId": 149,
+    "name": "P.ATK +800",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 800,
+    "cardDetailType": 6
   },
   {
     "characterAbilityMstId": 2903,
