@@ -6726,5 +6726,37 @@
     "startTime": 1630422000,
     "endTime": 1630508399,
     "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 868,
+    "title": "「月影の終末」ミッション",
+    "priority": 20003,
+    "startTime": 1630558800,
+    "endTime": 1631768399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 869,
+    "title": "イベントデイリーミッション",
+    "priority": 20004,
+    "startTime": 1630558800,
+    "endTime": 1631768399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 871,
+    "title": "イベント早期クリアミッション",
+    "priority": 20005,
+    "startTime": 1630558800,
+    "endTime": 1630940399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 872,
+    "title": "座談会視聴連動ミッション",
+    "priority": 0,
+    "startTime": 1630558800,
+    "endTime": 1633013999,
+    "isHideTime": false
   }
 ]

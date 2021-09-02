@@ -5410,5 +5410,49 @@
     "description": "夏祭りイベントHard",
     "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
     "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 518,
+    "mapType": 1,
+    "mapGroup": 510,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "月影の終末",
+    "description": "お月見イベントNormal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 519,
+    "mapType": 1,
+    "mapGroup": 510,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "月影の終末",
+    "description": "お月見イベントHard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 522,
+    "mapType": 1,
+    "mapGroup": 512,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "曜日ステージ",
+    "description": "曜日イベントNormal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 523,
+    "mapType": 1,
+    "mapGroup": 513,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "曜日ステージ",
+    "description": "曜日イベントNormal",
+    "announceUrl": "",
+    "createdTime": 1483974000
   }
 ]

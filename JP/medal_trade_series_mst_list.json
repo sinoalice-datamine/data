@@ -4320,6 +4320,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 288,
+    "name": "月兎メダル",
+    "description": "ギシンアンキが集めているメダル※2021年9月23日23:59まで",
+    "resourceName": "item20210902_event_ghost",
+    "assetBundleName": "3595",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2021年9月23日23:59まで",
+    "priority": 43,
+    "itemMstId": 3595,
+    "startTime": 1630558800,
+    "endTime": 1632409199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 289,
     "name": "配当メダル・シン",
     "description": "コロシアム・シン中のギシアン酒場で入手できるメダル\r\n※2021年9月26日23:59まで",
