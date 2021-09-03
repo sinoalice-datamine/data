@@ -2754,6 +2754,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 530,
+    "gachaGroupId": 5,
+    "bannerMstId": 1210,
+    "isAlways": false,
+    "name": "STEP Grimoire: Lazy Bear Face",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅸ)\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Medal of desire (Ⅸ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 1310,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=1618&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 534,
     "gachaGroupId": 3,
     "bannerMstId": 1230,

@@ -16840,6 +16840,126 @@
     "cardDetailType": 1
   },
   {
+    "characterAbilityMstId": 2037,
+    "characterMstId": 187,
+    "name": "Instrument (Wind) +30% (Dorothy+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2038,
+    "characterMstId": 187,
+    "name": "All Weapons (Fire) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 2039,
+    "characterMstId": 187,
+    "name": "Instrument (Wind) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2040,
+    "characterMstId": 187,
+    "name": "Instrument (Wind) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2041,
+    "characterMstId": 187,
+    "name": "M.DEF +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2042,
+    "characterMstId": 187,
+    "name": "P.ATK +800",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 800,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2043,
+    "characterMstId": 187,
+    "name": "M.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2044,
+    "characterMstId": 187,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2045,
+    "characterMstId": 187,
+    "name": "Instrument (Wind) +10% (Dorothy+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2046,
+    "characterMstId": 187,
+    "name": "Buff effect +1.5% when using instrument class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900005,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2047,
+    "characterMstId": 187,
+    "name": "HP +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2048,
+    "characterMstId": 187,
+    "name": "HP +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 1
+  },
+  {
     "characterAbilityMstId": 2061,
     "characterMstId": 12,
     "name": "Tome +10% (Cinderella+ stages)",
@@ -18618,6 +18738,26 @@
     "effectType": 9,
     "effectValue": 800,
     "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2815,
+    "characterMstId": 187,
+    "name": "Instrument (Wind) +30% (Dorothy+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2816,
+    "characterMstId": 187,
+    "name": "M.ATK +800",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 800,
+    "cardDetailType": 1
   },
   {
     "characterAbilityMstId": 2903,
