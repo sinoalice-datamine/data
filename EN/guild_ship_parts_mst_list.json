@@ -252,6 +252,78 @@
     "rttParam": 0
   },
   {
+    "guildShipPartsMstId": 35,
+    "name": "Funhouse Series: League 1 (Superstructure)",
+    "description": "Ship superstructure rewarded to League 1 top overall ranking guilds at the 14th Gran Colosseum",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1536,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 36,
+    "name": "Funhouse Series: League 1 (Hull)",
+    "description": "Ship hull rewarded to League 1 top overall ranking guilds at the 14th Gran Colosseum",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 32,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 37,
+    "name": "Funhouse Series: League 1 (Lantern)",
+    "description": "Ship lantern rewarded to League 1 top overall ranking guilds at the 14th Gran Colosseum",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 38,
+    "name": "Funhouse Series: League 2 (Superstructure)",
+    "description": "Ship superstructure rewarded to League 2 top overall ranking guilds at the 14th Gran Colosseum",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1536,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 39,
+    "name": "Funhouse Series: League 2 (Hull)",
+    "description": "Ship hull rewarded to League 2 top overall ranking guilds at the 14th Gran Colosseum",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 32,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 40,
+    "name": "Funhouse Series: League 2 (Lantern)",
+    "description": "Ship lantern rewarded to League 2 top overall ranking guilds at the 14th Gran Colosseum",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
     "guildShipPartsMstId": 151,
     "name": "Emil Series (Superstructure)",
     "description": "Superstructure for the Emil guildship series",
