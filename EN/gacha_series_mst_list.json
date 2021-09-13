@@ -2329,6 +2329,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 227,
+    "gachaGroupId": 5,
+    "bannerMstId": 639,
+    "isAlways": false,
+    "name": "STEP Grimoire: Flaming Scorpion of Lust",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅸ)\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Medal of desire (Ⅸ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 1340,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=1631&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 228,
     "gachaGroupId": 5,
     "bannerMstId": 649,

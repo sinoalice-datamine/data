@@ -28920,6 +28920,26 @@
     "skillEffectParam2": 0
   },
   {
+    "skillMstId": 3053,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "Gathered Droughtbreak (II)",
+    "description": "Restores HP to 1 to 2 allies.\\nEffectiveness will depend on how many water affinity gear is equipped in your main set.",
+    "attackEffect": 0,
+    "sp": 19,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 525,
+    "typeLabel": "Multiple Allies/Self",
+    "primaryIcon": 3,
+    "secondaryIcon": 24,
+    "rangeIcon": 2,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0
+  },
+  {
     "skillMstId": 3057,
     "category": 1,
     "setEffectSeriesId": 0,
