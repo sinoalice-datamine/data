@@ -21897,62 +21897,118 @@
   },
   {
     "id": 1565,
-    "TLM": 52241,
+    "TLM": 51962,
     "Type": 0,
-    "GameKey": "Server/error.14123",
-    "JP": "トーナメントデータ取得に失敗しました。",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "GameKey": "ServerData/gvgMessage.jobSkillAdd",
+    "JP": "さらに%CHARACTER_NAME%の%SKILL_NAME%が発動。",
+    "EN": "%CHARACTER_NAME%'s %SKILL_NAME% skill also activated.",
+    "KR": "추가로 %CHARACTER_NAME%의 %SKILL_NAME% 발동.",
+    "DE": "Außerdem wurde %SKILL_NAME% von %CHARACTER_NAME% aktiviert.",
+    "FR": "%SKILL_NAME% de %CHARACTER_NAME% également activé(e).",
+    "ES": "También se ha activado el nivel  de %SKILL_NAME% de %CHARACTER_NAME%.",
+    "TH": "นอกจากนี้%SKILL_NAME% ของ %CHARACTER_NAME% จะถูกเปิดใช้งาน",
     "VN": ""
   },
   {
     "id": 1566,
-    "TLM": 52242,
+    "TLM": 51963,
     "Type": 0,
-    "GameKey": "Server/error.11413",
-    "JP": "コロシアム・シン参加中のギルドに加入することはできません。",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "GameKey": "ServerData/gvgMessage.jobEnemySkillAdd",
+    "JP": "%USER_NAME%の%CHARACTER_NAME%の%SKILL_NAME%が発動。",
+    "EN": "%USER_NAME%'s %CHARACTER_NAME% activated the skill: %SKILL_NAME%",
+    "KR": "%USER_NAME%의 %CHARACTER_NAME%의 %SKILL_NAME% 발동.",
+    "DE": "%USER_NAME% hat %SKILL_NAME% von %CHARACTER_NAME% aktiviert.",
+    "FR": "%SKILL_NAME% de %CHARACTER_NAME% de %USER_NAME% activé(e).",
+    "ES": "El %USER_NAME% de %CHARACTER_NAME% de %SKILL_NAME% activado.",
+    "TH": "%SKILL_NAME%ของ%CHARACTER_NAME%ของ%USER_NAME%จะถูกเปิดใช้งาน",
     "VN": ""
   },
   {
     "id": 1567,
-    "TLM": 52243,
+    "TLM": 51965,
     "Type": 0,
-    "GameKey": "Server/error.11414",
-    "JP": "コロシアム・シン参加中のギルドを脱退することはできません。",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "GameKey": "ServerData/config.ColosseumSP.Title4",
+    "JP": "第六回",
+    "EN": "6th",
+    "KR": "제6회",
+    "DE": "6.",
+    "FR": "6e",
+    "ES": "6º",
+    "TH": "ครั้งที่หก",
     "VN": ""
   },
   {
     "id": 1568,
-    "TLM": 52244,
+    "TLM": 51966,
     "Type": 0,
-    "GameKey": "Server/error.11415",
-    "JP": "コロシアム・シン参加中のギルドを解散することはできません。",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "GameKey": "ServerData/config.ColosseumSP.Title5",
+    "JP": "第七回",
+    "EN": "7th",
+    "KR": "제7회",
+    "DE": "7.",
+    "FR": "7e",
+    "ES": "7º",
+    "TH": "ครั้งที่เจ็ด",
     "VN": ""
   },
   {
     "id": 1569,
+    "TLM": 51967,
+    "Type": 0,
+    "GameKey": "ServerData/config.ColosseumSP.Title6",
+    "JP": "第八回",
+    "EN": "8th",
+    "KR": "제8회",
+    "DE": "8.",
+    "FR": "8e",
+    "ES": "8º",
+    "TH": "ครั้งที่แปด",
+    "VN": ""
+  },
+  {
+    "id": 1570,
+    "TLM": 51968,
+    "Type": 0,
+    "GameKey": "ServerData/config.ColosseumSP.Title7",
+    "JP": "第九回",
+    "EN": "9th",
+    "KR": "제9회",
+    "DE": "9.",
+    "FR": "9e",
+    "ES": "9º",
+    "TH": "ครั้งที่เก้า",
+    "VN": ""
+  },
+  {
+    "id": 1571,
+    "TLM": 51969,
+    "Type": 0,
+    "GameKey": "ServerData/config.ColosseumSP.Title8",
+    "JP": "第十回",
+    "EN": "10th",
+    "KR": "제10회",
+    "DE": "10.",
+    "FR": "10e",
+    "ES": "10º",
+    "TH": "ครั้งที่สิบ",
+    "VN": ""
+  },
+  {
+    "id": 1572,
+    "TLM": 51970,
+    "Type": 0,
+    "GameKey": "ServerData/config.ColosseumSP.Title9",
+    "JP": "第十一回",
+    "EN": "11th",
+    "KR": "제11회",
+    "DE": "11.",
+    "FR": "11e",
+    "ES": "11º",
+    "TH": "ครั้งที่สิบเอ็ด",
+    "VN": ""
+  },
+  {
+    "id": 1573,
     "TLM": 51971,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title10",
@@ -21966,7 +22022,7 @@
     "VN": ""
   },
   {
-    "id": 1570,
+    "id": 1574,
     "TLM": 51972,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title11",
@@ -21980,7 +22036,7 @@
     "VN": ""
   },
   {
-    "id": 1571,
+    "id": 1575,
     "TLM": 51973,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title12",
@@ -21994,7 +22050,7 @@
     "VN": ""
   },
   {
-    "id": 1572,
+    "id": 1576,
     "TLM": 51974,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title13",
@@ -22008,7 +22064,7 @@
     "VN": ""
   },
   {
-    "id": 1573,
+    "id": 1577,
     "TLM": 51975,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title14",
@@ -22022,7 +22078,7 @@
     "VN": ""
   },
   {
-    "id": 1574,
+    "id": 1578,
     "TLM": 51976,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title15",
@@ -22036,7 +22092,7 @@
     "VN": ""
   },
   {
-    "id": 1575,
+    "id": 1579,
     "TLM": 51977,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title16",
@@ -22050,7 +22106,7 @@
     "VN": ""
   },
   {
-    "id": 1576,
+    "id": 1580,
     "TLM": 51978,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title17",
@@ -22064,7 +22120,7 @@
     "VN": ""
   },
   {
-    "id": 1577,
+    "id": 1581,
     "TLM": 51979,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title18",
@@ -22078,7 +22134,7 @@
     "VN": ""
   },
   {
-    "id": 1578,
+    "id": 1582,
     "TLM": 51980,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title19",
@@ -22092,7 +22148,7 @@
     "VN": ""
   },
   {
-    "id": 1579,
+    "id": 1583,
     "TLM": 51981,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title20",
@@ -22106,7 +22162,7 @@
     "VN": ""
   },
   {
-    "id": 1580,
+    "id": 1584,
     "TLM": 51982,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title21",
@@ -22120,7 +22176,7 @@
     "VN": ""
   },
   {
-    "id": 1581,
+    "id": 1585,
     "TLM": 51983,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title22",
@@ -22134,7 +22190,7 @@
     "VN": ""
   },
   {
-    "id": 1582,
+    "id": 1586,
     "TLM": 51984,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title23",
@@ -22148,7 +22204,7 @@
     "VN": ""
   },
   {
-    "id": 1583,
+    "id": 1587,
     "TLM": 51985,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title24",
@@ -22162,7 +22218,7 @@
     "VN": ""
   },
   {
-    "id": 1584,
+    "id": 1588,
     "TLM": 51986,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title25",
@@ -22176,7 +22232,7 @@
     "VN": ""
   },
   {
-    "id": 1585,
+    "id": 1589,
     "TLM": 51987,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title26",
@@ -22190,7 +22246,7 @@
     "VN": ""
   },
   {
-    "id": 1586,
+    "id": 1590,
     "TLM": 51988,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title27",
@@ -22204,7 +22260,7 @@
     "VN": ""
   },
   {
-    "id": 1587,
+    "id": 1591,
     "TLM": 51989,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title28",
@@ -22218,7 +22274,7 @@
     "VN": ""
   },
   {
-    "id": 1588,
+    "id": 1592,
     "TLM": 51990,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title29",
@@ -22232,7 +22288,7 @@
     "VN": ""
   },
   {
-    "id": 1589,
+    "id": 1593,
     "TLM": 51991,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title30",
@@ -22246,7 +22302,7 @@
     "VN": ""
   },
   {
-    "id": 1590,
+    "id": 1594,
     "TLM": 51992,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title31",
@@ -22260,7 +22316,7 @@
     "VN": ""
   },
   {
-    "id": 1591,
+    "id": 1595,
     "TLM": 51993,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title32",
@@ -22274,7 +22330,7 @@
     "VN": ""
   },
   {
-    "id": 1592,
+    "id": 1596,
     "TLM": 51994,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title33",
@@ -22288,7 +22344,7 @@
     "VN": ""
   },
   {
-    "id": 1593,
+    "id": 1597,
     "TLM": 51995,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title34",
@@ -22302,7 +22358,7 @@
     "VN": ""
   },
   {
-    "id": 1594,
+    "id": 1598,
     "TLM": 51996,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title35",
@@ -22316,7 +22372,7 @@
     "VN": ""
   },
   {
-    "id": 1595,
+    "id": 1599,
     "TLM": 51997,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title36",
@@ -22330,7 +22386,7 @@
     "VN": ""
   },
   {
-    "id": 1596,
+    "id": 1600,
     "TLM": 51998,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title37",
@@ -22344,7 +22400,7 @@
     "VN": ""
   },
   {
-    "id": 1597,
+    "id": 1601,
     "TLM": 51999,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title38",
@@ -22358,7 +22414,7 @@
     "VN": ""
   },
   {
-    "id": 1598,
+    "id": 1602,
     "TLM": 52000,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title39",
@@ -22372,7 +22428,7 @@
     "VN": ""
   },
   {
-    "id": 1599,
+    "id": 1603,
     "TLM": 52001,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title40",
@@ -22386,7 +22442,7 @@
     "VN": ""
   },
   {
-    "id": 1600,
+    "id": 1604,
     "TLM": 52002,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title41",
@@ -22400,7 +22456,7 @@
     "VN": ""
   },
   {
-    "id": 1601,
+    "id": 1605,
     "TLM": 52003,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title42",
@@ -22414,7 +22470,7 @@
     "VN": ""
   },
   {
-    "id": 1602,
+    "id": 1606,
     "TLM": 52004,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title43",
@@ -22428,7 +22484,7 @@
     "VN": ""
   },
   {
-    "id": 1603,
+    "id": 1607,
     "TLM": 52005,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title44",
@@ -22442,7 +22498,7 @@
     "VN": ""
   },
   {
-    "id": 1604,
+    "id": 1608,
     "TLM": 52006,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title45",
@@ -22456,7 +22512,7 @@
     "VN": ""
   },
   {
-    "id": 1605,
+    "id": 1609,
     "TLM": 52007,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title46",
@@ -22470,7 +22526,7 @@
     "VN": ""
   },
   {
-    "id": 1606,
+    "id": 1610,
     "TLM": 52008,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title47",
@@ -22484,7 +22540,7 @@
     "VN": ""
   },
   {
-    "id": 1607,
+    "id": 1611,
     "TLM": 52009,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title48",
@@ -22498,7 +22554,7 @@
     "VN": ""
   },
   {
-    "id": 1608,
+    "id": 1612,
     "TLM": 52010,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Title49",
@@ -22512,7 +22568,7 @@
     "VN": ""
   },
   {
-    "id": 1609,
+    "id": 1613,
     "TLM": 52017,
     "Type": 0,
     "GameKey": "Server/quest.questAreaWindowText.35.2",
@@ -22526,7 +22582,7 @@
     "VN": ""
   },
   {
-    "id": 1610,
+    "id": 1614,
     "TLM": 52019,
     "Type": 0,
     "GameKey": "ServerData/config.ColosseumSP.Comment4",
@@ -22540,7 +22596,7 @@
     "VN": ""
   },
   {
-    "id": 1611,
+    "id": 1615,
     "TLM": 52021,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.earlyBonusTypeName.0",
@@ -22554,7 +22610,7 @@
     "VN": ""
   },
   {
-    "id": 1612,
+    "id": 1616,
     "TLM": 52022,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.earlyBonusTypeName.3",
@@ -22568,7 +22624,7 @@
     "VN": ""
   },
   {
-    "id": 1613,
+    "id": 1617,
     "TLM": 52023,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.earlyBonusTypeName.4",
@@ -22582,7 +22638,7 @@
     "VN": ""
   },
   {
-    "id": 1614,
+    "id": 1618,
     "TLM": 52024,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.classFinishText.0",
@@ -22596,7 +22652,7 @@
     "VN": ""
   },
   {
-    "id": 1615,
+    "id": 1619,
     "TLM": 52025,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.classFinishText.1",
@@ -22610,7 +22666,7 @@
     "VN": ""
   },
   {
-    "id": 1616,
+    "id": 1620,
     "TLM": 52026,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.classFinishText.2",
@@ -22624,7 +22680,7 @@
     "VN": ""
   },
   {
-    "id": 1617,
+    "id": 1621,
     "TLM": 52027,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.classFinishText.3",
@@ -22638,7 +22694,7 @@
     "VN": ""
   },
   {
-    "id": 1618,
+    "id": 1622,
     "TLM": 52028,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.classFinishText.4",
@@ -22652,7 +22708,7 @@
     "VN": ""
   },
   {
-    "id": 1619,
+    "id": 1623,
     "TLM": 52029,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.classFinishText.5",
@@ -22666,7 +22722,7 @@
     "VN": ""
   },
   {
-    "id": 1620,
+    "id": 1624,
     "TLM": 52030,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.noJoinGuildClassFinishText",
@@ -22680,7 +22736,7 @@
     "VN": ""
   },
   {
-    "id": 1621,
+    "id": 1625,
     "TLM": 52031,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.subDivisionClassFinishText.0",
@@ -22694,7 +22750,7 @@
     "VN": ""
   },
   {
-    "id": 1622,
+    "id": 1626,
     "TLM": 52032,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.groupName.1",
@@ -22708,7 +22764,7 @@
     "VN": ""
   },
   {
-    "id": 1623,
+    "id": 1627,
     "TLM": 52033,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.groupName.2",
@@ -22722,7 +22778,7 @@
     "VN": ""
   },
   {
-    "id": 1624,
+    "id": 1628,
     "TLM": 52034,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.groupName.3",
@@ -22736,7 +22792,7 @@
     "VN": ""
   },
   {
-    "id": 1625,
+    "id": 1629,
     "TLM": 52035,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.groupName.4",
@@ -22750,7 +22806,7 @@
     "VN": ""
   },
   {
-    "id": 1626,
+    "id": 1630,
     "TLM": 52036,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.divisionName.1",
@@ -22764,7 +22820,7 @@
     "VN": ""
   },
   {
-    "id": 1627,
+    "id": 1631,
     "TLM": 52037,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.divisionName.2",
@@ -22778,7 +22834,7 @@
     "VN": ""
   },
   {
-    "id": 1628,
+    "id": 1632,
     "TLM": 52038,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.divisionName.3",
@@ -22792,7 +22848,7 @@
     "VN": ""
   },
   {
-    "id": 1629,
+    "id": 1633,
     "TLM": 52039,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.qualifyingDivisionText.0",
@@ -22806,7 +22862,7 @@
     "VN": ""
   },
   {
-    "id": 1630,
+    "id": 1634,
     "TLM": 52040,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.qualifyingDivisionText.1",
@@ -22820,7 +22876,7 @@
     "VN": ""
   },
   {
-    "id": 1631,
+    "id": 1635,
     "TLM": 52041,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.qualifyingDivisionText.2",
@@ -22834,7 +22890,7 @@
     "VN": ""
   },
   {
-    "id": 1632,
+    "id": 1636,
     "TLM": 52042,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.qualifyingDivisionText.3",
@@ -22848,7 +22904,7 @@
     "VN": ""
   },
   {
-    "id": 1633,
+    "id": 1637,
     "TLM": 52043,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.beforePeriodAnnounceDateText",
@@ -22862,7 +22918,7 @@
     "VN": ""
   },
   {
-    "id": 1634,
+    "id": 1638,
     "TLM": 52047,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.title",
@@ -22876,7 +22932,7 @@
     "VN": ""
   },
   {
-    "id": 1635,
+    "id": 1639,
     "TLM": 52048,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.rewardCommentByUltimate32",
@@ -22890,7 +22946,7 @@
     "VN": ""
   },
   {
-    "id": 1636,
+    "id": 1640,
     "TLM": 52049,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.rewardCommentByAnotherDivision",
@@ -22904,7 +22960,7 @@
     "VN": ""
   },
   {
-    "id": 1637,
+    "id": 1641,
     "TLM": 52050,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.className.0",
@@ -22918,7 +22974,7 @@
     "VN": ""
   },
   {
-    "id": 1638,
+    "id": 1642,
     "TLM": 52051,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.className.1",
@@ -22932,7 +22988,7 @@
     "VN": ""
   },
   {
-    "id": 1639,
+    "id": 1643,
     "TLM": 52052,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.className.2",
@@ -22946,7 +23002,7 @@
     "VN": ""
   },
   {
-    "id": 1640,
+    "id": 1644,
     "TLM": 52053,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.className.3",
@@ -22960,7 +23016,7 @@
     "VN": ""
   },
   {
-    "id": 1641,
+    "id": 1645,
     "TLM": 52054,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.className.4",
@@ -22974,7 +23030,7 @@
     "VN": ""
   },
   {
-    "id": 1642,
+    "id": 1646,
     "TLM": 52055,
     "Type": 0,
     "GameKey": "ServerData/gvgTournament.className.5",
@@ -22988,7 +23044,7 @@
     "VN": ""
   },
   {
-    "id": 1643,
+    "id": 1647,
     "TLM": 52144,
     "Type": 0,
     "GameKey": "ServerData/mission.allClearOpenGacha.0",
@@ -23002,7 +23058,7 @@
     "VN": ""
   },
   {
-    "id": 1644,
+    "id": 1648,
     "TLM": 52145,
     "Type": 0,
     "GameKey": "ServerData/mission.allClearOpen",
@@ -23016,7 +23072,7 @@
     "VN": ""
   },
   {
-    "id": 1645,
+    "id": 1649,
     "TLM": 52146,
     "Type": 0,
     "GameKey": "Server/misson.eventOpen.0",
@@ -23030,7 +23086,7 @@
     "VN": ""
   },
   {
-    "id": 1646,
+    "id": 1650,
     "TLM": 52147,
     "Type": 0,
     "GameKey": "Server/campaign.notExpiredOpen.0",
@@ -23044,7 +23100,7 @@
     "VN": ""
   },
   {
-    "id": 1647,
+    "id": 1651,
     "TLM": 52150,
     "Type": 0,
     "GameKey": "Server/error.11423",
@@ -23058,7 +23114,7 @@
     "VN": ""
   },
   {
-    "id": 1648,
+    "id": 1652,
     "TLM": 52151,
     "Type": 0,
     "GameKey": "Server/error.11430",
@@ -23072,7 +23128,7 @@
     "VN": ""
   },
   {
-    "id": 1649,
+    "id": 1653,
     "TLM": 52184,
     "Type": 0,
     "GameKey": "Server/campaign.codegeass.applied",
@@ -23086,7 +23142,7 @@
     "VN": ""
   },
   {
-    "id": 1650,
+    "id": 1654,
     "TLM": 52185,
     "Type": 0,
     "GameKey": "Server/campaign.apply.0",
@@ -23100,7 +23156,7 @@
     "VN": ""
   },
   {
-    "id": 1651,
+    "id": 1655,
     "TLM": 52186,
     "Type": 0,
     "GameKey": "Server/campaign.applyStatus.0",
@@ -23114,7 +23170,7 @@
     "VN": ""
   },
   {
-    "id": 1652,
+    "id": 1656,
     "TLM": 52193,
     "Type": 0,
     "GameKey": "Server/error.14083",
@@ -23128,7 +23184,7 @@
     "VN": ""
   },
   {
-    "id": 1653,
+    "id": 1657,
     "TLM": 52194,
     "Type": 0,
     "GameKey": "Server/error.14084",
@@ -23139,6 +23195,62 @@
     "FR": "Could not find ranking data on your guild.",
     "ES": "No he podido encontrar el rango de clasificación de tu gremio.",
     "TH": "Could not find ranking data on your guild.",
+    "VN": ""
+  },
+  {
+    "id": 1658,
+    "TLM": 52241,
+    "Type": 0,
+    "GameKey": "Server/error.14123",
+    "JP": "トーナメントデータ取得に失敗しました。",
+    "EN": "Failed to acquire tournament data.",
+    "KR": "토너먼트 데이터 수신에 실패하였습니다.",
+    "DE": "Failed to acquire tournament data.",
+    "FR": "Failed to acquire tournament data.",
+    "ES": "Error al adquirir datos.",
+    "TH": "Failed to acquire tournament data.",
+    "VN": ""
+  },
+  {
+    "id": 1659,
+    "TLM": 52242,
+    "Type": 0,
+    "GameKey": "Server/error.11413",
+    "JP": "コロシアム・シン参加中のギルドに加入することはできません。",
+    "EN": "-Colosseum Sin participating guilds cannot be joined.",
+    "KR": "콜로세움 신에 참가 중인 길드에 가입할 수 없습니다.",
+    "DE": "-Colosseum Sin participating guilds cannot be joined.",
+    "FR": "-Colosseum Sin participating guilds cannot be joined.",
+    "ES": "",
+    "TH": "-Colosseum Sin participating guilds cannot be joined.",
+    "VN": ""
+  },
+  {
+    "id": 1660,
+    "TLM": 52243,
+    "Type": 0,
+    "GameKey": "Server/error.11414",
+    "JP": "コロシアム・シン参加中のギルドを脱退することはできません。",
+    "EN": "-Colosseum Sin participating guilds cannot be left.",
+    "KR": "콜로세움 신에 참가 중인 길드를 탈퇴할 수 없습니다.",
+    "DE": "-Colosseum Sin participating guilds cannot be left.",
+    "FR": "-Colosseum Sin participating guilds cannot be left.",
+    "ES": "",
+    "TH": "-Colosseum Sin participating guilds cannot be left.",
+    "VN": ""
+  },
+  {
+    "id": 1661,
+    "TLM": 52244,
+    "Type": 0,
+    "GameKey": "Server/error.11415",
+    "JP": "コロシアム・シン参加中のギルドを解散することはできません。",
+    "EN": "-Colosseum Sin participating guilds cannot be disbanded.",
+    "KR": "콜로세움 신에 참가 중인 길드를 해산할 수 없습니다.",
+    "DE": "-Colosseum Sin participating guilds cannot be disbanded.",
+    "FR": "-Colosseum Sin participating guilds cannot be disbanded.",
+    "ES": "",
+    "TH": "-Colosseum Sin participating guilds cannot be disbanded.",
     "VN": ""
   }
 ]

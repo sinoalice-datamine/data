@@ -21127,90 +21127,48 @@
   },
   {
     "id": 1510,
-    "TLM": 52239,
+    "TLM": 51960,
     "Type": 0,
     "GameKey": "SCRIPT",
-    "JP": "メッセージ投稿同意事項",
-    "EN": "Commenting Terms and Conditions",
-    "KR": "메시지 게시 동의 사항",
-    "DE": "Commenting Terms and Conditions",
-    "FR": "Commenting Terms and Conditions",
-    "ES": "Acuerdo de publicación de mensajes",
-    "TH": "Commenting Terms and Conditions",
+    "JP": "選択したジョブは\\n既にサポートジョブにセットされています。\\n\\nベースジョブと同一のジョブは\\nサポートジョブにセットできないため\\n該当のジョブはサポートジョブから外れます。",
+    "EN": "The selected class is already set as support class.\\n\\nBecause the base class and support class cannot be the same, this class will be removed.",
+    "KR": "선택한 직업은\\n이미 지원 직업으로 설정되어 있습니다.\\n\\n베이스 직업과 같은 직업은\\n지원 직업으로 설정할 수 없으므로\\n해당 직업은 지원 직업에서 제외됩니다.",
+    "DE": "Die ausgewählte Klasse ist\\nbereits als Unterstützungs Klasse gesetzt.\\n\\nDa eine Klasse nicht als die gleiche Klassen wie die Basis Klasse als Unterstützungs Klasse gesetzt werden kann,\\nwird diese Klasse als Unterstützungs Klasse entfernt.",
+    "FR": "La Classe sélectionnée\\nest déjà définie Classe d'assistance.\\n\\nUne Classe ne peut pas être définie comme Classe d'assistance\\nsi elle est identique à votre Classe de base,\\ncette Classe est donc retirée de vos Classes d'assistance.",
+    "ES": "La clase seleccionada\\nya se encuentra como Clase de apoyo.\\n\\nLa clase base y la misma clase\\nno se pueden equipar como set de clase de apoyo\\npor lo que la clase en cuestión se desequipará como clase de apoyo. ",
+    "TH": "คลาสที่ทำการเลือก\\nถูกตั้งเป็นคลาสซัพพอร์ตอยู่แล้ว\\n\\nคลาสที่เหมือนกับคลาสเบส\\nไม่สามารถตั้งค่าเป็นคลาสซัพพอร์ตได้\\nจะทำการถอดคลาสดังกล่าวออกจากคลาสซัพพอร์ต",
     "VN": ""
   },
   {
     "id": 1511,
-    "TLM": 52245,
+    "TLM": 51961,
     "Type": 0,
     "GameKey": "SCRIPT",
-    "JP": "ギシン「まもなくコロシアム・シン1回戦が始まりマス」\\nアンキ「トーナメントは勝ちにコソ意味がアリマス」",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "JP": "この表の数値はコロシアムスキルのみの数値です。\\nコロシアム補助スキル・サポートスキルの効果値は含まれません。",
+    "EN": "The values listed on this table are for colosseum skills only.\\nValues for colosseum support skills and other support skills are not included.",
+    "KR": "이 표의 수치는 콜로세움 스킬 한정 수치입니다.\\n콜로세움 보조 스킬/지원 스킬의 효과치는 포함되지 않습니다.",
+    "DE": "Die Zahlen in dieser Tabelle gelten nur für Kolosseumsfertigkeiten.\\nDie Effektwerte der Kolosseumsfertigkeiten (Unterstützung) ・ Unterstützungs Fertigkeit sind nicht enthalten.",
+    "FR": "Les valeurs indiquées dans ce tableau concernent uniquement les compétences de Colisée.\\nLes valeurs effectives des compétences de soutien de Colisée et les Compétences d'assistance ne sont pas comprises.",
+    "ES": "Los valores mostrados solamente tienen relación con las habilidades del Coliseo.\\nNo se incluyen los valores reales de las habilidades de apoyo del Coliseo.",
+    "TH": "ค่าที่แสดงนี้ เป็นค่าของสกิลโคลอสเซียมเท่านั้น\\nไม่รวมค่าผลสกิลสนับสนุนโคลอสเซียม, สกิลซัพพอร์ต",
     "VN": ""
   },
   {
     "id": 1512,
-    "TLM": 52246,
+    "TLM": 51964,
     "Type": 0,
     "GameKey": "SCRIPT",
-    "JP": "ギシン「まもなくコロシアム・シン2回戦が始まりマス。地獄はコレからデス」\\nアンキ「初戦の勝利を喜ぶ時間は終わりデス」",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "JP": "{0} MAX!",
+    "EN": "{0} MAX!",
+    "KR": "{0} 최대!",
+    "DE": "Max. {0}",
+    "FR": "{0} MAX !",
+    "ES": "¡{0} MÁX!",
+    "TH": "{0} MAX!",
     "VN": ""
   },
   {
     "id": 1513,
-    "TLM": 52247,
-    "Type": 0,
-    "GameKey": "SCRIPT",
-    "JP": "ギシン「まもなくコロシアム・シン3回戦が始まりマス。地獄は続くよ何処マデも～(歌)」\\nアンキ「ココで勝テバ四天王!」",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
-    "VN": ""
-  },
-  {
-    "id": 1514,
-    "TLM": 52248,
-    "Type": 0,
-    "GameKey": "SCRIPT",
-    "JP": "ギシン「四天王という結果で満足デスか?」\\nアンキ「アナタはもっと上に上がれるハズです」",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
-    "VN": ""
-  },
-  {
-    "id": 1515,
-    "TLM": 52249,
-    "Type": 0,
-    "GameKey": "SCRIPT",
-    "JP": "ギシン「決勝デス」\\nアンキ「最後デス」",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
-    "VN": ""
-  },
-  {
-    "id": 1516,
     "TLM": 52013,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21224,7 +21182,7 @@
     "VN": ""
   },
   {
-    "id": 1517,
+    "id": 1514,
     "TLM": 52014,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21238,7 +21196,7 @@
     "VN": ""
   },
   {
-    "id": 1518,
+    "id": 1515,
     "TLM": 52015,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21252,7 +21210,7 @@
     "VN": ""
   },
   {
-    "id": 1519,
+    "id": 1516,
     "TLM": 52016,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21266,7 +21224,7 @@
     "VN": ""
   },
   {
-    "id": 1520,
+    "id": 1517,
     "TLM": 52020,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21280,7 +21238,7 @@
     "VN": ""
   },
   {
-    "id": 1521,
+    "id": 1518,
     "TLM": 52045,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21294,7 +21252,7 @@
     "VN": ""
   },
   {
-    "id": 1522,
+    "id": 1519,
     "TLM": 52046,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21308,7 +21266,7 @@
     "VN": ""
   },
   {
-    "id": 1523,
+    "id": 1520,
     "TLM": 52056,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21322,7 +21280,7 @@
     "VN": ""
   },
   {
-    "id": 1524,
+    "id": 1521,
     "TLM": 52057,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21336,7 +21294,7 @@
     "VN": ""
   },
   {
-    "id": 1525,
+    "id": 1522,
     "TLM": 52058,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21350,7 +21308,7 @@
     "VN": ""
   },
   {
-    "id": 1526,
+    "id": 1523,
     "TLM": 52059,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21364,7 +21322,7 @@
     "VN": ""
   },
   {
-    "id": 1527,
+    "id": 1524,
     "TLM": 52060,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21378,7 +21336,7 @@
     "VN": ""
   },
   {
-    "id": 1528,
+    "id": 1525,
     "TLM": 52066,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21392,7 +21350,7 @@
     "VN": ""
   },
   {
-    "id": 1529,
+    "id": 1526,
     "TLM": 52067,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21406,7 +21364,7 @@
     "VN": ""
   },
   {
-    "id": 1530,
+    "id": 1527,
     "TLM": 52068,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21420,7 +21378,7 @@
     "VN": ""
   },
   {
-    "id": 1531,
+    "id": 1528,
     "TLM": 52069,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21434,7 +21392,7 @@
     "VN": ""
   },
   {
-    "id": 1532,
+    "id": 1529,
     "TLM": 52070,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21448,7 +21406,7 @@
     "VN": ""
   },
   {
-    "id": 1533,
+    "id": 1530,
     "TLM": 52071,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21462,7 +21420,7 @@
     "VN": ""
   },
   {
-    "id": 1534,
+    "id": 1531,
     "TLM": 52072,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21476,7 +21434,7 @@
     "VN": ""
   },
   {
-    "id": 1535,
+    "id": 1532,
     "TLM": 52073,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21490,7 +21448,7 @@
     "VN": ""
   },
   {
-    "id": 1536,
+    "id": 1533,
     "TLM": 52074,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21504,7 +21462,7 @@
     "VN": ""
   },
   {
-    "id": 1537,
+    "id": 1534,
     "TLM": 52075,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21518,7 +21476,7 @@
     "VN": ""
   },
   {
-    "id": 1538,
+    "id": 1535,
     "TLM": 52077,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21532,7 +21490,7 @@
     "VN": ""
   },
   {
-    "id": 1539,
+    "id": 1536,
     "TLM": 52078,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21546,7 +21504,7 @@
     "VN": ""
   },
   {
-    "id": 1540,
+    "id": 1537,
     "TLM": 52079,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21560,7 +21518,7 @@
     "VN": ""
   },
   {
-    "id": 1541,
+    "id": 1538,
     "TLM": 52080,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21574,7 +21532,7 @@
     "VN": ""
   },
   {
-    "id": 1542,
+    "id": 1539,
     "TLM": 52081,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21588,7 +21546,7 @@
     "VN": ""
   },
   {
-    "id": 1543,
+    "id": 1540,
     "TLM": 52082,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21602,7 +21560,7 @@
     "VN": ""
   },
   {
-    "id": 1544,
+    "id": 1541,
     "TLM": 52083,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21616,7 +21574,7 @@
     "VN": ""
   },
   {
-    "id": 1545,
+    "id": 1542,
     "TLM": 52084,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21630,7 +21588,7 @@
     "VN": ""
   },
   {
-    "id": 1546,
+    "id": 1543,
     "TLM": 52085,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21644,7 +21602,7 @@
     "VN": ""
   },
   {
-    "id": 1547,
+    "id": 1544,
     "TLM": 52086,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21658,7 +21616,7 @@
     "VN": ""
   },
   {
-    "id": 1548,
+    "id": 1545,
     "TLM": 52087,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21672,7 +21630,7 @@
     "VN": ""
   },
   {
-    "id": 1549,
+    "id": 1546,
     "TLM": 52088,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21686,7 +21644,7 @@
     "VN": ""
   },
   {
-    "id": 1550,
+    "id": 1547,
     "TLM": 52091,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21700,7 +21658,7 @@
     "VN": ""
   },
   {
-    "id": 1551,
+    "id": 1548,
     "TLM": 52092,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21714,7 +21672,7 @@
     "VN": ""
   },
   {
-    "id": 1552,
+    "id": 1549,
     "TLM": 52093,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21728,7 +21686,7 @@
     "VN": ""
   },
   {
-    "id": 1553,
+    "id": 1550,
     "TLM": 52094,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21742,7 +21700,7 @@
     "VN": ""
   },
   {
-    "id": 1554,
+    "id": 1551,
     "TLM": 52095,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21756,7 +21714,7 @@
     "VN": ""
   },
   {
-    "id": 1555,
+    "id": 1552,
     "TLM": 52096,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21770,7 +21728,7 @@
     "VN": ""
   },
   {
-    "id": 1556,
+    "id": 1553,
     "TLM": 52097,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21784,7 +21742,7 @@
     "VN": ""
   },
   {
-    "id": 1557,
+    "id": 1554,
     "TLM": 52098,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21798,7 +21756,7 @@
     "VN": ""
   },
   {
-    "id": 1558,
+    "id": 1555,
     "TLM": 52099,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21812,7 +21770,7 @@
     "VN": ""
   },
   {
-    "id": 1559,
+    "id": 1556,
     "TLM": 52100,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21826,7 +21784,7 @@
     "VN": ""
   },
   {
-    "id": 1560,
+    "id": 1557,
     "TLM": 52101,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21840,7 +21798,7 @@
     "VN": ""
   },
   {
-    "id": 1561,
+    "id": 1558,
     "TLM": 52102,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21854,7 +21812,7 @@
     "VN": ""
   },
   {
-    "id": 1562,
+    "id": 1559,
     "TLM": 52103,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21868,7 +21826,7 @@
     "VN": ""
   },
   {
-    "id": 1563,
+    "id": 1560,
     "TLM": 52108,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21882,7 +21840,7 @@
     "VN": ""
   },
   {
-    "id": 1564,
+    "id": 1561,
     "TLM": 52109,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21896,7 +21854,7 @@
     "VN": ""
   },
   {
-    "id": 1565,
+    "id": 1562,
     "TLM": 52113,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21910,7 +21868,7 @@
     "VN": ""
   },
   {
-    "id": 1566,
+    "id": 1563,
     "TLM": 52114,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21924,7 +21882,7 @@
     "VN": ""
   },
   {
-    "id": 1567,
+    "id": 1564,
     "TLM": 52119,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21938,7 +21896,7 @@
     "VN": ""
   },
   {
-    "id": 1568,
+    "id": 1565,
     "TLM": 52120,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21952,7 +21910,7 @@
     "VN": ""
   },
   {
-    "id": 1569,
+    "id": 1566,
     "TLM": 52121,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21966,7 +21924,7 @@
     "VN": ""
   },
   {
-    "id": 1570,
+    "id": 1567,
     "TLM": 52122,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21980,7 +21938,7 @@
     "VN": ""
   },
   {
-    "id": 1571,
+    "id": 1568,
     "TLM": 52123,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -21994,7 +21952,7 @@
     "VN": ""
   },
   {
-    "id": 1572,
+    "id": 1569,
     "TLM": 52124,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22008,7 +21966,7 @@
     "VN": ""
   },
   {
-    "id": 1573,
+    "id": 1570,
     "TLM": 52125,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22022,7 +21980,7 @@
     "VN": ""
   },
   {
-    "id": 1574,
+    "id": 1571,
     "TLM": 52135,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22036,7 +21994,7 @@
     "VN": ""
   },
   {
-    "id": 1575,
+    "id": 1572,
     "TLM": 52136,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22050,7 +22008,7 @@
     "VN": ""
   },
   {
-    "id": 1576,
+    "id": 1573,
     "TLM": 52182,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22064,7 +22022,7 @@
     "VN": ""
   },
   {
-    "id": 1577,
+    "id": 1574,
     "TLM": 52183,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22078,7 +22036,7 @@
     "VN": ""
   },
   {
-    "id": 1578,
+    "id": 1575,
     "TLM": 52189,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22092,7 +22050,7 @@
     "VN": ""
   },
   {
-    "id": 1579,
+    "id": 1576,
     "TLM": 52190,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22106,7 +22064,7 @@
     "VN": ""
   },
   {
-    "id": 1580,
+    "id": 1577,
     "TLM": 52191,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22120,7 +22078,7 @@
     "VN": ""
   },
   {
-    "id": 1581,
+    "id": 1578,
     "TLM": 52192,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22134,7 +22092,7 @@
     "VN": ""
   },
   {
-    "id": 1582,
+    "id": 1579,
     "TLM": 52187,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22148,7 +22106,7 @@
     "VN": ""
   },
   {
-    "id": 1583,
+    "id": 1580,
     "TLM": 52195,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22162,7 +22120,7 @@
     "VN": ""
   },
   {
-    "id": 1584,
+    "id": 1581,
     "TLM": 52196,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22176,7 +22134,7 @@
     "VN": ""
   },
   {
-    "id": 1585,
+    "id": 1582,
     "TLM": 52197,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22190,7 +22148,7 @@
     "VN": ""
   },
   {
-    "id": 1586,
+    "id": 1583,
     "TLM": 52199,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22204,7 +22162,7 @@
     "VN": ""
   },
   {
-    "id": 1587,
+    "id": 1584,
     "TLM": 52200,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22218,7 +22176,7 @@
     "VN": ""
   },
   {
-    "id": 1588,
+    "id": 1585,
     "TLM": 52201,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22232,7 +22190,7 @@
     "VN": ""
   },
   {
-    "id": 1589,
+    "id": 1586,
     "TLM": 52202,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22246,7 +22204,7 @@
     "VN": ""
   },
   {
-    "id": 1590,
+    "id": 1587,
     "TLM": 52203,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22260,7 +22218,7 @@
     "VN": ""
   },
   {
-    "id": 1591,
+    "id": 1588,
     "TLM": 52204,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22274,7 +22232,7 @@
     "VN": ""
   },
   {
-    "id": 1592,
+    "id": 1589,
     "TLM": 52205,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22288,7 +22246,7 @@
     "VN": ""
   },
   {
-    "id": 1593,
+    "id": 1590,
     "TLM": 52206,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22302,7 +22260,7 @@
     "VN": ""
   },
   {
-    "id": 1594,
+    "id": 1591,
     "TLM": 52207,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22316,7 +22274,7 @@
     "VN": ""
   },
   {
-    "id": 1595,
+    "id": 1592,
     "TLM": 52208,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22330,7 +22288,7 @@
     "VN": ""
   },
   {
-    "id": 1596,
+    "id": 1593,
     "TLM": 52209,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22344,7 +22302,7 @@
     "VN": ""
   },
   {
-    "id": 1597,
+    "id": 1594,
     "TLM": 52198,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22358,7 +22316,7 @@
     "VN": ""
   },
   {
-    "id": 1598,
+    "id": 1595,
     "TLM": 52220,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22372,7 +22330,7 @@
     "VN": ""
   },
   {
-    "id": 1599,
+    "id": 1596,
     "TLM": 52221,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22386,7 +22344,7 @@
     "VN": ""
   },
   {
-    "id": 1600,
+    "id": 1597,
     "TLM": 52222,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22400,7 +22358,7 @@
     "VN": ""
   },
   {
-    "id": 1601,
+    "id": 1598,
     "TLM": 52223,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22414,7 +22372,7 @@
     "VN": ""
   },
   {
-    "id": 1602,
+    "id": 1599,
     "TLM": 52224,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22428,7 +22386,7 @@
     "VN": ""
   },
   {
-    "id": 1603,
+    "id": 1600,
     "TLM": 52225,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22442,7 +22400,7 @@
     "VN": ""
   },
   {
-    "id": 1604,
+    "id": 1601,
     "TLM": 52228,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22456,7 +22414,7 @@
     "VN": ""
   },
   {
-    "id": 1605,
+    "id": 1602,
     "TLM": 52229,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22470,7 +22428,7 @@
     "VN": ""
   },
   {
-    "id": 1606,
+    "id": 1603,
     "TLM": 52230,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22484,21 +22442,21 @@
     "VN": ""
   },
   {
-    "id": 1607,
+    "id": 1604,
     "TLM": 52231,
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "登録に失敗しました。",
-    "EN": "Failed to favorite video.",
+    "EN": "Failed to favorite replay.",
     "KR": "등록에 실패하였습니다.",
-    "DE": "Failed to favorite video.",
-    "FR": "Failed to favorite video.",
+    "DE": "Failed to favorite replay.",
+    "FR": "Failed to favorite replay.",
     "ES": "Error al registrar.",
-    "TH": "Failed to favorite video.",
+    "TH": "Failed to favorite replay.",
     "VN": ""
   },
   {
-    "id": 1608,
+    "id": 1605,
     "TLM": 52232,
     "Type": 0,
     "GameKey": "SCRIPT",
@@ -22509,6 +22467,90 @@
     "FR": "End replay?",
     "ES": "¿Finalizar la reproducción?",
     "TH": "End replay?",
+    "VN": ""
+  },
+  {
+    "id": 1606,
+    "TLM": 52239,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "メッセージ投稿同意事項",
+    "EN": "Commenting Terms and Conditions",
+    "KR": "메시지 게시 동의 사항",
+    "DE": "Commenting Terms and Conditions",
+    "FR": "Commenting Terms and Conditions",
+    "ES": "Acuerdo de publicación de mensajes",
+    "TH": "Commenting Terms and Conditions",
+    "VN": ""
+  },
+  {
+    "id": 1607,
+    "TLM": 52245,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "ギシン「まもなくコロシアム・シン1回戦が始まりマス」\\nアンキ「トーナメントは勝ちにコソ意味がアリマス」",
+    "EN": "Parrah: \"Round 1 of Colosseum Sin begins now.\"\\nNoya: \"Victory will give your fight meaning.\"",
+    "KR": "스니키 \"곧 콜로세움 신 1회전이 시작됩니다.\"\\n스푸키 \"토너먼트전은 이겨야 의미가 있는 거죠.\"",
+    "DE": "Parrah: \"Round 1 of Colosseum Sin begins now.\"\\nNoya: \"Victory will give your fight meaning.\"",
+    "FR": "Parrah: \"Round 1 of Colosseum Sin begins now.\"\\nNoya: \"Victory will give your fight meaning.\"",
+    "ES": "",
+    "TH": "Parrah: \"Round 1 of Colosseum Sin begins now.\"\\nNoya: \"Victory will give your fight meaning.\"",
+    "VN": ""
+  },
+  {
+    "id": 1608,
+    "TLM": 52246,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "ギシン「まもなくコロシアム・シン2回戦が始まりマス。地獄はコレからデス」\\nアンキ「初戦の勝利を喜ぶ時間は終わりデス」",
+    "EN": "Parrah: \"Round 2 of Colosseum Sin begins now. Welcome to Hell.\"\\nNoya: \"No more time to rest on your Round 1 laurels.\"",
+    "KR": "스니키 \"곧 콜로세움 신 2회전이 시작됩니다. 지옥은 이제부터입니다.\"\\n스푸키 \"첫 대전에서의 승리로 기쁨에 젖었던 시간은 끝났습니다.\"",
+    "DE": "Parrah: \"Round 2 of Colosseum Sin begins now. Welcome to Hell.\"\\nNoya: \"No more time to rest on your Round 1 laurels.\"",
+    "FR": "Parrah: \"Round 2 of Colosseum Sin begins now. Welcome to Hell.\"\\nNoya: \"No more time to rest on your Round 1 laurels.\"",
+    "ES": "",
+    "TH": "Parrah: \"Round 2 of Colosseum Sin begins now. Welcome to Hell.\"\\nNoya: \"No more time to rest on your Round 1 laurels.\"",
+    "VN": ""
+  },
+  {
+    "id": 1609,
+    "TLM": 52247,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "ギシン「まもなくコロシアム・シン3回戦が始まりマス。地獄は続くよ何処マデも～(歌)」\\nアンキ「ココで勝テバ四天王!」",
+    "EN": "Parrah: \"Round 3 of Colosseum Sin begins now. Since you're going through Hell, keep going.\"\\nNoya: \"To give it your all is great, I guess, but to win is divine.\"",
+    "KR": "스니키 \"곧 콜로세움 신 3회전이 시작됩니다. 지옥은 계속됩니다. 언제까지나~(♪)\"\\n스푸키 \"여기에서 승리하면 4강전!\"",
+    "DE": "Parrah: \"Round 3 of Colosseum Sin begins now. Since you're going through Hell, keep going.\"\\nNoya: \"To give it your all is great, I guess, but to win is divine.\"",
+    "FR": "Parrah: \"Round 3 of Colosseum Sin begins now. Since you're going through Hell, keep going.\"\\nNoya: \"To give it your all is great, I guess, but to win is divine.\"",
+    "ES": "",
+    "TH": "Parrah: \"Round 3 of Colosseum Sin begins now. Since you're going through Hell, keep going.\"\\nNoya: \"To give it your all is great, I guess, but to win is divine.\"",
+    "VN": ""
+  },
+  {
+    "id": 1610,
+    "TLM": 52248,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "ギシン「四天王という結果で満足デスか?」\\nアンキ「アナタはもっと上に上がれるハズです」",
+    "EN": "Parrah: \"Will you be satisfied with mere divinity?\"\\nNoya: \"I didn't think so. I've always liked that about you.\"",
+    "KR": "스니키 \"4강전에 든 걸로 만족하나요?\"\\n스푸키 \"당신은 좀 더 위로 올라갈 수 있어요.\"",
+    "DE": "Parrah: \"Will you be satisfied with mere divinity?\"\\nNoya: \"I didn't think so. I've always liked that about you.\"",
+    "FR": "Parrah: \"Will you be satisfied with mere divinity?\"\\nNoya: \"I didn't think so. I've always liked that about you.\"",
+    "ES": "",
+    "TH": "Parrah: \"Will you be satisfied with mere divinity?\"\\nNoya: \"I didn't think so. I've always liked that about you.\"",
+    "VN": ""
+  },
+  {
+    "id": 1611,
+    "TLM": 52249,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "ギシン「決勝デス」\\nアンキ「最後デス」",
+    "EN": "Parrah: \"So. This is it.\"\\nNoya: \"The Final test.\"",
+    "KR": "스니키 \"결승입니다.\"\\n스푸키 \"마지막입니다.\"",
+    "DE": "Parrah: \"So. This is it.\"\\nNoya: \"The Final test.\"",
+    "FR": "Parrah: \"So. This is it.\"\\nNoya: \"The Final test.\"",
+    "ES": "",
+    "TH": "Parrah: \"So. This is it.\"\\nNoya: \"The Final test.\"",
     "VN": ""
   }
 ]
