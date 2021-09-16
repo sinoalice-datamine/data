@@ -16070,7 +16070,7 @@
     "name": "メダルUP",
     "description": "スノウホワイトのジョブを編成時、転スラエリアでメダル獲得倍率+0.2倍",
     "effectType": 15,
-    "effectValue": 20,
+    "effectValue": 0,
     "cardDetailType": 0
   },
   {
@@ -16573,6 +16573,456 @@
     "characterUniqueId": 30,
     "name": "チケットUP",
     "description": "エミール(レプリカント)のジョブを編成時、NieR Replicantエリアでウラ射的チケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1891,
+    "characterUniqueId": 75,
+    "name": "エリアUP",
+    "description": "バットマンのジョブを編成時、DCエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1892,
+    "characterUniqueId": 75,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP バットマンのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1893,
+    "characterUniqueId": 75,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP バットマンのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1894,
+    "characterUniqueId": 75,
+    "name": "物魔攻撃UP",
+    "description": "バットマンのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1895,
+    "characterUniqueId": 75,
+    "name": "物魔防御UP",
+    "description": "バットマンのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1896,
+    "characterUniqueId": 75,
+    "name": "チケットUP",
+    "description": "バットマンのジョブを編成時、DCエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1897,
+    "characterUniqueId": 75,
+    "name": "チケットUP",
+    "description": "バットマンのジョブを編成時、DCエリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1898,
+    "characterUniqueId": 75,
+    "name": "物攻+300",
+    "description": "バットマンのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1899,
+    "characterUniqueId": 75,
+    "name": "物防+300",
+    "description": "バットマンのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1900,
+    "characterUniqueId": 75,
+    "name": "魔攻+300",
+    "description": "バットマンのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1901,
+    "characterUniqueId": 75,
+    "name": "魔防+300",
+    "description": "バットマンのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1902,
+    "characterUniqueId": 75,
+    "name": "射出 4%UP",
+    "description": "バットマンのジョブを編成時、射出4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 1903,
+    "characterUniqueId": 76,
+    "name": "エリアUP",
+    "description": "ジョーカーのジョブを編成時、DCエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1904,
+    "characterUniqueId": 76,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP ジョーカーのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1905,
+    "characterUniqueId": 76,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP ジョーカーのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1906,
+    "characterUniqueId": 76,
+    "name": "物魔攻撃UP",
+    "description": "ジョーカーのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1907,
+    "characterUniqueId": 76,
+    "name": "物魔防御UP",
+    "description": "ジョーカーのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1908,
+    "characterUniqueId": 76,
+    "name": "チケットUP",
+    "description": "ジョーカーのジョブを編成時、DCエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1909,
+    "characterUniqueId": 76,
+    "name": "チケットUP",
+    "description": "ジョーカーのジョブを編成時、DCエリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1910,
+    "characterUniqueId": 76,
+    "name": "物攻+300",
+    "description": "ジョーカーのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1911,
+    "characterUniqueId": 76,
+    "name": "物防+300",
+    "description": "ジョーカーのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1912,
+    "characterUniqueId": 76,
+    "name": "魔攻+300",
+    "description": "ジョーカーのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1913,
+    "characterUniqueId": 76,
+    "name": "魔防+300",
+    "description": "ジョーカーのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1914,
+    "characterUniqueId": 76,
+    "name": "魔書 2%UP",
+    "description": "ジョーカーのジョブを編成時、魔書2%UP",
+    "effectType": 6,
+    "effectValue": 2,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 1915,
+    "characterUniqueId": 77,
+    "name": "エリアUP",
+    "description": "ハーレイ・クインのジョブを編成時、DCエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1916,
+    "characterUniqueId": 77,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP ハーレイ・クインのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1917,
+    "characterUniqueId": 77,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP ハーレイ・クインのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1918,
+    "characterUniqueId": 77,
+    "name": "物魔攻撃UP",
+    "description": "ハーレイ・クインのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1919,
+    "characterUniqueId": 77,
+    "name": "物魔防御UP",
+    "description": "ハーレイ・クインのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1920,
+    "characterUniqueId": 77,
+    "name": "チケットUP",
+    "description": "ハーレイ・クインのジョブを編成時、DCエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1921,
+    "characterUniqueId": 77,
+    "name": "チケットUP",
+    "description": "ハーレイ・クインのジョブを編成時、DCエリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1922,
+    "characterUniqueId": 77,
+    "name": "物攻+300",
+    "description": "ハーレイ・クインのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1923,
+    "characterUniqueId": 77,
+    "name": "物防+300",
+    "description": "ハーレイ・クインのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1924,
+    "characterUniqueId": 77,
+    "name": "魔攻+300",
+    "description": "ハーレイ・クインのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1925,
+    "characterUniqueId": 77,
+    "name": "魔防+300",
+    "description": "ハーレイ・クインのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1926,
+    "characterUniqueId": 77,
+    "name": "打撃 4%UP",
+    "description": "ハーレイ・クインのジョブを編成時、打撃4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 1927,
+    "characterUniqueId": 78,
+    "name": "エリアUP",
+    "description": "キャットウーマンのジョブを編成時、DCエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1928,
+    "characterUniqueId": 78,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP キャットウーマンのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1929,
+    "characterUniqueId": 78,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP キャットウーマンのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1930,
+    "characterUniqueId": 78,
+    "name": "物魔攻撃UP",
+    "description": "キャットウーマンのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1931,
+    "characterUniqueId": 78,
+    "name": "物魔防御UP",
+    "description": "キャットウーマンのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1932,
+    "characterUniqueId": 78,
+    "name": "チケットUP",
+    "description": "キャットウーマンのジョブを編成時、DCエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1933,
+    "characterUniqueId": 78,
+    "name": "チケットUP",
+    "description": "キャットウーマンのジョブを編成時、DCエリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1934,
+    "characterUniqueId": 78,
+    "name": "物攻+300",
+    "description": "キャットウーマンのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1935,
+    "characterUniqueId": 78,
+    "name": "物防+300",
+    "description": "キャットウーマンのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1936,
+    "characterUniqueId": 78,
+    "name": "魔攻+300",
+    "description": "キャットウーマンのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1937,
+    "characterUniqueId": 78,
+    "name": "魔防+300",
+    "description": "キャットウーマンのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1938,
+    "characterUniqueId": 78,
+    "name": "刀剣 4%UP",
+    "description": "キャットウーマンのジョブを編成時、刀剣4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 1939,
+    "characterUniqueId": 5,
+    "name": "チケットUP",
+    "description": "ピノキオのジョブを編成時、DCエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1940,
+    "characterUniqueId": 2,
+    "name": "チケットUP",
+    "description": "スノウホワイトのジョブを編成時、DCエリアでチケット獲得倍率+0.2倍",
     "effectType": 15,
     "effectValue": 20,
     "cardDetailType": 0

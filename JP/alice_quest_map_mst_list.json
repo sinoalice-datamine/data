@@ -5412,6 +5412,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 516,
+    "mapType": 1,
+    "mapGroup": 509,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "悪と正義、そして贋作",
+    "description": "DCコラボイベントNormal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 517,
+    "mapType": 1,
+    "mapGroup": 509,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "悪と正義、そして贋作Hard",
+    "description": "DCコラボイベントHard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 518,
     "mapType": 1,
     "mapGroup": 510,

@@ -6728,6 +6728,22 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 866,
+    "title": "「悪と正義、そして贋作」ミッション",
+    "priority": 20003,
+    "startTime": 1631768400,
+    "endTime": 1632981599,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 867,
+    "title": "イベントデイリーミッション",
+    "priority": 20004,
+    "startTime": 1631768400,
+    "endTime": 1632981599,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 868,
     "title": "「月影の終末」ミッション",
     "priority": 20003,
@@ -6760,6 +6776,30 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 873,
+    "title": "「冥闇ノ使者」共闘ミッション",
+    "priority": 0,
+    "startTime": 1632020400,
+    "endTime": 1632365999,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 874,
+    "title": "「毒蛇ノ双眼」共闘ミッション",
+    "priority": 0,
+    "startTime": 1632366000,
+    "endTime": 1632711599,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 875,
+    "title": "「石柱ノ化身」共闘ミッション",
+    "priority": 0,
+    "startTime": 1632711600,
+    "endTime": 1633057199,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 876,
     "title": "シノアリスの日ミッション",
     "priority": 49999,
@@ -6789,6 +6829,14 @@
     "priority": 49998,
     "startTime": 1631804400,
     "endTime": 1631890799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 891,
+    "title": "DCコラボ記念ミッション",
+    "priority": 20006,
+    "startTime": 1631768400,
+    "endTime": 1632981599,
     "isHideTime": false
   }
 ]

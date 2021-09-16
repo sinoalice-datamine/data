@@ -4414,5 +4414,21 @@
     "endTime": 1631199599,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 294,
+    "name": "バットマンメダル",
+    "description": "ギシンアンキが集めているメダル\r\n※2021年10月7日23:59まで",
+    "resourceName": "item20210916_dc_gacha",
+    "assetBundleName": "3650",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年10月7日23:59まで",
+    "priority": 55,
+    "itemMstId": 3650,
+    "startTime": 1631768400,
+    "endTime": 1633618799,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]
