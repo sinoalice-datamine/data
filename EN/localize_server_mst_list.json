@@ -23221,7 +23221,7 @@
     "KR": "콜로세움 신에 참가 중인 길드에 가입할 수 없습니다.",
     "DE": "-Colosseum Sin participating guilds cannot be joined.",
     "FR": "-Colosseum Sin participating guilds cannot be joined.",
-    "ES": "",
+    "ES": "No se pueden agregar al gremio mientras participas en el Coliseo Shin.",
     "TH": "-Colosseum Sin participating guilds cannot be joined.",
     "VN": ""
   },
@@ -23235,7 +23235,7 @@
     "KR": "콜로세움 신에 참가 중인 길드를 탈퇴할 수 없습니다.",
     "DE": "-Colosseum Sin participating guilds cannot be left.",
     "FR": "-Colosseum Sin participating guilds cannot be left.",
-    "ES": "",
+    "ES": "No se puede salir del gremio mientras participas en el Coliseo Shin.",
     "TH": "-Colosseum Sin participating guilds cannot be left.",
     "VN": ""
   },
@@ -23249,8 +23249,22 @@
     "KR": "콜로세움 신에 참가 중인 길드를 해산할 수 없습니다.",
     "DE": "-Colosseum Sin participating guilds cannot be disbanded.",
     "FR": "-Colosseum Sin participating guilds cannot be disbanded.",
-    "ES": "",
+    "ES": "No se puede disolver el gremio mientras participas en el Coliseo Shin.",
     "TH": "-Colosseum Sin participating guilds cannot be disbanded.",
+    "VN": ""
+  },
+  {
+    "id": 1662,
+    "TLM": 52256,
+    "Type": 0,
+    "GameKey": "ServerData/gvgTournament.tournamentName",
+    "JP": "トーナメント%d",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
     "VN": ""
   }
 ]

@@ -21887,12 +21887,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "投票期限：{0:MM月dd日 HH:mm}",
-    "EN": "Ballots Expire: {0:MM月dd日 HH:mm}",
+    "EN": "Ballots Expire: {0: dd/MM HH:mm}",
     "KR": "투표 기간: {0:MM月dd日 HH:mm}",
-    "DE": "Ballots Expire: {0:MM月dd日 HH:mm}",
-    "FR": "Ballots Expire: {0:MM月dd日 HH:mm}",
-    "ES": "Votaciones hasta: {0:MM月dd日 HH:mm}",
-    "TH": "Ballots Expire: {0:MM月dd日 HH:mm}",
+    "DE": "Ballots Expire: {0: dd/MM HH:mm}",
+    "FR": "Ballots Expire: {0: dd/MM HH:mm}",
+    "ES": "Votaciones hasta: {0:dd/MM HH:mm}",
+    "TH": "Ballots Expire: {0: dd/MM HH:mm}",
     "VN": ""
   },
   {
@@ -21901,12 +21901,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "{0}期限：{1:MM月dd日}【獲得メダル{2}倍】",
-    "EN": "{0} Expires: {1:MM月dd日} (medals {2}x)",
-    "KR": "{0} 기간: {1:MM月dd日} [획득 메달 {2}배]",
-    "DE": "{0} Expires: {1:MM月dd日} (medals {2}x)",
-    "FR": "{0} Expires: {1:MM月dd日} (medals {2}x)",
-    "ES": "{0} Hasta: {1:MM月dd日} [Medallas obtenidas {2} veces]",
-    "TH": "{0} Expires: {1:MM月dd日} (medals {2}x)",
+    "EN": "{0} Expires: {1 :dd/MM} (medals {2}x)",
+    "KR": "{0} 기간: {1: MM월 dd일} [획득 메달 {2}배]",
+    "DE": "{0} Expires: {1 :dd/MM} (medals {2}x)",
+    "FR": "{0} Expires: {1 :dd/MM} (medals {2}x)",
+    "ES": "{0} Hasta: {1:dd/MM} [Medallas obtenidas {2} veces]",
+    "TH": "{0} Expires: {1 :dd/MM} (medals {2}x)",
     "VN": ""
   },
   {
@@ -22493,7 +22493,7 @@
     "KR": "스니키 \"곧 콜로세움 신 1회전이 시작됩니다.\"\\n스푸키 \"토너먼트전은 이겨야 의미가 있는 거죠.\"",
     "DE": "Parrah: \"Round 1 of Colosseum Sin begins now.\"\\nNoya: \"Victory will give your fight meaning.\"",
     "FR": "Parrah: \"Round 1 of Colosseum Sin begins now.\"\\nNoya: \"Victory will give your fight meaning.\"",
-    "ES": "",
+    "ES": "Parrah «Pronto comenzará la 1º Batalla del Coliseo Shin»\\nNoya «Ganar lo es todo en este torneo»",
     "TH": "Parrah: \"Round 1 of Colosseum Sin begins now.\"\\nNoya: \"Victory will give your fight meaning.\"",
     "VN": ""
   },
@@ -22507,7 +22507,7 @@
     "KR": "스니키 \"곧 콜로세움 신 2회전이 시작됩니다. 지옥은 이제부터입니다.\"\\n스푸키 \"첫 대전에서의 승리로 기쁨에 젖었던 시간은 끝났습니다.\"",
     "DE": "Parrah: \"Round 2 of Colosseum Sin begins now. Welcome to Hell.\"\\nNoya: \"No more time to rest on your Round 1 laurels.\"",
     "FR": "Parrah: \"Round 2 of Colosseum Sin begins now. Welcome to Hell.\"\\nNoya: \"No more time to rest on your Round 1 laurels.\"",
-    "ES": "",
+    "ES": "Parrah «Pronto comenzará la 2º Batalla del Coliseo Shin»\\nNoya «Se acabó disfrutar de la primera victoria»",
     "TH": "Parrah: \"Round 2 of Colosseum Sin begins now. Welcome to Hell.\"\\nNoya: \"No more time to rest on your Round 1 laurels.\"",
     "VN": ""
   },
@@ -22521,7 +22521,7 @@
     "KR": "스니키 \"곧 콜로세움 신 3회전이 시작됩니다. 지옥은 계속됩니다. 언제까지나~(♪)\"\\n스푸키 \"여기에서 승리하면 4강전!\"",
     "DE": "Parrah: \"Round 3 of Colosseum Sin begins now. Since you're going through Hell, keep going.\"\\nNoya: \"To give it your all is great, I guess, but to win is divine.\"",
     "FR": "Parrah: \"Round 3 of Colosseum Sin begins now. Since you're going through Hell, keep going.\"\\nNoya: \"To give it your all is great, I guess, but to win is divine.\"",
-    "ES": "",
+    "ES": "Parrah «Pronto comenzará la 3º Batalla del Coliseo Shin. El infierno continúa, más y más alla...»\\nNoya «Si ganas aquí, entrarás en los grandes 4»",
     "TH": "Parrah: \"Round 3 of Colosseum Sin begins now. Since you're going through Hell, keep going.\"\\nNoya: \"To give it your all is great, I guess, but to win is divine.\"",
     "VN": ""
   },
@@ -22535,7 +22535,7 @@
     "KR": "스니키 \"4강전에 든 걸로 만족하나요?\"\\n스푸키 \"당신은 좀 더 위로 올라갈 수 있어요.\"",
     "DE": "Parrah: \"Will you be satisfied with mere divinity?\"\\nNoya: \"I didn't think so. I've always liked that about you.\"",
     "FR": "Parrah: \"Will you be satisfied with mere divinity?\"\\nNoya: \"I didn't think so. I've always liked that about you.\"",
-    "ES": "",
+    "ES": "Parrah «¿Acaso con entrar entre los mejores 4 te conformas?»\\nNoya «Deberías llegar más alto»",
     "TH": "Parrah: \"Will you be satisfied with mere divinity?\"\\nNoya: \"I didn't think so. I've always liked that about you.\"",
     "VN": ""
   },
@@ -22549,7 +22549,7 @@
     "KR": "스니키 \"결승입니다.\"\\n스푸키 \"마지막입니다.\"",
     "DE": "Parrah: \"So. This is it.\"\\nNoya: \"The Final test.\"",
     "FR": "Parrah: \"So. This is it.\"\\nNoya: \"The Final test.\"",
-    "ES": "",
+    "ES": "Parrah «Es la gran final»\\nNoya «Es el último combate»",
     "TH": "Parrah: \"So. This is it.\"\\nNoya: \"The Final test.\"",
     "VN": ""
   }

@@ -18900,6 +18900,126 @@
     "cardDetailType": 5
   },
   {
+    "characterAbilityMstId": 2603,
+    "characterMstId": 185,
+    "name": "Polearm (Water) +30% (Cinderella+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2604,
+    "characterMstId": 185,
+    "name": "All Weapons (Wind) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 2605,
+    "characterMstId": 185,
+    "name": "Polearm (Water) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2606,
+    "characterMstId": 185,
+    "name": "Polearm (Water) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2607,
+    "characterMstId": 185,
+    "name": "M.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2608,
+    "characterMstId": 185,
+    "name": "M.DEF +800",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 800,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2609,
+    "characterMstId": 185,
+    "name": "HP +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2610,
+    "characterMstId": 185,
+    "name": "M.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2611,
+    "characterMstId": 185,
+    "name": "Polearm (Water) +10% (Cinderella+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2612,
+    "characterMstId": 185,
+    "name": "M.DMG +1.5% when using polearm class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900004,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2613,
+    "characterMstId": 185,
+    "name": "M.DEF +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2614,
+    "characterMstId": 185,
+    "name": "M.DEF +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
     "characterAbilityMstId": 2723,
     "characterMstId": 112,
     "name": "Instrument +10% (Nutcracker+ stages)",
@@ -20978,6 +21098,26 @@
     "effectType": 7,
     "effectValue": 2,
     "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 3993,
+    "characterMstId": 185,
+    "name": "Polearm (Water) +30% (Cinderella+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 3994,
+    "characterMstId": 185,
+    "name": "M.ATK +800",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 800,
+    "cardDetailType": 8
   },
   {
     "characterAbilityMstId": 4009,
@@ -24297,6 +24437,106 @@
     "skillType": 1,
     "effectType": 2,
     "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7313,
+    "characterMstId": 539,
+    "name": "Blade +30% (Alice+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7314,
+    "characterMstId": 539,
+    "name": "Blade +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7315,
+    "characterMstId": 539,
+    "name": "HP +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7316,
+    "characterMstId": 539,
+    "name": "Blade +20% (Alice+ stages)",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7317,
+    "characterMstId": 539,
+    "name": "P.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7318,
+    "characterMstId": 539,
+    "name": "P.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7319,
+    "characterMstId": 539,
+    "name": "Blade +10% (Alice+ stages)",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7320,
+    "characterMstId": 539,
+    "name": "M.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7321,
+    "characterMstId": 539,
+    "name": "M.DEF +100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7322,
+    "characterMstId": 539,
+    "name": "Cost +2",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
     "cardDetailType": 5
   },
   {
