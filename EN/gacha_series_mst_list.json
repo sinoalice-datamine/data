@@ -1853,6 +1853,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 167,
+    "gachaGroupId": 3,
+    "bannerMstId": 437,
+    "isAlways": false,
+    "name": "Crossroads of Justice",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅸ)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-Medal of desire (Ⅸ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 1360,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=1648&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 168,
     "gachaGroupId": 3,
     "bannerMstId": 650,
