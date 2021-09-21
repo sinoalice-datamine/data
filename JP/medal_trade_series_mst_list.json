@@ -4430,5 +4430,37 @@
     "endTime": 1633618799,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 295,
+    "name": "ヨクボウメダル(初Ⅲ)",
+    "description": "初心者向けステップアップガチャで獲得できるメダル\r\n※プレゼントボックスで受け取ってから60日まで",
+    "resourceName": "item97",
+    "assetBundleName": "639",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "初心者向けステップアップガチャで獲得できるメダル\r\n※プレゼントボックスで受け取ってから60日まで",
+    "priority": 42,
+    "itemMstId": 3682,
+    "startTime": 1632204000,
+    "endTime": 1924959599,
+    "displayType": 1,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 296,
+    "name": "ナイトメアメダル",
+    "description": "魔晶石購入特典のナイトメアと交換できるメダル\r\n※2021年10月7日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "0296",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ナイトメアメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2021年10月7日23:59まで",
+    "priority": 37,
+    "itemMstId": 3686,
+    "startTime": 1632204000,
+    "endTime": 1633618799,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]
