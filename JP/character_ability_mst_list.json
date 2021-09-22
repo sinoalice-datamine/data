@@ -71698,5 +71698,25 @@
     "effectType": 2,
     "effectValue": 700,
     "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 7433,
+    "characterMstId": 457,
+    "name": "魔法防御+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7434,
+    "characterMstId": 457,
+    "name": "長柄ジョブ使用時、魔法ダメージ2%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5032,
+    "cardDetailType": 8
   }
 ]
