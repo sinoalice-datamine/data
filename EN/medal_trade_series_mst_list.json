@@ -588,6 +588,34 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 94,
+    "name": "Order of the Black Knights Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20210921_medal_geass",
+    "assetBundleName": "0607",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 50,
+    "itemMstId": 1322,
+    "startTime": 1632463200,
+    "endTime": 1634277599,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 95,
+    "name": "Geass Medal",
+    "description": "Medal from a collaboration grimoire.",
+    "resourceName": "item20210921_gacha_codegeass",
+    "assetBundleName": "1352",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 50,
+    "itemMstId": 1352,
+    "startTime": 1632463200,
+    "endTime": 1634309999,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 117,
     "name": "mana medal",
     "description": "Medal collected by Parrah-Noya.",
