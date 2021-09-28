@@ -4462,5 +4462,37 @@
     "endTime": 1633618799,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 300,
+    "name": "ヨクボウメダル(Ⅹ)",
+    "description": "ガチャで獲得できるメダル\r\n※2021年11月7日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年11月7日23:59まで",
+    "priority": 55,
+    "itemMstId": 3689,
+    "startTime": 1632808800,
+    "endTime": 1636297199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 301,
+    "name": "Mirrativメダル",
+    "description": "Mirrativキャンペーンの特典。※2021年11月17日23:59まで",
+    "resourceName": "item20210430_miraativ",
+    "assetBundleName": "3298",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "Mirattivキャンペーンの特典で獲得することができます。\r\n※有効期限2021年11月17日23:59まで",
+    "priority": 55,
+    "itemMstId": 3713,
+    "startTime": 1632816000,
+    "endTime": 1637161199,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]
