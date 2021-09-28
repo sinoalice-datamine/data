@@ -15140,6 +15140,126 @@
     "cardDetailType": 5
   },
   {
+    "characterAbilityMstId": 1679,
+    "characterMstId": 132,
+    "name": "Polearm (Fire) +30% (Snow White+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1680,
+    "characterMstId": 132,
+    "name": "All Weapons (Water) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 1681,
+    "characterMstId": 132,
+    "name": "Polearm (Fire) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1682,
+    "characterMstId": 132,
+    "name": "Polearm (Fire) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1683,
+    "characterMstId": 132,
+    "name": "M.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1684,
+    "characterMstId": 132,
+    "name": "HP +1,200",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1685,
+    "characterMstId": 132,
+    "name": "HP +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1686,
+    "characterMstId": 132,
+    "name": "M.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1687,
+    "characterMstId": 132,
+    "name": "Polearm (Fire) +10% (Snow White+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1688,
+    "characterMstId": 132,
+    "name": "M.DMG +1.5% when using polearm class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900004,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1689,
+    "characterMstId": 132,
+    "name": "M.DEF +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 1690,
+    "characterMstId": 132,
+    "name": "M.DEF +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
     "characterAbilityMstId": 1703,
     "characterMstId": 33,
     "name": "Cost +2",
@@ -18960,6 +19080,26 @@
     "cardDetailType": 7
   },
   {
+    "characterAbilityMstId": 2487,
+    "characterMstId": 132,
+    "name": "Polearm (Fire) +30% (Snow White+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2488,
+    "characterMstId": 132,
+    "name": "M.ATK +800",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 800,
+    "cardDetailType": 8
+  },
+  {
     "characterAbilityMstId": 2491,
     "characterMstId": 119,
     "name": "Staff (Water) +30% (Red Riding Hood+ stages)",
@@ -20138,6 +20278,126 @@
     "effectType": 11,
     "effectValue": 800,
     "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2817,
+    "characterMstId": 221,
+    "name": "Heavy (Fire) +30% (Princess Kaguya+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2818,
+    "characterMstId": 221,
+    "name": "All Weapons (Water) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 2819,
+    "characterMstId": 221,
+    "name": "Heavy (Fire) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2820,
+    "characterMstId": 221,
+    "name": "Heavy (Fire) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2821,
+    "characterMstId": 221,
+    "name": "P.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2822,
+    "characterMstId": 221,
+    "name": "HP +1,200",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2823,
+    "characterMstId": 221,
+    "name": "HP +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2824,
+    "characterMstId": 221,
+    "name": "P.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2825,
+    "characterMstId": 221,
+    "name": "Heavy (Fire) +10% (Princess Kaguya+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2826,
+    "characterMstId": 221,
+    "name": "P.DMG +1.5% when using heavy class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900002,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2827,
+    "characterMstId": 221,
+    "name": "P.DEF +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2828,
+    "characterMstId": 221,
+    "name": "P.DEF +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
   },
   {
     "characterAbilityMstId": 2903,
@@ -23378,6 +23638,26 @@
     "effectType": 4,
     "effectValue": 400,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5399,
+    "characterMstId": 221,
+    "name": "Heavy (Fire) +30% (Princess Kaguya+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5400,
+    "characterMstId": 221,
+    "name": "P.ATK +800",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 800,
+    "cardDetailType": 6
   },
   {
     "characterAbilityMstId": 5403,
