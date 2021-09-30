@@ -5848,6 +5848,23 @@
     "createdTime": 1485183600
   },
   {
+    "questAreaMstId": 624,
+    "questMapMstId": 331,
+    "name": "Curious Chimera",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/48",
+    "bgResourceName": "0048",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 629,
     "questMapMstId": 336,
     "name": "Another Alice",
