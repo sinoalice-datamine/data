@@ -5456,6 +5456,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 520,
+    "mapType": 1,
+    "mapGroup": 511,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "暗黒街の大領主",
+    "description": "防具「暗黒街の大領主」",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 521,
+    "mapType": 1,
+    "mapGroup": 511,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "暗黒街の大領主Hard",
+    "description": "防具「暗黒街の大領主」Hard",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 522,
     "mapType": 1,
     "mapGroup": 512,
@@ -5470,6 +5492,28 @@
     "questMapMstId": 523,
     "mapType": 1,
     "mapGroup": 513,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "曜日ステージ",
+    "description": "曜日イベントNormal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 533,
+    "mapType": 1,
+    "mapGroup": 520,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "曜日ステージ",
+    "description": "曜日イベントNormal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 534,
+    "mapType": 1,
+    "mapGroup": 521,
     "mapGroupLv": 1,
     "mapCategory": 0,
     "name": "曜日ステージ",

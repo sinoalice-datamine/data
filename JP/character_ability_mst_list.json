@@ -72258,5 +72258,85 @@
     "effectType": 13,
     "effectValue": 5032,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7435,
+    "characterMstId": 113,
+    "name": "風属性武器使用時、デバフ効果3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5322,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 7436,
+    "characterMstId": 113,
+    "name": "物理攻撃+700",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 700,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 7437,
+    "characterMstId": 228,
+    "name": "火属性武器使用時、バフ効果3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6434,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 7438,
+    "characterMstId": 228,
+    "name": "物理防御+700",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 700,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 7439,
+    "characterMstId": 175,
+    "name": "魔法防御+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7440,
+    "characterMstId": 175,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7441,
+    "characterMstId": 131,
+    "name": "風属性武器使用時、物理ダメージ3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6277,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7442,
+    "characterMstId": 131,
+    "name": "物理攻撃+700",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 700,
+    "cardDetailType": 5
   }
 ]
