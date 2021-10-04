@@ -17119,6 +17119,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 2207,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 5867,
+    "isAlways": false,
+    "name": "傲慢ノ獣翼ガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅹ)\r\n枚数：1回ガチャで10枚、11回ガチャで100枚\r\n有効期限：2021年11月7日23:59",
+    "priority": 15100,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=8694&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 0,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 2300,
     "gachaGroupId": 4,
     "topBannerMstId": 0,
