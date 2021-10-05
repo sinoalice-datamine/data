@@ -324,6 +324,78 @@
     "rttParam": 0
   },
   {
+    "guildShipPartsMstId": 54,
+    "name": "Windclad Series: League 1 (Superstructure)",
+    "description": "Ship superstructure rewarded to League 1 top overall ranking guilds at the 15th Gran Colosseum",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 55,
+    "name": "Windclad Series: League 1 (Hull)",
+    "description": "Ship hull rewarded to League 1 top overall ranking guilds at the 15th Gran Colosseum",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 0,
+    "rttParam": 1
+  },
+  {
+    "guildShipPartsMstId": 56,
+    "name": "Windclad Series: League 1 (Lantern)",
+    "description": "Ship lantern rewarded to League 1 top overall ranking guilds at the 15th Gran Colosseum",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 57,
+    "name": "Windclad Series: League 2 (Superstructure)",
+    "description": "Ship superstructure rewarded to League 2 top overall ranking guilds at the 15th Gran Colosseum",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 58,
+    "name": "Windclad Series: League 2 (Hull)",
+    "description": "Ship hull rewarded to League 2 top overall ranking guilds at the 15th Gran Colosseum",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 0,
+    "rttParam": 1
+  },
+  {
+    "guildShipPartsMstId": 59,
+    "name": "Windclad Series: League 2 (Lantern)",
+    "description": "Ship lantern rewarded to League 2 top overall ranking guilds at the 15th Gran Colosseum",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
     "guildShipPartsMstId": 151,
     "name": "Emil Series (Superstructure)",
     "description": "Superstructure for the Emil guildship series",
