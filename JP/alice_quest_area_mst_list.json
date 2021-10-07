@@ -16872,6 +16872,25 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 930,
+    "questMapMstId": 524,
+    "name": "乱逆ノ忠臣",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/214",
+    "bgResourceName": "0214",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "startTime": null,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 939,
     "questMapMstId": 533,
     "name": "進化ノ神秘(武器)",
