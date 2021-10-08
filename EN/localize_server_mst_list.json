@@ -23476,5 +23476,33 @@
     "ES": "No",
     "TH": "No.",
     "VN": ""
+  },
+  {
+    "id": 1678,
+    "TLM": 52344,
+    "Type": 0,
+    "GameKey": "ServerData/gvgTournament.outPeriod",
+    "JP": "投票期間外",
+    "EN": "Voting Period Ended",
+    "KR": "투표 기간 외",
+    "DE": "Voting Period Ended",
+    "FR": "Voting Period Ended",
+    "ES": "Fuera del periodo de votaciones",
+    "TH": "Voting Period Ended",
+    "VN": ""
+  },
+  {
+    "id": 1679,
+    "TLM": 52345,
+    "Type": 0,
+    "GameKey": "ServerData/gvgTournament.rewardTavernComment",
+    "JP": "ギシアン酒場当選報酬",
+    "EN": "Parrah-Noya Tavern Lottery Rewards",
+    "KR": "니키푸키 주점 당첨 보상",
+    "DE": "Parrah-Noya Tavern Lottery Rewards",
+    "FR": "Parrah-Noya Tavern Lottery Rewards",
+    "ES": "Recompensa de lotería de la taberna de Parrah Noya",
+    "TH": "Parrah-Noya Tavern Lottery Rewards",
+    "VN": ""
   }
 ]

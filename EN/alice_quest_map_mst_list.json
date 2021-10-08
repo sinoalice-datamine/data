@@ -1232,6 +1232,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 255,
+    "mapType": 1,
+    "mapGroup": 151,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "The Butlers' Feast",
+    "description": "Halloween Event 2021",
+    "announceUrl": "/web/announce/body?announceMstId=4129&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 256,
+    "mapType": 1,
+    "mapGroup": 151,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "The Butlers' Feast (Hard)",
+    "description": "Halloween Event 2021 (Hard)",
+    "announceUrl": "/web/announce/body?announceMstId=4129&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 266,
     "mapType": 1,
     "mapGroup": 160,

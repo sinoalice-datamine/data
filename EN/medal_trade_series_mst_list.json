@@ -796,5 +796,19 @@
     "startTime": 1629957600,
     "endTime": 1631804399,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900008,
+    "name": "Halloween 2021 Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20211008_event_halloween",
+    "assetBundleName": "900218",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 56,
+    "itemMstId": 900218,
+    "startTime": 1633672800,
+    "endTime": 1635487199,
+    "isDeleted": false
   }
 ]

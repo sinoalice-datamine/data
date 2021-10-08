@@ -583,8 +583,8 @@
     "itemMstId": 881,
     "replaceMessage": "[*058]",
     "isAnytime": 0,
-    "startTime": 1622786400,
-    "endTime": 1624600799,
+    "startTime": 1633672800,
+    "endTime": 1635487199,
     "createdTime": null
   },
   {
@@ -711,6 +711,34 @@
     "isAnytime": 1,
     "startTime": 1593529200,
     "endTime": 1915509600,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 82,
+    "name": "Hamelin/Beautiful...",
+    "resourceName": "082",
+    "assetBundleName": "chat18",
+    "filterType": 44,
+    "howToGet": "Obtainable from \"The Butlers' Feast\" event.",
+    "itemMstId": 1642,
+    "replaceMessage": "[*082]",
+    "isAnytime": 0,
+    "startTime": 1633672800,
+    "endTime": 1634882399,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 83,
+    "name": "Aladdin/Urk...!",
+    "resourceName": "083",
+    "assetBundleName": "chat18",
+    "filterType": 13,
+    "howToGet": "Obtainable from the event medal exchange.",
+    "itemMstId": 1643,
+    "replaceMessage": "[*083]",
+    "isAnytime": 0,
+    "startTime": 1633672800,
+    "endTime": 1635487199,
     "createdTime": null
   },
   {
