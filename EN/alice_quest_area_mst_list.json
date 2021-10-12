@@ -5542,6 +5542,23 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 467,
+    "questMapMstId": 220,
+    "name": "Bonfire Crucible",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/140",
+    "bgResourceName": "0140",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 468,
     "questMapMstId": 221,
     "name": "A Knight's Resolve",

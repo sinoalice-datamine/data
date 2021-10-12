@@ -23179,7 +23179,7 @@
     "KR": "유저 인증",
     "DE": "User Authentication",
     "FR": "User Authentication",
-    "ES": "",
+    "ES": "Autenticación de usuario",
     "TH": "User Authentication",
     "VN": ""
   },
@@ -23193,7 +23193,7 @@
     "KR": "\"WORLD GRAN COLOSSEUM\"의 유저 인증에 필요한 일회용 비밀번호를 발행합니다.",
     "DE": "A One-Time Password necessary for World Gran Colosseum user authentication will be created.",
     "FR": "A One-Time Password necessary for World Gran Colosseum user authentication will be created.",
-    "ES": "",
+    "ES": "Se enviará la contraseña de un solo uso necesaria para la autenticación de usuario en el «WORLD GRAN COLOSSEUM».",
     "TH": "A One-Time Password necessary for World Gran Colosseum user authentication will be created.",
     "VN": ""
   },
@@ -23207,7 +23207,7 @@
     "KR": "발행된 일회용 비밀번호",
     "DE": "Your One-Time Password",
     "FR": "Your One-Time Password",
-    "ES": "",
+    "ES": "Tu contraseña de una vez",
     "TH": "Your One-Time Password",
     "VN": ""
   },
@@ -23221,7 +23221,7 @@
     "KR": "일회용 비밀번호의 입력 유효 기간은 발행 후 1시간입니다.\\n한 번 사용하면 다시 이용할 수 없습니다.",
     "DE": "Your One-Time Password must be used within one hour.\\nIt can only be used once.",
     "FR": "Your One-Time Password must be used within one hour.\\nIt can only be used once.",
-    "ES": "",
+    "ES": "Debes utilizar la contraseña de amigo en el plazo de una hora.\\nSolo puede usarse una vez.",
     "TH": "Your One-Time Password must be used within one hour.\\nIt can only be used once.",
     "VN": ""
   },
@@ -23235,7 +23235,7 @@
     "KR": "일회용 비밀번호가 복사되었습니다.",
     "DE": "One-Time Password Copied",
     "FR": "One-Time Password Copied",
-    "ES": "",
+    "ES": "Se ha copiado la contraseña de una vez.",
     "TH": "One-Time Password Copied",
     "VN": ""
   },
@@ -23331,6 +23331,20 @@
     "JP": "※チャットは試合終了後{0}分程度まで利用可能です。\\n※右下の「観戦終了」ボタンから別画面に移動できます。",
     "EN": "",
     "KR": "※채팅 시합 종료 후 {0}분 정도까지 이용 가능합니다.\\n※우측 하단의 \"관전 종료\" 버튼을 통해 다른 화면으로 이동할 수 있습니다.",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
+    "VN": ""
+  },
+  {
+    "id": 1668,
+    "TLM": 52360,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "WGC本戦トーナメントに出場中です。",
+    "EN": "",
+    "KR": "WGC 본선 토너먼트에 진출 중입니다.",
     "DE": "",
     "FR": "",
     "ES": "",

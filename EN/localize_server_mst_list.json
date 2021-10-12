@@ -23504,5 +23504,33 @@
     "ES": "Recompensa de lotería de la taberna de Parrah Noya",
     "TH": "Parrah-Noya Tavern Lottery Rewards",
     "VN": ""
+  },
+  {
+    "id": 1680,
+    "TLM": 52370,
+    "Type": 0,
+    "GameKey": "ServerData/gvgTournament.bookieSuccess",
+    "JP": "投票しました。\\n投票状況は投票履歴のページで確認できます。",
+    "EN": "Vote cast.\\nYou can check the status of the poll on the voting history page.",
+    "KR": "투표하였습니다.\\n투표 상황은 투표 이력 화면에서 확인할 수 있습니다.",
+    "DE": "Vote cast.\\nYou can check the status of the poll on the voting history page.",
+    "FR": "Vote cast.\\nYou can check the status of the poll on the voting history page.",
+    "ES": "Voto emitido. \\nPuedes revisar el estado de la votación en la página de historial de votación.",
+    "TH": "Vote cast.\\nYou can check the status of the poll on the voting history page.",
+    "VN": ""
+  },
+  {
+    "id": 1681,
+    "TLM": 52371,
+    "Type": 0,
+    "GameKey": "ServerData/gvgTournament.bookieFailure",
+    "JP": "投票できませんでした。",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
+    "VN": ""
   }
 ]
