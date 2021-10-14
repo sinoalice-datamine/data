@@ -5511,6 +5511,39 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 525,
+    "mapType": 1,
+    "mapGroup": 515,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "奇演ト密謀",
+    "description": "ミステリーイベントNormal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 526,
+    "mapType": 1,
+    "mapGroup": 515,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "奇演ト密謀Hard",
+    "description": "ミステリーイベントHard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 532,
+    "mapType": 1,
+    "mapGroup": 519,
+    "mapGroupLv": 1,
+    "mapCategory": 6,
+    "name": "犯人推理",
+    "description": "ミステリーイベント　犯人推理",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 533,
     "mapType": 1,
     "mapGroup": 520,

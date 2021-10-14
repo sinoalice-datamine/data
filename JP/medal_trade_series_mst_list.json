@@ -4464,6 +4464,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 299,
+    "name": "ミステリーメダル",
+    "description": "ギシンアンキが集めているメダル※2021年11月4日23:59まで",
+    "resourceName": "item20211014_event_mystery",
+    "assetBundleName": "3683",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2021年11月4日23:59まで",
+    "priority": 43,
+    "itemMstId": 3683,
+    "startTime": 1634187600,
+    "endTime": 1636037999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 300,
     "name": "ヨクボウメダル(Ⅹ)",
     "description": "ガチャで獲得できるメダル\r\n※2021年11月7日23:59まで",
@@ -4572,6 +4588,22 @@
     "itemMstId": 2800,
     "startTime": 1633014000,
     "endTime": 1635692399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 307,
+    "name": "探偵メダル",
+    "description": "ギシンアンキが集めているメダル\r\n※2021年11月4日23:59まで",
+    "resourceName": "item20211014_mystery_gacha",
+    "assetBundleName": "3743",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年11月4日23:59まで",
+    "priority": 55,
+    "itemMstId": 3743,
+    "startTime": 1634187600,
+    "endTime": 1636037999,
     "displayType": 0,
     "isDeleted": false
   }

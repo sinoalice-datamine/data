@@ -17290,6 +17290,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 2304,
+    "gachaGroupId": 4,
+    "topBannerMstId": 0,
+    "bannerMstId": 5913,
+    "isAlways": false,
+    "name": "チケットガチャ～傀儡館の演者達～",
+    "description": "-",
+    "noticeMessage": "このガチャのガチャチケットは『傀儡館の演者達』で獲得できます。\r\n※このガチャでは『探偵メダル』はおまけとして獲得できません。",
+    "priority": 9200,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=8784&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 0,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 2305,
     "gachaGroupId": 4,
     "topBannerMstId": 0,
@@ -27263,6 +27282,25 @@
     "pickupFirstResourceAssetBundleName": "",
     "setItemPickupPosition": 0,
     "createdTime": 1467266413
+  },
+  {
+    "gachaSeriesMstId": 103300,
+    "gachaGroupId": 5,
+    "topBannerMstId": 0,
+    "bannerMstId": 5912,
+    "isAlways": false,
+    "name": "傀儡館の演者達",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるメダルは以下の通りです。\r\n種類：探偵メダル\r\n枚数：STEP1～2で各50枚　STEP3～5で各100枚\r\n有効期限：2021年11月4日23:59",
+    "priority": 16921,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=8783&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266414
   },
   {
     "gachaSeriesMstId": 1000002,
