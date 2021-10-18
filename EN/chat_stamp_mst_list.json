@@ -714,6 +714,48 @@
     "createdTime": null
   },
   {
+    "chatStampMstId": 78,
+    "name": "Alice/King of the Mountain!",
+    "resourceName": "078",
+    "assetBundleName": "chat16",
+    "filterType": 1,
+    "howToGet": "Can be earned by participating in the Colosseum Sin Finals",
+    "itemMstId": 1349,
+    "replaceMessage": "[*078]",
+    "isAnytime": 1,
+    "startTime": 1636174800,
+    "endTime": 1924959599,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 79,
+    "name": "Parrah and Noya/Clasp!",
+    "resourceName": "079",
+    "assetBundleName": "chat16",
+    "filterType": 99,
+    "howToGet": "Can be earned by participating in the Colosseum Sin Finals",
+    "itemMstId": 1350,
+    "replaceMessage": "[*079]",
+    "isAnytime": 1,
+    "startTime": 1636174800,
+    "endTime": 1924959599,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 80,
+    "name": "Rikone/Bwooo",
+    "resourceName": "080",
+    "assetBundleName": "chat16",
+    "filterType": 99,
+    "howToGet": "Obtainable from the sin medal exchange.",
+    "itemMstId": 1351,
+    "replaceMessage": "[*080]",
+    "isAnytime": 0,
+    "startTime": 1634536800,
+    "endTime": 1637557199,
+    "createdTime": null
+  },
+  {
     "chatStampMstId": 82,
     "name": "Hamelin/Beautiful...",
     "resourceName": "082",
@@ -729,7 +771,7 @@
   },
   {
     "chatStampMstId": 83,
-    "name": "Aladdin/Urk...!",
+    "name": "Aladdin/Gh...\t",
     "resourceName": "083",
     "assetBundleName": "chat18",
     "filterType": 13,

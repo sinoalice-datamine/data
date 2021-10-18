@@ -630,6 +630,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 96,
+    "name": "Sin Medal",
+    "description": "Medal obtained in Parrah-Noya’s tavern at Colosseum Sin.",
+    "resourceName": "item20211018_colosseumsin1_honsen",
+    "assetBundleName": "1319",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Can be earned at the Colosseum Sin Parrah-Noya Tavern.",
+    "priority": 38,
+    "itemMstId": 1319,
+    "startTime": 1634536800,
+    "endTime": 1637557199,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 117,
     "name": "mana medal",
     "description": "Medal collected by Parrah-Noya.",

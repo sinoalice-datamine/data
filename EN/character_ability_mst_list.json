@@ -18160,6 +18160,126 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 2145,
+    "characterMstId": 165,
+    "name": "Staff (Wind) +30% (Sleeping Beauty+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2146,
+    "characterMstId": 165,
+    "name": "All Weapons (Fire) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 2147,
+    "characterMstId": 165,
+    "name": "Staff (Wind) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2148,
+    "characterMstId": 165,
+    "name": "Staff (Wind) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2149,
+    "characterMstId": 165,
+    "name": "M.DEF +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2150,
+    "characterMstId": 165,
+    "name": "M.DEF +800",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 800,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2151,
+    "characterMstId": 165,
+    "name": "M.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2152,
+    "characterMstId": 165,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2153,
+    "characterMstId": 165,
+    "name": "Staff (Wind) +10% (Sleeping Beauty+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2154,
+    "characterMstId": 165,
+    "name": "Recovery effect +1.5% when using staff class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900007,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2155,
+    "characterMstId": 165,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2156,
+    "characterMstId": 165,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
     "characterAbilityMstId": 2169,
     "characterMstId": 31,
     "name": "Blade +10% (Red Riding Hood+ stages)",
@@ -19498,6 +19618,26 @@
     "effectType": 11,
     "effectValue": 800,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2489,
+    "characterMstId": 165,
+    "name": "Staff (Wind) +30% (Sleeping Beauty+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2490,
+    "characterMstId": 165,
+    "name": "M.DEF +800",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 800,
+    "cardDetailType": 4
   },
   {
     "characterAbilityMstId": 2491,
