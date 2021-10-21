@@ -37360,6 +37360,26 @@
     "skillEffectParam2": 900
   },
   {
+    "skillMstId": 3948,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "Champion’s Harmony - Overture (III)",
+    "description": "Increases the P.ATK and P.DEF of 1 to 2 allies.\\nThe effects increase from the beginning of the colosseum until five minutes before it ends.",
+    "attackEffect": 0,
+    "sp": 22,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 551,
+    "typeLabel": "Multiple Allies/Self",
+    "primaryIcon": 9,
+    "secondaryIcon": 31,
+    "rangeIcon": 2,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 4,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 900
+  },
+  {
     "skillMstId": 3950,
     "category": 4,
     "setEffectSeriesId": 0,

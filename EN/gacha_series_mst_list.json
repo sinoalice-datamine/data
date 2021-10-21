@@ -3230,6 +3230,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 721,
+    "gachaGroupId": 5,
+    "bannerMstId": 2132,
+    "isAlways": false,
+    "name": "STEP Grimoire: Edacious Tiger's Curse",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅹ)\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Medal of desire (Ⅹ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 1480,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=1763&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 723,
     "gachaGroupId": 5,
     "bannerMstId": 2151,
