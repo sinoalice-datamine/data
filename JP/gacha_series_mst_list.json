@@ -17461,6 +17461,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 2313,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 5942,
+    "isAlways": false,
+    "name": "嫉妬の奏蛇ガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅹ)\r\n枚数：1回ガチャで10枚、11回ガチャで100枚\r\n有効期限：2021年11月7日23:59",
+    "priority": 17000,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=8827&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 2315,
     "gachaGroupId": 4,
     "topBannerMstId": 0,
