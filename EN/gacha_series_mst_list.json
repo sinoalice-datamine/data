@@ -3298,6 +3298,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 774,
+    "gachaGroupId": 5,
+    "bannerMstId": 2324,
+    "isAlways": false,
+    "name": "STEP Grimoire: Lazy Bear Musician",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅹ)\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Medal of desire (Ⅹ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 1490,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=1765&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 796,
     "gachaGroupId": 5,
     "bannerMstId": 2378,

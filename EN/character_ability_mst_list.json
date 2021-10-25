@@ -21100,6 +21100,126 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 2907,
+    "characterMstId": 228,
+    "name": "Instrument (Fire) +30% (Red Riding Hood+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2908,
+    "characterMstId": 228,
+    "name": "All Weapons (Water) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 2909,
+    "characterMstId": 228,
+    "name": "Instrument (Fire) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2910,
+    "characterMstId": 228,
+    "name": "Instrument (Fire) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2911,
+    "characterMstId": 228,
+    "name": "M.DEF +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2912,
+    "characterMstId": 228,
+    "name": "P.DEF +800",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 800,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2913,
+    "characterMstId": 228,
+    "name": "M.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2914,
+    "characterMstId": 228,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2915,
+    "characterMstId": 228,
+    "name": "Instrument (Fire) +10% (Red Riding Hood+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2916,
+    "characterMstId": 228,
+    "name": "Buff effect +1.5% when using instrument class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900005,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2917,
+    "characterMstId": 228,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2918,
+    "characterMstId": 228,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
     "characterAbilityMstId": 2927,
     "characterMstId": 230,
     "name": "Instrument +30% (Hamelin+ stages)",
@@ -23018,6 +23138,26 @@
     "effectType": 1,
     "effectValue": 200,
     "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 3709,
+    "characterMstId": 228,
+    "name": "Instrument (Fire) +30% (Red Riding Hood+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 3710,
+    "characterMstId": 228,
+    "name": "M.DEF +800",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 800,
+    "cardDetailType": 0
   },
   {
     "characterAbilityMstId": 3809,
