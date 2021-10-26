@@ -4638,5 +4638,21 @@
     "endTime": 1636037999,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 310,
+    "name": "ヨクボウメダル(Ⅺ)",
+    "description": "ガチャで獲得できるメダル\r\n※2021年12月7日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年12月7日23:59まで",
+    "priority": 55,
+    "itemMstId": 3780,
+    "startTime": 1635228000,
+    "endTime": 1638889199,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]
