@@ -23487,7 +23487,7 @@
     "KR": "이 이야기에서는 외형 변경이 해제됩니다.\\n이야기를 시작하시겠습니까?",
     "DE": "This story will reset any changes to your character's outfit.\\nWould you like to start this story?",
     "FR": "This story will reset any changes to your character's outfit.\\nWould you like to start this story?",
-    "ES": "",
+    "ES": "En esta historia se desbloqueará el cambio de aspecto.\\n¿Quieres comenzar la historia?",
     "TH": "This story will reset any changes to your character's outfit.\\nWould you like to start this story?",
     "VN": ""
   },
@@ -23501,7 +23501,7 @@
     "KR": "플레이 캐릭터 정보",
     "DE": "Player Character Details",
     "FR": "Player Character Details",
-    "ES": "",
+    "ES": "Detalles del personaje",
     "TH": "Player Character Details",
     "VN": ""
   },
@@ -23515,7 +23515,7 @@
     "KR": "플레이 캐릭터",
     "DE": "Player Character",
     "FR": "Player Character",
-    "ES": "",
+    "ES": "Personajes jugables",
     "TH": "Player Character",
     "VN": ""
   },
@@ -23529,7 +23529,7 @@
     "KR": "플레이 캐릭터 수",
     "DE": "Player Character Count",
     "FR": "Player Character Count",
-    "ES": "",
+    "ES": "Número de personajes",
     "TH": "Player Character Count",
     "VN": ""
   },
@@ -23543,7 +23543,7 @@
     "KR": "\"{0}\"의\\n코스튬으로 획득",
     "DE": "Received {0}\\nas a new outfit.",
     "FR": "Received {0}\\nas a new outfit.",
-    "ES": "",
+    "ES": "Obtención de «{0}»\\n como cambio de ropa",
     "TH": "Received {0}\\nas a new outfit.",
     "VN": ""
   },
@@ -23557,7 +23557,7 @@
     "KR": "{0}의 직업",
     "DE": "{0}'s Classes",
     "FR": "{0}'s Classes",
-    "ES": "",
+    "ES": "Clases de {0}",
     "TH": "{0}'s Classes",
     "VN": ""
   },
@@ -23571,7 +23571,7 @@
     "KR": "코스튬 명",
     "DE": "Change Outfits",
     "FR": "Change Outfits",
-    "ES": "",
+    "ES": "Nombre de cambio de ropa",
     "TH": "Change Outfits",
     "VN": ""
   },
@@ -23585,7 +23585,7 @@
     "KR": "외형 변경 가능 직업",
     "DE": "Classes Available for Image Change",
     "FR": "Classes Available for Image Change",
-    "ES": "",
+    "ES": "Clase apta para cambiar diseño",
     "TH": "Classes Available for Image Change",
     "VN": ""
   },
@@ -23599,7 +23599,7 @@
     "KR": "획득 경로",
     "DE": "Acquisition Options",
     "FR": "Acquisition Options",
-    "ES": "",
+    "ES": "Proceso de obtención",
     "TH": "Acquisition Options",
     "VN": ""
   },
@@ -23613,7 +23613,7 @@
     "KR": "외형 변경",
     "DE": "Change Appearance",
     "FR": "Change Appearance",
-    "ES": "",
+    "ES": "Cambiar de diseño",
     "TH": "Change Appearance",
     "VN": ""
   },
@@ -23623,12 +23623,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "決勝戦勝敗予想：{0:MM月dd日 HH:mm}〜{1:MM月dd日 HH:mm}",
-    "EN": "Final Battle Prediction: {0:MM/dd HH:mm} ~{1:MM/dd HH:mm}",
+    "EN": "Final Battle Prediction: {0:MM/dd HH:mm} ~ {1:MM/dd HH:mm}",
     "KR": "결승전 승패 예상: {0: MM월 dd일 HH:mm} ~ {1: MM월 dd일 HH:mm}",
-    "DE": "Final Battle Prediction: {0:MM/dd HH:mm} ~{1:MM/dd HH:mm}",
-    "FR": "Final Battle Prediction: {0:MM/dd HH:mm} ~{1:MM/dd HH:mm}",
+    "DE": "Final Battle Prediction: {0:MM/dd HH:mm} ~ {1:MM/dd HH:mm}",
+    "FR": "Final Battle Prediction: {0:MM/dd HH:mm} ~ {1:MM/dd HH:mm}",
     "ES": "Predicciones de los ganadores de las finales: {0:dd/MM HH:mm} ~ {1:dd/MM HH:mm}",
-    "TH": "Final Battle Prediction: {0:MM/dd HH:mm} ~{1:MM/dd HH:mm}",
+    "TH": "Final Battle Prediction: {0:MM/dd HH:mm} ~ {1:MM/dd HH:mm}",
     "VN": ""
   },
   {
@@ -23679,12 +23679,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "非当選：",
-    "EN": "",
+    "EN": "Loser:",
     "KR": "비당첨:",
-    "DE": "",
-    "FR": "",
+    "DE": "Loser:",
+    "FR": "Loser:",
     "ES": "Sin aciertos:",
-    "TH": "",
+    "TH": "Loser:",
     "VN": ""
   },
   {
@@ -23735,12 +23735,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "着せ替え",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
+    "EN": "Change Outfits",
+    "KR": "코스튬",
+    "DE": "Change Outfits",
+    "FR": "Change Outfits",
     "ES": "",
-    "TH": "",
+    "TH": "Change Outfits",
     "VN": ""
   }
 ]

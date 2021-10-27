@@ -1232,6 +1232,50 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 234,
+    "mapType": 1,
+    "mapGroup": 137,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Phantasmic Rift",
+    "description": "FFBE Normal",
+    "announceUrl": "/web/announce/body?announceMstId=3893&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 235,
+    "mapType": 1,
+    "mapGroup": 137,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "Phantasmic Rift (Hard)",
+    "description": "FFBE Hard",
+    "announceUrl": "/web/announce/body?announceMstId=3893&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 244,
+    "mapType": 1,
+    "mapGroup": 144,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Phantasm Residue",
+    "description": "FFBE Bahamut Conquest (Normal)",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 245,
+    "mapType": 1,
+    "mapGroup": 144,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "Phantasm Residue (Hard)",
+    "description": "FFBE Bahamut Conquest (Hard)",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 246,
     "mapType": 1,
     "mapGroup": 145,
