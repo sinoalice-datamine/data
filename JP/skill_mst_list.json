@@ -123540,6 +123540,26 @@
     "skillEffectParam2": 0
   },
   {
+    "skillMstId": 7225,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "死力の雷撃(Ⅴ)",
+    "description": "敵1～3体に物理大ダメージを与える。\r\nさらに残りSPが少ないほど威力が大アップする。",
+    "attackEffect": 0,
+    "sp": 25,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 14,
+    "typeLabel": "敵複数体",
+    "primaryIcon": 1,
+    "secondaryIcon": 28,
+    "rangeIcon": 2,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0
+  },
+  {
     "skillMstId": 7226,
     "category": 1,
     "setEffectSeriesId": 0,

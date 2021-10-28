@@ -298,8 +298,8 @@
     "wayToGet": "イベントを行うことで獲得することができます。",
     "priority": 30,
     "itemMstId": 345,
-    "startTime": 1633014000,
-    "endTime": 1634309999,
+    "startTime": 1635692400,
+    "endTime": 1636988399,
     "displayType": 0,
     "isDeleted": false
   },
@@ -4464,6 +4464,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 298,
+    "name": "紅葉メダル",
+    "description": "ギシンアンキが集めているメダル※2021年11月16日23:59まで",
+    "resourceName": "item20201119_event_photo",
+    "assetBundleName": "2728",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2021年11月16日23:59まで",
+    "priority": 43,
+    "itemMstId": 3685,
+    "startTime": 1635400800,
+    "endTime": 1637074799,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 299,
     "name": "ミステリーメダル",
     "description": "ギシンアンキが集めているメダル※2021年11月4日23:59まで",
@@ -4539,7 +4555,7 @@
     "priority": 91,
     "itemMstId": 2797,
     "startTime": 1633014000,
-    "endTime": 1635692399,
+    "endTime": 1924959599,
     "displayType": 0,
     "isDeleted": false
   },
@@ -4555,7 +4571,7 @@
     "priority": 92,
     "itemMstId": 2798,
     "startTime": 1633014000,
-    "endTime": 1635692399,
+    "endTime": 1924959599,
     "displayType": 0,
     "isDeleted": false
   },
@@ -4571,7 +4587,7 @@
     "priority": 93,
     "itemMstId": 2799,
     "startTime": 1633014000,
-    "endTime": 1635692399,
+    "endTime": 1924959599,
     "displayType": 0,
     "isDeleted": false
   },
@@ -4587,7 +4603,7 @@
     "priority": 90,
     "itemMstId": 2800,
     "startTime": 1633014000,
-    "endTime": 1635692399,
+    "endTime": 1924959599,
     "displayType": 0,
     "isDeleted": false
   },
