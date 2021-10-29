@@ -19409,7 +19409,7 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "※ピックアップされる{0}を選択後に提供割合一覧が表示されます。",
-    "EN": "Note: The drop rate for {0} will appear after selecting them.",
+    "EN": "Note: The drop rate for {0}s will appear after selecting them.",
     "KR": "※픽업되는 {0}을(를) 선택하면 등장 확률 목록이 표시됩니다.",
     "DE": "*Nach dem du den/die Fokus {0} ausgewählt hast, wird eine Liste des angebotenen Prozentsatzes angezeigt.",
     "FR": "*Après avoir sélectionné {0} en vedette, le taux d'approvisionnement correspondant s’affiche.",
@@ -22755,12 +22755,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "所持{0}",
-    "EN": "{0} owned.",
+    "EN": "{0} owned:",
     "KR": "보유 {0}",
-    "DE": "{0} owned.",
-    "FR": "{0} owned.",
+    "DE": "{0} owned:",
+    "FR": "{0} owned:",
     "ES": "En inventario {0}",
-    "TH": "{0} owned.",
+    "TH": "{0} owned:",
     "VN": ""
   },
   {
@@ -23739,8 +23739,22 @@
     "KR": "코스튬",
     "DE": "Change Outfits",
     "FR": "Change Outfits",
-    "ES": "",
+    "ES": "Cambiar de atuendo",
     "TH": "Change Outfits",
+    "VN": ""
+  },
+  {
+    "id": 1697,
+    "TLM": 52421,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "優勝ギルド予想投票は終了しました",
+    "EN": "Win/Loss Predictions for the winning guild have ended.",
+    "KR": "우승 길드 예상 투표는 종료되었습니다.",
+    "DE": "Win/Loss Predictions for the winning guild have ended.",
+    "FR": "Win/Loss Predictions for the winning guild have ended.",
+    "ES": "Las predicciones de los ganadores han finalizado.",
+    "TH": "Win/Loss Predictions for the winning guild have ended.",
     "VN": ""
   }
 ]

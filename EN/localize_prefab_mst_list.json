@@ -19553,8 +19553,22 @@
     "KR": "베이스",
     "DE": "Base",
     "FR": "Base",
-    "ES": "",
+    "ES": "Base",
     "TH": "Base",
+    "VN": ""
+  },
+  {
+    "id": 1398,
+    "TLM": 52399,
+    "Type": 0,
+    "GameKey": "PREFAB",
+    "JP": "WGCユーザー認証",
+    "EN": "WGC User Authentication",
+    "KR": "WGC 유저 인증",
+    "DE": "WGC User Authentication",
+    "FR": "WGC User Authentication",
+    "ES": "Autenticación de usuario del WGC",
+    "TH": "WGC User Authentication",
     "VN": ""
   }
 ]
