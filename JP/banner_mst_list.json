@@ -124452,5 +124452,27 @@
     "optionType": 0,
     "isDeleted": false,
     "createdTime": 1483974000
+  },
+  {
+    "bannerMstId": 6023,
+    "type": 7,
+    "startTime": 1635757200,
+    "endTime": 1640530799,
+    "priority": 4100,
+    "transitionSceneName": "Announce",
+    "objectId": 8812,
+    "announceMstId": 8812,
+    "osType": 0,
+    "isBeginner": false,
+    "beginnerDays": 0,
+    "isDisplayHome": true,
+    "assetBundleName": "banner20211028_wgc_info",
+    "resourceName": "6023",
+    "badgeAssetBundleName": "",
+    "badgeResourceName": "",
+    "badgeEndTime": null,
+    "optionType": 0,
+    "isDeleted": false,
+    "createdTime": 1483974000
   }
 ]
