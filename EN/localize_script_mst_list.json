@@ -22629,12 +22629,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "投票するギルドを{0}つ選択して下さい。",
-    "EN": "Please select {0} guilds to vote for.",
+    "EN": "Please select {0} guild(s) to vote for.",
     "KR": "투표할 길드를 {0}개 선택하세요.",
-    "DE": "Please select {0} guilds to vote for.",
-    "FR": "Please select {0} guilds to vote for.",
+    "DE": "Please select {0} guild(s) to vote for.",
+    "FR": "Please select {0} guild(s) to vote for.",
     "ES": "Elige {0} gremios a los que votar.",
-    "TH": "Please select {0} guilds to vote for.",
+    "TH": "Please select {0} guild(s) to vote for.",
     "VN": ""
   },
   {
@@ -22839,12 +22839,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "当選数",
-    "EN": "# of Victories:",
+    "EN": "Victories:",
     "KR": "당첨 수",
-    "DE": "# of Victories:",
-    "FR": "# of Victories:",
+    "DE": "Victories:",
+    "FR": "Victories:",
     "ES": "Número de Acertados:",
-    "TH": "# of Victories:",
+    "TH": "Victories:",
     "VN": ""
   },
   {
@@ -23755,6 +23755,34 @@
     "FR": "Win/Loss Predictions for the winning guild have ended.",
     "ES": "Las predicciones de los ganadores han finalizado.",
     "TH": "Win/Loss Predictions for the winning guild have ended.",
+    "VN": ""
+  },
+  {
+    "id": 1698,
+    "TLM": 52422,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "MVP表彰が終了しました。\\nご参加頂きありがとうございます。\\n\\n※ホーム画面へ移動します。",
+    "EN": "",
+    "KR": "MVP 표창이 종료되었습니다.\\n참가해 주셔서 감사합니다.\\n\\n※홈 화면으로 이동합니다.",
+    "DE": "",
+    "FR": "",
+    "ES": "Se ha finalizado el anuncio del MVP.\\nMuchas gracias por participar.\\n\\n*Se transferirá a la página principal.",
+    "TH": "",
+    "VN": ""
+  },
+  {
+    "id": 1699,
+    "TLM": 52423,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "勝利ギルドや観戦者とのチャットをお楽しみください。",
+    "EN": "",
+    "KR": "승리 길드 및 관전자와의 채팅을 즐겨 주세요.",
+    "DE": "",
+    "FR": "",
+    "ES": "Disfruta del chat de ganadores y espectadores.",
+    "TH": "",
     "VN": ""
   }
 ]
