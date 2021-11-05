@@ -1848,6 +1848,34 @@
     "createdTime": 1485961226
   },
   {
+    "battleEffectMstId": 198,
+    "positionType": 1,
+    "additionalPositionX": -30,
+    "additionalPositionY": 100,
+    "additionalPositionZ": 0,
+    "magnificationScale": 40,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_contest_quest",
+    "cueName": "se_contest_quest@001_R",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 199,
+    "positionType": 1,
+    "additionalPositionX": -30,
+    "additionalPositionY": 100,
+    "additionalPositionZ": 0,
+    "magnificationScale": 40,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_contest_quest",
+    "cueName": "se_contest_quest@002_R",
+    "createdTime": 1485961226
+  },
+  {
     "battleEffectMstId": 205,
     "positionType": 1,
     "additionalPositionX": 0,

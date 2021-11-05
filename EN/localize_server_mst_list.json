@@ -23819,12 +23819,26 @@
     "Type": 0,
     "GameKey": "Server/error.14201",
     "JP": "ギルド未解放のため、\\n投票に参加できません。",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "EN": "You cannot vote,\\nas the guild is still locked.",
+    "KR": "길드가 해금되지 않아\\n투표에 참가할 수 없습니다.",
+    "DE": "You cannot vote,\\nas the guild is still locked.",
+    "FR": "You cannot vote,\\nas the guild is still locked.",
+    "ES": "No se puede realizar la votación\\ndebido a ser un Gremio bloqueado.",
+    "TH": "You cannot vote,\\nas the guild is still locked.",
+    "VN": ""
+  },
+  {
+    "id": 1703,
+    "TLM": 52296,
+    "Type": 0,
+    "GameKey": "Server/error.14178",
+    "JP": "WGC参加中のためエントリーできません。",
+    "EN": "You cannot enter, as you are currently participating in the WGC.",
+    "KR": "WGC 참가 중이므로 참가 등록할 수 없습니다.",
+    "DE": "You cannot enter, as you are currently participating in the WGC.",
+    "FR": "You cannot enter, as you are currently participating in the WGC.",
+    "ES": "No se puede realizar la inscripción por ser participante del WGC.",
+    "TH": "You cannot enter, as you are currently participating in the WGC.",
     "VN": ""
   }
 ]
