@@ -5336,5 +5336,22 @@
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",
     "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 900088,
+    "gachaGroupId": 3,
+    "bannerMstId": 1320,
+    "isAlways": false,
+    "name": "Lazy Bear Musician Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅺ)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-Medal of desire (Ⅺ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 1560,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=1842&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
   }
 ]
