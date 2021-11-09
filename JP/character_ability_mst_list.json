@@ -74158,5 +74158,285 @@
     "effectType": 5,
     "effectValue": 700,
     "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 7613,
+    "characterMstId": 555,
+    "name": "LittlePigsエリアで刀剣60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7614,
+    "characterMstId": 555,
+    "name": "刀剣10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7615,
+    "characterMstId": 555,
+    "name": "HP+500",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7616,
+    "characterMstId": 555,
+    "name": "魔法防御+200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7617,
+    "characterMstId": 555,
+    "name": "HP+500",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7618,
+    "characterMstId": 555,
+    "name": "物理攻撃+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7619,
+    "characterMstId": 555,
+    "name": "HP+500",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7620,
+    "characterMstId": 555,
+    "name": "魔法防御+2000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 2000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7621,
+    "characterMstId": 555,
+    "name": "HP+500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7622,
+    "characterMstId": 555,
+    "name": "HP+6000",
+    "releaseLevel": 10,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 6000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7623,
+    "characterMstId": 555,
+    "name": "魔法防御+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7624,
+    "characterMstId": 555,
+    "name": "HP+500",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7625,
+    "characterMstId": 555,
+    "name": "物理攻撃+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7626,
+    "characterMstId": 555,
+    "name": "物理攻撃+2000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 2000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7627,
+    "characterMstId": 556,
+    "name": "Hamelnエリアで楽器60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 7628,
+    "characterMstId": 556,
+    "name": "楽器10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 7629,
+    "characterMstId": 556,
+    "name": "HP+500",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 7630,
+    "characterMstId": 556,
+    "name": "物理防御+200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 7631,
+    "characterMstId": 556,
+    "name": "HP+500",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 7632,
+    "characterMstId": 556,
+    "name": "魔法防御+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 7633,
+    "characterMstId": 556,
+    "name": "HP+500",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 7634,
+    "characterMstId": 556,
+    "name": "魔法防御+2000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 2000,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 7635,
+    "characterMstId": 556,
+    "name": "HP+500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 7636,
+    "characterMstId": 556,
+    "name": "HP+6000",
+    "releaseLevel": 10,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 6000,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 7637,
+    "characterMstId": 556,
+    "name": "物理防御+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 7638,
+    "characterMstId": 556,
+    "name": "HP+500",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 7639,
+    "characterMstId": 556,
+    "name": "魔法防御+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 7640,
+    "characterMstId": 556,
+    "name": "物理防御+2000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 2000,
+    "cardDetailType": 1
   }
 ]
