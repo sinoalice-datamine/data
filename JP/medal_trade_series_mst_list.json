@@ -4464,6 +4464,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 297,
+    "name": "米俵メダル",
+    "description": "ギシンアンキが集めているメダル※2021年12月2日23:59まで",
+    "resourceName": "item20211122_event_inasaku",
+    "assetBundleName": "3684",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2021年12月2日23:59まで",
+    "priority": 43,
+    "itemMstId": 3684,
+    "startTime": 1636693200,
+    "endTime": 1638457199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 298,
     "name": "紅葉メダル",
     "description": "ギシンアンキが集めているメダル※2021年11月16日23:59まで",
@@ -4668,6 +4684,22 @@
     "itemMstId": 3780,
     "startTime": 1635228000,
     "endTime": 1638889199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 313,
+    "name": "豊穣メダル",
+    "description": "ギシンアンキが集めているメダル※2021年12月2日23:59まで",
+    "resourceName": "item20211112_aki_gacha",
+    "assetBundleName": "3827",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年12月2日23:59まで",
+    "priority": 43,
+    "itemMstId": 3827,
+    "startTime": 1636693200,
+    "endTime": 1638457199,
     "displayType": 0,
     "isDeleted": false
   }

@@ -5533,6 +5533,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 527,
+    "mapType": 1,
+    "mapGroup": 516,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "豊穣の秋宴",
+    "description": "豊穣の秋宴イベントNormal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 528,
+    "mapType": 1,
+    "mapGroup": 516,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "豊穣の秋宴",
+    "description": "豊穣の秋宴イベントHard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 529,
     "mapType": 1,
     "mapGroup": 517,
