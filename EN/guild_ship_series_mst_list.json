@@ -40,6 +40,14 @@
     "shipPartsAttachedMstId": 15
   },
   {
+    "guildShipSeriesMstId": 6,
+    "name": "Castle in the Sky Series (League 3)",
+    "description": "Ship rewarded to League 3 top overall ranking guilds at the 12th Gran Colosseum",
+    "shipPartsBodyMstId": 17,
+    "shipPartsRoofMstId": 16,
+    "shipPartsAttachedMstId": 18
+  },
+  {
     "guildShipSeriesMstId": 7,
     "name": "Glowing Castle Series (League 1)",
     "description": "Ship rewarded to League 1 top overall ranking guilds at the 13th Gran Colosseum",
@@ -54,6 +62,30 @@
     "shipPartsBodyMstId": 23,
     "shipPartsRoofMstId": 22,
     "shipPartsAttachedMstId": 24
+  },
+  {
+    "guildShipSeriesMstId": 9,
+    "name": "Glowing Castle Series (League 3)",
+    "description": "Ship rewarded to League 3 top overall ranking guilds at the 13th Gran Colosseum",
+    "shipPartsBodyMstId": 26,
+    "shipPartsRoofMstId": 25,
+    "shipPartsAttachedMstId": 27
+  },
+  {
+    "guildShipSeriesMstId": 10,
+    "name": "オリジンシリーズ(灰朱)",
+    "description": "オリジンシリーズ(灰朱)のギルドシップ",
+    "shipPartsBodyMstId": 30,
+    "shipPartsRoofMstId": 29,
+    "shipPartsAttachedMstId": 31
+  },
+  {
+    "guildShipSeriesMstId": 11,
+    "name": "天翼シリーズ",
+    "description": "天翼シリーズのギルドシップ",
+    "shipPartsBodyMstId": 33,
+    "shipPartsRoofMstId": 32,
+    "shipPartsAttachedMstId": 34
   },
   {
     "guildShipSeriesMstId": 12,
@@ -72,6 +104,14 @@
     "shipPartsAttachedMstId": 40
   },
   {
+    "guildShipSeriesMstId": 14,
+    "name": "Funhouse Series (League 3)",
+    "description": "Ship rewarded to League 3 top overall ranking guilds at the 14th Gran Colosseum",
+    "shipPartsBodyMstId": 42,
+    "shipPartsRoofMstId": 41,
+    "shipPartsAttachedMstId": 43
+  },
+  {
     "guildShipSeriesMstId": 15,
     "name": "Windclad Series (League 1)",
     "description": "Ship rewarded to League 1 top overall ranking guilds at the 15th Gran Colosseum",
@@ -88,11 +128,347 @@
     "shipPartsAttachedMstId": 59
   },
   {
+    "guildShipSeriesMstId": 17,
+    "name": "Windclad Series (League 3)",
+    "description": "Ship rewarded to League 3 top overall ranking guilds at the 15th Gran Colosseum",
+    "shipPartsBodyMstId": 61,
+    "shipPartsRoofMstId": 60,
+    "shipPartsAttachedMstId": 62
+  },
+  {
+    "guildShipSeriesMstId": 18,
+    "name": "Featherclad Series (League 1)",
+    "description": "Ship rewarded to League 1 top overall ranking guilds at the 16th Gran Colosseum",
+    "shipPartsBodyMstId": 64,
+    "shipPartsRoofMstId": 63,
+    "shipPartsAttachedMstId": 65
+  },
+  {
+    "guildShipSeriesMstId": 19,
+    "name": "Featherclad Series (League 2)",
+    "description": "Ship rewarded to League 2 top overall ranking guilds at the 16th Gran Colosseum",
+    "shipPartsBodyMstId": 67,
+    "shipPartsRoofMstId": 66,
+    "shipPartsAttachedMstId": 68
+  },
+  {
+    "guildShipSeriesMstId": 20,
+    "name": "Featherclad Series (League 3)",
+    "description": "Ship rewarded to League 3 top overall ranking guilds at the 16th Gran Colosseum",
+    "shipPartsBodyMstId": 70,
+    "shipPartsRoofMstId": 69,
+    "shipPartsAttachedMstId": 71
+  },
+  {
+    "guildShipSeriesMstId": 21,
+    "name": "オリジンシリーズ(翡翠)",
+    "description": "オリジンシリーズ(翡翠)のギルドシップ",
+    "shipPartsBodyMstId": 73,
+    "shipPartsRoofMstId": 72,
+    "shipPartsAttachedMstId": 74
+  },
+  {
+    "guildShipSeriesMstId": 22,
+    "name": "晶装シリーズ(1部)",
+    "description": "第36回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 76,
+    "shipPartsRoofMstId": 75,
+    "shipPartsAttachedMstId": 77
+  },
+  {
+    "guildShipSeriesMstId": 23,
+    "name": "晶装シリーズ(2部)",
+    "description": "第36回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 79,
+    "shipPartsRoofMstId": 78,
+    "shipPartsAttachedMstId": 80
+  },
+  {
+    "guildShipSeriesMstId": 24,
+    "name": "晶装シリーズ(3部)",
+    "description": "第36回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 82,
+    "shipPartsRoofMstId": 81,
+    "shipPartsAttachedMstId": 83
+  },
+  {
+    "guildShipSeriesMstId": 25,
+    "name": "氷晶シリーズ(1部)",
+    "description": "第37回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 90,
+    "shipPartsRoofMstId": 89,
+    "shipPartsAttachedMstId": 91
+  },
+  {
+    "guildShipSeriesMstId": 26,
+    "name": "氷晶シリーズ(2部)",
+    "description": "第37回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 93,
+    "shipPartsRoofMstId": 92,
+    "shipPartsAttachedMstId": 94
+  },
+  {
+    "guildShipSeriesMstId": 27,
+    "name": "氷晶シリーズ(3部)",
+    "description": "第37回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 96,
+    "shipPartsRoofMstId": 95,
+    "shipPartsAttachedMstId": 97
+  },
+  {
+    "guildShipSeriesMstId": 28,
+    "name": "オリジンシリーズ(菫)",
+    "description": "オリジンシリーズ(菫)のギルドシップ",
+    "shipPartsBodyMstId": 99,
+    "shipPartsRoofMstId": 98,
+    "shipPartsAttachedMstId": 100
+  },
+  {
+    "guildShipSeriesMstId": 29,
+    "name": "鬼社シリーズ(1部)",
+    "description": "第38回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 102,
+    "shipPartsRoofMstId": 101,
+    "shipPartsAttachedMstId": 103
+  },
+  {
+    "guildShipSeriesMstId": 30,
+    "name": "鬼社シリーズ(2部)",
+    "description": "第38回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 105,
+    "shipPartsRoofMstId": 104,
+    "shipPartsAttachedMstId": 106
+  },
+  {
+    "guildShipSeriesMstId": 31,
+    "name": "鬼社シリーズ(3部)",
+    "description": "第38回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 108,
+    "shipPartsRoofMstId": 107,
+    "shipPartsAttachedMstId": 109
+  },
+  {
+    "guildShipSeriesMstId": 32,
+    "name": "雛祭シリーズ(1部)",
+    "description": "第39回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 111,
+    "shipPartsRoofMstId": 110,
+    "shipPartsAttachedMstId": 112
+  },
+  {
+    "guildShipSeriesMstId": 33,
+    "name": "雛祭シリーズ(2部)",
+    "description": "第39回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 114,
+    "shipPartsRoofMstId": 113,
+    "shipPartsAttachedMstId": 115
+  },
+  {
+    "guildShipSeriesMstId": 34,
+    "name": "雛祭シリーズ(3部)",
+    "description": "第39回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 117,
+    "shipPartsRoofMstId": 116,
+    "shipPartsAttachedMstId": 118
+  },
+  {
+    "guildShipSeriesMstId": 35,
+    "name": "桜乱シリーズ(1部)",
+    "description": "第40回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 120,
+    "shipPartsRoofMstId": 119,
+    "shipPartsAttachedMstId": 121
+  },
+  {
+    "guildShipSeriesMstId": 36,
+    "name": "桜乱シリーズ(2部)",
+    "description": "第40回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 123,
+    "shipPartsRoofMstId": 122,
+    "shipPartsAttachedMstId": 124
+  },
+  {
+    "guildShipSeriesMstId": 37,
+    "name": "桜乱シリーズ(3部)",
+    "description": "第40回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 126,
+    "shipPartsRoofMstId": 125,
+    "shipPartsAttachedMstId": 127
+  },
+  {
+    "guildShipSeriesMstId": 38,
+    "name": "海都シリーズ(1部)",
+    "description": "第41回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 134,
+    "shipPartsRoofMstId": 133,
+    "shipPartsAttachedMstId": 135
+  },
+  {
+    "guildShipSeriesMstId": 39,
+    "name": "海都シリーズ(2部)",
+    "description": "第41回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 137,
+    "shipPartsRoofMstId": 136,
+    "shipPartsAttachedMstId": 138
+  },
+  {
+    "guildShipSeriesMstId": 40,
+    "name": "海都シリーズ(3部)",
+    "description": "第41回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 140,
+    "shipPartsRoofMstId": 139,
+    "shipPartsAttachedMstId": 141
+  },
+  {
+    "guildShipSeriesMstId": 41,
+    "name": "華燭シリーズ(1部)",
+    "description": "第42回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 143,
+    "shipPartsRoofMstId": 142,
+    "shipPartsAttachedMstId": 144
+  },
+  {
+    "guildShipSeriesMstId": 42,
+    "name": "華燭シリーズ(2部)",
+    "description": "第42回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 146,
+    "shipPartsRoofMstId": 145,
+    "shipPartsAttachedMstId": 147
+  },
+  {
+    "guildShipSeriesMstId": 43,
+    "name": "華燭シリーズ(3部)",
+    "description": "第42回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 149,
+    "shipPartsRoofMstId": 148,
+    "shipPartsAttachedMstId": 150
+  },
+  {
     "guildShipSeriesMstId": 44,
     "name": "Emil Series",
     "description": "Emil Series Guildship",
     "shipPartsBodyMstId": 152,
     "shipPartsRoofMstId": 151,
     "shipPartsAttachedMstId": 153
+  },
+  {
+    "guildShipSeriesMstId": 45,
+    "name": "茶会シリーズ(1部)",
+    "description": "第43回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 155,
+    "shipPartsRoofMstId": 154,
+    "shipPartsAttachedMstId": 156
+  },
+  {
+    "guildShipSeriesMstId": 46,
+    "name": "茶会シリーズ(2部)",
+    "description": "第43回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 158,
+    "shipPartsRoofMstId": 157,
+    "shipPartsAttachedMstId": 159
+  },
+  {
+    "guildShipSeriesMstId": 47,
+    "name": "茶会シリーズ(3部)",
+    "description": "第43回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 161,
+    "shipPartsRoofMstId": 160,
+    "shipPartsAttachedMstId": 162
+  },
+  {
+    "guildShipSeriesMstId": 48,
+    "name": "溟海シリーズ(1部)",
+    "description": "第43回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 164,
+    "shipPartsRoofMstId": 163,
+    "shipPartsAttachedMstId": 165
+  },
+  {
+    "guildShipSeriesMstId": 49,
+    "name": "溟海シリーズ(2部)",
+    "description": "第43回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 167,
+    "shipPartsRoofMstId": 166,
+    "shipPartsAttachedMstId": 168
+  },
+  {
+    "guildShipSeriesMstId": 50,
+    "name": "溟海シリーズ(3部)",
+    "description": "第43回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 170,
+    "shipPartsRoofMstId": 169,
+    "shipPartsAttachedMstId": 171
+  },
+  {
+    "guildShipSeriesMstId": 51,
+    "name": "蒸機シリーズ(1部)",
+    "description": "第45回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 178,
+    "shipPartsRoofMstId": 177,
+    "shipPartsAttachedMstId": 179
+  },
+  {
+    "guildShipSeriesMstId": 52,
+    "name": "蒸機シリーズ(2部)",
+    "description": "第45回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 181,
+    "shipPartsRoofMstId": 180,
+    "shipPartsAttachedMstId": 182
+  },
+  {
+    "guildShipSeriesMstId": 53,
+    "name": "蒸機シリーズ(3部)",
+    "description": "第45回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 184,
+    "shipPartsRoofMstId": 183,
+    "shipPartsAttachedMstId": 185
+  },
+  {
+    "guildShipSeriesMstId": 54,
+    "name": "騎城シリーズ(1部)",
+    "description": "第46回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 187,
+    "shipPartsRoofMstId": 186,
+    "shipPartsAttachedMstId": 188
+  },
+  {
+    "guildShipSeriesMstId": 55,
+    "name": "騎城シリーズ(2部)",
+    "description": "第46回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 190,
+    "shipPartsRoofMstId": 189,
+    "shipPartsAttachedMstId": 191
+  },
+  {
+    "guildShipSeriesMstId": 56,
+    "name": "騎城シリーズ(3部)",
+    "description": "第46回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 193,
+    "shipPartsRoofMstId": 192,
+    "shipPartsAttachedMstId": 194
+  },
+  {
+    "guildShipSeriesMstId": 57,
+    "name": "印城シリーズ(1部)",
+    "description": "第47回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 196,
+    "shipPartsRoofMstId": 195,
+    "shipPartsAttachedMstId": 197
+  },
+  {
+    "guildShipSeriesMstId": 58,
+    "name": "印城シリーズ(2部)",
+    "description": "第47回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 199,
+    "shipPartsRoofMstId": 198,
+    "shipPartsAttachedMstId": 200
+  },
+  {
+    "guildShipSeriesMstId": 59,
+    "name": "印城シリーズ(3部)",
+    "description": "第47回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 202,
+    "shipPartsRoofMstId": 201,
+    "shipPartsAttachedMstId": 203
   }
 ]

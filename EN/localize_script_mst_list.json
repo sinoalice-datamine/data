@@ -22615,12 +22615,12 @@
     "Type": 0,
     "GameKey": "SCRIPT",
     "JP": "【投票期間外】",
-    "EN": "[Voting Period Ended]",
+    "EN": "[Voting is Currently Closed]",
     "KR": "[투표 기간 외]",
-    "DE": "[Voting Period Ended]",
-    "FR": "[Voting Period Ended]",
+    "DE": "[Voting is Currently Closed]",
+    "FR": "[Voting is Currently Closed]",
     "ES": "[Fuera del periodo de votaciones]",
-    "TH": "[Voting Period Ended]",
+    "TH": "[Voting is Currently Closed]",
     "VN": ""
   },
   {
@@ -22633,7 +22633,7 @@
     "KR": "투표할 길드를 {0}개 선택하세요.",
     "DE": "Please select {0} guild(s) to vote for.",
     "FR": "Please select {0} guild(s) to vote for.",
-    "ES": "Elige {0} gremios a los que votar.",
+    "ES": "Elige {0} gremio al que votar.",
     "TH": "Please select {0} guild(s) to vote for.",
     "VN": ""
   },
@@ -22843,7 +22843,7 @@
     "KR": "당첨 수",
     "DE": "Victories",
     "FR": "Victories",
-    "ES": "Número de Acertados:",
+    "ES": "Nº de aciertos:",
     "TH": "Victories",
     "VN": ""
   },
@@ -23207,7 +23207,7 @@
     "KR": "발행된 일회용 비밀번호",
     "DE": "Your One-Time Password",
     "FR": "Your One-Time Password",
-    "ES": "Tu contraseña de una vez",
+    "ES": "Tu contraseña de un solo uso",
     "TH": "Your One-Time Password",
     "VN": ""
   },
@@ -23235,7 +23235,7 @@
     "KR": "일회용 비밀번호가 복사되었습니다.",
     "DE": "One-Time Password Copied",
     "FR": "One-Time Password Copied",
-    "ES": "Se ha copiado la contraseña de una vez.",
+    "ES": "Se ha copiado la contraseña de un solo uso.",
     "TH": "One-Time Password Copied",
     "VN": ""
   },
@@ -23783,6 +23783,48 @@
     "FR": "Have fun chatting with spectators and the winning guild.",
     "ES": "Disfruta del chat de ganadores y espectadores.",
     "TH": "Have fun chatting with spectators and the winning guild.",
+    "VN": ""
+  },
+  {
+    "id": 1700,
+    "TLM": 52425,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "回復",
+    "EN": "Recovery",
+    "KR": "회복",
+    "DE": "Recovery",
+    "FR": "Recovery",
+    "ES": "Recuperación",
+    "TH": "Recovery",
+    "VN": ""
+  },
+  {
+    "id": 1701,
+    "TLM": 52426,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "まもなくMVP表彰が開催されます。\\nMVP表彰画面へお越しください。",
+    "EN": "MVP voting will be open soon.\\nPlease head to the MVP Awards screen.",
+    "KR": "곧 MVP 투표가 개최됩니다.\\n MVP 표창 화면으로 이동해 주십시오.",
+    "DE": "MVP voting will be open soon.\\nPlease head to the MVP Awards screen.",
+    "FR": "MVP voting will be open soon.\\nPlease head to the MVP Awards screen.",
+    "ES": "En breves momentos se anunciará el MVP.\\n Pasa a la pantalla de anuncio de MVP.",
+    "TH": "MVP voting will be open soon.\\nPlease head to the MVP Awards screen.",
+    "VN": ""
+  },
+  {
+    "id": 1702,
+    "TLM": 52427,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "MVP表彰へ",
+    "EN": "To MVP Awards",
+    "KR": "MVP 표창",
+    "DE": "To MVP Awards",
+    "FR": "To MVP Awards",
+    "ES": "Hacia el MVP",
+    "TH": "To MVP Awards",
     "VN": ""
   }
 ]

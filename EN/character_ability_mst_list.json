@@ -16280,6 +16280,126 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 1889,
+    "characterMstId": 140,
+    "name": "Tome (Water) +30% (Princess Kaguya+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1890,
+    "characterMstId": 140,
+    "name": "All Weapons (Wind) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 1891,
+    "characterMstId": 140,
+    "name": "Tome (Water) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1892,
+    "characterMstId": 140,
+    "name": "Tome (Water) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1893,
+    "characterMstId": 140,
+    "name": "M.DEF +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1894,
+    "characterMstId": 140,
+    "name": "M.ATK +800",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 800,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1895,
+    "characterMstId": 140,
+    "name": "M.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1896,
+    "characterMstId": 140,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1897,
+    "characterMstId": 140,
+    "name": "Tome (Water) +10% (Princess Kaguya+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1898,
+    "characterMstId": 140,
+    "name": "Debuff effect +1.5% when using tome class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900006,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1899,
+    "characterMstId": 140,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 1900,
+    "characterMstId": 140,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
     "characterAbilityMstId": 1901,
     "characterMstId": 149,
     "name": "Heavy (Wind) +30% (Pinocchio+ stages)",
@@ -29036,6 +29156,26 @@
     "releaseLevel": 14,
     "skillType": 3,
     "effectType": 9,
+    "effectValue": 800,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 900071,
+    "characterMstId": 140,
+    "name": "Tome (Water) +30% (Princess Kaguya+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 900072,
+    "characterMstId": 140,
+    "name": "M.DEF +800",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 12,
     "effectValue": 800,
     "cardDetailType": 2
   }
