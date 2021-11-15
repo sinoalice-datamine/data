@@ -1,9 +1,9 @@
 {
-  "lastCreatedTime": "2021-11-12 15:36:15",
+  "lastCreatedTime": "2021-11-15 16:44:28",
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
-      "version": 1031,
+      "version": 1032,
       "names": [
         "item_mst_list"
       ]
@@ -17,7 +17,7 @@
     },
     {
       "mstTableId": 5,
-      "version": 331,
+      "version": 333,
       "names": [
         "art_mst_list"
       ]
@@ -45,14 +45,14 @@
     },
     {
       "mstTableId": 9,
-      "version": 913,
+      "version": 925,
       "names": [
         "card_mst_list"
       ]
     },
     {
       "mstTableId": 14,
-      "version": 555,
+      "version": 556,
       "names": [
         "skill_mst_list"
       ]
@@ -66,14 +66,14 @@
     },
     {
       "mstTableId": 16,
-      "version": 333,
+      "version": 334,
       "names": [
         "login_bonus_mst_list"
       ]
     },
     {
       "mstTableId": 17,
-      "version": 323,
+      "version": 324,
       "names": [
         "login_bonus_reward_mst_list"
       ]
@@ -150,7 +150,7 @@
     },
     {
       "mstTableId": 29,
-      "version": 69,
+      "version": 71,
       "names": [
         "ultimate_art_method_mst_list"
       ]
@@ -178,14 +178,14 @@
     },
     {
       "mstTableId": 34,
-      "version": 246,
+      "version": 247,
       "names": [
         "resource_file_mst_list"
       ]
     },
     {
       "mstTableId": 35,
-      "version": 116,
+      "version": 117,
       "names": [
         "chat_stamp_mst_list"
       ]
@@ -206,7 +206,7 @@
     },
     {
       "mstTableId": 38,
-      "version": 3072,
+      "version": 3074,
       "names": [
         "banner_mst_list"
       ]
@@ -318,7 +318,7 @@
     },
     {
       "mstTableId": 56,
-      "version": 147,
+      "version": 148,
       "names": [
         "gvg_reward_mst_list"
       ]
@@ -353,7 +353,7 @@
     },
     {
       "mstTableId": 61,
-      "version": 686,
+      "version": 687,
       "names": [
         "card_evolution_mst_list"
       ]
@@ -381,7 +381,7 @@
     },
     {
       "mstTableId": 65,
-      "version": 42,
+      "version": 43,
       "names": [
         "tutorial_story_mst_list"
       ]
@@ -416,14 +416,14 @@
     },
     {
       "mstTableId": 70,
-      "version": 99,
+      "version": 101,
       "names": [
         "user_title_mst_list"
       ]
     },
     {
       "mstTableId": 71,
-      "version": 68,
+      "version": 69,
       "names": [
         "guild_title_mst_list"
       ]
@@ -479,7 +479,7 @@
     },
     {
       "mstTableId": 79,
-      "version": 11,
+      "version": 12,
       "names": [
         "gvg_bgm_mst_list"
       ]
@@ -654,14 +654,14 @@
     },
     {
       "mstTableId": 112,
-      "version": 31,
+      "version": 32,
       "names": [
         "guild_ship_parts_mst_list"
       ]
     },
     {
       "mstTableId": 113,
-      "version": 21,
+      "version": 22,
       "names": [
         "guild_ship_series_mst_list"
       ]

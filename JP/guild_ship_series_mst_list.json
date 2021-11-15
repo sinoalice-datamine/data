@@ -462,5 +462,29 @@
     "shipPartsBodyMstId": 202,
     "shipPartsRoofMstId": 201,
     "shipPartsAttachedMstId": 203
+  },
+  {
+    "guildShipSeriesMstId": 62,
+    "name": "遊魔シリーズ(1部)",
+    "description": "第48回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 211,
+    "shipPartsRoofMstId": 210,
+    "shipPartsAttachedMstId": 212
+  },
+  {
+    "guildShipSeriesMstId": 63,
+    "name": "遊魔シリーズ(2部)",
+    "description": "第48回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 214,
+    "shipPartsRoofMstId": 213,
+    "shipPartsAttachedMstId": 215
+  },
+  {
+    "guildShipSeriesMstId": 64,
+    "name": "遊魔シリーズ(3部)",
+    "description": "第48回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 217,
+    "shipPartsRoofMstId": 216,
+    "shipPartsAttachedMstId": 218
   }
 ]
