@@ -1441,6 +1441,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 328,
+    "mapType": 1,
+    "mapGroup": 202,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Sanctuary of Children's Song",
+    "description": "メダル「童歌ノ聖域」Normal",
+    "announceUrl": "/web/announce/body?announceMstId=5397&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 329,
+    "mapType": 1,
+    "mapGroup": 202,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "Sanctuary of Children's Song (Hard)",
+    "description": "メダル「童歌ノ聖域」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=5397&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 331,
     "mapType": 1,
     "mapGroup": 204,

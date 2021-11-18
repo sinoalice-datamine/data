@@ -310,14 +310,14 @@
   {
     "limitBreakSkillMstId": 49,
     "name": "Forbidden Art of Attack Blades/Duel (III)",
-    "description": "Massively increases P.ATK (Parameter value: +300 to +1,200) and greatly reduces P.DEF (Parameter value: -100 to -400) at the Colosseum.　Note: Values vary by skill level.",
+    "description": "Massively increases P.ATK at the Colosseum. (Parameter value: +300 to +1200)　Note: Value varies by skill level.",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 49
   },
   {
     "limitBreakSkillMstId": 50,
     "name": "Forbidden Art of Attack Demons/Duel (III)",
-    "description": "Massivelyincreases M.ATK (Parameter value: +300 to +1,200) and greatly reduces M.DEF (Parameter value: -100 to -400) at the Colosseum.　Note: Values vary by skill level.",
+    "description": "Massively increases M.ATK at the Colosseum. (Parameter value: +300 to +1200)　Note: Value varies by skill level.",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 50
   },
@@ -331,7 +331,7 @@
   {
     "limitBreakSkillMstId": 52,
     "name": "Forbidden Art of Defense Demons/Duel (III)",
-    "description": "Massively increases M.DEF (Parameter value: +300 to +1,200) and greatly reduces M.ATK (Parameter value: -100 to -400) at the Colosseum.　Note: Values vary by skill level.",
+    "description": "Massively increases M.DEF at the Colosseum. (Parameter value: +300 to +1200)　Note: Value varies by skill level.",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 52
   }

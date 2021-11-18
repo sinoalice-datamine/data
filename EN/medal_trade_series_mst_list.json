@@ -700,6 +700,20 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 162,
+    "name": "Mother Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20211118_medal_loli",
+    "assetBundleName": "2249",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 2249,
+    "startTime": 1637215200,
+    "endTime": 1639029599,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 200,
     "name": "Rose Medal",
     "description": "Medal from a collaboration grimoire.",
