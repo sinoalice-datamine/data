@@ -19560,6 +19560,126 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 2331,
+    "characterMstId": 179,
+    "name": "Staff (Water) +30% (Snow White+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2332,
+    "characterMstId": 179,
+    "name": "All Weapons (Wind) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 2333,
+    "characterMstId": 179,
+    "name": "Staff (Water) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2334,
+    "characterMstId": 179,
+    "name": "Staff (Water) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2335,
+    "characterMstId": 179,
+    "name": "M.DEF +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2336,
+    "characterMstId": 179,
+    "name": "P.DEF +1,000",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 1000,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2337,
+    "characterMstId": 179,
+    "name": "M.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2338,
+    "characterMstId": 179,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2339,
+    "characterMstId": 179,
+    "name": "Staff (Water) +10% (Snow White+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2340,
+    "characterMstId": 179,
+    "name": "Recovery effect +2% when using staff class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5035,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2341,
+    "characterMstId": 179,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2342,
+    "characterMstId": 179,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
     "characterAbilityMstId": 2377,
     "characterMstId": 184,
     "name": "Heavy +30% (Aladdin+ stages)",
@@ -24338,6 +24458,26 @@
     "effectType": 1,
     "effectValue": 200,
     "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 3707,
+    "characterMstId": 179,
+    "name": "Staff (Water) +30% (Snow White+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3708,
+    "characterMstId": 179,
+    "name": "P.DEF +1,000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 1000,
+    "cardDetailType": 4
   },
   {
     "characterAbilityMstId": 3709,

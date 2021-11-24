@@ -135,36 +135,6 @@
     "createdTime": 1467266400
   },
   {
-    "gachaPickupMstId": 938,
-    "gachaSeriesMstId": 526,
-    "objectType": 1,
-    "objectId": 2849,
-    "pickupSkillType": 4,
-    "priority": 1,
-    "pickupBgResourceName": "",
-    "pickupBgAssetBundleName": "",
-    "positionX": 0,
-    "positionY": 0,
-    "startTime": 1636092000,
-    "endTime": 1637301599,
-    "createdTime": 1467266400
-  },
-  {
-    "gachaPickupMstId": 939,
-    "gachaSeriesMstId": 526,
-    "objectType": 1,
-    "objectId": 2795,
-    "pickupSkillType": 1,
-    "priority": 2,
-    "pickupBgResourceName": "",
-    "pickupBgAssetBundleName": "",
-    "positionX": 0,
-    "positionY": 0,
-    "startTime": 1636092000,
-    "endTime": 1637301599,
-    "createdTime": 1467266400
-  },
-  {
     "gachaPickupMstId": 1006,
     "gachaSeriesMstId": 550,
     "objectType": 1,
@@ -207,6 +177,66 @@
     "positionY": 0,
     "startTime": 1635487200,
     "endTime": 1638251999,
+    "createdTime": 1467266400
+  },
+  {
+    "gachaPickupMstId": 1939,
+    "gachaSeriesMstId": 651,
+    "objectType": 1,
+    "objectId": 3428,
+    "pickupSkillType": 1,
+    "priority": 1,
+    "pickupBgResourceName": "",
+    "pickupBgAssetBundleName": "",
+    "positionX": 0,
+    "positionY": 0,
+    "startTime": 1637733600,
+    "endTime": 1638943199,
+    "createdTime": 1467266400
+  },
+  {
+    "gachaPickupMstId": 1940,
+    "gachaSeriesMstId": 651,
+    "objectType": 1,
+    "objectId": 4047,
+    "pickupSkillType": 1,
+    "priority": 2,
+    "pickupBgResourceName": "",
+    "pickupBgAssetBundleName": "",
+    "positionX": 0,
+    "positionY": 0,
+    "startTime": 1637733600,
+    "endTime": 1638943199,
+    "createdTime": 1467266400
+  },
+  {
+    "gachaPickupMstId": 1941,
+    "gachaSeriesMstId": 651,
+    "objectType": 1,
+    "objectId": 4428,
+    "pickupSkillType": 1,
+    "priority": 3,
+    "pickupBgResourceName": "",
+    "pickupBgAssetBundleName": "",
+    "positionX": 0,
+    "positionY": 0,
+    "startTime": 1637733600,
+    "endTime": 1638943199,
+    "createdTime": 1467266400
+  },
+  {
+    "gachaPickupMstId": 1942,
+    "gachaSeriesMstId": 651,
+    "objectType": 1,
+    "objectId": 2256,
+    "pickupSkillType": 1,
+    "priority": 4,
+    "pickupBgResourceName": "",
+    "pickupBgAssetBundleName": "",
+    "positionX": 0,
+    "positionY": 0,
+    "startTime": 1637733600,
+    "endTime": 1638943199,
     "createdTime": 1467266400
   },
   {
@@ -463,36 +493,6 @@
     "startTime": 1632459600,
     "endTime": 1924959599,
     "createdTime": 1602774000
-  },
-  {
-    "gachaPickupMstId": 901979,
-    "gachaSeriesMstId": 526,
-    "objectType": 1,
-    "objectId": 3791,
-    "pickupSkillType": 1,
-    "priority": 3,
-    "pickupBgResourceName": "",
-    "pickupBgAssetBundleName": "",
-    "positionX": 0,
-    "positionY": 0,
-    "startTime": 1636092000,
-    "endTime": 1637301599,
-    "createdTime": 1467266400
-  },
-  {
-    "gachaPickupMstId": 901980,
-    "gachaSeriesMstId": 526,
-    "objectType": 1,
-    "objectId": 3815,
-    "pickupSkillType": 1,
-    "priority": 4,
-    "pickupBgResourceName": "",
-    "pickupBgAssetBundleName": "",
-    "positionX": 0,
-    "positionY": 0,
-    "startTime": 1636092000,
-    "endTime": 1637301599,
-    "createdTime": 1467266400
   },
   {
     "gachaPickupMstId": 901981,
@@ -990,66 +990,6 @@
     "createdTime": 1602774000
   },
   {
-    "gachaPickupMstId": 902017,
-    "gachaSeriesMstId": 900088,
-    "objectType": 1,
-    "objectId": 3141,
-    "pickupSkillType": 1,
-    "priority": 1,
-    "pickupBgResourceName": "",
-    "pickupBgAssetBundleName": "",
-    "positionX": 0,
-    "positionY": 0,
-    "startTime": 1636437600,
-    "endTime": 1637647199,
-    "createdTime": 1467266400
-  },
-  {
-    "gachaPickupMstId": 902018,
-    "gachaSeriesMstId": 900088,
-    "objectType": 1,
-    "objectId": 3548,
-    "pickupSkillType": 1,
-    "priority": 2,
-    "pickupBgResourceName": "",
-    "pickupBgAssetBundleName": "",
-    "positionX": 0,
-    "positionY": 0,
-    "startTime": 1636437600,
-    "endTime": 1637647199,
-    "createdTime": 1467266400
-  },
-  {
-    "gachaPickupMstId": 902019,
-    "gachaSeriesMstId": 900088,
-    "objectType": 1,
-    "objectId": 3560,
-    "pickupSkillType": 1,
-    "priority": 3,
-    "pickupBgResourceName": "",
-    "pickupBgAssetBundleName": "",
-    "positionX": 0,
-    "positionY": 0,
-    "startTime": 1636437600,
-    "endTime": 1637647199,
-    "createdTime": 1467266400
-  },
-  {
-    "gachaPickupMstId": 902020,
-    "gachaSeriesMstId": 900088,
-    "objectType": 1,
-    "objectId": 4576,
-    "pickupSkillType": 1,
-    "priority": 4,
-    "pickupBgResourceName": "",
-    "pickupBgAssetBundleName": "",
-    "positionX": 0,
-    "positionY": 0,
-    "startTime": 1636437600,
-    "endTime": 1637647199,
-    "createdTime": 1467266400
-  },
-  {
     "gachaPickupMstId": 902715,
     "gachaSeriesMstId": 900089,
     "objectType": 1,
@@ -1121,7 +1061,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1136,7 +1076,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1151,7 +1091,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1166,7 +1106,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1181,7 +1121,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1196,7 +1136,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1211,7 +1151,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1226,7 +1166,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1241,7 +1181,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1256,7 +1196,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1271,7 +1211,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1286,7 +1226,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1301,7 +1241,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1316,7 +1256,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1331,7 +1271,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1346,7 +1286,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1361,7 +1301,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   },
   {
@@ -1376,7 +1316,7 @@
     "positionX": 0,
     "positionY": 0,
     "startTime": 1637463600,
-    "endTime": 1637819999,
+    "endTime": 1638251999,
     "createdTime": 1467266400
   }
 ]
