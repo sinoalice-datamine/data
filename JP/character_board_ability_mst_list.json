@@ -17026,5 +17026,266 @@
     "effectType": 15,
     "effectValue": 20,
     "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1941,
+    "characterUniqueId": 85,
+    "name": "エリアUP",
+    "description": "コーネリアのジョブを編成時、CodeGeassエリアで全武器種4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1942,
+    "characterUniqueId": 85,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP コーネリアのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1943,
+    "characterUniqueId": 85,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP コーネリアのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1944,
+    "characterUniqueId": 85,
+    "name": "物魔攻撃UP",
+    "description": "コーネリアのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +150",
+    "effectType": 11,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1945,
+    "characterUniqueId": 85,
+    "name": "物魔防御UP",
+    "description": "コーネリアのジョブを編成時、物理防御・魔法防御にそれぞれ +150",
+    "effectType": 12,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1946,
+    "characterUniqueId": 85,
+    "name": "メダルUP",
+    "description": "コーネリアのジョブを編成時、CodeGeassエリアで『黒の騎士団メダル』獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1947,
+    "characterUniqueId": 85,
+    "name": "物攻+300",
+    "description": "コーネリアのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1948,
+    "characterUniqueId": 85,
+    "name": "物防+300",
+    "description": "コーネリアのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1949,
+    "characterUniqueId": 85,
+    "name": "魔攻+300",
+    "description": "コーネリアのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1950,
+    "characterUniqueId": 85,
+    "name": "魔防+300",
+    "description": "コーネリアのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1951,
+    "characterUniqueId": 85,
+    "name": "長柄 4%UP",
+    "description": "コーネリアのジョブを編成時、長柄4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 1952,
+    "characterUniqueId": 86,
+    "name": "エリアUP",
+    "description": "ジェレミアのジョブを編成時、CodeGeassエリアで全武器種4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1953,
+    "characterUniqueId": 86,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP ジェレミアのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1954,
+    "characterUniqueId": 86,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP ジェレミアのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1955,
+    "characterUniqueId": 86,
+    "name": "物魔攻撃UP",
+    "description": "ジェレミアのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +150",
+    "effectType": 11,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1956,
+    "characterUniqueId": 86,
+    "name": "物魔防御UP",
+    "description": "ジェレミアのジョブを編成時、物理防御・魔法防御にそれぞれ +150",
+    "effectType": 12,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1957,
+    "characterUniqueId": 86,
+    "name": "メダルUP",
+    "description": "ジェレミアのジョブを編成時、CodeGeassエリアで『黒の騎士団メダル』獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1958,
+    "characterUniqueId": 86,
+    "name": "物攻+300",
+    "description": "ジェレミアのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1959,
+    "characterUniqueId": 86,
+    "name": "物防+300",
+    "description": "ジェレミアのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1960,
+    "characterUniqueId": 86,
+    "name": "魔攻+300",
+    "description": "ジェレミアのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1961,
+    "characterUniqueId": 86,
+    "name": "魔防+300",
+    "description": "ジェレミアのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1962,
+    "characterUniqueId": 86,
+    "name": "刀剣 4%UP",
+    "description": "ジェレミアのジョブを編成時、刀剣4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 1963,
+    "characterUniqueId": 0,
+    "name": "物攻+300",
+    "description": "物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1964,
+    "characterUniqueId": 0,
+    "name": "魔攻+300",
+    "description": "魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1965,
+    "characterUniqueId": 85,
+    "name": "物魔攻撃UP",
+    "description": "コーネリアのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +300",
+    "effectType": 11,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1966,
+    "characterUniqueId": 85,
+    "name": "物魔防御UP",
+    "description": "コーネリアのジョブを編成時、物理防御・魔法防御にそれぞれ +300",
+    "effectType": 12,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1967,
+    "characterUniqueId": 86,
+    "name": "物魔攻撃UP",
+    "description": "ジェレミアのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +300",
+    "effectType": 11,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1968,
+    "characterUniqueId": 86,
+    "name": "物魔防御UP",
+    "description": "ジェレミアのジョブを編成時、物理防御・魔法防御にそれぞれ +300",
+    "effectType": 12,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1969,
+    "characterUniqueId": 0,
+    "name": "HP+400",
+    "description": "HP+400",
+    "effectType": 1,
+    "effectValue": 400,
+    "cardDetailType": 0
   }
 ]

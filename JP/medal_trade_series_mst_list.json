@@ -4704,6 +4704,38 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 314,
+    "name": "黒の騎士団メダル",
+    "description": "ギシンアンキが集めているメダル\r\n※2021年12月14日23:59まで",
+    "resourceName": "item91",
+    "assetBundleName": "0607",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2021年12月14日23:59まで",
+    "priority": 50,
+    "itemMstId": 3776,
+    "startTime": 1637816400,
+    "endTime": 1639493999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 315,
+    "name": "ギアスメダル",
+    "description": "ギシンアンキが集めているメダル※2021年12月14日23:59まで",
+    "resourceName": "item20190725_geass_gacha",
+    "assetBundleName": "1352",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2021年12月14日23:59まで",
+    "priority": 43,
+    "itemMstId": 3833,
+    "startTime": 1637816400,
+    "endTime": 1639493999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 317,
     "name": "アルカナメダル",
     "description": "アルカナと交換できるメダル\r\n※2021年12月7日23:59まで",

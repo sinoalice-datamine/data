@@ -5608,5 +5608,49 @@
     "description": "曜日イベントNormal",
     "announceUrl": "",
     "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 539,
+    "mapType": 1,
+    "mapGroup": 524,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "剣ヲ取ル覚悟_ループ1",
+    "description": "「剣ヲ取ル覚悟_1」Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 540,
+    "mapType": 1,
+    "mapGroup": 525,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "剣ヲ取ル覚悟_ループ2",
+    "description": "「剣ヲ取ル覚悟_2」Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 541,
+    "mapType": 1,
+    "mapGroup": 526,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "剣ヲ取ル覚悟_ループ3",
+    "description": "「剣ヲ取ル覚悟_3」Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 542,
+    "mapType": 1,
+    "mapGroup": 526,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "剣ヲ取ル覚悟_ループ3Hard",
+    "description": "「剣ヲ取ル覚悟_3」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
   }
 ]
