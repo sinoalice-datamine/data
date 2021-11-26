@@ -24071,12 +24071,12 @@
     "Type": 0,
     "GameKey": "Server/error.14204",
     "JP": "所持枠が上限に達していた為、交換できませんでした。",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "EN": "Inventory Slots are full. Could not exchange.",
+    "KR": "보유 한도가 초과되어 교환할 수 없습니다.",
+    "DE": "Inventory Slots are full. Could not exchange.",
+    "FR": "Inventory Slots are full. Could not exchange.",
+    "ES": "No se han podido intercambiar las armas por haber llegado al límite de espacios de inventario.",
+    "TH": "Inventory Slots are full. Could not exchange.",
     "VN": ""
   },
   {
@@ -24085,12 +24085,12 @@
     "Type": 0,
     "GameKey": "ServerParam/typeMap.medalTrade.exchangeItemRes.cardAllMax.message",
     "JP": "%s(x%s)は\\n<color=#B42F00>最大強化状態で所持枠へ直接付与されました。</color>",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "EN": "%s (x %s)\\n<color=#B42F00>has been added to your inventory, fully upgraded.</color>",
+    "KR": "%s(x%s)은(는)\\n<color=#B42F00>최대 강화 상태로 보유 칸에 직접 지급되었습니다.</color>",
+    "DE": "%s (x %s)\\n<color=#B42F00>has been added to your inventory, fully upgraded.</color>",
+    "FR": "%s (x %s)\\n<color=#B42F00>has been added to your inventory, fully upgraded.</color>",
+    "ES": "%s(x%s)\\n<color=#B42F00>han sido añadidos directamente al inventario ya mejorados al máximo.</color>",
+    "TH": "%s (x %s)\\n<color=#B42F00>has been added to your inventory, fully upgraded.</color>",
     "VN": ""
   }
 ]

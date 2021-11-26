@@ -3502,6 +3502,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 794,
+    "gachaGroupId": 5,
+    "bannerMstId": 2371,
+    "isAlways": false,
+    "name": "STEP Grimoire: Equine Aberration's Ego",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (XI)\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Medal of desire (XI) from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 1620,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=1900&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 796,
     "gachaGroupId": 5,
     "bannerMstId": 2378,

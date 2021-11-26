@@ -22660,6 +22660,126 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 2953,
+    "characterMstId": 237,
+    "name": "Blade (Wind) +30% (Alice+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2954,
+    "characterMstId": 237,
+    "name": "All Weapons (Fire) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 2955,
+    "characterMstId": 237,
+    "name": "Blade (Wind) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2956,
+    "characterMstId": 237,
+    "name": "Blade (Wind) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2957,
+    "characterMstId": 237,
+    "name": "P.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2958,
+    "characterMstId": 237,
+    "name": "P.ATK +1,000",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 1000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2959,
+    "characterMstId": 237,
+    "name": "HP +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2960,
+    "characterMstId": 237,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2961,
+    "characterMstId": 237,
+    "name": "Blade (Wind) +10% (Alice+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2962,
+    "characterMstId": 237,
+    "name": "P.DMG +2% when using blade class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5029,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2963,
+    "characterMstId": 237,
+    "name": "P.ATK +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2964,
+    "characterMstId": 237,
+    "name": "P.ATK +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 2977,
     "characterMstId": 115,
     "name": "Heavy +10% (Alice+ stages)",
@@ -28638,6 +28758,26 @@
     "effectType": 12,
     "effectValue": 800,
     "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6819,
+    "characterMstId": 237,
+    "name": "Blade (Wind) +30% (Alice+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6820,
+    "characterMstId": 237,
+    "name": "M.DEF +1,000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 1000,
+    "cardDetailType": 5
   },
   {
     "characterAbilityMstId": 6951,

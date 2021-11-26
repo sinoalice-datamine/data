@@ -4154,7 +4154,7 @@
     "isComingSoon": false,
     "unCombatFlag": false,
     "isGve": false,
-    "disableMultipleCharacter": false,
+    "disableMultipleCharacter": true,
     "createdTime": 1483974000
   },
   {
@@ -5551,6 +5551,24 @@
     "exchangesSceneName": "",
     "assetBundleName": "questareabackground/50",
     "bgResourceName": "0050",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 399,
+    "questMapMstId": 174,
+    "name": "Bewitching Mischief",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/13",
+    "bgResourceName": "0013",
     "cueSheetName": "bgm_mypage",
     "cueName": "bgm_mypage@001",
     "bgm": "",
