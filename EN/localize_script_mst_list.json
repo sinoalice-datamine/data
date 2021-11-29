@@ -23840,5 +23840,61 @@
     "ES": "¡Experiencia x{0}!",
     "TH": "{0}x EXP",
     "VN": ""
+  },
+  {
+    "id": 1704,
+    "TLM": 52447,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "{0}を使う",
+    "EN": "Use {0}",
+    "KR": "{0} 사용하기",
+    "DE": "Use {0}",
+    "FR": "Use {0}",
+    "ES": "Usar {0}",
+    "TH": "Use {0}",
+    "VN": ""
+  },
+  {
+    "id": 1705,
+    "TLM": 52448,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "{0}が不足しています",
+    "EN": "Insufficient {0}.",
+    "KR": "{0}가 부족합니다.",
+    "DE": "Insufficient {0}.",
+    "FR": "Insufficient {0}.",
+    "ES": "No hay suficientes {0}.",
+    "TH": "Insufficient {0}.",
+    "VN": ""
+  },
+  {
+    "id": 1706,
+    "TLM": 52449,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "期限：{0:yyyy年MM月dd日 HH:mm}",
+    "EN": "Expires: {0:yyyy/MM/dd at HH:mm}",
+    "KR": "유효 기간: {0:yyyy년 MM월 dd일 HH:mm까지}",
+    "DE": "Expires: {0:yyyy/MM/dd at HH:mm}",
+    "FR": "Expires: {0:yyyy/MM/dd at HH:mm}",
+    "ES": "Periodo de validez: {0:hasta las HH:mm del dd de MM del yyyy}",
+    "TH": "Expires: {0:yyyy/MM/dd at HH:mm}",
+    "VN": ""
+  },
+  {
+    "id": 1707,
+    "TLM": 52450,
+    "Type": 0,
+    "GameKey": "SCRIPT",
+    "JP": "{0}\\nの有効期限が切れています。",
+    "EN": "{0} are no longer valid.",
+    "KR": "{0}의 유효 기간이 지났습니다.",
+    "DE": "{0} are no longer valid.",
+    "FR": "{0} are no longer valid.",
+    "ES": "El periodo de validez de los {0} ha caducado.",
+    "TH": "{0} are no longer valid.",
+    "VN": ""
   }
 ]

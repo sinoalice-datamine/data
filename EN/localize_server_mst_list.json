@@ -19243,10 +19243,10 @@
     "JP": "魔晶石502個＋アルカナメダル",
     "EN": "T.Crys. x502 & Arcana Medal",
     "KR": "마정석 502개+아르카나 메달",
-    "DE": "Zwlkr. x502+Arkanamedaille",
-    "FR": "502cr. + Médaille des arcanes",
+    "DE": "T.Crys. x502 & Arcana Medal",
+    "FR": "T.Crys. x502 & Arcana Medal",
     "ES": "Cr. ocaso x502 + Med. Arcano",
-    "TH": "คริสตัล502ชิ้น+เหรียญอาร์คาน่า",
+    "TH": "T.Crys. x502 & Arcana Medal",
     "VN": ""
   },
   {
@@ -19254,13 +19254,13 @@
     "TLM": 51507,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign12.tier41/description",
-    "JP": "有償魔晶石502個＋「アルカナメダル」1個獲得",
-    "EN": "Paid Twilight Crystal x502 & Arcana Medal x1",
-    "KR": "유료 마정석 502개+\"아르카나 메달\" 1개 획득",
-    "DE": "Erhalte 502 bezahlte Zwielichtkristalle + Arkanamedaille x1.",
-    "FR": "502 cristaux crépusculaires payés + 1 Médaille des arcanes",
-    "ES": "Al comprar Cristales del ocaso x502 + Obt. «Medalla de Arcano» x1",
-    "TH": "คริสตัลสนธยาจ่ายเงิน 502 ชิ้น + ได้รับ\"เหรียญอาร์คาน่า\"x1",
+    "JP": "有償魔晶石502個＋「アルカナメダル(クリスマス記念)」1個獲得",
+    "EN": "Paid T.Crys. x502 & Arcana Medal (X-Mas) x1",
+    "KR": "유료 마정석 502개+\"아르카나 메달(크리스마스 기념)\" 1개 획득",
+    "DE": "Paid T.Crys. x502 & Arcana Medal (X-Mas) x1",
+    "FR": "Paid T.Crys. x502 & Arcana Medal (X-Mas) x1",
+    "ES": "Al comprar C. ocaso x502 + Obt.«M. Arcano» x1",
+    "TH": "Paid T.Crys. x502 & Arcana Medal (X-Mas) x1",
     "VN": ""
   },
   {
@@ -24091,6 +24091,34 @@
     "FR": "%s (x %s)\\n<color=#B42F00>has been added to your inventory, fully upgraded.</color>",
     "ES": "%s(x%s)\\n<color=#B42F00>han sido añadidos directamente al inventario ya mejorados al máximo.</color>",
     "TH": "%s (x %s)\\n<color=#B42F00>has been added to your inventory, fully upgraded.</color>",
+    "VN": ""
+  },
+  {
+    "id": 1722,
+    "TLM": 52451,
+    "Type": 0,
+    "GameKey": "Server/error.14206",
+    "JP": "%sの\\n有効期限が切れています。",
+    "EN": "%s are no longer valid.",
+    "KR": "%s의 유효 기간이 지났습니다.",
+    "DE": "%s are no longer valid.",
+    "FR": "%s are no longer valid.",
+    "ES": "El periodo de validez de los %s ha caducado.",
+    "TH": "%s are no longer valid.",
+    "VN": ""
+  },
+  {
+    "id": 1723,
+    "TLM": 52452,
+    "Type": 0,
+    "GameKey": "Server/error.14207",
+    "JP": "%sが足りません。",
+    "EN": "Not enough {0}s.",
+    "KR": "{0}이(가) 부족합니다.",
+    "DE": "Not enough {0}s.",
+    "FR": "Not enough {0}s.",
+    "ES": "{0} insuficiente(s).",
+    "TH": "Not enough {0}s.",
     "VN": ""
   }
 ]
