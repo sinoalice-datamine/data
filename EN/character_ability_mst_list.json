@@ -24060,6 +24060,126 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 3135,
+    "characterMstId": 241,
+    "name": "Projectile (Wind) +30% (Red Riding Hood+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3136,
+    "characterMstId": 241,
+    "name": "All Weapons (Fire) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 3137,
+    "characterMstId": 241,
+    "name": "Projectile (Wind) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3138,
+    "characterMstId": 241,
+    "name": "Projectile (Wind) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3139,
+    "characterMstId": 241,
+    "name": "M.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3140,
+    "characterMstId": 241,
+    "name": "P.DEF +1,000",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 1000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3141,
+    "characterMstId": 241,
+    "name": "HP +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3142,
+    "characterMstId": 241,
+    "name": "M.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3143,
+    "characterMstId": 241,
+    "name": "Projectile (Wind) +10% (Red Riding Hood+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3144,
+    "characterMstId": 241,
+    "name": "M.DMG +2% when using projectile class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5031,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3145,
+    "characterMstId": 241,
+    "name": "M.ATK +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3146,
+    "characterMstId": 241,
+    "name": "M.ATK +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
     "characterAbilityMstId": 3147,
     "characterMstId": 151,
     "name": "Polearm (Water) +30% (Gretel+ stages)",
@@ -24418,6 +24538,26 @@
     "effectType": 10,
     "effectValue": 800,
     "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 3619,
+    "characterMstId": 241,
+    "name": "Projectile (Wind) +30% (Red Riding Hood+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3620,
+    "characterMstId": 241,
+    "name": "M.ATK +1,000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 1000,
+    "cardDetailType": 7
   },
   {
     "characterAbilityMstId": 3623,

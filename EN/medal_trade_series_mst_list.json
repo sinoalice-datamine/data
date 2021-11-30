@@ -205,8 +205,8 @@
     "wayToGet": "Earned by playing an event.",
     "priority": 30,
     "itemMstId": 345,
-    "startTime": 1635487200,
-    "endTime": 1636779599,
+    "startTime": 1638252000,
+    "endTime": 1639544399,
     "isDeleted": false
   },
   {
@@ -464,7 +464,7 @@
   {
     "medalTradeSeriesMstId": 48,
     "name": "Royal Medal",
-    "description": "Medal collected by Parrah-Noya.\\n*Expires: 180 days after receipt",
+    "description": "Medal collected by Parrah-Noya. *Expires: 180 days after receipt",
     "resourceName": "item20180913",
     "assetBundleName": "0780",
     "medalTradeGroupMstId": 0,
@@ -571,6 +571,20 @@
     "itemMstId": 172,
     "startTime": 1635487200,
     "endTime": 1640012399,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 59,
+    "name": "Medal of Desire (XII)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "0003",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 173,
+    "startTime": 1638252000,
+    "endTime": 1642172399,
     "isDeleted": false
   },
   {
