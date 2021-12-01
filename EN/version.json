@@ -1,9 +1,9 @@
 {
-  "lastCreatedTime": "2021-11-30 15:13:19",
+  "lastCreatedTime": "2021-12-01 15:05:31",
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
-      "version": 38256139,
+      "version": 38342477,
       "names": [
         "item_mst_list"
       ]
@@ -190,7 +190,7 @@
     },
     {
       "mstTableId": 35,
-      "version": 145,
+      "version": 146,
       "names": [
         "chat_stamp_mst_list"
       ]
@@ -712,35 +712,35 @@
     },
     {
       "mstTableId": 1004,
-      "version": 126,
+      "version": 127,
       "names": [
         "localize_image_mst_list"
       ]
     },
     {
       "mstTableId": 1005,
-      "version": 145,
+      "version": 146,
       "names": [
         "localize_prefab_mst_list"
       ]
     },
     {
       "mstTableId": 1006,
-      "version": 128,
+      "version": 129,
       "names": [
         "localize_scene_mst_list"
       ]
     },
     {
       "mstTableId": 1007,
-      "version": 149,
+      "version": 150,
       "names": [
         "localize_script_mst_list"
       ]
     },
     {
       "mstTableId": 1008,
-      "version": 160,
+      "version": 161,
       "names": [
         "localize_server_mst_list"
       ]
