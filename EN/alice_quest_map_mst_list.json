@@ -1089,6 +1089,17 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 180,
+    "mapType": 1,
+    "mapGroup": 106,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Rusted Iron Soldier",
+    "description": "Talos Conquest (Normal)",
+    "announceUrl": "",
+    "createdTime": 1485183600
+  },
+  {
     "questMapMstId": 186,
     "mapType": 1,
     "mapGroup": 109,
@@ -1405,6 +1416,17 @@
     "name": "A Faraway Vow (Hard)",
     "description": "リゼロコラボHard",
     "announceUrl": "/web/announce/body?announceMstId=4254&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 276,
+    "mapType": 1,
+    "mapGroup": 106,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "鉄錆ノ巨兵Hard",
+    "description": "Talos Conquest (Hard)",
+    "announceUrl": "",
     "createdTime": 1483974000
   },
   {

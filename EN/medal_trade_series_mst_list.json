@@ -866,5 +866,19 @@
     "startTime": 1633672800,
     "endTime": 1635487199,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900010,
+    "name": "1.5th Anniversary Medal",
+    "description": "A medal commemorating SINoALICE's 1.5th anniversary, an incidental by product of a special grimoire.",
+    "resourceName": "item20211214_gacha_zenkou",
+    "assetBundleName": "900221",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 167,
+    "itemMstId": 900221,
+    "startTime": 1638770400,
+    "endTime": 1644159599,
+    "isDeleted": false
   }
 ]

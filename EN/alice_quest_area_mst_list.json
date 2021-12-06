@@ -5616,6 +5616,24 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 405,
+    "questMapMstId": 180,
+    "name": "Rusted Iron Soldier",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/37",
+    "bgResourceName": "0037",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "createdTime": 1485183600
+  },
+  {
     "questAreaMstId": 411,
     "questMapMstId": 186,
     "name": "Heinous Howitzer",
@@ -6351,6 +6369,24 @@
     "unCombatFlag": false,
     "isGve": false,
     "disableMultipleCharacter": false,
+    "createdTime": 1485183600
+  },
+  {
+    "questAreaMstId": 542,
+    "questMapMstId": 276,
+    "name": "Rusted Iron Soldier",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/37",
+    "bgResourceName": "0037",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
     "createdTime": 1485183600
   },
   {
