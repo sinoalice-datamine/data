@@ -5652,5 +5652,27 @@
     "description": "「剣ヲ取ル覚悟_3」Hard",
     "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
     "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 549,
+    "mapType": 1,
+    "mapGroup": 531,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "美食の惨禍",
+    "description": "防具「美食の惨禍」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 550,
+    "mapType": 1,
+    "mapGroup": 531,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "美食の惨禍Hard",
+    "description": "防具「美食の惨禍」Hard",
+    "announceUrl": "",
+    "createdTime": 1483974000
   }
 ]
