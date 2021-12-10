@@ -1430,6 +1430,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 283,
+    "mapType": 1,
+    "mapGroup": 171,
+    "mapGroupLv": 1,
+    "mapCategory": 1,
+    "name": "Réveillon Feast for the Lost",
+    "description": "聖夜の葬宴 Normal",
+    "announceUrl": "/web/announce/body?announceMstId=1894&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 284,
+    "mapType": 1,
+    "mapGroup": 171,
+    "mapGroupLv": 2,
+    "mapCategory": 1,
+    "name": "Réveillon Feast for the Lost (Hard)",
+    "description": "聖夜の葬宴 Hard",
+    "announceUrl": "/web/announce/body?announceMstId=1894&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 308,
     "mapType": 1,
     "mapGroup": 189,

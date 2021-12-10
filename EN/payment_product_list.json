@@ -18,8 +18,8 @@
     "price": "120",
     "default_product_id": "com.global.sinoalice.tier01a",
     "default_price": "120",
-    "start_datetime": "2021-10-27T15:00:00+0900",
-    "end_datetime": "2021-11-01T14:59:59+0900"
+    "start_datetime": "2021-12-10T15:00:00+0900",
+    "end_datetime": "2021-12-16T14:59:59+0900"
   },
   {
     "product_id": "com.global.sinoalice.campaign03.tier03a",
@@ -40,8 +40,8 @@
     "price": "370",
     "default_product_id": "com.global.sinoalice.tier03a",
     "default_price": "370",
-    "start_datetime": "2021-10-27T15:00:00+0900",
-    "end_datetime": "2021-11-01T14:59:59+0900"
+    "start_datetime": "2021-12-10T15:00:00+0900",
+    "end_datetime": "2021-12-16T14:59:59+0900"
   },
   {
     "product_id": "com.global.sinoalice.campaign03.tier05a",
@@ -62,8 +62,8 @@
     "price": "610",
     "default_product_id": "com.global.sinoalice.tier05a",
     "default_price": "610",
-    "start_datetime": "2021-10-27T15:00:00+0900",
-    "end_datetime": "2021-11-01T14:59:59+0900"
+    "start_datetime": "2021-12-10T15:00:00+0900",
+    "end_datetime": "2021-12-16T14:59:59+0900"
   },
   {
     "product_id": "com.global.sinoalice.campaign03.tier25a",
@@ -84,8 +84,8 @@
     "price": "3060",
     "default_product_id": "com.global.sinoalice.tier25a",
     "default_price": "3060",
-    "start_datetime": "2021-11-18T15:00:00+0900",
-    "end_datetime": "2021-11-26T14:59:59+0900"
+    "start_datetime": "2021-12-10T15:00:00+0900",
+    "end_datetime": "2021-12-16T14:59:59+0900"
   },
   {
     "product_id": "com.global.sinoalice.campaign03.tier41a",
@@ -106,8 +106,8 @@
     "price": "5020",
     "default_product_id": "com.global.sinoalice.tier41a",
     "default_price": "5020",
-    "start_datetime": "2021-10-27T15:00:00+0900",
-    "end_datetime": "2021-11-01T14:59:59+0900"
+    "start_datetime": "2021-12-10T15:00:00+0900",
+    "end_datetime": "2021-12-16T14:59:59+0900"
   },
   {
     "product_id": "com.global.sinoalice.campaign03.tier52a",
@@ -128,8 +128,8 @@
     "price": "7500",
     "default_product_id": "com.global.sinoalice.tier52a",
     "default_price": "7500",
-    "start_datetime": "2021-10-27T15:00:00+0900",
-    "end_datetime": "2021-11-01T14:59:59+0900"
+    "start_datetime": "2021-12-10T15:00:00+0900",
+    "end_datetime": "2021-12-16T14:59:59+0900"
   },
   {
     "product_id": "com.global.sinoalice.campaign03.tier56a",
@@ -150,8 +150,8 @@
     "price": "10000",
     "default_product_id": "com.global.sinoalice.tier56a",
     "default_price": "10000",
-    "start_datetime": "2021-10-27T15:00:00+0900",
-    "end_datetime": "2021-11-01T14:59:59+0900"
+    "start_datetime": "2021-12-10T15:00:00+0900",
+    "end_datetime": "2021-12-16T14:59:59+0900"
   },
   {
     "product_id": "com.global.sinoalice.campaign04.tier25aa",
@@ -234,16 +234,16 @@
     "total_gem": "306",
     "campaign_type": "2",
     "campaign_mode": "6",
-    "priority": "3",
+    "priority": "-8",
     "consumable": "0",
     "limited_count": "1",
     "product_type": "0",
     "price": "3060",
     "default_product_id": "com.global.sinoalice.campaign05.tier25aa",
     "default_price": "3060",
-    "start_datetime": "2021-06-08T15:00:00+0900",
-    "end_datetime": "2021-06-22T14:59:59+0900",
-    "iconResourceName": "shop_icon/20210608_dorothy_mcp:20210608_dorothy_mcp_01.png"
+    "start_datetime": "2021-12-10T15:00:00+0900",
+    "end_datetime": "2021-12-26T14:59:59+0900",
+    "iconResourceName": "shop_icon/20201210_pino_mcp:20201210_pino_mcp_01.png"
   },
   {
     "product_id": "com.global.sinoalice.campaign05.tier25ba",
@@ -257,16 +257,16 @@
     "total_gem": "306",
     "campaign_type": "2",
     "campaign_mode": "6",
-    "priority": "3",
+    "priority": "-8",
     "consumable": "0",
     "limited_count": "4",
     "product_type": "0",
     "price": "3060",
     "default_product_id": "com.global.sinoalice.campaign05.tier25ba",
     "default_price": "3060",
-    "start_datetime": "2021-06-08T15:00:00+0900",
-    "end_datetime": "2021-06-22T14:59:59+0900",
-    "iconResourceName": "shop_icon/20210608_dorothy_mcp:20210608_dorothy_mcp_02.png"
+    "start_datetime": "2021-12-10T15:00:00+0900",
+    "end_datetime": "2021-12-26T14:59:59+0900",
+    "iconResourceName": "shop_icon/20201210_pino_mcp:20201210_pino_mcp_02.png"
   },
   {
     "product_id": "com.global.sinoalice.campaign06.tier25aa",
@@ -356,9 +356,9 @@
     "price": "3540",
     "default_product_id": "com.global.sinoalice.campaign07.tier29a",
     "default_price": "3540",
-    "start_datetime": "2021-10-27T15:00:00+0900",
-    "end_datetime": "2021-11-10T14:59:59+0900",
-    "iconResourceName": "shop_icon/20211027_nightmare_ffbe_mcp:20211027_nightmare_ffbe_mcp01.png"
+    "start_datetime": "2021-12-10T15:00:00+0900",
+    "end_datetime": "2021-12-26T14:59:59+0900",
+    "iconResourceName": "shop_icon/20211210_nightmare_mcp:20211210_nightmare_mcp01.png"
   },
   {
     "product_id": "com.global.sinoalice.campaign07.tier41a",
@@ -395,7 +395,7 @@
     "total_gem": "110",
     "campaign_type": "2",
     "campaign_mode": "6",
-    "priority": "-1",
+    "priority": "1001",
     "consumable": "0",
     "limited_count": "1",
     "product_type": "0",
@@ -418,7 +418,7 @@
     "total_gem": "148",
     "campaign_type": "2",
     "campaign_mode": "6",
-    "priority": "-1",
+    "priority": "1001",
     "consumable": "0",
     "limited_count": "2",
     "product_type": "0",
@@ -441,7 +441,7 @@
     "total_gem": "148",
     "campaign_type": "2",
     "campaign_mode": "6",
-    "priority": "-1",
+    "priority": "1001",
     "consumable": "0",
     "limited_count": "2",
     "product_type": "0",
@@ -464,7 +464,7 @@
     "total_gem": "148",
     "campaign_type": "2",
     "campaign_mode": "6",
-    "priority": "-1",
+    "priority": "1001",
     "consumable": "0",
     "limited_count": "2",
     "product_type": "0",
@@ -487,7 +487,7 @@
     "total_gem": "160",
     "campaign_type": "2",
     "campaign_mode": "6",
-    "priority": "-1",
+    "priority": "1001",
     "consumable": "0",
     "limited_count": "1",
     "product_type": "0",
@@ -510,7 +510,7 @@
     "total_gem": "160",
     "campaign_type": "2",
     "campaign_mode": "6",
-    "priority": "-1",
+    "priority": "1001",
     "consumable": "0",
     "limited_count": "1",
     "product_type": "0",
@@ -533,7 +533,7 @@
     "total_gem": "160",
     "campaign_type": "2",
     "campaign_mode": "6",
-    "priority": "-1",
+    "priority": "1001",
     "consumable": "0",
     "limited_count": "1",
     "product_type": "0",
@@ -556,7 +556,7 @@
     "total_gem": "208",
     "campaign_type": "2",
     "campaign_mode": "6",
-    "priority": "-1",
+    "priority": "1001",
     "consumable": "0",
     "limited_count": "1",
     "product_type": "0",
@@ -579,7 +579,7 @@
     "total_gem": "354",
     "campaign_type": "2",
     "campaign_mode": "6",
-    "priority": "-1",
+    "priority": "1001",
     "consumable": "0",
     "limited_count": "1",
     "product_type": "0",
@@ -778,15 +778,15 @@
     "total_gem": "502",
     "campaign_type": "2",
     "campaign_mode": "6",
-    "priority": "0",
+    "priority": "-9",
     "consumable": "0",
     "limited_count": "4",
     "product_type": "0",
     "price": "5020",
     "default_product_id": "com.global.sinoalice.campaign12.tier41a",
     "default_price": "5020",
-    "start_datetime": "2021-08-26T15:00:00+0900",
-    "end_datetime": "2021-09-09T14:59:59+0900",
+    "start_datetime": "2021-12-10T15:00:00+0900",
+    "end_datetime": "2021-12-31T14:59:59+0900",
     "iconResourceName": "shop_icon/20201127_arcanamedal_mcp:arcanamedal_stone.png"
   },
   {

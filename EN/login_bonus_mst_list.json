@@ -624,6 +624,18 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 194,
+    "title": "Event Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1639116000,
+    "endTime": 1640494799,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 232,
     "title": "Collaboration Event Bonus",
     "cycleType": 2,
@@ -1147,6 +1159,18 @@
     "pickupSkillType": 1,
     "startTime": 1638252000,
     "endTime": 1638853199,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900036,
+    "title": "X-mas Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1639116000,
+    "endTime": 1640494799,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""

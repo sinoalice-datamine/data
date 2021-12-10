@@ -718,5 +718,446 @@
     "afterResourceName": "minitutorial059_2",
     "startTime": 1626156000,
     "endTime": 1924873200
+  },
+  {
+    "assetBundleReplaceMstId": 83,
+    "beforeAssetBundleName": "banner1",
+    "beforeResourceName": "bannerl005",
+    "afterAssetBundleName": "banner20210101_campaign_oshogatsu",
+    "afterResourceName": "bannerl89",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 84,
+    "beforeAssetBundleName": "banner1",
+    "beforeResourceName": "bannerl006",
+    "afterAssetBundleName": "banner20210101_campaign_oshogatsu",
+    "afterResourceName": "bannerl87",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 85,
+    "beforeAssetBundleName": "fxm_bannerl/de/banner1",
+    "beforeResourceName": "bannerl005",
+    "afterAssetBundleName": "fxm_bannerl/de/banner20210101_campaign_oshogatsu",
+    "afterResourceName": "bannerl89",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 86,
+    "beforeAssetBundleName": "fxm_bannerl/de/banner1",
+    "beforeResourceName": "bannerl006",
+    "afterAssetBundleName": "fxm_bannerl/de/banner20210101_campaign_oshogatsu",
+    "afterResourceName": "bannerl87",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 87,
+    "beforeAssetBundleName": "fxm_bannerl/en/banner1",
+    "beforeResourceName": "bannerl005",
+    "afterAssetBundleName": "fxm_bannerl/en/banner20210101_campaign_oshogatsu",
+    "afterResourceName": "bannerl89",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 88,
+    "beforeAssetBundleName": "fxm_bannerl/en/banner1",
+    "beforeResourceName": "bannerl006",
+    "afterAssetBundleName": "fxm_bannerl/en/banner20210101_campaign_oshogatsu",
+    "afterResourceName": "bannerl87",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 89,
+    "beforeAssetBundleName": "fxm_bannerl/es/banner1",
+    "beforeResourceName": "bannerl005",
+    "afterAssetBundleName": "fxm_bannerl/es/banner20210101_campaign_oshogatsu",
+    "afterResourceName": "bannerl89",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 90,
+    "beforeAssetBundleName": "fxm_bannerl/es/banner1",
+    "beforeResourceName": "bannerl006",
+    "afterAssetBundleName": "fxm_bannerl/es/banner20210101_campaign_oshogatsu",
+    "afterResourceName": "bannerl87",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 91,
+    "beforeAssetBundleName": "fxm_bannerl/fr/banner1",
+    "beforeResourceName": "bannerl005",
+    "afterAssetBundleName": "fxm_bannerl/fr/banner20210101_campaign_oshogatsu",
+    "afterResourceName": "bannerl89",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 92,
+    "beforeAssetBundleName": "fxm_bannerl/fr/banner1",
+    "beforeResourceName": "bannerl006",
+    "afterAssetBundleName": "fxm_bannerl/fr/banner20210101_campaign_oshogatsu",
+    "afterResourceName": "bannerl87",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 93,
+    "beforeAssetBundleName": "fxm_bannerl/kr/banner1",
+    "beforeResourceName": "bannerl005",
+    "afterAssetBundleName": "fxm_bannerl/kr/banner20210101_campaign_oshogatsu",
+    "afterResourceName": "bannerl89",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 94,
+    "beforeAssetBundleName": "fxm_bannerl/kr/banner1",
+    "beforeResourceName": "bannerl006",
+    "afterAssetBundleName": "fxm_bannerl/kr/banner20210101_campaign_oshogatsu",
+    "afterResourceName": "bannerl87",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 95,
+    "beforeAssetBundleName": "fxm_bannerl/th/banner1",
+    "beforeResourceName": "bannerl005",
+    "afterAssetBundleName": "fxm_bannerl/th/banner20210101_campaign_oshogatsu",
+    "afterResourceName": "bannerl89",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 96,
+    "beforeAssetBundleName": "fxm_bannerl/th/banner1",
+    "beforeResourceName": "bannerl006",
+    "afterAssetBundleName": "fxm_bannerl/th/banner20210101_campaign_oshogatsu",
+    "afterResourceName": "bannerl87",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 97,
+    "beforeAssetBundleName": "banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl011",
+    "afterAssetBundleName": "banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl011",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 98,
+    "beforeAssetBundleName": "banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl012",
+    "afterAssetBundleName": "banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl012",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 99,
+    "beforeAssetBundleName": "banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl013",
+    "afterAssetBundleName": "banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl013",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 100,
+    "beforeAssetBundleName": "banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl014",
+    "afterAssetBundleName": "banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl014",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 101,
+    "beforeAssetBundleName": "banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl10007",
+    "afterAssetBundleName": "banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl10007",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 102,
+    "beforeAssetBundleName": "fxm_bannerl/de/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl011",
+    "afterAssetBundleName": "fxm_bannerl/de/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl011",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 103,
+    "beforeAssetBundleName": "fxm_bannerl/de/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl012",
+    "afterAssetBundleName": "fxm_bannerl/de/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl012",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 104,
+    "beforeAssetBundleName": "fxm_bannerl/de/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl013",
+    "afterAssetBundleName": "fxm_bannerl/de/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl013",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 105,
+    "beforeAssetBundleName": "fxm_bannerl/de/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl014",
+    "afterAssetBundleName": "fxm_bannerl/de/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl014",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 106,
+    "beforeAssetBundleName": "fxm_bannerl/de/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl10007",
+    "afterAssetBundleName": "fxm_bannerl/de/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl10007",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 107,
+    "beforeAssetBundleName": "fxm_bannerl/en/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl011",
+    "afterAssetBundleName": "fxm_bannerl/en/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl011",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 108,
+    "beforeAssetBundleName": "fxm_bannerl/en/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl012",
+    "afterAssetBundleName": "fxm_bannerl/en/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl012",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 109,
+    "beforeAssetBundleName": "fxm_bannerl/en/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl013",
+    "afterAssetBundleName": "fxm_bannerl/en/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl013",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 110,
+    "beforeAssetBundleName": "fxm_bannerl/en/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl014",
+    "afterAssetBundleName": "fxm_bannerl/en/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl014",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 111,
+    "beforeAssetBundleName": "fxm_bannerl/en/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl10007",
+    "afterAssetBundleName": "fxm_bannerl/en/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl10007",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 112,
+    "beforeAssetBundleName": "fxm_bannerl/es/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl011",
+    "afterAssetBundleName": "fxm_bannerl/es/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl011",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 113,
+    "beforeAssetBundleName": "fxm_bannerl/es/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl012",
+    "afterAssetBundleName": "fxm_bannerl/es/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl012",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 114,
+    "beforeAssetBundleName": "fxm_bannerl/es/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl013",
+    "afterAssetBundleName": "fxm_bannerl/es/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl013",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 115,
+    "beforeAssetBundleName": "fxm_bannerl/es/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl014",
+    "afterAssetBundleName": "fxm_bannerl/es/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl014",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 116,
+    "beforeAssetBundleName": "fxm_bannerl/es/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl10007",
+    "afterAssetBundleName": "fxm_bannerl/es/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl10007",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 117,
+    "beforeAssetBundleName": "fxm_bannerl/fr/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl011",
+    "afterAssetBundleName": "fxm_bannerl/fr/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl011",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 118,
+    "beforeAssetBundleName": "fxm_bannerl/fr/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl012",
+    "afterAssetBundleName": "fxm_bannerl/fr/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl012",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 119,
+    "beforeAssetBundleName": "fxm_bannerl/fr/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl013",
+    "afterAssetBundleName": "fxm_bannerl/fr/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl013",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 120,
+    "beforeAssetBundleName": "fxm_bannerl/fr/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl014",
+    "afterAssetBundleName": "fxm_bannerl/fr/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl014",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 121,
+    "beforeAssetBundleName": "fxm_bannerl/fr/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl10007",
+    "afterAssetBundleName": "fxm_bannerl/fr/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl10007",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 122,
+    "beforeAssetBundleName": "fxm_bannerl/kr/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl011",
+    "afterAssetBundleName": "fxm_bannerl/kr/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl011",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 123,
+    "beforeAssetBundleName": "fxm_bannerl/kr/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl012",
+    "afterAssetBundleName": "fxm_bannerl/kr/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl012",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 124,
+    "beforeAssetBundleName": "fxm_bannerl/kr/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl013",
+    "afterAssetBundleName": "fxm_bannerl/kr/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl013",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 125,
+    "beforeAssetBundleName": "fxm_bannerl/kr/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl014",
+    "afterAssetBundleName": "fxm_bannerl/kr/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl014",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 126,
+    "beforeAssetBundleName": "fxm_bannerl/kr/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl10007",
+    "afterAssetBundleName": "fxm_bannerl/kr/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl10007",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 127,
+    "beforeAssetBundleName": "fxm_bannerl/th/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl011",
+    "afterAssetBundleName": "fxm_bannerl/th/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl011",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 128,
+    "beforeAssetBundleName": "fxm_bannerl/th/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl012",
+    "afterAssetBundleName": "fxm_bannerl/th/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl012",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 129,
+    "beforeAssetBundleName": "fxm_bannerl/th/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl013",
+    "afterAssetBundleName": "fxm_bannerl/th/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl013",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 130,
+    "beforeAssetBundleName": "fxm_bannerl/th/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl014",
+    "afterAssetBundleName": "fxm_bannerl/th/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl014",
+    "startTime": 1639116000,
+    "endTime": 1641362399
+  },
+  {
+    "assetBundleReplaceMstId": 131,
+    "beforeAssetBundleName": "fxm_bannerl/th/banner20210628_youbi_replace",
+    "beforeResourceName": "bannerl10007",
+    "afterAssetBundleName": "fxm_bannerl/th/banner20210628_1staniv_youbi_ap",
+    "afterResourceName": "bannerl10007",
+    "startTime": 1639116000,
+    "endTime": 1641362399
   }
 ]

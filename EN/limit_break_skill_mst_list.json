@@ -226,21 +226,21 @@
   {
     "limitBreakSkillMstId": 37,
     "name": "Forbidden Art of Attack Blades/Tale (III)",
-    "description": "Massively increases P.ATK (Parameter value: +300 to +1,200) and greatly reduces P.DEF (Parameter value: -100 to -400) in the story.　Note: Values vary by skill level.",
+    "description": "Massively increases P.ATK in the story. (Parameter value: +300 to +1200) Note: Value varies by skill level.",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 37
   },
   {
     "limitBreakSkillMstId": 38,
     "name": "Forbidden Art of Attack Demons/Tale (III)",
-    "description": "Massively increases M.ATK (Parameter value: +300 to +1,200) and greatly reduces M.DEF (Parameter value: -100 to -400) in the story.　Note: Values vary by skill level.",
+    "description": "Massively increases M.ATK in the story. (Parameter value: +300 to +1200) Note: Value varies by skill level.",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 38
   },
   {
     "limitBreakSkillMstId": 39,
     "name": "Forbidden Art of Defense Blades/Tale (III)",
-    "description": "Massively increases P.DEF (Parameter value: +300 to +1,200) and greatly reduces P.ATK (Parameter value: -100 to -400) in the story.　Note: Values vary by skill level.",
+    "description": "Massively increases P.DEF in the story. (Parameter value: +300 to +1200) Note: Value varies by skill level.",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 39
   },
@@ -324,7 +324,7 @@
   {
     "limitBreakSkillMstId": 51,
     "name": "Forbidden Art of Defense Blades/Duel (III)",
-    "description": "Massively increases P.DEF (Parameter value: +300 to +1,200) and greatly reduces P.ATK (Parameter value: -100 to -400) at the Colosseum.　Note: Values vary by skill level.",
+    "description": "Massively increases M.DEF at the Colosseum. (Parameter value: +300 to +1200) Note: Value varies by skill level.",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 51
   },
