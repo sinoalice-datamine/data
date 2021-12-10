@@ -4782,5 +4782,21 @@
     "endTime": 1638889199,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 328,
+    "name": "ギルドボックスガチャ補填メダル",
+    "description": "WGC本戦トーナメント参加時に獲得できなかったギルドボックスガチャの補填です。\r\n※無期限",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "WGC本戦参加時に獲得できなかったギルドボックスガチャの補填です。お好きなアイテムをお選びください。\r\n※有効期限：無期限",
+    "priority": 300,
+    "itemMstId": 3973,
+    "startTime": 1639062000,
+    "endTime": 1893423599,
+    "displayType": 1,
+    "isDeleted": false
   }
 ]
