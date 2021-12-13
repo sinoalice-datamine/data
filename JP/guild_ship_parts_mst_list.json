@@ -2400,6 +2400,42 @@
     "rttParam": 0
   },
   {
+    "guildShipPartsMstId": 207,
+    "name": "オリジンシリーズ(WGC)[船楼]",
+    "description": "オリジンシリーズ(WGC)の船楼パーツ",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 31,
+    "rttParam": 6592
+  },
+  {
+    "guildShipPartsMstId": 208,
+    "name": "オリジンシリーズ(WGC)[船体]",
+    "description": "オリジンシリーズ(WGC)の船体パーツ",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 30,
+    "rttParam": 1
+  },
+  {
+    "guildShipPartsMstId": 209,
+    "name": "オリジンシリーズ(WGC)[灯篭]",
+    "description": "オリジンシリーズ(WGC)の灯篭パーツ",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 1,
+    "rttParam": 0
+  },
+  {
     "guildShipPartsMstId": 210,
     "name": "遊魔シリーズ(1部)[船楼]",
     "description": "第48回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップの船楼パーツ",
