@@ -2308,5 +2308,27 @@
     "museumStartTime": 1632463200,
     "museumEndTime": 1633672799,
     "vibStartTime": -1.0
+  },
+  {
+    "movieResourceMstId": 9000008,
+    "movieTitle": "WGC優勝動画",
+    "resourceName": "wgc_final_winner",
+    "isPreDownLoad": 1,
+    "type": 2,
+    "value": 0,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1639375200,
+    "endTime": 1639979999,
+    "isMuseum": 0,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "Bug if No Conditions shows",
+    "thumbAssetBundleName": "",
+    "thumbResourceName": "",
+    "museumStartTime": 1639375200,
+    "museumEndTime": 1639979999,
+    "vibStartTime": -1.0
   }
 ]
