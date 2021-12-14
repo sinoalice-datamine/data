@@ -4688,6 +4688,38 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 311,
+    "name": "『ギシアンジャンボ』武器メダル：前衛",
+    "description": "ギシアンジャンボ当選で獲得できるメダル\r\n最大強化状態の武器が獲得できる。\r\n※2022年2月21日23:59まで",
+    "resourceName": "item20211115_takarakuji_cp",
+    "assetBundleName": "3803",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ギシアンジャンボ当選で獲得できるメダル\r\n※有効期限2022年2月21日23:59まで",
+    "priority": 100,
+    "itemMstId": 3803,
+    "startTime": 1639458000,
+    "endTime": 1645455599,
+    "displayType": 1,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 312,
+    "name": "『ギシアンジャンボ』ジョブメダル",
+    "description": "ギシアンジャンボ当選で獲得できるメダル\r\nガチャで登場したジョブが獲得できる。\r\n※2022年2月21日23:59まで",
+    "resourceName": "item20211115_takarakuji_cp",
+    "assetBundleName": "3804",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ギシアンジャンボ当選で獲得できるメダル\r\n※有効期限2022年2月21日23:59まで",
+    "priority": 102,
+    "itemMstId": 3804,
+    "startTime": 1639458000,
+    "endTime": 1645455599,
+    "displayType": 1,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 313,
     "name": "豊穣メダル",
     "description": "ギシンアンキが集めているメダル※2021年12月2日23:59まで",
@@ -4781,6 +4813,22 @@
     "startTime": 1637474400,
     "endTime": 1638889199,
     "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 319,
+    "name": "『ギシアンジャンボ』武器メダル：後衛",
+    "description": "ギシアンジャンボ当選で獲得できるメダル\r\n最大強化状態の武器が獲得できる。\r\n※2022年2月21日23:59まで",
+    "resourceName": "item20211115_takarakuji_cp",
+    "assetBundleName": "3803",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ギシアンジャンボ当選で獲得できるメダル\r\n※有効期限2022年2月21日23:59まで",
+    "priority": 101,
+    "itemMstId": 3803,
+    "startTime": 1639458000,
+    "endTime": 1645455599,
+    "displayType": 1,
     "isDeleted": false
   },
   {
