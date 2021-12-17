@@ -5676,6 +5676,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 543,
+    "mapType": 1,
+    "mapGroup": 527,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "無法ノ除夜",
+    "description": "無法ノ除夜",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 544,
+    "mapType": 1,
+    "mapGroup": 527,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "無法ノ除夜Hard",
+    "description": "無法ノ除夜Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 549,
     "mapType": 1,
     "mapGroup": 531,
