@@ -16360,6 +16360,26 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 1887,
+    "characterMstId": 145,
+    "name": "Instrument +10% (Pinocchio+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 1888,
+    "characterMstId": 145,
+    "name": "HP +400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
     "characterAbilityMstId": 1889,
     "characterMstId": 140,
     "name": "Tome (Water) +30% (Princess Kaguya+ stages)",
@@ -19778,6 +19798,126 @@
     "effectType": 1,
     "effectValue": 200,
     "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2365,
+    "characterMstId": 183,
+    "name": "Instrument (Water) +30% (Princess Kaguya+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2366,
+    "characterMstId": 183,
+    "name": "All Weapons (Wind) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 2367,
+    "characterMstId": 183,
+    "name": "Instrument (Water) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2368,
+    "characterMstId": 183,
+    "name": "Instrument (Water) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2369,
+    "characterMstId": 183,
+    "name": "M.DEF +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2370,
+    "characterMstId": 183,
+    "name": "P.ATK +1,000",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 1000,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2371,
+    "characterMstId": 183,
+    "name": "M.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2372,
+    "characterMstId": 183,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2373,
+    "characterMstId": 183,
+    "name": "Instrument (Water) +10% (Princess Kaguya+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2374,
+    "characterMstId": 183,
+    "name": "Buff effect +2% when using instrument class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5033,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2375,
+    "characterMstId": 183,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2376,
+    "characterMstId": 183,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
   },
   {
     "characterAbilityMstId": 2377,
@@ -26738,6 +26878,26 @@
     "effectType": 11,
     "effectValue": 800,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 3995,
+    "characterMstId": 183,
+    "name": "Instrument (Water) +30% (Princess Kaguya+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 3996,
+    "characterMstId": 183,
+    "name": "M.ATK +1,000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 1000,
+    "cardDetailType": 1
   },
   {
     "characterAbilityMstId": 4009,
