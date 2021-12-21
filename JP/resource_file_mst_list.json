@@ -1689,7 +1689,7 @@
     "iosFileSize": 0,
     "androidHash": "59fb90cdd227a6a7c14f8d470a5210b5",
     "iosHash": "",
-    "isEveryTimeDownload": false
+    "isEveryTimeDownload": true
   },
   {
     "resourceFileMstId": 189,
@@ -1698,7 +1698,7 @@
     "iosFileSize": 0,
     "androidHash": "29470456865de8bd8786f9e18b892d27",
     "iosHash": "",
-    "isEveryTimeDownload": false
+    "isEveryTimeDownload": true
   },
   {
     "resourceFileMstId": 190,
@@ -15187,16 +15187,16 @@
     "resourceName": "cri/cv_quest_story_262.acb",
     "androidFileSize": 9024,
     "iosFileSize": 0,
-    "androidHash": "25b8c279184b55e055e61f5616bc0927",
+    "androidHash": "b42bdd7ec9b2444090f0ea38332bc808",
     "iosHash": "",
     "isEveryTimeDownload": true
   },
   {
     "resourceFileMstId": 1689,
     "resourceName": "cri/cv_quest_story_262.awb",
-    "androidFileSize": 2252224,
+    "androidFileSize": 2262464,
     "iosFileSize": 0,
-    "androidHash": "07119171f0b625acd195172d57e4e276",
+    "androidHash": "3f66d1d02736f030fd38efb94c28e128",
     "iosHash": "",
     "isEveryTimeDownload": true
   },
@@ -18195,7 +18195,7 @@
     "iosFileSize": 0,
     "androidHash": "3603ea02a71633490b9a63bc75fc9954",
     "iosHash": "",
-    "isEveryTimeDownload": false
+    "isEveryTimeDownload": true
   },
   {
     "resourceFileMstId": 2023,
@@ -18510,7 +18510,7 @@
     "iosFileSize": 0,
     "androidHash": "f520dab55ede36fc72a157c1a9698238",
     "iosHash": "",
-    "isEveryTimeDownload": false
+    "isEveryTimeDownload": true
   },
   {
     "resourceFileMstId": 2058,
@@ -18519,7 +18519,7 @@
     "iosFileSize": 0,
     "androidHash": "34d35271cd6c7ffcb819539cb9fc85ef",
     "iosHash": "",
-    "isEveryTimeDownload": false
+    "isEveryTimeDownload": true
   },
   {
     "resourceFileMstId": 2059,
@@ -18829,6 +18829,15 @@
   },
   {
     "resourceFileMstId": 2093,
+    "resourceName": "cri/se_touta4_L.acb",
+    "androidFileSize": 20832,
+    "iosFileSize": 0,
+    "androidHash": "a0899ac514ba0477eac1dff548928e93",
+    "iosHash": "",
+    "isEveryTimeDownload": false
+  },
+  {
+    "resourceFileMstId": 2094,
     "resourceName": "cri/se_touta_4syou.acb",
     "androidFileSize": 59616,
     "iosFileSize": 0,
@@ -18837,7 +18846,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2094,
+    "resourceFileMstId": 2095,
     "resourceName": "cri/se_touta_5syou.acb",
     "androidFileSize": 170592,
     "iosFileSize": 0,
@@ -18846,7 +18855,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2095,
+    "resourceFileMstId": 2096,
     "resourceName": "cri/se_touta_b.acb",
     "androidFileSize": 152736,
     "iosFileSize": 0,
@@ -18855,7 +18864,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2096,
+    "resourceFileMstId": 2097,
     "resourceName": "cri/se_touta_c.acb",
     "androidFileSize": 117120,
     "iosFileSize": 0,
@@ -18864,7 +18873,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2097,
+    "resourceFileMstId": 2098,
     "resourceName": "cri/se_touta_c2.acb",
     "androidFileSize": 559872,
     "iosFileSize": 0,
@@ -18873,7 +18882,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2098,
+    "resourceFileMstId": 2099,
     "resourceName": "cri/se_touta_dead.acb",
     "androidFileSize": 44800,
     "iosFileSize": 0,
@@ -18882,7 +18891,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2099,
+    "resourceFileMstId": 2100,
     "resourceName": "cri/se_tutorial.acb",
     "androidFileSize": 218656,
     "iosFileSize": 0,
@@ -18891,7 +18900,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2100,
+    "resourceFileMstId": 2101,
     "resourceName": "cri/se_vote_gear_001.acb",
     "androidFileSize": 19488,
     "iosFileSize": 0,
@@ -18900,7 +18909,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2101,
+    "resourceFileMstId": 2102,
     "resourceName": "cri/se_wgc_mvp.acb",
     "androidFileSize": 62528,
     "iosFileSize": 0,
@@ -18909,7 +18918,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2102,
+    "resourceFileMstId": 2103,
     "resourceName": "cri/se_wgc_mvp.acb.meta",
     "androidFileSize": 155,
     "iosFileSize": 0,
@@ -18918,7 +18927,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2103,
+    "resourceFileMstId": 2104,
     "resourceName": "cri/se_wgc_mypage.acb",
     "androidFileSize": 381824,
     "iosFileSize": 0,
@@ -18927,7 +18936,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2104,
+    "resourceFileMstId": 2105,
     "resourceName": "cri/se_wgc_vote.acb",
     "androidFileSize": 56064,
     "iosFileSize": 0,
@@ -18936,7 +18945,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2105,
+    "resourceFileMstId": 2106,
     "resourceName": "cri/se_wgc_vote.acb.meta",
     "androidFileSize": 155,
     "iosFileSize": 0,
@@ -18945,7 +18954,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2106,
+    "resourceFileMstId": 2107,
     "resourceName": "cri/se_wgc_yosen.acb",
     "androidFileSize": 278912,
     "iosFileSize": 0,
@@ -18954,7 +18963,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2107,
+    "resourceFileMstId": 2108,
     "resourceName": "cri/se_whiteday.acb",
     "androidFileSize": 354208,
     "iosFileSize": 0,
@@ -18963,7 +18972,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2108,
+    "resourceFileMstId": 2109,
     "resourceName": "cri/spaceinvader01.usm",
     "androidFileSize": 18409504,
     "iosFileSize": 0,
@@ -18972,7 +18981,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2109,
+    "resourceFileMstId": 2110,
     "resourceName": "cri/spaceinvader01_r.usm",
     "androidFileSize": 18481504,
     "iosFileSize": 0,
@@ -18981,7 +18990,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2110,
+    "resourceFileMstId": 2111,
     "resourceName": "cri/spaceinvader02.usm",
     "androidFileSize": 19566080,
     "iosFileSize": 0,
@@ -18990,7 +18999,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2111,
+    "resourceFileMstId": 2112,
     "resourceName": "cri/spaceinvader02_r.usm",
     "androidFileSize": 19612896,
     "iosFileSize": 0,
@@ -18999,7 +19008,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2112,
+    "resourceFileMstId": 2113,
     "resourceName": "cri/summer_OP_Movie.usm",
     "androidFileSize": 28092480,
     "iosFileSize": 0,
@@ -19008,7 +19017,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2113,
+    "resourceFileMstId": 2114,
     "resourceName": "cri/tota_a01.usm",
     "androidFileSize": 9548448,
     "iosFileSize": 0,
@@ -19017,7 +19026,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2114,
+    "resourceFileMstId": 2115,
     "resourceName": "cri/tota_a02.usm",
     "androidFileSize": 10838464,
     "iosFileSize": 0,
@@ -19026,7 +19035,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2115,
+    "resourceFileMstId": 2116,
     "resourceName": "cri/tota_a03.usm",
     "androidFileSize": 10092192,
     "iosFileSize": 0,
@@ -19035,7 +19044,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2116,
+    "resourceFileMstId": 2117,
     "resourceName": "cri/tota_a04.usm",
     "androidFileSize": 44961984,
     "iosFileSize": 0,
@@ -19044,7 +19053,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2117,
+    "resourceFileMstId": 2118,
     "resourceName": "cri/tota_a05.usm",
     "androidFileSize": 11975200,
     "iosFileSize": 0,
@@ -19053,7 +19062,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2118,
+    "resourceFileMstId": 2119,
     "resourceName": "cri/tota_b06.usm",
     "androidFileSize": 9794080,
     "iosFileSize": 0,
@@ -19062,7 +19071,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2119,
+    "resourceFileMstId": 2120,
     "resourceName": "cri/tota_b07.usm",
     "androidFileSize": 7393152,
     "iosFileSize": 0,
@@ -19071,7 +19080,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2120,
+    "resourceFileMstId": 2121,
     "resourceName": "cri/tota_b08.usm",
     "androidFileSize": 10062848,
     "iosFileSize": 0,
@@ -19080,7 +19089,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2121,
+    "resourceFileMstId": 2122,
     "resourceName": "cri/tota_b09.usm",
     "androidFileSize": 20362464,
     "iosFileSize": 0,
@@ -19089,7 +19098,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2122,
+    "resourceFileMstId": 2123,
     "resourceName": "cri/tota_b10.usm",
     "androidFileSize": 7621696,
     "iosFileSize": 0,
@@ -19098,7 +19107,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2123,
+    "resourceFileMstId": 2124,
     "resourceName": "cri/tota_b11.usm",
     "androidFileSize": 13676224,
     "iosFileSize": 0,
@@ -19107,7 +19116,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2124,
+    "resourceFileMstId": 2125,
     "resourceName": "cri/tota_c12.usm",
     "androidFileSize": 13345120,
     "iosFileSize": 0,
@@ -19116,7 +19125,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2125,
+    "resourceFileMstId": 2126,
     "resourceName": "cri/tota_c13.usm",
     "androidFileSize": 7590752,
     "iosFileSize": 0,
@@ -19125,7 +19134,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2126,
+    "resourceFileMstId": 2127,
     "resourceName": "cri/tota_c14.usm",
     "androidFileSize": 19668320,
     "iosFileSize": 0,
@@ -19134,7 +19143,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2127,
+    "resourceFileMstId": 2128,
     "resourceName": "cri/tota_c15.usm",
     "androidFileSize": 12207744,
     "iosFileSize": 0,
@@ -19143,7 +19152,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2128,
+    "resourceFileMstId": 2129,
     "resourceName": "cri/tota_c16.usm",
     "androidFileSize": 10661280,
     "iosFileSize": 0,
@@ -19152,7 +19161,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2129,
+    "resourceFileMstId": 2130,
     "resourceName": "cri/tota_last_ed.usm",
     "androidFileSize": 28796864,
     "iosFileSize": 0,
@@ -19161,7 +19170,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2130,
+    "resourceFileMstId": 2131,
     "resourceName": "cri/tota_last_op.usm",
     "androidFileSize": 29489568,
     "iosFileSize": 0,
@@ -19170,7 +19179,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2131,
+    "resourceFileMstId": 2132,
     "resourceName": "cri/tota_latter_01.usm",
     "androidFileSize": 4465184,
     "iosFileSize": 0,
@@ -19179,7 +19188,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2132,
+    "resourceFileMstId": 2133,
     "resourceName": "cri/tota_latter_03.usm",
     "androidFileSize": 65100384,
     "iosFileSize": 0,
@@ -19188,7 +19197,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2133,
+    "resourceFileMstId": 2134,
     "resourceName": "cri/wgc_honsen_opening_2021.usm",
     "androidFileSize": 18351136,
     "iosFileSize": 0,
@@ -19197,7 +19206,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2134,
+    "resourceFileMstId": 2135,
     "resourceName": "cri/wgc_yosen_opening_2021.usm",
     "androidFileSize": 12932160,
     "iosFileSize": 0,
@@ -19206,7 +19215,7 @@
     "isEveryTimeDownload": false
   },
   {
-    "resourceFileMstId": 2135,
+    "resourceFileMstId": 2136,
     "resourceName": "cri/yugou20200331Movie.usm",
     "androidFileSize": 23880736,
     "iosFileSize": 0,
