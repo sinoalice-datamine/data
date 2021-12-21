@@ -3468,6 +3468,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 742,
+    "gachaGroupId": 5,
+    "bannerMstId": 2200,
+    "isAlways": false,
+    "name": "STEP Grimoire: The Church of Midas",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅻ)\\nAmount: STEP 1 to STEP 2, x50 medals each\\nSTEP 3 to STEP 5, x100 medals each\\n-Medal of desire (Ⅻ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 1750,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=2064&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 755,
     "gachaGroupId": 3,
     "bannerMstId": 2267,

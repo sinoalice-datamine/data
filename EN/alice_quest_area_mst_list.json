@@ -5580,6 +5580,24 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 400,
+    "questMapMstId": 175,
+    "name": "Wicked Bird",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/6",
+    "bgResourceName": "0006",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 403,
     "questMapMstId": 178,
     "name": "Dreams Under Missing Pages",
@@ -6423,6 +6441,24 @@
     "unCombatFlag": false,
     "isGve": false,
     "disableMultipleCharacter": false,
+    "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 593,
+    "questMapMstId": 307,
+    "name": "Wicked Bird",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/6",
+    "bgResourceName": "0006",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
     "createdTime": 1483974000
   },
   {
