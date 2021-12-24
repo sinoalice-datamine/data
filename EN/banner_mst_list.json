@@ -22416,5 +22416,27 @@
     "optionType": 0,
     "isDeleted": false,
     "createdTime": 1483974000
+  },
+  {
+    "bannerMstId": 900423,
+    "type": 7,
+    "startTime": 1593583200,
+    "endTime": 1593583201,
+    "priority": 1,
+    "transitionSceneName": "Announce",
+    "objectId": 1053,
+    "announceMstId": 1053,
+    "osType": 0,
+    "isBeginner": false,
+    "beginnerDays": 0,
+    "isDisplayHome": true,
+    "assetBundleName": "banner20211224_mark_broadcast",
+    "resourceName": "900423",
+    "badgeAssetBundleName": "",
+    "badgeResourceName": "",
+    "badgeEndTime": null,
+    "optionType": 0,
+    "isDeleted": false,
+    "createdTime": 1617289200
   }
 ]
