@@ -4864,6 +4864,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 323,
+    "name": "年末大討伐メダル",
+    "description": "ギシンアンキが集めているメダル\r\n※2022年1月8日23:59まで",
+    "resourceName": "item20211228_daitobatsu",
+    "assetBundleName": "3932",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2022年1月8日23:59まで",
+    "priority": 55,
+    "itemMstId": 3932,
+    "startTime": 1640876400,
+    "endTime": 1641653999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 324,
     "name": "アルカナメダル",
     "description": "アルカナと交換できるメダル\r\n※2021年12月31日23:59まで",
@@ -4925,6 +4941,22 @@
     "startTime": 1639062000,
     "endTime": 1893423599,
     "displayType": 1,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 331,
+    "name": "Mirrativメダル",
+    "description": "Mirrativキャンペーンの特典。※2022年2月5日23:59まで",
+    "resourceName": "item20210430_miraativ",
+    "assetBundleName": "4007",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "Mirattivキャンペーンの特典で獲得することができます。\r\n※有効期限2022年2月5日23:59まで",
+    "priority": 55,
+    "itemMstId": 4007,
+    "startTime": 1640336400,
+    "endTime": 1644073199,
+    "displayType": 0,
     "isDeleted": false
   }
 ]
