@@ -2894,7 +2894,7 @@
     "isComingSoon": false,
     "unCombatFlag": false,
     "isGve": false,
-    "disableMultipleCharacter": false,
+    "disableMultipleCharacter": true,
     "createdTime": 1483974000
   },
   {
@@ -3416,7 +3416,7 @@
     "isComingSoon": false,
     "unCombatFlag": false,
     "isGve": false,
-    "disableMultipleCharacter": false,
+    "disableMultipleCharacter": true,
     "createdTime": 1483974000
   },
   {
@@ -3578,7 +3578,7 @@
     "isComingSoon": false,
     "unCombatFlag": false,
     "isGve": false,
-    "disableMultipleCharacter": false,
+    "disableMultipleCharacter": true,
     "createdTime": 1483974000
   },
   {
@@ -4806,6 +4806,24 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 343,
+    "questMapMstId": 156,
+    "name": "Crystals of Rejection",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/4",
+    "bgResourceName": "0004",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 344,
     "questMapMstId": 157,
     "name": "Stone Pillar Personified",
@@ -4821,6 +4839,42 @@
     "unCombatFlag": false,
     "isGve": false,
     "disableMultipleCharacter": false,
+    "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 345,
+    "questMapMstId": 158,
+    "name": "Baptism by Visions",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/3",
+    "bgResourceName": "0003",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 349,
+    "questMapMstId": 162,
+    "name": "Baptism of Giant Soldiers",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/12",
+    "bgResourceName": "0012",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
     "createdTime": 1483974000
   },
   {
