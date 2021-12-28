@@ -1057,7 +1057,7 @@
   },
   {
     "guildShipPartsMstId": 89,
-    "name": "氷晶シリーズ(1部)[船楼]",
+    "name": "Arctic Crystal Series: League 1 (Superstructure)",
     "description": "第37回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップの船楼パーツ",
     "partsType": 1,
     "hasReverseImage": false,
@@ -1069,7 +1069,7 @@
   },
   {
     "guildShipPartsMstId": 90,
-    "name": "氷晶シリーズ(1部)[船体]",
+    "name": "Arctic Crystal Series: League 1 (Hull)",
     "description": "第37回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップの船体パーツ",
     "partsType": 2,
     "hasReverseImage": false,
@@ -1081,7 +1081,7 @@
   },
   {
     "guildShipPartsMstId": 91,
-    "name": "氷晶シリーズ(1部)[灯篭]",
+    "name": "Arctic Crystal Series: League 1 (Lantern)",
     "description": "第37回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップの灯篭パーツ",
     "partsType": 3,
     "hasReverseImage": false,
@@ -1093,7 +1093,7 @@
   },
   {
     "guildShipPartsMstId": 92,
-    "name": "氷晶シリーズ(2部)[船楼]",
+    "name": "Arctic Crystal Series: League 2 (Superstructure)",
     "description": "第37回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップの船楼パーツ",
     "partsType": 1,
     "hasReverseImage": false,
@@ -1105,7 +1105,7 @@
   },
   {
     "guildShipPartsMstId": 93,
-    "name": "氷晶シリーズ(2部)[船体]",
+    "name": "Arctic Crystal Series: League 2 (Hull)",
     "description": "第37回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップの船体パーツ",
     "partsType": 2,
     "hasReverseImage": false,
@@ -1117,7 +1117,7 @@
   },
   {
     "guildShipPartsMstId": 94,
-    "name": "氷晶シリーズ(2部)[灯篭]",
+    "name": "Arctic Crystal Series: League 2 (Lantern)",
     "description": "第37回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップの灯篭パーツ",
     "partsType": 3,
     "hasReverseImage": false,
@@ -1129,7 +1129,7 @@
   },
   {
     "guildShipPartsMstId": 95,
-    "name": "氷晶シリーズ(3部)[船楼]",
+    "name": "Arctic Crystal Series: League 3 (Superstructure)",
     "description": "第37回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップの船楼パーツ",
     "partsType": 1,
     "hasReverseImage": false,
@@ -1141,7 +1141,7 @@
   },
   {
     "guildShipPartsMstId": 96,
-    "name": "氷晶シリーズ(3部)[船体]",
+    "name": "Arctic Crystal Series: League 3 (Hull)",
     "description": "第37回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップの船体パーツ",
     "partsType": 2,
     "hasReverseImage": false,
@@ -1153,7 +1153,7 @@
   },
   {
     "guildShipPartsMstId": 97,
-    "name": "氷晶シリーズ(3部)[灯篭]",
+    "name": "Arctic Crystal Series: League 3 (Lantern)",
     "description": "第37回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップの灯篭パーツ",
     "partsType": 3,
     "hasReverseImage": false,
@@ -2430,6 +2430,42 @@
     "partsType": 3,
     "hasReverseImage": false,
     "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 204,
+    "name": "Gentle Series (Superstructure)",
+    "description": "Gentle Series Superstructure Parts",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 1536,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 205,
+    "name": "Gentle Series (Hull)",
+    "description": "Gentle Series Hull Parts",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 32,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 206,
+    "name": "Gentle Series (Lantern)",
+    "description": "Gentle Series Lantern Parts",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
     "gainType": 2,
     "fltParam": 1,
     "pdlmParam": 0,

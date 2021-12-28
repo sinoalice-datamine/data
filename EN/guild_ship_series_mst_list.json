@@ -193,7 +193,7 @@
   },
   {
     "guildShipSeriesMstId": 25,
-    "name": "氷晶シリーズ(1部)",
+    "name": "Arctic Crystal Series: League 1 (Lantern)",
     "description": "第37回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
     "shipPartsBodyMstId": 90,
     "shipPartsRoofMstId": 89,
@@ -201,7 +201,7 @@
   },
   {
     "guildShipSeriesMstId": 26,
-    "name": "氷晶シリーズ(2部)",
+    "name": "Arctic Crystal Series: League 2 (Lantern)",
     "description": "第37回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
     "shipPartsBodyMstId": 93,
     "shipPartsRoofMstId": 92,
@@ -209,7 +209,7 @@
   },
   {
     "guildShipSeriesMstId": 27,
-    "name": "氷晶シリーズ(3部)",
+    "name": "Arctic Crystal Series: League 3 (Lantern)",
     "description": "第37回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
     "shipPartsBodyMstId": 96,
     "shipPartsRoofMstId": 95,
@@ -470,6 +470,14 @@
     "shipPartsBodyMstId": 202,
     "shipPartsRoofMstId": 201,
     "shipPartsAttachedMstId": 203
+  },
+  {
+    "guildShipSeriesMstId": 60,
+    "name": "Gentle Series",
+    "description": "Gentle Series Guildship",
+    "shipPartsBodyMstId": 205,
+    "shipPartsRoofMstId": 204,
+    "shipPartsAttachedMstId": 206
   },
   {
     "guildShipSeriesMstId": 61,

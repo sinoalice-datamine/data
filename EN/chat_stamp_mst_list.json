@@ -812,6 +812,20 @@
     "createdTime": null
   },
   {
+    "chatStampMstId": 94,
+    "name": "Aladdin/Money solves everything",
+    "resourceName": "094",
+    "assetBundleName": "chat57",
+    "filterType": 13,
+    "howToGet": "Available from the Black Butler: Book of the Atlantic purification campaign.",
+    "itemMstId": 1900,
+    "replaceMessage": "[*094]",
+    "isAnytime": 0,
+    "startTime": 1640671200,
+    "endTime": 1641880799,
+    "createdTime": null
+  },
+  {
     "chatStampMstId": 96,
     "name": "Princess Kaguya/That's great ♡",
     "resourceName": "096",
@@ -823,6 +837,34 @@
     "isAnytime": 1,
     "startTime": 1593529200,
     "endTime": 1915509600,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 157,
+    "name": "Snow White/Yes, my lord.",
+    "resourceName": "157",
+    "assetBundleName": "chat57",
+    "filterType": 2,
+    "howToGet": "Available from the Black Butler: Book of the Atlantic purification campaign.",
+    "itemMstId": 3777,
+    "replaceMessage": "[*157]",
+    "isAnytime": 0,
+    "startTime": 1640671200,
+    "endTime": 1641880799,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 159,
+    "name": "Little Mermaid/Shing!",
+    "resourceName": "159",
+    "assetBundleName": "chat58",
+    "filterType": 6,
+    "howToGet": "Available from the Black Butler: Book of the Atlantic purification campaign.",
+    "itemMstId": 3779,
+    "replaceMessage": "[*159]",
+    "isAnytime": 0,
+    "startTime": 1640671200,
+    "endTime": 1641880799,
     "createdTime": null
   },
   {
