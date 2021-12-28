@@ -1988,6 +1988,48 @@
     "createdTime": null
   },
   {
+    "chatStampMstId": 157,
+    "name": "スノウホワイト/かしこまりました",
+    "resourceName": "157",
+    "assetBundleName": "chat57",
+    "filterType": 2,
+    "howToGet": "『劇場版「黒執事 Book of the Atlantic」コラボ記念オソウジキャンペーン』にて獲得可能",
+    "itemMstId": 3777,
+    "replaceMessage": "[*157]",
+    "isAnytime": 0,
+    "startTime": 1640664000,
+    "endTime": 1641880799,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 158,
+    "name": "三匹の子豚/わらって！",
+    "resourceName": "158",
+    "assetBundleName": "chat57",
+    "filterType": 12,
+    "howToGet": "『劇場版「黒執事 Book of the Atlantic」コラボ記念オソウジキャンペーン』にて獲得可能",
+    "itemMstId": 3778,
+    "replaceMessage": "[*158]",
+    "isAnytime": 0,
+    "startTime": 1640664000,
+    "endTime": 1641880799,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 160,
+    "name": "マッチ売りの少女/祝！2022年",
+    "resourceName": "160",
+    "assetBundleName": "chat60",
+    "filterType": 52,
+    "howToGet": "イベント『迎春ギシアンすごろく2022』にて獲得可能",
+    "itemMstId": 3889,
+    "replaceMessage": "[*160]",
+    "isAnytime": 0,
+    "startTime": 1640962800,
+    "endTime": 1641567599,
+    "createdTime": null
+  },
+  {
     "chatStampMstId": 161,
     "name": "アリス/WGC本戦！",
     "resourceName": "161",

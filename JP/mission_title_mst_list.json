@@ -7056,6 +7056,30 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 908,
+    "title": "コラボ記念オソウジミッション",
+    "priority": 20001,
+    "startTime": 1640664000,
+    "endTime": 1641880799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 909,
+    "title": "「果テ無キ望ミ」ミッション",
+    "priority": 20003,
+    "startTime": 1640664000,
+    "endTime": 1641880799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 910,
+    "title": "イベントデイリーミッション",
+    "priority": 20004,
+    "startTime": 1640664000,
+    "endTime": 1641880799,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 911,
     "title": "「剣ヲ取ル覚悟」ミッション",
     "priority": 20003,
@@ -7408,6 +7432,38 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 955,
+    "title": "シノアリスの日ミッション",
+    "priority": 49999,
+    "startTime": 1640790000,
+    "endTime": 1641049199,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 956,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1640790000,
+    "endTime": 1640876399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 957,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1640876400,
+    "endTime": 1640962799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 958,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1640962800,
+    "endTime": 1641049199,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 959,
     "title": "生放送連動ミッション",
     "priority": 50000,
@@ -7421,6 +7477,22 @@
     "priority": 0,
     "startTime": 1640358000,
     "endTime": 1640548799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 967,
+    "title": "お正月ミッション",
+    "priority": 45001,
+    "startTime": 1640962800,
+    "endTime": 1641794399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 971,
+    "title": "年末年始挨拶キャンペーン",
+    "priority": 50000,
+    "startTime": 1640682000,
+    "endTime": 1642172399,
     "isHideTime": false
   }
 ]

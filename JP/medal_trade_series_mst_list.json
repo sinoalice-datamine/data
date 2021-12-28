@@ -4864,6 +4864,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 322,
+    "name": "ヨクボウメダル(Ⅰ)",
+    "description": "ガチャで獲得できるメダル\r\n※2022年2月7日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2022年2月7日23:59まで",
+    "priority": 55,
+    "itemMstId": 3956,
+    "startTime": 1640664000,
+    "endTime": 1644245999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 323,
     "name": "年末大討伐メダル",
     "description": "ギシンアンキが集めているメダル\r\n※2022年1月8日23:59まで",
@@ -4924,6 +4940,22 @@
     "itemMstId": 3960,
     "startTime": 1639720800,
     "endTime": 1640962799,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 327,
+    "name": "ティーセットメダル",
+    "description": "ギシンアンキが集めているメダル\r\n※2022年1月18日23:59まで",
+    "resourceName": "item20211214_black_gacha",
+    "assetBundleName": "3955",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2022年1月18日23:59まで",
+    "priority": 55,
+    "itemMstId": 3955,
+    "startTime": 1640664000,
+    "endTime": 1642517999,
     "displayType": 0,
     "isDeleted": false
   },

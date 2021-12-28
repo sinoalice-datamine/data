@@ -4334,6 +4334,17 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 403,
+    "title": "イベントボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1640664000,
+    "endTime": 1641880799,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 404,
     "title": "グランコロシアム開催CP",
     "cycleType": 2,
@@ -4363,6 +4374,72 @@
     "pickupSkillType": 1,
     "startTime": 1639512000,
     "endTime": 1639771199,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 407,
+    "title": "シノアリスの日プレゼント",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1640808000,
+    "endTime": 1641067199,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 408,
+    "title": "ギルドイベントボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1640980800,
+    "endTime": 1641567599,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 409,
+    "title": "年末ログインボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1640721600,
+    "endTime": 1640807999,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 410,
+    "title": "年末ログインボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1640808000,
+    "endTime": 1640894399,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 411,
+    "title": "年末ログインボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1640894400,
+    "endTime": 1640980799,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 412,
+    "title": "お年玉ログインボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1640980800,
+    "endTime": 1641794399,
     "resourceName": "1",
     "assetBundleName": ""
   },
@@ -4627,6 +4704,28 @@
     "pickupSkillType": 1,
     "startTime": 1638284400,
     "endTime": 1640962799,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 100026,
+    "title": "Rank100応援ボーナス①",
+    "cycleType": 7,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1640962800,
+    "endTime": 1643641199,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 100027,
+    "title": "Rank100応援ボーナス②",
+    "cycleType": 7,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1640962800,
+    "endTime": 1643641199,
     "resourceName": "1",
     "assetBundleName": ""
   }

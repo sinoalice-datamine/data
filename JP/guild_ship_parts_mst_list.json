@@ -2400,6 +2400,42 @@
     "rttParam": 0
   },
   {
+    "guildShipPartsMstId": 204,
+    "name": "ジェントルシリーズ[船楼]",
+    "description": "ジェントルシリーズの船楼パーツ",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 1536,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 205,
+    "name": "ジェントルシリーズ[船体]",
+    "description": "ジェントルシリーズの船体パーツ",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 32,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 206,
+    "name": "ジェントルシリーズ[灯篭]",
+    "description": "ジェントルシリーズの灯篭パーツ",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 1,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
     "guildShipPartsMstId": 207,
     "name": "オリジンシリーズ(WGC)[船楼]",
     "description": "オリジンシリーズ(WGC)の船楼パーツ",

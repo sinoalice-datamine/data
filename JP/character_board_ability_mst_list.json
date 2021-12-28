@@ -16069,9 +16069,9 @@
     "characterUniqueId": 2,
     "name": "メダルUP",
     "description": "スノウホワイトのジョブを編成時、転スラエリアでメダル獲得倍率+0.2倍",
-    "effectType": 15,
+    "effectType": 6,
     "effectValue": 0,
-    "cardDetailType": 0
+    "cardDetailType": 1
   },
   {
     "characterBoardAbilityMstId": 1835,
@@ -17023,9 +17023,9 @@
     "characterUniqueId": 2,
     "name": "チケットUP",
     "description": "スノウホワイトのジョブを編成時、DCエリアでチケット獲得倍率+0.2倍",
-    "effectType": 15,
-    "effectValue": 20,
-    "cardDetailType": 0
+    "effectType": 6,
+    "effectValue": 0,
+    "cardDetailType": 2
   },
   {
     "characterBoardAbilityMstId": 1941,
@@ -17286,6 +17286,555 @@
     "description": "HP+400",
     "effectType": 1,
     "effectValue": 400,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1970,
+    "characterUniqueId": 80,
+    "name": "エリアUP",
+    "description": "セバスチャンのジョブを編成時、黒執事BotAエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1971,
+    "characterUniqueId": 80,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP セバスチャンのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1972,
+    "characterUniqueId": 80,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP セバスチャンのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1973,
+    "characterUniqueId": 80,
+    "name": "物魔攻撃UP",
+    "description": "セバスチャンのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1974,
+    "characterUniqueId": 80,
+    "name": "物魔防御UP",
+    "description": "セバスチャンのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1975,
+    "characterUniqueId": 80,
+    "name": "チケットUP",
+    "description": "セバスチャンのジョブを編成時、黒執事BotAエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1976,
+    "characterUniqueId": 80,
+    "name": "チケットUP",
+    "description": "セバスチャンのジョブを編成時、黒執事BotAエリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1977,
+    "characterUniqueId": 80,
+    "name": "物攻+300",
+    "description": "セバスチャンのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1978,
+    "characterUniqueId": 80,
+    "name": "物防+300",
+    "description": "セバスチャンのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1979,
+    "characterUniqueId": 80,
+    "name": "魔攻+300",
+    "description": "セバスチャンのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1980,
+    "characterUniqueId": 80,
+    "name": "魔防+300",
+    "description": "セバスチャンのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1981,
+    "characterUniqueId": 80,
+    "name": "魔具 4%UP",
+    "description": "セバスチャンのジョブを編成時、魔具4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 1982,
+    "characterUniqueId": 81,
+    "name": "エリアUP",
+    "description": "シエルのジョブを編成時、黒執事BotAエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1983,
+    "characterUniqueId": 81,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP シエルのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1984,
+    "characterUniqueId": 81,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP シエルのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1985,
+    "characterUniqueId": 81,
+    "name": "物魔攻撃UP",
+    "description": "シエルのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1986,
+    "characterUniqueId": 81,
+    "name": "物魔防御UP",
+    "description": "シエルのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1987,
+    "characterUniqueId": 81,
+    "name": "チケットUP",
+    "description": "シエルのジョブを編成時、黒執事BotAエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1988,
+    "characterUniqueId": 81,
+    "name": "チケットUP",
+    "description": "シエルのジョブを編成時、黒執事BotAエリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1989,
+    "characterUniqueId": 81,
+    "name": "物攻+300",
+    "description": "シエルのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1990,
+    "characterUniqueId": 81,
+    "name": "物防+300",
+    "description": "シエルのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1991,
+    "characterUniqueId": 81,
+    "name": "魔攻+300",
+    "description": "シエルのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1992,
+    "characterUniqueId": 81,
+    "name": "魔防+300",
+    "description": "シエルのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1993,
+    "characterUniqueId": 81,
+    "name": "射出 4%UP",
+    "description": "シエルのジョブを編成時、射出4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 1994,
+    "characterUniqueId": 82,
+    "name": "エリアUP",
+    "description": "エリザベスのジョブを編成時、黒執事BotAエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1995,
+    "characterUniqueId": 82,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP エリザベスのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1996,
+    "characterUniqueId": 82,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP エリザベスのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1997,
+    "characterUniqueId": 82,
+    "name": "物魔攻撃UP",
+    "description": "エリザベスのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1998,
+    "characterUniqueId": 82,
+    "name": "物魔防御UP",
+    "description": "エリザベスのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1999,
+    "characterUniqueId": 82,
+    "name": "チケットUP",
+    "description": "エリザベスのジョブを編成時、黒執事BotAエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2000,
+    "characterUniqueId": 82,
+    "name": "チケットUP",
+    "description": "エリザベスのジョブを編成時、黒執事BotAエリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2001,
+    "characterUniqueId": 82,
+    "name": "物攻+300",
+    "description": "エリザベスのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2002,
+    "characterUniqueId": 82,
+    "name": "物防+300",
+    "description": "エリザベスのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2003,
+    "characterUniqueId": 82,
+    "name": "魔攻+300",
+    "description": "エリザベスのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2004,
+    "characterUniqueId": 82,
+    "name": "魔防+300",
+    "description": "エリザベスのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2005,
+    "characterUniqueId": 82,
+    "name": "刀剣 4%UP",
+    "description": "エリザベスのジョブを編成時、刀剣4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 2006,
+    "characterUniqueId": 83,
+    "name": "エリアUP",
+    "description": "葬儀屋のジョブを編成時、黒執事BotAエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2007,
+    "characterUniqueId": 83,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 葬儀屋のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2008,
+    "characterUniqueId": 83,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 葬儀屋のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2009,
+    "characterUniqueId": 83,
+    "name": "物魔攻撃UP",
+    "description": "葬儀屋のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2010,
+    "characterUniqueId": 83,
+    "name": "物魔防御UP",
+    "description": "葬儀屋のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2011,
+    "characterUniqueId": 83,
+    "name": "チケットUP",
+    "description": "葬儀屋のジョブを編成時、黒執事BotAエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2012,
+    "characterUniqueId": 83,
+    "name": "チケットUP",
+    "description": "葬儀屋のジョブを編成時、黒執事BotAエリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2013,
+    "characterUniqueId": 83,
+    "name": "物攻+300",
+    "description": "葬儀屋のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2014,
+    "characterUniqueId": 83,
+    "name": "物防+300",
+    "description": "葬儀屋のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2015,
+    "characterUniqueId": 83,
+    "name": "魔攻+300",
+    "description": "葬儀屋のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2016,
+    "characterUniqueId": 83,
+    "name": "魔防+300",
+    "description": "葬儀屋のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2017,
+    "characterUniqueId": 83,
+    "name": "長柄 4%UP",
+    "description": "葬儀屋のジョブを編成時、長柄4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 2018,
+    "characterUniqueId": 84,
+    "name": "エリアUP",
+    "description": "グレルのジョブを編成時、黒執事BotAエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2019,
+    "characterUniqueId": 84,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP グレルのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2020,
+    "characterUniqueId": 84,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP グレルのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2021,
+    "characterUniqueId": 84,
+    "name": "物魔攻撃UP",
+    "description": "グレルのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2022,
+    "characterUniqueId": 84,
+    "name": "物魔防御UP",
+    "description": "グレルのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2023,
+    "characterUniqueId": 84,
+    "name": "チケットUP",
+    "description": "グレルのジョブを編成時、黒執事BotAエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2024,
+    "characterUniqueId": 84,
+    "name": "チケットUP",
+    "description": "グレルのジョブを編成時、黒執事BotAエリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2025,
+    "characterUniqueId": 84,
+    "name": "物攻+300",
+    "description": "グレルのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2026,
+    "characterUniqueId": 84,
+    "name": "物防+300",
+    "description": "グレルのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2027,
+    "characterUniqueId": 84,
+    "name": "魔攻+300",
+    "description": "グレルのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2028,
+    "characterUniqueId": 84,
+    "name": "魔防+300",
+    "description": "グレルのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2029,
+    "characterUniqueId": 84,
+    "name": "打撃 4%UP",
+    "description": "グレルのジョブを編成時、打撃4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 2030,
+    "characterUniqueId": 2,
+    "name": "チケットUP",
+    "description": "スノウホワイトのジョブを編成時、黒執事BotAエリアエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
     "cardDetailType": 0
   }
 ]
