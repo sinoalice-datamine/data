@@ -78960,6 +78960,326 @@
     "cardDetailType": 1
   },
   {
+    "characterAbilityMstId": 8079,
+    "characterMstId": 587,
+    "name": "Mermaidエリアで魔書60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8080,
+    "characterMstId": 587,
+    "name": "魔書10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8081,
+    "characterMstId": 587,
+    "name": "魔書ジョブ使用時、デバフ効果3%UP",
+    "releaseLevel": 3,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7084,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8082,
+    "characterMstId": 587,
+    "name": "魔法防御+200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8083,
+    "characterMstId": 587,
+    "name": "祈祷ジョブ使用時、回復効果3%UP",
+    "releaseLevel": 5,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7085,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8084,
+    "characterMstId": 587,
+    "name": "物理攻撃+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8085,
+    "characterMstId": 587,
+    "name": "射出ジョブ使用時、魔法ダメージ3%UP",
+    "releaseLevel": 7,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7082,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8086,
+    "characterMstId": 587,
+    "name": "HP+800",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 800,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8087,
+    "characterMstId": 587,
+    "name": "打撃ジョブ使用時、物理ダメージ3%UP",
+    "releaseLevel": 9,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6149,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8088,
+    "characterMstId": 587,
+    "name": "コスト+10",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8089,
+    "characterMstId": 587,
+    "name": "魔法防御+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8090,
+    "characterMstId": 587,
+    "name": "物理攻撃+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8091,
+    "characterMstId": 587,
+    "name": "魔法防御+300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8092,
+    "characterMstId": 587,
+    "name": "物理攻撃+300",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8093,
+    "characterMstId": 587,
+    "name": "魔法防御+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8094,
+    "characterMstId": 587,
+    "name": "物理攻撃+400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8095,
+    "characterMstId": 588,
+    "name": "Gretelエリアで長柄60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8096,
+    "characterMstId": 588,
+    "name": "長柄10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8097,
+    "characterMstId": 588,
+    "name": "長柄ジョブ使用時、魔法ダメージ3%UP",
+    "releaseLevel": 3,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6192,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8098,
+    "characterMstId": 588,
+    "name": "物理防御+200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8099,
+    "characterMstId": 588,
+    "name": "刀剣ジョブ使用時、物理ダメージ3%UP",
+    "releaseLevel": 5,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7081,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8100,
+    "characterMstId": 588,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8101,
+    "characterMstId": 588,
+    "name": "魔具ジョブ使用時、魔法ダメージ3%UP",
+    "releaseLevel": 7,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7086,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8102,
+    "characterMstId": 588,
+    "name": "HP+800",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 800,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8103,
+    "characterMstId": 588,
+    "name": "楽器ジョブ使用時、バフ効果3%UP",
+    "releaseLevel": 9,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7083,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8104,
+    "characterMstId": 588,
+    "name": "コスト+10",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8105,
+    "characterMstId": 588,
+    "name": "物理防御+200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8106,
+    "characterMstId": 588,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8107,
+    "characterMstId": 588,
+    "name": "物理防御+300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8108,
+    "characterMstId": 588,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8109,
+    "characterMstId": 588,
+    "name": "物理防御+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8110,
+    "characterMstId": 588,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
     "characterAbilityMstId": 8125,
     "characterMstId": 145,
     "name": "魔法攻撃+400",
