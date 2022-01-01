@@ -768,7 +768,7 @@
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign18.crystal9800a",
     "name": "魔晶石3,000個",
-    "description": "有償魔晶石1500個＋無償魔晶石72個。さらに今なら＋無償魔晶石1428個。",
+    "description": "有償魔晶石1500個＋無償魔晶石72個。さらに＋無償魔晶石1428個。",
     "thumbnail_url": "",
     "charge_gem": "1500",
     "free_gem": "1500",
@@ -777,15 +777,15 @@
     "total_gem": "3000",
     "campaign_type": "2",
     "campaign_mode": "6",
-    "priority": "3",
+    "priority": "0",
     "consumable": "0",
-    "limited_count": "1",
+    "limited_count": "2",
     "product_type": "0",
     "price": "10000",
     "default_product_id": "jp.co.pokelabo.sinoalice.campaign18.crystal9800a",
     "default_price": "10000",
-    "start_datetime": "2021-06-22T14:00:00+0900",
-    "end_datetime": "2021-07-06T13:59:59+0900",
+    "start_datetime": "2022-01-01T00:00:00+0900",
+    "end_datetime": "2022-01-05T14:59:59+0900",
     "iconResourceName": "shop_icon/20200730_10000tier_mcp:10000tier_mcp.png"
   },
   {

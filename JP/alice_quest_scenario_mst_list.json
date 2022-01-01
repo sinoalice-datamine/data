@@ -95450,16 +95450,6 @@
     "createdTime": 1483974000
   },
   {
-    "questScenarioMstId": 10976,
-    "questStageMstId": 7685,
-    "characterUniqueId": 74,
-    "matchQuestStoryIndex": 6648,
-    "otherQuestStoryIndex": 6649,
-    "scenarioType": 1,
-    "viewType": 1,
-    "createdTime": 1483974000
-  },
-  {
     "questScenarioMstId": 10977,
     "questStageMstId": 6517,
     "characterUniqueId": 1,
@@ -110660,26 +110650,6 @@
     "createdTime": 1483974000
   },
   {
-    "questScenarioMstId": 12505,
-    "questStageMstId": 7616,
-    "characterUniqueId": 3,
-    "matchQuestStoryIndex": 6622,
-    "otherQuestStoryIndex": 6623,
-    "scenarioType": 1,
-    "viewType": 1,
-    "createdTime": 1483974000
-  },
-  {
-    "questScenarioMstId": 12506,
-    "questStageMstId": 7616,
-    "characterUniqueId": 52,
-    "matchQuestStoryIndex": 6622,
-    "otherQuestStoryIndex": 6623,
-    "scenarioType": 1,
-    "viewType": 1,
-    "createdTime": 1483974000
-  },
-  {
     "questScenarioMstId": 12507,
     "questStageMstId": 7617,
     "characterUniqueId": 0,
@@ -110907,26 +110877,6 @@
     "otherQuestStoryIndex": 6677,
     "scenarioType": 1,
     "viewType": 2,
-    "createdTime": 1483974000
-  },
-  {
-    "questScenarioMstId": 12530,
-    "questStageMstId": 7685,
-    "characterUniqueId": 74,
-    "matchQuestStoryIndex": 6646,
-    "otherQuestStoryIndex": 6647,
-    "scenarioType": 1,
-    "viewType": 1,
-    "createdTime": 1483974000
-  },
-  {
-    "questScenarioMstId": 12531,
-    "questStageMstId": 7685,
-    "characterUniqueId": 3,
-    "matchQuestStoryIndex": 6648,
-    "otherQuestStoryIndex": 6649,
-    "scenarioType": 1,
-    "viewType": 1,
     "createdTime": 1483974000
   },
   {
@@ -124460,26 +124410,6 @@
     "createdTime": 1483974000
   },
   {
-    "questScenarioMstId": 13969,
-    "questStageMstId": 7676,
-    "characterUniqueId": 3,
-    "matchQuestStoryIndex": 6636,
-    "otherQuestStoryIndex": 6637,
-    "scenarioType": 1,
-    "viewType": 1,
-    "createdTime": 1483974000
-  },
-  {
-    "questScenarioMstId": 13970,
-    "questStageMstId": 7676,
-    "characterUniqueId": 74,
-    "matchQuestStoryIndex": 6636,
-    "otherQuestStoryIndex": 6637,
-    "scenarioType": 1,
-    "viewType": 1,
-    "createdTime": 1483974000
-  },
-  {
     "questScenarioMstId": 13971,
     "questStageMstId": 7677,
     "characterUniqueId": 0,
@@ -124556,46 +124486,6 @@
     "matchQuestStoryIndex": 6645,
     "otherQuestStoryIndex": 6645,
     "scenarioType": 3,
-    "viewType": 1,
-    "createdTime": 1483974000
-  },
-  {
-    "questScenarioMstId": 13979,
-    "questStageMstId": 7685,
-    "characterUniqueId": 3,
-    "matchQuestStoryIndex": 6646,
-    "otherQuestStoryIndex": 6647,
-    "scenarioType": 1,
-    "viewType": 1,
-    "createdTime": 1483974000
-  },
-  {
-    "questScenarioMstId": 13980,
-    "questStageMstId": 7685,
-    "characterUniqueId": 74,
-    "matchQuestStoryIndex": 6646,
-    "otherQuestStoryIndex": 6647,
-    "scenarioType": 1,
-    "viewType": 1,
-    "createdTime": 1483974000
-  },
-  {
-    "questScenarioMstId": 13981,
-    "questStageMstId": 7685,
-    "characterUniqueId": 3,
-    "matchQuestStoryIndex": 6648,
-    "otherQuestStoryIndex": 6649,
-    "scenarioType": 1,
-    "viewType": 1,
-    "createdTime": 1483974000
-  },
-  {
-    "questScenarioMstId": 13982,
-    "questStageMstId": 7685,
-    "characterUniqueId": 74,
-    "matchQuestStoryIndex": 6648,
-    "otherQuestStoryIndex": 6649,
-    "scenarioType": 1,
     "viewType": 1,
     "createdTime": 1483974000
   },
@@ -127875,6 +127765,446 @@
     "characterUniqueId": 5,
     "matchQuestStoryIndex": 6887,
     "otherQuestStoryIndex": 6888,
+    "scenarioType": 1,
+    "viewType": 2,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14479,
+    "questStageMstId": 7676,
+    "characterUniqueId": 3,
+    "matchQuestStoryIndex": 6636,
+    "otherQuestStoryIndex": 6637,
+    "scenarioType": 1,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14480,
+    "questStageMstId": 7676,
+    "characterUniqueId": 74,
+    "matchQuestStoryIndex": 6636,
+    "otherQuestStoryIndex": 6637,
+    "scenarioType": 1,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14481,
+    "questStageMstId": 7677,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6638,
+    "otherQuestStoryIndex": 6638,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14482,
+    "questStageMstId": 7678,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6639,
+    "otherQuestStoryIndex": 6639,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14483,
+    "questStageMstId": 7679,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6640,
+    "otherQuestStoryIndex": 6640,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14484,
+    "questStageMstId": 7680,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6641,
+    "otherQuestStoryIndex": 6641,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14485,
+    "questStageMstId": 7681,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6642,
+    "otherQuestStoryIndex": 6642,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14486,
+    "questStageMstId": 7682,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6643,
+    "otherQuestStoryIndex": 6643,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14487,
+    "questStageMstId": 7683,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6644,
+    "otherQuestStoryIndex": 6644,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14488,
+    "questStageMstId": 7684,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6645,
+    "otherQuestStoryIndex": 6645,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14489,
+    "questStageMstId": 7685,
+    "characterUniqueId": 3,
+    "matchQuestStoryIndex": 6646,
+    "otherQuestStoryIndex": 6647,
+    "scenarioType": 1,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14490,
+    "questStageMstId": 7685,
+    "characterUniqueId": 74,
+    "matchQuestStoryIndex": 6646,
+    "otherQuestStoryIndex": 6647,
+    "scenarioType": 1,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14491,
+    "questStageMstId": 7685,
+    "characterUniqueId": 3,
+    "matchQuestStoryIndex": 6648,
+    "otherQuestStoryIndex": 6649,
+    "scenarioType": 1,
+    "viewType": 2,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14492,
+    "questStageMstId": 7685,
+    "characterUniqueId": 74,
+    "matchQuestStoryIndex": 6648,
+    "otherQuestStoryIndex": 6649,
+    "scenarioType": 1,
+    "viewType": 2,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14493,
+    "questStageMstId": 7686,
+    "characterUniqueId": 20,
+    "matchQuestStoryIndex": 6749,
+    "otherQuestStoryIndex": 6750,
+    "scenarioType": 1,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14494,
+    "questStageMstId": 7686,
+    "characterUniqueId": 44,
+    "matchQuestStoryIndex": 6749,
+    "otherQuestStoryIndex": 6750,
+    "scenarioType": 1,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14495,
+    "questStageMstId": 7687,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6751,
+    "otherQuestStoryIndex": 6751,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14496,
+    "questStageMstId": 7688,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6752,
+    "otherQuestStoryIndex": 6752,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14497,
+    "questStageMstId": 7689,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6753,
+    "otherQuestStoryIndex": 6753,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14498,
+    "questStageMstId": 7690,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6754,
+    "otherQuestStoryIndex": 6754,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14499,
+    "questStageMstId": 7691,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6755,
+    "otherQuestStoryIndex": 6755,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14500,
+    "questStageMstId": 7692,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6756,
+    "otherQuestStoryIndex": 6756,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14501,
+    "questStageMstId": 7693,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6757,
+    "otherQuestStoryIndex": 6757,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14502,
+    "questStageMstId": 7694,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6758,
+    "otherQuestStoryIndex": 6758,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14503,
+    "questStageMstId": 7695,
+    "characterUniqueId": 20,
+    "matchQuestStoryIndex": 6759,
+    "otherQuestStoryIndex": 6760,
+    "scenarioType": 1,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14504,
+    "questStageMstId": 7695,
+    "characterUniqueId": 44,
+    "matchQuestStoryIndex": 6759,
+    "otherQuestStoryIndex": 6760,
+    "scenarioType": 1,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14505,
+    "questStageMstId": 7695,
+    "characterUniqueId": 20,
+    "matchQuestStoryIndex": 6761,
+    "otherQuestStoryIndex": 6762,
+    "scenarioType": 1,
+    "viewType": 2,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14506,
+    "questStageMstId": 7695,
+    "characterUniqueId": 44,
+    "matchQuestStoryIndex": 6761,
+    "otherQuestStoryIndex": 6762,
+    "scenarioType": 1,
+    "viewType": 2,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14572,
+    "questStageMstId": 7696,
+    "characterUniqueId": 5,
+    "matchQuestStoryIndex": 6847,
+    "otherQuestStoryIndex": 6848,
+    "scenarioType": 1,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14573,
+    "questStageMstId": 7696,
+    "characterUniqueId": 15,
+    "matchQuestStoryIndex": 6847,
+    "otherQuestStoryIndex": 6848,
+    "scenarioType": 1,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14574,
+    "questStageMstId": 7697,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6849,
+    "otherQuestStoryIndex": 6849,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14575,
+    "questStageMstId": 7698,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6850,
+    "otherQuestStoryIndex": 6850,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14576,
+    "questStageMstId": 7699,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6851,
+    "otherQuestStoryIndex": 6851,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14577,
+    "questStageMstId": 7700,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6852,
+    "otherQuestStoryIndex": 6852,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14578,
+    "questStageMstId": 7701,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6853,
+    "otherQuestStoryIndex": 6853,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14579,
+    "questStageMstId": 7702,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6854,
+    "otherQuestStoryIndex": 6854,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14580,
+    "questStageMstId": 7703,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6855,
+    "otherQuestStoryIndex": 6855,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14581,
+    "questStageMstId": 7704,
+    "characterUniqueId": 0,
+    "matchQuestStoryIndex": 6856,
+    "otherQuestStoryIndex": 6856,
+    "scenarioType": 3,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14582,
+    "questStageMstId": 7705,
+    "characterUniqueId": 5,
+    "matchQuestStoryIndex": 6857,
+    "otherQuestStoryIndex": 6858,
+    "scenarioType": 1,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14583,
+    "questStageMstId": 7705,
+    "characterUniqueId": 15,
+    "matchQuestStoryIndex": 6857,
+    "otherQuestStoryIndex": 6858,
+    "scenarioType": 1,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14584,
+    "questStageMstId": 7705,
+    "characterUniqueId": 5,
+    "matchQuestStoryIndex": 6859,
+    "otherQuestStoryIndex": 6860,
+    "scenarioType": 1,
+    "viewType": 2,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14585,
+    "questStageMstId": 7705,
+    "characterUniqueId": 15,
+    "matchQuestStoryIndex": 6859,
+    "otherQuestStoryIndex": 6860,
+    "scenarioType": 1,
+    "viewType": 2,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14586,
+    "questStageMstId": 7685,
+    "characterUniqueId": 7,
+    "matchQuestStoryIndex": 6646,
+    "otherQuestStoryIndex": 6647,
+    "scenarioType": 1,
+    "viewType": 1,
+    "createdTime": 1483974000
+  },
+  {
+    "questScenarioMstId": 14587,
+    "questStageMstId": 7685,
+    "characterUniqueId": 7,
+    "matchQuestStoryIndex": 6648,
+    "otherQuestStoryIndex": 6649,
     "scenarioType": 1,
     "viewType": 2,
     "createdTime": 1483974000
