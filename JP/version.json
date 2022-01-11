@@ -1,9 +1,9 @@
 {
-  "lastCreatedTime": "2022-01-06 16:37:44",
+  "lastCreatedTime": "2022-01-11 15:36:20",
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
-      "version": 1102,
+      "version": 1103,
       "names": [
         "item_mst_list"
       ]
@@ -17,7 +17,7 @@
     },
     {
       "mstTableId": 5,
-      "version": 340,
+      "version": 342,
       "names": [
         "art_mst_list"
       ]
@@ -45,7 +45,7 @@
     },
     {
       "mstTableId": 9,
-      "version": 964,
+      "version": 967,
       "names": [
         "card_mst_list"
       ]
@@ -66,14 +66,14 @@
     },
     {
       "mstTableId": 16,
-      "version": 351,
+      "version": 352,
       "names": [
         "login_bonus_mst_list"
       ]
     },
     {
       "mstTableId": 17,
-      "version": 338,
+      "version": 339,
       "names": [
         "login_bonus_reward_mst_list"
       ]
@@ -115,7 +115,7 @@
     },
     {
       "mstTableId": 23,
-      "version": 742,
+      "version": 744,
       "names": [
         "mission_mst_list"
       ]
@@ -150,7 +150,7 @@
     },
     {
       "mstTableId": 29,
-      "version": 72,
+      "version": 73,
       "names": [
         "ultimate_art_method_mst_list"
       ]
@@ -199,21 +199,21 @@
     },
     {
       "mstTableId": 37,
-      "version": 607,
+      "version": 609,
       "names": [
         "mission_title_mst_list"
       ]
     },
     {
       "mstTableId": 38,
-      "version": 3216,
+      "version": 3219,
       "names": [
         "banner_mst_list"
       ]
     },
     {
       "mstTableId": 39,
-      "version": 242,
+      "version": 243,
       "names": [
         "alice_quest_scenario_mst_list"
       ]
@@ -227,7 +227,7 @@
     },
     {
       "mstTableId": 41,
-      "version": 224,
+      "version": 225,
       "names": [
         "quest_boss_story_mst_list"
       ]
@@ -255,28 +255,28 @@
     },
     {
       "mstTableId": 45,
-      "version": 289,
+      "version": 291,
       "names": [
         "alice_quest_map_mst_list"
       ]
     },
     {
       "mstTableId": 46,
-      "version": 341,
+      "version": 343,
       "names": [
         "alice_quest_area_mst_list"
       ]
     },
     {
       "mstTableId": 47,
-      "version": 392,
+      "version": 394,
       "names": [
         "quest_stage_mst_list"
       ]
     },
     {
       "mstTableId": 48,
-      "version": 218,
+      "version": 219,
       "names": [
         "alice_quest_area_group_mst_list"
       ]
@@ -290,21 +290,21 @@
     },
     {
       "mstTableId": 50,
-      "version": 334,
+      "version": 336,
       "names": [
         "quest_mission_mst_list"
       ]
     },
     {
       "mstTableId": 51,
-      "version": 318,
+      "version": 320,
       "names": [
         "quest_mission_reward_mst_list"
       ]
     },
     {
       "mstTableId": 54,
-      "version": 274,
+      "version": 276,
       "names": [
         "quest_stage_reward_mst_list"
       ]
@@ -353,21 +353,21 @@
     },
     {
       "mstTableId": 61,
-      "version": 710,
+      "version": 711,
       "names": [
         "card_evolution_mst_list"
       ]
     },
     {
       "mstTableId": 62,
-      "version": 261,
+      "version": 262,
       "names": [
         "quest_enemy_mst_list"
       ]
     },
     {
       "mstTableId": 63,
-      "version": 1049,
+      "version": 1051,
       "names": [
         "quest_schedule_mst_list"
       ]
@@ -395,14 +395,14 @@
     },
     {
       "mstTableId": 67,
-      "version": 197,
+      "version": 198,
       "names": [
         "navigator_talk_mst_list"
       ]
     },
     {
       "mstTableId": 68,
-      "version": 202,
+      "version": 203,
       "names": [
         "navigator_talk_story_mst_list"
       ]
@@ -416,14 +416,14 @@
     },
     {
       "mstTableId": 70,
-      "version": 107,
+      "version": 108,
       "names": [
         "user_title_mst_list"
       ]
     },
     {
       "mstTableId": 71,
-      "version": 73,
+      "version": 74,
       "names": [
         "guild_title_mst_list"
       ]
@@ -633,7 +633,7 @@
     },
     {
       "mstTableId": 109,
-      "version": 87,
+      "version": 88,
       "names": [
         "quest_area_character_unique_mst_list"
       ]
