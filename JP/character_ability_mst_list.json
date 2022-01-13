@@ -79280,6 +79280,146 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 8111,
+    "characterMstId": 589,
+    "name": "Aliceエリアで祈祷60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 8112,
+    "characterMstId": 589,
+    "name": "祈祷10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 8113,
+    "characterMstId": 589,
+    "name": "魔法防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 8114,
+    "characterMstId": 589,
+    "name": "物理防御+100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 8115,
+    "characterMstId": 589,
+    "name": "Aliceエリアで楽器20%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8116,
+    "characterMstId": 589,
+    "name": "魔法防御+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 8117,
+    "characterMstId": 589,
+    "name": "Aliceエリアで魔書20%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8118,
+    "characterMstId": 589,
+    "name": "魔法防御+200",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 8119,
+    "characterMstId": 589,
+    "name": "物理防御+200",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 8120,
+    "characterMstId": 589,
+    "name": "楽器5%UP",
+    "releaseLevel": 10,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8121,
+    "characterMstId": 589,
+    "name": "魔法防御+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 8122,
+    "characterMstId": 589,
+    "name": "魔書5%UP",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8123,
+    "characterMstId": 589,
+    "name": "物理防御+400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 8124,
+    "characterMstId": 589,
+    "name": "魔法防御+400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 4
+  },
+  {
     "characterAbilityMstId": 8125,
     "characterMstId": 145,
     "name": "魔法攻撃+400",
