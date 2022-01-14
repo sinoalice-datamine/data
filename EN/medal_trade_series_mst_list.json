@@ -795,6 +795,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 123,
+    "name": "Python Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20220114_medal_pyuton",
+    "assetBundleName": "1769",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 1769,
+    "startTime": 1642140000,
+    "endTime": 1643954399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 124,
     "name": "Carol Medal",
     "description": "A medal that is an incidental byproduct of a Grimoire.",

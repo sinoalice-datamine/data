@@ -126184,7 +126184,7 @@
     "gachaSeriesMstId": 900107,
     "lapNum": 7,
     "step": 1,
-    "name": "Chastity Conflagration + Upgrade Sword (S) x1",
+    "name": "Protoplasmic Pyre + Upgrade Sword (S) x1",
     "description": "Midnight Reverie: The First Dance Grimoire Exclusive Weapon Bonus\r\nMaterial used to upgrade weapons.",
     "priority": 1,
     "isLimitRepeat": false
@@ -126194,7 +126194,7 @@
     "gachaSeriesMstId": 900107,
     "lapNum": 7,
     "step": 2,
-    "name": "Chastity Conflagration + Upgrade Sword (S) x1",
+    "name": "Protoplasmic Pyre + Upgrade Sword (S) x1",
     "description": "Midnight Reverie: The First Dance Grimoire Exclusive Weapon Bonus\r\nMaterial used to upgrade weapons.",
     "priority": 1,
     "isLimitRepeat": false
@@ -126204,7 +126204,7 @@
     "gachaSeriesMstId": 900107,
     "lapNum": 7,
     "step": 3,
-    "name": "Chastity Conflagration + Upgrade Sword (S) x2",
+    "name": "Protoplasmic Pyre + Upgrade Sword (S) x2",
     "description": "Midnight Reverie: The First Dance Grimoire Exclusive Weapon Bonus\r\nMaterial used to upgrade weapons.",
     "priority": 1,
     "isLimitRepeat": false
@@ -126214,7 +126214,7 @@
     "gachaSeriesMstId": 900107,
     "lapNum": 7,
     "step": 4,
-    "name": "Chastity Conflagration + Upgrade Sword (S) x2",
+    "name": "Protoplasmic Pyre + Upgrade Sword (S) x2",
     "description": "Midnight Reverie: The First Dance Grimoire Exclusive Weapon Bonus\r\nMaterial used to upgrade weapons.",
     "priority": 1,
     "isLimitRepeat": false
@@ -126224,7 +126224,7 @@
     "gachaSeriesMstId": 900107,
     "lapNum": 7,
     "step": 5,
-    "name": "Chastity Conflagration + Undertaker's Scythe",
+    "name": "Protoplasmic Pyre + Undertaker's Scythe",
     "description": "Midnight Reverie: The First Dance Grimoire Exclusive Weapon Bonus + Featured Weapon\nNote: If the class is already unlocked, you’ll only acquire the weapon.",
     "priority": 1,
     "isLimitRepeat": false
@@ -126234,7 +126234,7 @@
     "gachaSeriesMstId": 900107,
     "lapNum": 7,
     "step": 5,
-    "name": "Chastity Conflagration + Elizabeth's Rapier",
+    "name": "Protoplasmic Pyre + Elizabeth's Rapier",
     "description": "Midnight Reverie: The First Dance Grimoire Exclusive Weapon Bonus + Featured Weapon\nNote: If the class is already unlocked, you’ll only acquire the weapon.",
     "priority": 1,
     "isLimitRepeat": false
@@ -126244,7 +126244,7 @@
     "gachaSeriesMstId": 900107,
     "lapNum": 7,
     "step": 5,
-    "name": "Chastity Conflagration + Bat's Echoes",
+    "name": "Protoplasmic Pyre + Bat's Echoes",
     "description": "Midnight Reverie: The First Dance Grimoire Exclusive Weapon Bonus + Featured Weapon",
     "priority": 1,
     "isLimitRepeat": false
@@ -126254,7 +126254,7 @@
     "gachaSeriesMstId": 900107,
     "lapNum": 7,
     "step": 5,
-    "name": "Chastity Conflagration + Bloodcrystal's Counsel",
+    "name": "Protoplasmic Pyre + Bloodcrystal's Counsel",
     "description": "Midnight Reverie: The First Dance Grimoire Exclusive Weapon Bonus + Featured Weapon",
     "priority": 1,
     "isLimitRepeat": false
@@ -135932,6 +135932,5066 @@
   {
     "gachaStepUpLapBonusMstId": 911582,
     "gachaSeriesMstId": 900108,
+    "lapNum": 100,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912093,
+    "gachaSeriesMstId": 841,
+    "lapNum": 1,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912094,
+    "gachaSeriesMstId": 841,
+    "lapNum": 1,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912095,
+    "gachaSeriesMstId": 841,
+    "lapNum": 1,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912096,
+    "gachaSeriesMstId": 841,
+    "lapNum": 1,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912097,
+    "gachaSeriesMstId": 841,
+    "lapNum": 1,
+    "step": 5,
+    "name": "Upgrade Sword (S) x5",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912098,
+    "gachaSeriesMstId": 841,
+    "lapNum": 2,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912099,
+    "gachaSeriesMstId": 841,
+    "lapNum": 2,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912100,
+    "gachaSeriesMstId": 841,
+    "lapNum": 2,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912101,
+    "gachaSeriesMstId": 841,
+    "lapNum": 2,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912102,
+    "gachaSeriesMstId": 841,
+    "lapNum": 2,
+    "step": 5,
+    "name": "SR Weapon Evolution Set (Water)",
+    "description": "Dragon Scale (Water) x40\r\nDragon Eye (Water) x15\r\nDragon Shackle x5",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912103,
+    "gachaSeriesMstId": 841,
+    "lapNum": 3,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912104,
+    "gachaSeriesMstId": 841,
+    "lapNum": 3,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912105,
+    "gachaSeriesMstId": 841,
+    "lapNum": 3,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912106,
+    "gachaSeriesMstId": 841,
+    "lapNum": 3,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912107,
+    "gachaSeriesMstId": 841,
+    "lapNum": 3,
+    "step": 5,
+    "name": "Lazy Jade Lyre (Kageuchi)",
+    "description": "STEP Grimoire: Lazy Bear Pelt & Envious Shackled Serpent Featured Weapon\nNote: If this weapon's class is already unlocked, you will only acquire the weapon.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912108,
+    "gachaSeriesMstId": 841,
+    "lapNum": 3,
+    "step": 5,
+    "name": "Chain Gun of Envy (Kageuchi)",
+    "description": "STEP Grimoire: Lazy Bear Pelt & Envious Shackled Serpent Featured Weapon\nNote: If this weapon's class is already unlocked, you will only acquire the weapon.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912109,
+    "gachaSeriesMstId": 841,
+    "lapNum": 3,
+    "step": 5,
+    "name": "Light's Sentinel",
+    "description": "STEP Grimoire: Lazy Bear Pelt & Envious Shackled Serpent Featured Weapons",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912110,
+    "gachaSeriesMstId": 841,
+    "lapNum": 3,
+    "step": 5,
+    "name": "Pharmacist's Delight",
+    "description": "STEP Grimoire: Lazy Bear Pelt & Envious Shackled Serpent Featured Weapons",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912111,
+    "gachaSeriesMstId": 841,
+    "lapNum": 4,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912112,
+    "gachaSeriesMstId": 841,
+    "lapNum": 4,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912113,
+    "gachaSeriesMstId": 841,
+    "lapNum": 4,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912114,
+    "gachaSeriesMstId": 841,
+    "lapNum": 4,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912115,
+    "gachaSeriesMstId": 841,
+    "lapNum": 4,
+    "step": 5,
+    "name": "SR Gem Set",
+    "description": "Colosseum Gem (SR) x1\r\nColosseum Support Gem (SR) x1\r\nStory Gem (SR) x1\r\nStory Support Gem (SR) x1",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912116,
+    "gachaSeriesMstId": 841,
+    "lapNum": 5,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912117,
+    "gachaSeriesMstId": 841,
+    "lapNum": 5,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912118,
+    "gachaSeriesMstId": 841,
+    "lapNum": 5,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912119,
+    "gachaSeriesMstId": 841,
+    "lapNum": 5,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912120,
+    "gachaSeriesMstId": 841,
+    "lapNum": 5,
+    "step": 5,
+    "name": "Book of Completion ×3",
+    "description": "In-depth class guide. Awards 50,000 class mastery.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912121,
+    "gachaSeriesMstId": 841,
+    "lapNum": 6,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912122,
+    "gachaSeriesMstId": 841,
+    "lapNum": 6,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912123,
+    "gachaSeriesMstId": 841,
+    "lapNum": 6,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912124,
+    "gachaSeriesMstId": 841,
+    "lapNum": 6,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912125,
+    "gachaSeriesMstId": 841,
+    "lapNum": 6,
+    "step": 5,
+    "name": "SR Gem Set",
+    "description": "Colosseum Gem (SR) x1\r\nColosseum Support Gem (SR) x1\r\nStory Gem (SR) x1\r\nStory Support Gem (SR) x1",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912126,
+    "gachaSeriesMstId": 841,
+    "lapNum": 7,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912127,
+    "gachaSeriesMstId": 841,
+    "lapNum": 7,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912128,
+    "gachaSeriesMstId": 841,
+    "lapNum": 7,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912129,
+    "gachaSeriesMstId": 841,
+    "lapNum": 7,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912130,
+    "gachaSeriesMstId": 841,
+    "lapNum": 7,
+    "step": 5,
+    "name": "Lazy Jade Lyre (Kageuchi)",
+    "description": "STEP Grimoire: Lazy Bear Pelt & Envious Shackled Serpent Featured Weapon\nNote: If this weapon's class is already unlocked, you will only acquire the weapon.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912131,
+    "gachaSeriesMstId": 841,
+    "lapNum": 7,
+    "step": 5,
+    "name": "Chain Gun of Envy (Kageuchi)",
+    "description": "STEP Grimoire: Lazy Bear Pelt & Envious Shackled Serpent Featured Weapon\nNote: If this weapon's class is already unlocked, you will only acquire the weapon.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912132,
+    "gachaSeriesMstId": 841,
+    "lapNum": 7,
+    "step": 5,
+    "name": "Light's Sentinel",
+    "description": "STEP Grimoire: Lazy Bear Pelt & Envious Shackled Serpent Featured Weapons",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912133,
+    "gachaSeriesMstId": 841,
+    "lapNum": 7,
+    "step": 5,
+    "name": "Pharmacist's Delight",
+    "description": "STEP Grimoire: Lazy Bear Pelt & Envious Shackled Serpent Featured Weapons",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912134,
+    "gachaSeriesMstId": 841,
+    "lapNum": 8,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912135,
+    "gachaSeriesMstId": 841,
+    "lapNum": 8,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912136,
+    "gachaSeriesMstId": 841,
+    "lapNum": 8,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912137,
+    "gachaSeriesMstId": 841,
+    "lapNum": 8,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912138,
+    "gachaSeriesMstId": 841,
+    "lapNum": 8,
+    "step": 5,
+    "name": "SR Gem Set",
+    "description": "Colosseum Gem (SR) x1\r\nColosseum Support Gem (SR) x1\r\nStory Gem (SR) x1\r\nStory Support Gem (SR) x1",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912139,
+    "gachaSeriesMstId": 841,
+    "lapNum": 9,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912140,
+    "gachaSeriesMstId": 841,
+    "lapNum": 9,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912141,
+    "gachaSeriesMstId": 841,
+    "lapNum": 9,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912142,
+    "gachaSeriesMstId": 841,
+    "lapNum": 9,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912143,
+    "gachaSeriesMstId": 841,
+    "lapNum": 9,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912144,
+    "gachaSeriesMstId": 841,
+    "lapNum": 10,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912145,
+    "gachaSeriesMstId": 841,
+    "lapNum": 10,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912146,
+    "gachaSeriesMstId": 841,
+    "lapNum": 10,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912147,
+    "gachaSeriesMstId": 841,
+    "lapNum": 10,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912148,
+    "gachaSeriesMstId": 841,
+    "lapNum": 10,
+    "step": 5,
+    "name": "SR Gem Set",
+    "description": "Colosseum Gem (SR) x1\r\nColosseum Support Gem (SR) x1\r\nStory Gem (SR) x1\r\nStory Support Gem (SR) x1",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912149,
+    "gachaSeriesMstId": 841,
+    "lapNum": 11,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912150,
+    "gachaSeriesMstId": 841,
+    "lapNum": 11,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912151,
+    "gachaSeriesMstId": 841,
+    "lapNum": 11,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912152,
+    "gachaSeriesMstId": 841,
+    "lapNum": 11,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912153,
+    "gachaSeriesMstId": 841,
+    "lapNum": 11,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912154,
+    "gachaSeriesMstId": 841,
+    "lapNum": 12,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912155,
+    "gachaSeriesMstId": 841,
+    "lapNum": 12,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912156,
+    "gachaSeriesMstId": 841,
+    "lapNum": 12,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912157,
+    "gachaSeriesMstId": 841,
+    "lapNum": 12,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912158,
+    "gachaSeriesMstId": 841,
+    "lapNum": 12,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912159,
+    "gachaSeriesMstId": 841,
+    "lapNum": 13,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912160,
+    "gachaSeriesMstId": 841,
+    "lapNum": 13,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912161,
+    "gachaSeriesMstId": 841,
+    "lapNum": 13,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912162,
+    "gachaSeriesMstId": 841,
+    "lapNum": 13,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912163,
+    "gachaSeriesMstId": 841,
+    "lapNum": 13,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912164,
+    "gachaSeriesMstId": 841,
+    "lapNum": 14,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912165,
+    "gachaSeriesMstId": 841,
+    "lapNum": 14,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912166,
+    "gachaSeriesMstId": 841,
+    "lapNum": 14,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912167,
+    "gachaSeriesMstId": 841,
+    "lapNum": 14,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912168,
+    "gachaSeriesMstId": 841,
+    "lapNum": 14,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912169,
+    "gachaSeriesMstId": 841,
+    "lapNum": 15,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912170,
+    "gachaSeriesMstId": 841,
+    "lapNum": 15,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912171,
+    "gachaSeriesMstId": 841,
+    "lapNum": 15,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912172,
+    "gachaSeriesMstId": 841,
+    "lapNum": 15,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912173,
+    "gachaSeriesMstId": 841,
+    "lapNum": 15,
+    "step": 5,
+    "name": "SR Gem Set",
+    "description": "Colosseum Gem (SR) x1\r\nColosseum Support Gem (SR) x1\r\nStory Gem (SR) x1\r\nStory Support Gem (SR) x1",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912174,
+    "gachaSeriesMstId": 841,
+    "lapNum": 16,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912175,
+    "gachaSeriesMstId": 841,
+    "lapNum": 16,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912176,
+    "gachaSeriesMstId": 841,
+    "lapNum": 16,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912177,
+    "gachaSeriesMstId": 841,
+    "lapNum": 16,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912178,
+    "gachaSeriesMstId": 841,
+    "lapNum": 16,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912179,
+    "gachaSeriesMstId": 841,
+    "lapNum": 17,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912180,
+    "gachaSeriesMstId": 841,
+    "lapNum": 17,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912181,
+    "gachaSeriesMstId": 841,
+    "lapNum": 17,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912182,
+    "gachaSeriesMstId": 841,
+    "lapNum": 17,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912183,
+    "gachaSeriesMstId": 841,
+    "lapNum": 17,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912184,
+    "gachaSeriesMstId": 841,
+    "lapNum": 18,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912185,
+    "gachaSeriesMstId": 841,
+    "lapNum": 18,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912186,
+    "gachaSeriesMstId": 841,
+    "lapNum": 18,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912187,
+    "gachaSeriesMstId": 841,
+    "lapNum": 18,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912188,
+    "gachaSeriesMstId": 841,
+    "lapNum": 18,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912189,
+    "gachaSeriesMstId": 841,
+    "lapNum": 19,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912190,
+    "gachaSeriesMstId": 841,
+    "lapNum": 19,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912191,
+    "gachaSeriesMstId": 841,
+    "lapNum": 19,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912192,
+    "gachaSeriesMstId": 841,
+    "lapNum": 19,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912193,
+    "gachaSeriesMstId": 841,
+    "lapNum": 19,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912194,
+    "gachaSeriesMstId": 841,
+    "lapNum": 20,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912195,
+    "gachaSeriesMstId": 841,
+    "lapNum": 20,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912196,
+    "gachaSeriesMstId": 841,
+    "lapNum": 20,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912197,
+    "gachaSeriesMstId": 841,
+    "lapNum": 20,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912198,
+    "gachaSeriesMstId": 841,
+    "lapNum": 20,
+    "step": 5,
+    "name": "SR Gem Set",
+    "description": "Colosseum Gem (SR) x1\r\nColosseum Support Gem (SR) x1\r\nStory Gem (SR) x1\r\nStory Support Gem (SR) x1",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912199,
+    "gachaSeriesMstId": 841,
+    "lapNum": 21,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912200,
+    "gachaSeriesMstId": 841,
+    "lapNum": 21,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912201,
+    "gachaSeriesMstId": 841,
+    "lapNum": 21,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912202,
+    "gachaSeriesMstId": 841,
+    "lapNum": 21,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912203,
+    "gachaSeriesMstId": 841,
+    "lapNum": 21,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912204,
+    "gachaSeriesMstId": 841,
+    "lapNum": 22,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912205,
+    "gachaSeriesMstId": 841,
+    "lapNum": 22,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912206,
+    "gachaSeriesMstId": 841,
+    "lapNum": 22,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912207,
+    "gachaSeriesMstId": 841,
+    "lapNum": 22,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912208,
+    "gachaSeriesMstId": 841,
+    "lapNum": 22,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912209,
+    "gachaSeriesMstId": 841,
+    "lapNum": 23,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912210,
+    "gachaSeriesMstId": 841,
+    "lapNum": 23,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912211,
+    "gachaSeriesMstId": 841,
+    "lapNum": 23,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912212,
+    "gachaSeriesMstId": 841,
+    "lapNum": 23,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912213,
+    "gachaSeriesMstId": 841,
+    "lapNum": 23,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912214,
+    "gachaSeriesMstId": 841,
+    "lapNum": 24,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912215,
+    "gachaSeriesMstId": 841,
+    "lapNum": 24,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912216,
+    "gachaSeriesMstId": 841,
+    "lapNum": 24,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912217,
+    "gachaSeriesMstId": 841,
+    "lapNum": 24,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912218,
+    "gachaSeriesMstId": 841,
+    "lapNum": 24,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912219,
+    "gachaSeriesMstId": 841,
+    "lapNum": 25,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912220,
+    "gachaSeriesMstId": 841,
+    "lapNum": 25,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912221,
+    "gachaSeriesMstId": 841,
+    "lapNum": 25,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912222,
+    "gachaSeriesMstId": 841,
+    "lapNum": 25,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912223,
+    "gachaSeriesMstId": 841,
+    "lapNum": 25,
+    "step": 5,
+    "name": "SR Gem Set",
+    "description": "Colosseum Gem (SR) x1\r\nColosseum Support Gem (SR) x1\r\nStory Gem (SR) x1\r\nStory Support Gem (SR) x1",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912224,
+    "gachaSeriesMstId": 841,
+    "lapNum": 26,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912225,
+    "gachaSeriesMstId": 841,
+    "lapNum": 26,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912226,
+    "gachaSeriesMstId": 841,
+    "lapNum": 26,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912227,
+    "gachaSeriesMstId": 841,
+    "lapNum": 26,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912228,
+    "gachaSeriesMstId": 841,
+    "lapNum": 26,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912229,
+    "gachaSeriesMstId": 841,
+    "lapNum": 27,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912230,
+    "gachaSeriesMstId": 841,
+    "lapNum": 27,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912231,
+    "gachaSeriesMstId": 841,
+    "lapNum": 27,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912232,
+    "gachaSeriesMstId": 841,
+    "lapNum": 27,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912233,
+    "gachaSeriesMstId": 841,
+    "lapNum": 27,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912234,
+    "gachaSeriesMstId": 841,
+    "lapNum": 28,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912235,
+    "gachaSeriesMstId": 841,
+    "lapNum": 28,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912236,
+    "gachaSeriesMstId": 841,
+    "lapNum": 28,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912237,
+    "gachaSeriesMstId": 841,
+    "lapNum": 28,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912238,
+    "gachaSeriesMstId": 841,
+    "lapNum": 28,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912239,
+    "gachaSeriesMstId": 841,
+    "lapNum": 29,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912240,
+    "gachaSeriesMstId": 841,
+    "lapNum": 29,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912241,
+    "gachaSeriesMstId": 841,
+    "lapNum": 29,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912242,
+    "gachaSeriesMstId": 841,
+    "lapNum": 29,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912243,
+    "gachaSeriesMstId": 841,
+    "lapNum": 29,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912244,
+    "gachaSeriesMstId": 841,
+    "lapNum": 30,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912245,
+    "gachaSeriesMstId": 841,
+    "lapNum": 30,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912246,
+    "gachaSeriesMstId": 841,
+    "lapNum": 30,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912247,
+    "gachaSeriesMstId": 841,
+    "lapNum": 30,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912248,
+    "gachaSeriesMstId": 841,
+    "lapNum": 30,
+    "step": 5,
+    "name": "SR Gem Set",
+    "description": "Colosseum Gem (SR) x1\r\nColosseum Support Gem (SR) x1\r\nStory Gem (SR) x1\r\nStory Support Gem (SR) x1",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912249,
+    "gachaSeriesMstId": 841,
+    "lapNum": 31,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912250,
+    "gachaSeriesMstId": 841,
+    "lapNum": 31,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912251,
+    "gachaSeriesMstId": 841,
+    "lapNum": 31,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912252,
+    "gachaSeriesMstId": 841,
+    "lapNum": 31,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912253,
+    "gachaSeriesMstId": 841,
+    "lapNum": 31,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912254,
+    "gachaSeriesMstId": 841,
+    "lapNum": 32,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912255,
+    "gachaSeriesMstId": 841,
+    "lapNum": 32,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912256,
+    "gachaSeriesMstId": 841,
+    "lapNum": 32,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912257,
+    "gachaSeriesMstId": 841,
+    "lapNum": 32,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912258,
+    "gachaSeriesMstId": 841,
+    "lapNum": 32,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912259,
+    "gachaSeriesMstId": 841,
+    "lapNum": 33,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912260,
+    "gachaSeriesMstId": 841,
+    "lapNum": 33,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912261,
+    "gachaSeriesMstId": 841,
+    "lapNum": 33,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912262,
+    "gachaSeriesMstId": 841,
+    "lapNum": 33,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912263,
+    "gachaSeriesMstId": 841,
+    "lapNum": 33,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912264,
+    "gachaSeriesMstId": 841,
+    "lapNum": 34,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912265,
+    "gachaSeriesMstId": 841,
+    "lapNum": 34,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912266,
+    "gachaSeriesMstId": 841,
+    "lapNum": 34,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912267,
+    "gachaSeriesMstId": 841,
+    "lapNum": 34,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912268,
+    "gachaSeriesMstId": 841,
+    "lapNum": 34,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912269,
+    "gachaSeriesMstId": 841,
+    "lapNum": 35,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912270,
+    "gachaSeriesMstId": 841,
+    "lapNum": 35,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912271,
+    "gachaSeriesMstId": 841,
+    "lapNum": 35,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912272,
+    "gachaSeriesMstId": 841,
+    "lapNum": 35,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912273,
+    "gachaSeriesMstId": 841,
+    "lapNum": 35,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912274,
+    "gachaSeriesMstId": 841,
+    "lapNum": 36,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912275,
+    "gachaSeriesMstId": 841,
+    "lapNum": 36,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912276,
+    "gachaSeriesMstId": 841,
+    "lapNum": 36,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912277,
+    "gachaSeriesMstId": 841,
+    "lapNum": 36,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912278,
+    "gachaSeriesMstId": 841,
+    "lapNum": 36,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912279,
+    "gachaSeriesMstId": 841,
+    "lapNum": 37,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912280,
+    "gachaSeriesMstId": 841,
+    "lapNum": 37,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912281,
+    "gachaSeriesMstId": 841,
+    "lapNum": 37,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912282,
+    "gachaSeriesMstId": 841,
+    "lapNum": 37,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912283,
+    "gachaSeriesMstId": 841,
+    "lapNum": 37,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912284,
+    "gachaSeriesMstId": 841,
+    "lapNum": 38,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912285,
+    "gachaSeriesMstId": 841,
+    "lapNum": 38,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912286,
+    "gachaSeriesMstId": 841,
+    "lapNum": 38,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912287,
+    "gachaSeriesMstId": 841,
+    "lapNum": 38,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912288,
+    "gachaSeriesMstId": 841,
+    "lapNum": 38,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912289,
+    "gachaSeriesMstId": 841,
+    "lapNum": 39,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912290,
+    "gachaSeriesMstId": 841,
+    "lapNum": 39,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912291,
+    "gachaSeriesMstId": 841,
+    "lapNum": 39,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912292,
+    "gachaSeriesMstId": 841,
+    "lapNum": 39,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912293,
+    "gachaSeriesMstId": 841,
+    "lapNum": 39,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912294,
+    "gachaSeriesMstId": 841,
+    "lapNum": 40,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912295,
+    "gachaSeriesMstId": 841,
+    "lapNum": 40,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912296,
+    "gachaSeriesMstId": 841,
+    "lapNum": 40,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912297,
+    "gachaSeriesMstId": 841,
+    "lapNum": 40,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912298,
+    "gachaSeriesMstId": 841,
+    "lapNum": 40,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912299,
+    "gachaSeriesMstId": 841,
+    "lapNum": 41,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912300,
+    "gachaSeriesMstId": 841,
+    "lapNum": 41,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912301,
+    "gachaSeriesMstId": 841,
+    "lapNum": 41,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912302,
+    "gachaSeriesMstId": 841,
+    "lapNum": 41,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912303,
+    "gachaSeriesMstId": 841,
+    "lapNum": 41,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912304,
+    "gachaSeriesMstId": 841,
+    "lapNum": 42,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912305,
+    "gachaSeriesMstId": 841,
+    "lapNum": 42,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912306,
+    "gachaSeriesMstId": 841,
+    "lapNum": 42,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912307,
+    "gachaSeriesMstId": 841,
+    "lapNum": 42,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912308,
+    "gachaSeriesMstId": 841,
+    "lapNum": 42,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912309,
+    "gachaSeriesMstId": 841,
+    "lapNum": 43,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912310,
+    "gachaSeriesMstId": 841,
+    "lapNum": 43,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912311,
+    "gachaSeriesMstId": 841,
+    "lapNum": 43,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912312,
+    "gachaSeriesMstId": 841,
+    "lapNum": 43,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912313,
+    "gachaSeriesMstId": 841,
+    "lapNum": 43,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912314,
+    "gachaSeriesMstId": 841,
+    "lapNum": 44,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912315,
+    "gachaSeriesMstId": 841,
+    "lapNum": 44,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912316,
+    "gachaSeriesMstId": 841,
+    "lapNum": 44,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912317,
+    "gachaSeriesMstId": 841,
+    "lapNum": 44,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912318,
+    "gachaSeriesMstId": 841,
+    "lapNum": 44,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912319,
+    "gachaSeriesMstId": 841,
+    "lapNum": 45,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912320,
+    "gachaSeriesMstId": 841,
+    "lapNum": 45,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912321,
+    "gachaSeriesMstId": 841,
+    "lapNum": 45,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912322,
+    "gachaSeriesMstId": 841,
+    "lapNum": 45,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912323,
+    "gachaSeriesMstId": 841,
+    "lapNum": 45,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912324,
+    "gachaSeriesMstId": 841,
+    "lapNum": 46,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912325,
+    "gachaSeriesMstId": 841,
+    "lapNum": 46,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912326,
+    "gachaSeriesMstId": 841,
+    "lapNum": 46,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912327,
+    "gachaSeriesMstId": 841,
+    "lapNum": 46,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912328,
+    "gachaSeriesMstId": 841,
+    "lapNum": 46,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912329,
+    "gachaSeriesMstId": 841,
+    "lapNum": 47,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912330,
+    "gachaSeriesMstId": 841,
+    "lapNum": 47,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912331,
+    "gachaSeriesMstId": 841,
+    "lapNum": 47,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912332,
+    "gachaSeriesMstId": 841,
+    "lapNum": 47,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912333,
+    "gachaSeriesMstId": 841,
+    "lapNum": 47,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912334,
+    "gachaSeriesMstId": 841,
+    "lapNum": 48,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912335,
+    "gachaSeriesMstId": 841,
+    "lapNum": 48,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912336,
+    "gachaSeriesMstId": 841,
+    "lapNum": 48,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912337,
+    "gachaSeriesMstId": 841,
+    "lapNum": 48,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912338,
+    "gachaSeriesMstId": 841,
+    "lapNum": 48,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912339,
+    "gachaSeriesMstId": 841,
+    "lapNum": 49,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912340,
+    "gachaSeriesMstId": 841,
+    "lapNum": 49,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912341,
+    "gachaSeriesMstId": 841,
+    "lapNum": 49,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912342,
+    "gachaSeriesMstId": 841,
+    "lapNum": 49,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912343,
+    "gachaSeriesMstId": 841,
+    "lapNum": 49,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912344,
+    "gachaSeriesMstId": 841,
+    "lapNum": 50,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912345,
+    "gachaSeriesMstId": 841,
+    "lapNum": 50,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912346,
+    "gachaSeriesMstId": 841,
+    "lapNum": 50,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912347,
+    "gachaSeriesMstId": 841,
+    "lapNum": 50,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912348,
+    "gachaSeriesMstId": 841,
+    "lapNum": 50,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912349,
+    "gachaSeriesMstId": 841,
+    "lapNum": 51,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912350,
+    "gachaSeriesMstId": 841,
+    "lapNum": 51,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912351,
+    "gachaSeriesMstId": 841,
+    "lapNum": 51,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912352,
+    "gachaSeriesMstId": 841,
+    "lapNum": 51,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912353,
+    "gachaSeriesMstId": 841,
+    "lapNum": 51,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912354,
+    "gachaSeriesMstId": 841,
+    "lapNum": 52,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912355,
+    "gachaSeriesMstId": 841,
+    "lapNum": 52,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912356,
+    "gachaSeriesMstId": 841,
+    "lapNum": 52,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912357,
+    "gachaSeriesMstId": 841,
+    "lapNum": 52,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912358,
+    "gachaSeriesMstId": 841,
+    "lapNum": 52,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912359,
+    "gachaSeriesMstId": 841,
+    "lapNum": 53,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912360,
+    "gachaSeriesMstId": 841,
+    "lapNum": 53,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912361,
+    "gachaSeriesMstId": 841,
+    "lapNum": 53,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912362,
+    "gachaSeriesMstId": 841,
+    "lapNum": 53,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912363,
+    "gachaSeriesMstId": 841,
+    "lapNum": 53,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912364,
+    "gachaSeriesMstId": 841,
+    "lapNum": 54,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912365,
+    "gachaSeriesMstId": 841,
+    "lapNum": 54,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912366,
+    "gachaSeriesMstId": 841,
+    "lapNum": 54,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912367,
+    "gachaSeriesMstId": 841,
+    "lapNum": 54,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912368,
+    "gachaSeriesMstId": 841,
+    "lapNum": 54,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912369,
+    "gachaSeriesMstId": 841,
+    "lapNum": 55,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912370,
+    "gachaSeriesMstId": 841,
+    "lapNum": 55,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912371,
+    "gachaSeriesMstId": 841,
+    "lapNum": 55,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912372,
+    "gachaSeriesMstId": 841,
+    "lapNum": 55,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912373,
+    "gachaSeriesMstId": 841,
+    "lapNum": 55,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912374,
+    "gachaSeriesMstId": 841,
+    "lapNum": 56,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912375,
+    "gachaSeriesMstId": 841,
+    "lapNum": 56,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912376,
+    "gachaSeriesMstId": 841,
+    "lapNum": 56,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912377,
+    "gachaSeriesMstId": 841,
+    "lapNum": 56,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912378,
+    "gachaSeriesMstId": 841,
+    "lapNum": 56,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912379,
+    "gachaSeriesMstId": 841,
+    "lapNum": 57,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912380,
+    "gachaSeriesMstId": 841,
+    "lapNum": 57,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912381,
+    "gachaSeriesMstId": 841,
+    "lapNum": 57,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912382,
+    "gachaSeriesMstId": 841,
+    "lapNum": 57,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912383,
+    "gachaSeriesMstId": 841,
+    "lapNum": 57,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912384,
+    "gachaSeriesMstId": 841,
+    "lapNum": 58,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912385,
+    "gachaSeriesMstId": 841,
+    "lapNum": 58,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912386,
+    "gachaSeriesMstId": 841,
+    "lapNum": 58,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912387,
+    "gachaSeriesMstId": 841,
+    "lapNum": 58,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912388,
+    "gachaSeriesMstId": 841,
+    "lapNum": 58,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912389,
+    "gachaSeriesMstId": 841,
+    "lapNum": 59,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912390,
+    "gachaSeriesMstId": 841,
+    "lapNum": 59,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912391,
+    "gachaSeriesMstId": 841,
+    "lapNum": 59,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912392,
+    "gachaSeriesMstId": 841,
+    "lapNum": 59,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912393,
+    "gachaSeriesMstId": 841,
+    "lapNum": 59,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912394,
+    "gachaSeriesMstId": 841,
+    "lapNum": 60,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912395,
+    "gachaSeriesMstId": 841,
+    "lapNum": 60,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912396,
+    "gachaSeriesMstId": 841,
+    "lapNum": 60,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912397,
+    "gachaSeriesMstId": 841,
+    "lapNum": 60,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912398,
+    "gachaSeriesMstId": 841,
+    "lapNum": 60,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912399,
+    "gachaSeriesMstId": 841,
+    "lapNum": 61,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912400,
+    "gachaSeriesMstId": 841,
+    "lapNum": 61,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912401,
+    "gachaSeriesMstId": 841,
+    "lapNum": 61,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912402,
+    "gachaSeriesMstId": 841,
+    "lapNum": 61,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912403,
+    "gachaSeriesMstId": 841,
+    "lapNum": 61,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912404,
+    "gachaSeriesMstId": 841,
+    "lapNum": 62,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912405,
+    "gachaSeriesMstId": 841,
+    "lapNum": 62,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912406,
+    "gachaSeriesMstId": 841,
+    "lapNum": 62,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912407,
+    "gachaSeriesMstId": 841,
+    "lapNum": 62,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912408,
+    "gachaSeriesMstId": 841,
+    "lapNum": 62,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912409,
+    "gachaSeriesMstId": 841,
+    "lapNum": 63,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912410,
+    "gachaSeriesMstId": 841,
+    "lapNum": 63,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912411,
+    "gachaSeriesMstId": 841,
+    "lapNum": 63,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912412,
+    "gachaSeriesMstId": 841,
+    "lapNum": 63,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912413,
+    "gachaSeriesMstId": 841,
+    "lapNum": 63,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912414,
+    "gachaSeriesMstId": 841,
+    "lapNum": 64,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912415,
+    "gachaSeriesMstId": 841,
+    "lapNum": 64,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912416,
+    "gachaSeriesMstId": 841,
+    "lapNum": 64,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912417,
+    "gachaSeriesMstId": 841,
+    "lapNum": 64,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912418,
+    "gachaSeriesMstId": 841,
+    "lapNum": 64,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912419,
+    "gachaSeriesMstId": 841,
+    "lapNum": 65,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912420,
+    "gachaSeriesMstId": 841,
+    "lapNum": 65,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912421,
+    "gachaSeriesMstId": 841,
+    "lapNum": 65,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912422,
+    "gachaSeriesMstId": 841,
+    "lapNum": 65,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912423,
+    "gachaSeriesMstId": 841,
+    "lapNum": 65,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912424,
+    "gachaSeriesMstId": 841,
+    "lapNum": 66,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912425,
+    "gachaSeriesMstId": 841,
+    "lapNum": 66,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912426,
+    "gachaSeriesMstId": 841,
+    "lapNum": 66,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912427,
+    "gachaSeriesMstId": 841,
+    "lapNum": 66,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912428,
+    "gachaSeriesMstId": 841,
+    "lapNum": 66,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912429,
+    "gachaSeriesMstId": 841,
+    "lapNum": 67,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912430,
+    "gachaSeriesMstId": 841,
+    "lapNum": 67,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912431,
+    "gachaSeriesMstId": 841,
+    "lapNum": 67,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912432,
+    "gachaSeriesMstId": 841,
+    "lapNum": 67,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912433,
+    "gachaSeriesMstId": 841,
+    "lapNum": 67,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912434,
+    "gachaSeriesMstId": 841,
+    "lapNum": 68,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912435,
+    "gachaSeriesMstId": 841,
+    "lapNum": 68,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912436,
+    "gachaSeriesMstId": 841,
+    "lapNum": 68,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912437,
+    "gachaSeriesMstId": 841,
+    "lapNum": 68,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912438,
+    "gachaSeriesMstId": 841,
+    "lapNum": 68,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912439,
+    "gachaSeriesMstId": 841,
+    "lapNum": 69,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912440,
+    "gachaSeriesMstId": 841,
+    "lapNum": 69,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912441,
+    "gachaSeriesMstId": 841,
+    "lapNum": 69,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912442,
+    "gachaSeriesMstId": 841,
+    "lapNum": 69,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912443,
+    "gachaSeriesMstId": 841,
+    "lapNum": 69,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912444,
+    "gachaSeriesMstId": 841,
+    "lapNum": 70,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912445,
+    "gachaSeriesMstId": 841,
+    "lapNum": 70,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912446,
+    "gachaSeriesMstId": 841,
+    "lapNum": 70,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912447,
+    "gachaSeriesMstId": 841,
+    "lapNum": 70,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912448,
+    "gachaSeriesMstId": 841,
+    "lapNum": 70,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912449,
+    "gachaSeriesMstId": 841,
+    "lapNum": 71,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912450,
+    "gachaSeriesMstId": 841,
+    "lapNum": 71,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912451,
+    "gachaSeriesMstId": 841,
+    "lapNum": 71,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912452,
+    "gachaSeriesMstId": 841,
+    "lapNum": 71,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912453,
+    "gachaSeriesMstId": 841,
+    "lapNum": 71,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912454,
+    "gachaSeriesMstId": 841,
+    "lapNum": 72,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912455,
+    "gachaSeriesMstId": 841,
+    "lapNum": 72,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912456,
+    "gachaSeriesMstId": 841,
+    "lapNum": 72,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912457,
+    "gachaSeriesMstId": 841,
+    "lapNum": 72,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912458,
+    "gachaSeriesMstId": 841,
+    "lapNum": 72,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912459,
+    "gachaSeriesMstId": 841,
+    "lapNum": 73,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912460,
+    "gachaSeriesMstId": 841,
+    "lapNum": 73,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912461,
+    "gachaSeriesMstId": 841,
+    "lapNum": 73,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912462,
+    "gachaSeriesMstId": 841,
+    "lapNum": 73,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912463,
+    "gachaSeriesMstId": 841,
+    "lapNum": 73,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912464,
+    "gachaSeriesMstId": 841,
+    "lapNum": 74,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912465,
+    "gachaSeriesMstId": 841,
+    "lapNum": 74,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912466,
+    "gachaSeriesMstId": 841,
+    "lapNum": 74,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912467,
+    "gachaSeriesMstId": 841,
+    "lapNum": 74,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912468,
+    "gachaSeriesMstId": 841,
+    "lapNum": 74,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912469,
+    "gachaSeriesMstId": 841,
+    "lapNum": 75,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912470,
+    "gachaSeriesMstId": 841,
+    "lapNum": 75,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912471,
+    "gachaSeriesMstId": 841,
+    "lapNum": 75,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912472,
+    "gachaSeriesMstId": 841,
+    "lapNum": 75,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912473,
+    "gachaSeriesMstId": 841,
+    "lapNum": 75,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912474,
+    "gachaSeriesMstId": 841,
+    "lapNum": 76,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912475,
+    "gachaSeriesMstId": 841,
+    "lapNum": 76,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912476,
+    "gachaSeriesMstId": 841,
+    "lapNum": 76,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912477,
+    "gachaSeriesMstId": 841,
+    "lapNum": 76,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912478,
+    "gachaSeriesMstId": 841,
+    "lapNum": 76,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912479,
+    "gachaSeriesMstId": 841,
+    "lapNum": 77,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912480,
+    "gachaSeriesMstId": 841,
+    "lapNum": 77,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912481,
+    "gachaSeriesMstId": 841,
+    "lapNum": 77,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912482,
+    "gachaSeriesMstId": 841,
+    "lapNum": 77,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912483,
+    "gachaSeriesMstId": 841,
+    "lapNum": 77,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912484,
+    "gachaSeriesMstId": 841,
+    "lapNum": 78,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912485,
+    "gachaSeriesMstId": 841,
+    "lapNum": 78,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912486,
+    "gachaSeriesMstId": 841,
+    "lapNum": 78,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912487,
+    "gachaSeriesMstId": 841,
+    "lapNum": 78,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912488,
+    "gachaSeriesMstId": 841,
+    "lapNum": 78,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912489,
+    "gachaSeriesMstId": 841,
+    "lapNum": 79,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912490,
+    "gachaSeriesMstId": 841,
+    "lapNum": 79,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912491,
+    "gachaSeriesMstId": 841,
+    "lapNum": 79,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912492,
+    "gachaSeriesMstId": 841,
+    "lapNum": 79,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912493,
+    "gachaSeriesMstId": 841,
+    "lapNum": 79,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912494,
+    "gachaSeriesMstId": 841,
+    "lapNum": 80,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912495,
+    "gachaSeriesMstId": 841,
+    "lapNum": 80,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912496,
+    "gachaSeriesMstId": 841,
+    "lapNum": 80,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912497,
+    "gachaSeriesMstId": 841,
+    "lapNum": 80,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912498,
+    "gachaSeriesMstId": 841,
+    "lapNum": 80,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912499,
+    "gachaSeriesMstId": 841,
+    "lapNum": 81,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912500,
+    "gachaSeriesMstId": 841,
+    "lapNum": 81,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912501,
+    "gachaSeriesMstId": 841,
+    "lapNum": 81,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912502,
+    "gachaSeriesMstId": 841,
+    "lapNum": 81,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912503,
+    "gachaSeriesMstId": 841,
+    "lapNum": 81,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912504,
+    "gachaSeriesMstId": 841,
+    "lapNum": 82,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912505,
+    "gachaSeriesMstId": 841,
+    "lapNum": 82,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912506,
+    "gachaSeriesMstId": 841,
+    "lapNum": 82,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912507,
+    "gachaSeriesMstId": 841,
+    "lapNum": 82,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912508,
+    "gachaSeriesMstId": 841,
+    "lapNum": 82,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912509,
+    "gachaSeriesMstId": 841,
+    "lapNum": 83,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912510,
+    "gachaSeriesMstId": 841,
+    "lapNum": 83,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912511,
+    "gachaSeriesMstId": 841,
+    "lapNum": 83,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912512,
+    "gachaSeriesMstId": 841,
+    "lapNum": 83,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912513,
+    "gachaSeriesMstId": 841,
+    "lapNum": 83,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912514,
+    "gachaSeriesMstId": 841,
+    "lapNum": 84,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912515,
+    "gachaSeriesMstId": 841,
+    "lapNum": 84,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912516,
+    "gachaSeriesMstId": 841,
+    "lapNum": 84,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912517,
+    "gachaSeriesMstId": 841,
+    "lapNum": 84,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912518,
+    "gachaSeriesMstId": 841,
+    "lapNum": 84,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912519,
+    "gachaSeriesMstId": 841,
+    "lapNum": 85,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912520,
+    "gachaSeriesMstId": 841,
+    "lapNum": 85,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912521,
+    "gachaSeriesMstId": 841,
+    "lapNum": 85,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912522,
+    "gachaSeriesMstId": 841,
+    "lapNum": 85,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912523,
+    "gachaSeriesMstId": 841,
+    "lapNum": 85,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912524,
+    "gachaSeriesMstId": 841,
+    "lapNum": 86,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912525,
+    "gachaSeriesMstId": 841,
+    "lapNum": 86,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912526,
+    "gachaSeriesMstId": 841,
+    "lapNum": 86,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912527,
+    "gachaSeriesMstId": 841,
+    "lapNum": 86,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912528,
+    "gachaSeriesMstId": 841,
+    "lapNum": 86,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912529,
+    "gachaSeriesMstId": 841,
+    "lapNum": 87,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912530,
+    "gachaSeriesMstId": 841,
+    "lapNum": 87,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912531,
+    "gachaSeriesMstId": 841,
+    "lapNum": 87,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912532,
+    "gachaSeriesMstId": 841,
+    "lapNum": 87,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912533,
+    "gachaSeriesMstId": 841,
+    "lapNum": 87,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912534,
+    "gachaSeriesMstId": 841,
+    "lapNum": 88,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912535,
+    "gachaSeriesMstId": 841,
+    "lapNum": 88,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912536,
+    "gachaSeriesMstId": 841,
+    "lapNum": 88,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912537,
+    "gachaSeriesMstId": 841,
+    "lapNum": 88,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912538,
+    "gachaSeriesMstId": 841,
+    "lapNum": 88,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912539,
+    "gachaSeriesMstId": 841,
+    "lapNum": 89,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912540,
+    "gachaSeriesMstId": 841,
+    "lapNum": 89,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912541,
+    "gachaSeriesMstId": 841,
+    "lapNum": 89,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912542,
+    "gachaSeriesMstId": 841,
+    "lapNum": 89,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912543,
+    "gachaSeriesMstId": 841,
+    "lapNum": 89,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912544,
+    "gachaSeriesMstId": 841,
+    "lapNum": 90,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912545,
+    "gachaSeriesMstId": 841,
+    "lapNum": 90,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912546,
+    "gachaSeriesMstId": 841,
+    "lapNum": 90,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912547,
+    "gachaSeriesMstId": 841,
+    "lapNum": 90,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912548,
+    "gachaSeriesMstId": 841,
+    "lapNum": 90,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912549,
+    "gachaSeriesMstId": 841,
+    "lapNum": 91,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912550,
+    "gachaSeriesMstId": 841,
+    "lapNum": 91,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912551,
+    "gachaSeriesMstId": 841,
+    "lapNum": 91,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912552,
+    "gachaSeriesMstId": 841,
+    "lapNum": 91,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912553,
+    "gachaSeriesMstId": 841,
+    "lapNum": 91,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912554,
+    "gachaSeriesMstId": 841,
+    "lapNum": 92,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912555,
+    "gachaSeriesMstId": 841,
+    "lapNum": 92,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912556,
+    "gachaSeriesMstId": 841,
+    "lapNum": 92,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912557,
+    "gachaSeriesMstId": 841,
+    "lapNum": 92,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912558,
+    "gachaSeriesMstId": 841,
+    "lapNum": 92,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912559,
+    "gachaSeriesMstId": 841,
+    "lapNum": 93,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912560,
+    "gachaSeriesMstId": 841,
+    "lapNum": 93,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912561,
+    "gachaSeriesMstId": 841,
+    "lapNum": 93,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912562,
+    "gachaSeriesMstId": 841,
+    "lapNum": 93,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912563,
+    "gachaSeriesMstId": 841,
+    "lapNum": 93,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912564,
+    "gachaSeriesMstId": 841,
+    "lapNum": 94,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912565,
+    "gachaSeriesMstId": 841,
+    "lapNum": 94,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912566,
+    "gachaSeriesMstId": 841,
+    "lapNum": 94,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912567,
+    "gachaSeriesMstId": 841,
+    "lapNum": 94,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912568,
+    "gachaSeriesMstId": 841,
+    "lapNum": 94,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912569,
+    "gachaSeriesMstId": 841,
+    "lapNum": 95,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912570,
+    "gachaSeriesMstId": 841,
+    "lapNum": 95,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912571,
+    "gachaSeriesMstId": 841,
+    "lapNum": 95,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912572,
+    "gachaSeriesMstId": 841,
+    "lapNum": 95,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912573,
+    "gachaSeriesMstId": 841,
+    "lapNum": 95,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912574,
+    "gachaSeriesMstId": 841,
+    "lapNum": 96,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912575,
+    "gachaSeriesMstId": 841,
+    "lapNum": 96,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912576,
+    "gachaSeriesMstId": 841,
+    "lapNum": 96,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912577,
+    "gachaSeriesMstId": 841,
+    "lapNum": 96,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912578,
+    "gachaSeriesMstId": 841,
+    "lapNum": 96,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912579,
+    "gachaSeriesMstId": 841,
+    "lapNum": 97,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912580,
+    "gachaSeriesMstId": 841,
+    "lapNum": 97,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912581,
+    "gachaSeriesMstId": 841,
+    "lapNum": 97,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912582,
+    "gachaSeriesMstId": 841,
+    "lapNum": 97,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912583,
+    "gachaSeriesMstId": 841,
+    "lapNum": 97,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912584,
+    "gachaSeriesMstId": 841,
+    "lapNum": 98,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912585,
+    "gachaSeriesMstId": 841,
+    "lapNum": 98,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912586,
+    "gachaSeriesMstId": 841,
+    "lapNum": 98,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912587,
+    "gachaSeriesMstId": 841,
+    "lapNum": 98,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912588,
+    "gachaSeriesMstId": 841,
+    "lapNum": 98,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912589,
+    "gachaSeriesMstId": 841,
+    "lapNum": 99,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912590,
+    "gachaSeriesMstId": 841,
+    "lapNum": 99,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912591,
+    "gachaSeriesMstId": 841,
+    "lapNum": 99,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912592,
+    "gachaSeriesMstId": 841,
+    "lapNum": 99,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912593,
+    "gachaSeriesMstId": 841,
+    "lapNum": 99,
+    "step": 5,
+    "name": "Upgrade Sword (SR) x3",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912594,
+    "gachaSeriesMstId": 841,
+    "lapNum": 100,
+    "step": 1,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912595,
+    "gachaSeriesMstId": 841,
+    "lapNum": 100,
+    "step": 2,
+    "name": "Upgrade Sword (S) x1",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912596,
+    "gachaSeriesMstId": 841,
+    "lapNum": 100,
+    "step": 3,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912597,
+    "gachaSeriesMstId": 841,
+    "lapNum": 100,
+    "step": 4,
+    "name": "Upgrade Sword (S) x2",
+    "description": "Material used to upgrade weapons.",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaStepUpLapBonusMstId": 912598,
+    "gachaSeriesMstId": 841,
     "lapNum": 100,
     "step": 5,
     "name": "Upgrade Sword (SR) x3",

@@ -1320,6 +1320,17 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 232,
+    "mapType": 1,
+    "mapGroup": 136,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Sculpture, in Decline",
+    "description": "Gorgon Conquest (Normal)",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 234,
     "mapType": 1,
     "mapGroup": 137,
@@ -1496,6 +1507,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 279,
+    "mapType": 1,
+    "mapGroup": 169,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "The Ugly Dragon",
+    "description": "メダルイベント(ピュートーン)",
+    "announceUrl": "/web/announce/body?announceMstId=4392&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 280,
+    "mapType": 1,
+    "mapGroup": 169,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "The Ugly Dragon (Hard)",
+    "description": "メダルイベント(ピュートーン)",
+    "announceUrl": "/web/announce/body?announceMstId=4392&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 283,
     "mapType": 1,
     "mapGroup": 171,
@@ -1658,6 +1691,17 @@
     "name": "Mirrored Rozen Maidens (Hard)",
     "description": "ローゼンコラボHard",
     "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 405,
+    "mapType": 1,
+    "mapGroup": 136,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "Sculpture, in Decline (Hard)",
+    "description": "Conquest: Sculpture, in Decline (Hard)",
+    "announceUrl": "",
     "createdTime": 1483974000
   },
   {
