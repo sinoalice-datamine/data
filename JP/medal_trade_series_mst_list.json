@@ -5054,5 +5054,53 @@
     "endTime": 1643468399,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 334,
+    "name": "テスト用紙メダル",
+    "description": "ギシンアンキが集めているメダル※2022年2月8日23:59まで",
+    "resourceName": "item20210118_evemt_yobiko",
+    "assetBundleName": "4019",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2022年2月8日23:59まで",
+    "priority": 43,
+    "itemMstId": 4019,
+    "startTime": 1642485600,
+    "endTime": 1644332399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 336,
+    "name": "ナイトメアメダル",
+    "description": "魔晶石購入特典のナイトメアと交換できるメダル\r\n※2022年2月7日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "0336",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ナイトメアメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2022年2月7日23:59まで",
+    "priority": 37,
+    "itemMstId": 4039,
+    "startTime": 1642485600,
+    "endTime": 1644245999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 337,
+    "name": "黒板消しメダル",
+    "description": "ギシンアンキが集めているメダル※2022年2月8日23:59まで",
+    "resourceName": "item20220118_yobiko_gacha",
+    "assetBundleName": "4038",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2022年2月8日23:59まで",
+    "priority": 43,
+    "itemMstId": 4038,
+    "startTime": 1642485600,
+    "endTime": 1644332399,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]

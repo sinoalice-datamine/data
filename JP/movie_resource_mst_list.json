@@ -7059,5 +7059,28 @@
     "museumEndTime": 1924959599,
     "vibStartTime": -1.0,
     "skipButtonType": 0
+  },
+  {
+    "movieResourceMstId": 325,
+    "movieTitle": "『碩学の承継』OP",
+    "resourceName": "yobiko_OP",
+    "isPreDownLoad": 0,
+    "type": 1,
+    "value": 951,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1642485600,
+    "endTime": 1643695199,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "条件なし　表示されていたらバグ",
+    "thumbAssetBundleName": "museumthumbnail/325",
+    "thumbResourceName": "yobiko_OP",
+    "museumStartTime": 1642485600,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0,
+    "skipButtonType": 0
   }
 ]

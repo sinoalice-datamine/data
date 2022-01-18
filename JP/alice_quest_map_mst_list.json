@@ -5720,6 +5720,39 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 545,
+    "mapType": 1,
+    "mapGroup": 528,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "碩学の承継",
+    "description": "予備校イベントNormal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 546,
+    "mapType": 1,
+    "mapGroup": 528,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "碩学の承継Hard",
+    "description": "予備校イベントHard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 547,
+    "mapType": 1,
+    "mapGroup": 529,
+    "mapGroupLv": 1,
+    "mapCategory": 7,
+    "name": "追試会場",
+    "description": "予備校イベントHard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 549,
     "mapType": 1,
     "mapGroup": 531,
