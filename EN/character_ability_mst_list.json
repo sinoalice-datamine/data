@@ -12960,6 +12960,126 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 1415,
+    "characterMstId": 117,
+    "name": "Blade +10%",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1416,
+    "characterMstId": 117,
+    "name": "Blade +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1417,
+    "characterMstId": 117,
+    "name": "P.ATK +50",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1418,
+    "characterMstId": 117,
+    "name": "P.DEF +50",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1419,
+    "characterMstId": 117,
+    "name": "Blade +10%",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1420,
+    "characterMstId": 117,
+    "name": "P.DEF +50",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1421,
+    "characterMstId": 117,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1422,
+    "characterMstId": 117,
+    "name": "P.DEF +50",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1423,
+    "characterMstId": 117,
+    "name": "Blade +10%",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1424,
+    "characterMstId": 117,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1425,
+    "characterMstId": 117,
+    "name": "Blade +20%",
+    "releaseLevel": 11,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 1426,
+    "characterMstId": 117,
+    "name": "P.DEF +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 1427,
     "characterMstId": 48,
     "name": "HP +2500",
@@ -20177,6 +20297,126 @@
     "skillType": 1,
     "effectType": 1,
     "effectValue": 200,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 2459,
+    "characterMstId": 204,
+    "name": "Artifact +30% (Three Little Pigs+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 2460,
+    "characterMstId": 204,
+    "name": "Tome -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 2461,
+    "characterMstId": 204,
+    "name": "Instrument -25%",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2462,
+    "characterMstId": 204,
+    "name": "Tome -25%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 2463,
+    "characterMstId": 204,
+    "name": "Instrument -25%",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2464,
+    "characterMstId": 204,
+    "name": "Tome -25%",
+    "releaseLevel": 6,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 2465,
+    "characterMstId": 204,
+    "name": "Instrument -25%",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 2466,
+    "characterMstId": 204,
+    "name": "Artifact +15%",
+    "releaseLevel": 8,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 2467,
+    "characterMstId": 204,
+    "name": "P.DEF +500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 2468,
+    "characterMstId": 204,
+    "name": "Artifact +15%",
+    "releaseLevel": 10,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 2469,
+    "characterMstId": 204,
+    "name": "M.ATK +500",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 2470,
+    "characterMstId": 204,
+    "name": "Artifact +5%",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
     "cardDetailType": 3
   },
   {

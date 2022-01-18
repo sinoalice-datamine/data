@@ -3270,6 +3270,36 @@
     "displayStartTime": null
   },
   {
+    "characterMstId": 117,
+    "name": "Sheila/Breaker",
+    "characterUniqueId": 23,
+    "characterUniqueName": "Sheila",
+    "characterUniqueEnglishName": "Sheila",
+    "characterVoiceId": 0,
+    "collaborationId": 0,
+    "collaborationName": "0",
+    "rolePosition": 1,
+    "motionType": 1,
+    "shaderType": 0,
+    "spineAvatarType": 3,
+    "scale": 100,
+    "avatarGroupId": 0,
+    "partnerNum": -1,
+    "maxLevel": 10,
+    "description": "-",
+    "favoriteWeapon": 5,
+    "isSpirit": false,
+    "spiritType": 0,
+    "disableStanding": 0,
+    "isAvailable": false,
+    "resourceName": "117",
+    "assetBundleName": "character/117",
+    "characterVoice": "-",
+    "mypageMinVoice": 0,
+    "mypageMaxVoice": 0,
+    "displayStartTime": 1642485600
+  },
+  {
     "characterMstId": 118,
     "name": "Cinderella/Envious Serpent Gunner",
     "characterUniqueId": 4,
@@ -5637,7 +5667,7 @@
     "characterVoice": "Aoi Yūki",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1642568400
   },
   {
     "characterMstId": 205,

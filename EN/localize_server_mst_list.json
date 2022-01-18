@@ -5059,12 +5059,12 @@
     "Type": 0,
     "GameKey": "Server/error.11354",
     "JP": "現在設定されているコロシアム時間帯ではギルド数が少ないため、エントリーできません。\\nグランコロシアムに参加可能な時間帯に変更してからエントリーしてください。",
-    "EN": "",
-    "KR": "현재 설정되어 있는 콜로세움 시간대는 소속된 길드가 적어 참가 등록할 수 없습니다.\\n그랑 콜로세움에 참가 가능한 시간대를 변경하여 등록해 주세요.",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "EN": "Entry is not possible during the current time slot due to small number of  guilds.\\nPlease change to on of the Gran Colosseum's available time slots and try joining again.",
+    "KR": "현재 설정되어 있는 콜로세움 시간대는 길드 수가 적어 참가 등록할 수 없습니다.\\n그랑 콜로세움에 참가 가능한 시간대로 변경하여 등록해 주세요.",
+    "DE": "Entry is not possible during the current time slot due to small number of  guilds.\\nPlease change to on of the Gran Colosseum's available time slots and try joining again.",
+    "FR": "Entry is not possible during the current time slot due to small number of  guilds.\\nPlease change to on of the Gran Colosseum's available time slots and try joining again.",
+    "ES": "Entry is not possible during the current time slot due to small number of  guilds.\\nPlease change to on of the Gran Colosseum's available time slots and try joining again.",
+    "TH": "Entry is not possible during the current time slot due to small number of  guilds.\\nPlease change to on of the Gran Colosseum's available time slots and try joining again.",
     "VN": "Không thể tham gia trong khung thời gian tương ứng do số lượng hội liên kết nhỏ.\\\\nVui lòng thử tham gia vào khung thời gian khác."
   },
   {
@@ -24315,6 +24315,20 @@
     "FR": "I should have been asleep,\\nbut my mind had been cut loose\\nand it wandered the chaos of the world.\\nI want to sleep, but sleep evades me. Refuses me.\\nIt's a constant, waking nightmare,\\nand if this is how it is to be, then I...",
     "ES": "I should have been asleep,\\nbut my mind had been cut loose\\nand it wandered the chaos of the world.\\nI want to sleep, but sleep evades me. Refuses me.\\nIt's a constant, waking nightmare,\\nand if this is how it is to be, then I...",
     "TH": "I should have been asleep,\\nbut my mind had been cut loose\\nand it wandered the chaos of the world.\\nI want to sleep, but sleep evades me. Refuses me.\\nIt's a constant, waking nightmare,\\nand if this is how it is to be, then I...",
+    "VN": ""
+  },
+  {
+    "id": 1738,
+    "TLM": 52514,
+    "Type": 0,
+    "GameKey": "Server/error.900004",
+    "JP": "その時間帯はグランコロシアム対象外のため、変更できません。",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
     "VN": ""
   }
 ]

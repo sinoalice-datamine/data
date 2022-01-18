@@ -11164,11 +11164,39 @@
     "GameKey": "SCENE",
     "JP": "コロシアム詳細",
     "EN": "",
-    "KR": "",
+    "KR": "콜로세움 자세히 보기",
     "DE": "",
     "FR": "",
     "ES": "",
     "TH": "",
+    "VN": ""
+  },
+  {
+    "id": 799,
+    "TLM": 52512,
+    "Type": 0,
+    "GameKey": "SCENE",
+    "JP": "AUTO",
+    "EN": "AUTO",
+    "KR": "자동",
+    "DE": "AUTO",
+    "FR": "AUTO",
+    "ES": "AUTO",
+    "TH": "AUTO",
+    "VN": ""
+  },
+  {
+    "id": 800,
+    "TLM": 52513,
+    "Type": 0,
+    "GameKey": "SCENE",
+    "JP": "MAX",
+    "EN": "MAX",
+    "KR": "MAX",
+    "DE": "MAX",
+    "FR": "MAX",
+    "ES": "MAX",
+    "TH": "MAX",
     "VN": ""
   }
 ]
