@@ -6768,6 +6768,24 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 596,
+    "questMapMstId": 310,
+    "name": "Dragon of Wicked Wiles",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/35",
+    "bgResourceName": "0035",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 616,
     "questMapMstId": 323,
     "name": "Delusions of Survival",
@@ -6999,6 +7017,24 @@
     "unCombatFlag": false,
     "isGve": false,
     "disableMultipleCharacter": false,
+    "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 821,
+    "questMapMstId": 453,
+    "name": "Dragon of Wicked Wiles",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/35",
+    "bgResourceName": "0035",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
     "createdTime": 1483974000
   },
   {
