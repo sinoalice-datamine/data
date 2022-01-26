@@ -4466,6 +4466,17 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 416,
+    "title": "コロシアム・シン開催CP",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1643176800,
+    "endTime": 1644753599,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 417,
     "title": "イベントボーナス",
     "cycleType": 2,
@@ -4759,6 +4770,28 @@
     "pickupSkillType": 1,
     "startTime": 1640962800,
     "endTime": 1643641199,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 100028,
+    "title": "Rank100応援ボーナス①",
+    "cycleType": 7,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1643641200,
+    "endTime": 1614524399,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 100029,
+    "title": "Rank100応援ボーナス②",
+    "cycleType": 7,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1643641200,
+    "endTime": 1614524399,
     "resourceName": "1",
     "assetBundleName": ""
   }

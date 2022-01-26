@@ -5072,6 +5072,22 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 335,
+    "name": "配当メダル・シン",
+    "description": "コロシアム・シン中のギシアン酒場で入手できるメダル\r\n※2022年2月27日23:59まで",
+    "resourceName": "item20190731_colloseumsin1_honsen",
+    "assetBundleName": "1319",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "コロシアム・シンのギシアン酒場にて獲得できます。\r\n※有効期限2022年2月27日23:59まで",
+    "priority": 38,
+    "itemMstId": 3877,
+    "startTime": 1643176800,
+    "endTime": 1645973999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 336,
     "name": "ナイトメアメダル",
     "description": "魔晶石購入特典のナイトメアと交換できるメダル\r\n※2022年2月7日23:59まで",
