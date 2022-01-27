@@ -4466,6 +4466,17 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 415,
+    "title": "シノアリスの日プレゼント",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1643486400,
+    "endTime": 1643745599,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 416,
     "title": "コロシアム・シン開催CP",
     "cycleType": 2,
@@ -4484,6 +4495,28 @@
     "pickupSkillType": 1,
     "startTime": 1642485600,
     "endTime": 1643695199,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 419,
+    "title": "ギルドイベントボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1643659200,
+    "endTime": 1644245999,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 420,
+    "title": "人気投票先行ボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1643313600,
+    "endTime": 1643659199,
     "resourceName": "1",
     "assetBundleName": ""
   },
