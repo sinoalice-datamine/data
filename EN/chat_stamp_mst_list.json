@@ -280,6 +280,20 @@
     "createdTime": null
   },
   {
+    "chatStampMstId": 23,
+    "name": "Gretel/?",
+    "resourceName": "028",
+    "assetBundleName": "chat900025",
+    "filterType": 7,
+    "howToGet": "Obtainable from the event medal exchange.",
+    "itemMstId": 900229,
+    "replaceMessage": "[*028]",
+    "isAnytime": 0,
+    "startTime": 1643349600,
+    "endTime": 1645509599,
+    "createdTime": null
+  },
+  {
     "chatStampMstId": 25,
     "name": "Pinocchio/NOPE",
     "resourceName": "029",
@@ -583,8 +597,8 @@
     "itemMstId": 881,
     "replaceMessage": "[*058]",
     "isAnytime": 0,
-    "startTime": 1642140000,
-    "endTime": 1643954399,
+    "startTime": 1643349600,
+    "endTime": 1645509599,
     "createdTime": null
   },
   {
@@ -627,6 +641,34 @@
     "isAnytime": 0,
     "startTime": 1607580000,
     "endTime": 1609653599,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 65,
+    "name": "Alice/For You ♡",
+    "resourceName": "065",
+    "assetBundleName": "chat900025",
+    "filterType": 1,
+    "howToGet": "Obtainable from the \"An Elegy for Love so Sweet\" event.",
+    "itemMstId": 1040,
+    "replaceMessage": "[*065]",
+    "isAnytime": 0,
+    "startTime": 1643349600,
+    "endTime": 1645509599,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 66,
+    "name": "Gretel/Dear Brother ♡",
+    "resourceName": "066",
+    "assetBundleName": "chat900025",
+    "filterType": 7,
+    "howToGet": "Obtainable from the \"An Elegy for Love so Sweet\" event.",
+    "itemMstId": 1041,
+    "replaceMessage": "[*066]",
+    "isAnytime": 0,
+    "startTime": 1643349600,
+    "endTime": 1645509599,
     "createdTime": null
   },
   {
@@ -711,6 +753,20 @@
     "isAnytime": 1,
     "startTime": 1593529200,
     "endTime": 1915509600,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 77,
+    "name": "Rapunzel/Nice to meet you",
+    "resourceName": "077",
+    "assetBundleName": "chat900025",
+    "filterType": 35,
+    "howToGet": "Obtainable from the event medal exchange.",
+    "itemMstId": 1331,
+    "replaceMessage": "[*077]",
+    "isAnytime": 0,
+    "startTime": 1643349600,
+    "endTime": 1645509599,
     "createdTime": null
   },
   {
@@ -837,6 +893,34 @@
     "isAnytime": 1,
     "startTime": 1593529200,
     "endTime": 1915509600,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 97,
+    "name": "Snow White/...Take it.",
+    "resourceName": "097",
+    "assetBundleName": "chat900025",
+    "filterType": 2,
+    "howToGet": "Obtainable from the \"An Elegy for Love so Sweet\" event.",
+    "itemMstId": 1950,
+    "replaceMessage": "[*097]",
+    "isAnytime": 0,
+    "startTime": 1643349600,
+    "endTime": 1645509599,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 98,
+    "name": "Rapunzel/Bon Appetite",
+    "resourceName": "098",
+    "assetBundleName": "chat900025",
+    "filterType": 35,
+    "howToGet": "Obtainable from the \"An Elegy for Love so Sweet\" event.",
+    "itemMstId": 1951,
+    "replaceMessage": "[*098]",
+    "isAnytime": 0,
+    "startTime": 1643349600,
+    "endTime": 1645509599,
     "createdTime": null
   },
   {

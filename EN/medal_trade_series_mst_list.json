@@ -690,6 +690,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 67,
+    "name": "Medal of Desire (II)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "0003",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 987,
+    "startTime": 1643349600,
+    "endTime": 1647529199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 69,
     "name": "Replicant Medal",
     "description": "Medal from a collaboration grimoire.",
@@ -821,6 +836,36 @@
     "itemMstId": 1812,
     "startTime": 1639116000,
     "endTime": 1641135599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 136,
+    "name": "Valentine Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20220131_medal_valentine",
+    "assetBundleName": "1949",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 1949,
+    "startTime": 1643349600,
+    "endTime": 1645509599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 139,
+    "name": "Heartfelt Chocolate Medal",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item20220131_gacha_valentine",
+    "assetBundleName": "1967",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 1967,
+    "startTime": 1643349600,
+    "endTime": 1645541999,
     "displayType": 0,
     "isDeleted": false
   },

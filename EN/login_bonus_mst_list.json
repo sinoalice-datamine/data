@@ -660,6 +660,18 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 208,
+    "title": "Event Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1643349600,
+    "endTime": 1644901199,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 232,
     "title": "Collaboration Event Bonus",
     "cycleType": 2,
@@ -1243,6 +1255,18 @@
     "pickupSkillType": 1,
     "startTime": 1640581200,
     "endTime": 1641185999,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900043,
+    "title": "Valentine Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1644764400,
+    "endTime": 1644850799,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""
