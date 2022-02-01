@@ -7512,6 +7512,22 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 965,
+    "title": "「嫉妬ノ化身」ミッション",
+    "priority": 0,
+    "startTime": 1643695200,
+    "endTime": 1644040799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 966,
+    "title": "「孤独ノ化身」ミッション",
+    "priority": 0,
+    "startTime": 1644040800,
+    "endTime": 1644386399,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 967,
     "title": "お正月ミッション",
     "priority": 45001,
@@ -7685,6 +7701,14 @@
     "priority": 0,
     "startTime": 1643572800,
     "endTime": 1643659199,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1000,
+    "title": "人気投票 デイリーミッション",
+    "priority": 0,
+    "startTime": 1643691600,
+    "endTime": 1644332399,
     "isHideTime": false
   }
 ]
