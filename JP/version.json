@@ -1,9 +1,9 @@
 {
-  "lastCreatedTime": "2022-02-01 16:39:05",
+  "lastCreatedTime": "2022-02-02 16:22:25",
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
-      "version": 1126,
+      "version": 1129,
       "names": [
         "item_mst_list"
       ]
@@ -45,14 +45,14 @@
     },
     {
       "mstTableId": 9,
-      "version": 974,
+      "version": 975,
       "names": [
         "card_mst_list"
       ]
     },
     {
       "mstTableId": 14,
-      "version": 572,
+      "version": 573,
       "names": [
         "skill_mst_list"
       ]
@@ -94,21 +94,21 @@
     },
     {
       "mstTableId": 20,
-      "version": 1166,
+      "version": 1169,
       "names": [
         "gacha_mst_list"
       ]
     },
     {
       "mstTableId": 21,
-      "version": 1196,
+      "version": 1199,
       "names": [
         "gacha_pickup_mst_list"
       ]
     },
     {
       "mstTableId": 22,
-      "version": 826,
+      "version": 827,
       "names": [
         "gacha_series_mst_list"
       ]
@@ -122,21 +122,21 @@
     },
     {
       "mstTableId": 25,
-      "version": 549,
+      "version": 550,
       "names": [
         "card_story_mst_list"
       ]
     },
     {
       "mstTableId": 26,
-      "version": 376,
+      "version": 379,
       "names": [
         "character_story_mst_list"
       ]
     },
     {
       "mstTableId": 27,
-      "version": 536,
+      "version": 539,
       "names": [
         "character_mst_list"
       ]
@@ -206,7 +206,7 @@
     },
     {
       "mstTableId": 38,
-      "version": 3261,
+      "version": 3268,
       "names": [
         "banner_mst_list"
       ]
@@ -234,7 +234,7 @@
     },
     {
       "mstTableId": 42,
-      "version": 480,
+      "version": 483,
       "names": [
         "character_ability_mst_list"
       ]
@@ -332,7 +332,7 @@
     },
     {
       "mstTableId": 58,
-      "version": 463,
+      "version": 464,
       "names": [
         "gacha_bonus_mst_list"
       ]
@@ -353,7 +353,7 @@
     },
     {
       "mstTableId": 61,
-      "version": 718,
+      "version": 719,
       "names": [
         "card_evolution_mst_list"
       ]
@@ -668,11 +668,11 @@
     },
     {
       "mstTableId": 114,
-      "version": 66
+      "version": 67
     },
     {
       "mstTableId": 115,
-      "version": 65
+      "version": 66
     },
     {
       "mstTableId": 116,
@@ -712,7 +712,7 @@
     },
     {
       "mstTableId": 125,
-      "version": 4
+      "version": 5
     }
   ]
 }
