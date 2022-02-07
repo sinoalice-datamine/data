@@ -1254,6 +1254,28 @@
     "vibStartTime": -1.0
   },
   {
+    "movieResourceMstId": 100,
+    "movieTitle": "Act of Fusion -Intermission-",
+    "resourceName": "QuestResultFusion0427Movie",
+    "isPreDownLoad": 0,
+    "type": 8,
+    "value": 187,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1644213600,
+    "endTime": 1922594400,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "Bug if No Conditions shows",
+    "thumbAssetBundleName": "museumthumbnail/79",
+    "thumbResourceName": "QuestResultFusion0427Movie",
+    "museumStartTime": 1644213600,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0
+  },
+  {
     "movieResourceMstId": 101,
     "movieTitle": "第拾捌回グランコロシアム開幕",
     "resourceName": "GvGEventMovie",
@@ -2483,6 +2505,28 @@
     "thumbResourceName": "",
     "museumStartTime": 1639375200,
     "museumEndTime": 1639979999,
+    "vibStartTime": -1.0
+  },
+  {
+    "movieResourceMstId": 9000009,
+    "movieTitle": "Act of Fusion -Prologue-",
+    "resourceName": "QuestFusionIntroductionMovie",
+    "isPreDownLoad": 0,
+    "type": 2,
+    "value": 0,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1644213600,
+    "endTime": 1645423199,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "Bug if No Conditions shows",
+    "thumbAssetBundleName": "museumthumbnail/79",
+    "thumbResourceName": "QuestFusionIntroductionMovie",
+    "museumStartTime": 1644213600,
+    "museumEndTime": 1924959599,
     "vibStartTime": -1.0
   }
 ]

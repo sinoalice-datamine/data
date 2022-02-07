@@ -16779,10 +16779,10 @@
     "JP": "イベント特効 ※現在開催中のイベント",
     "EN": "Event Exclusive Effect (Note: For current ongoing event only)",
     "KR": "이벤트 특효 ※현재 개최 중인 이벤트",
-    "DE": "Event Sonderangriff *Event läuft jetzt",
-    "FR": "Spécial évènement *évènement en cours",
-    "ES": "Evento activo *Evento actualmente en curso",
-    "TH": "โจมตีพิเศษอีเว้นท์*อีเว้นท์ที่กำลังจัดอยู่ตอนนี้",
+    "DE": "Event Exclusive Effect (Note: For current ongoing event only)",
+    "FR": "Event Exclusive Effect (Note: For current ongoing event only)",
+    "ES": "Event Exclusive Effect (Note: For current ongoing event only)",
+    "TH": "Event Exclusive Effect (Note: For current ongoing event only)",
     "VN": ""
   },
   {
@@ -17311,10 +17311,10 @@
     "JP": "レイドイベント特効 ※現在開催中のイベント",
     "EN": "Raid Event Exclusive Effect (Note: For current ongoing event only)",
     "KR": "레이드 이벤트 특효 ※현재 개최 중인 이벤트",
-    "DE": "Event Spezialeffekt *Event läuft jetzt",
-    "FR": "Événement de raid spécial *évènement en cours",
-    "ES": "Evento de asalto activo *Evento actualmente en curso",
-    "TH": "สรรพคุณพิเศษอีเว้นท์เหรด *อีเว้นท์ที่กำลังจัดอยู่ตอนนี้",
+    "DE": "Raid Event Exclusive Effect (Note: For current ongoing event only)",
+    "FR": "Raid Event Exclusive Effect (Note: For current ongoing event only)",
+    "ES": "Raid Event Exclusive Effect (Note: For current ongoing event only)",
+    "TH": "Raid Event Exclusive Effect (Note: For current ongoing event only)",
     "VN": ""
   },
   {
@@ -17325,10 +17325,10 @@
     "JP": "無限進化武器",
     "EN": "Infinity Weapon",
     "KR": "무한 진화 무기",
-    "DE": "Waffen mit unendlicher Entwicklung",
-    "FR": "Armes pouvant évoluer à l'infini",
-    "ES": "Arma de mejora ilimitada",
-    "TH": "อาวุธวิวัฒนาการไร้ขีดจำกัด",
+    "DE": "Infinity Weapon",
+    "FR": "Infinity Weapon",
+    "ES": "Infinity Weapon",
+    "TH": "Infinity Weapon",
     "VN": ""
   },
   {
@@ -17367,10 +17367,10 @@
     "JP": "武器あり",
     "EN": "Has weapon",
     "KR": "무기 있음",
-    "DE": "Waffe Vorhanden",
-    "FR": "Avec Arme",
-    "ES": "Con armas",
-    "TH": "มีอาวุธ",
+    "DE": "Has weapon",
+    "FR": "Has weapon",
+    "ES": "Has weapon",
+    "TH": "Has weapon",
     "VN": ""
   },
   {
@@ -17381,10 +17381,10 @@
     "JP": "武器なし",
     "EN": "None",
     "KR": "무기 없음",
-    "DE": "Keine Waffe",
-    "FR": "Sans Arme",
-    "ES": "Sin armas",
-    "TH": "ไม่มีอาวุธ",
+    "DE": "None",
+    "FR": "None",
+    "ES": "None",
+    "TH": "None",
     "VN": ""
   },
   {
@@ -17423,10 +17423,10 @@
     "JP": "特効あり",
     "EN": "Has effect",
     "KR": "특효 있음",
-    "DE": "Spezialeffekt vorhanden",
-    "FR": "Avec spécial",
-    "ES": "Con efectos",
-    "TH": "มีสรรพคุณพิเศษ",
+    "DE": "Has effect",
+    "FR": "Has effect",
+    "ES": "Has effect",
+    "TH": "Has effect",
     "VN": ""
   },
   {
@@ -17437,10 +17437,10 @@
     "JP": "特効なし",
     "EN": "None",
     "KR": "특효 없음",
-    "DE": "Kein Spezialeffekt",
-    "FR": "Sans spécial",
-    "ES": "Sin efectos",
-    "TH": "ไม่มีสรรพคุณพิเศษ",
+    "DE": "None",
+    "FR": "None",
+    "ES": "None",
+    "TH": "None",
     "VN": ""
   },
   {
@@ -17465,10 +17465,10 @@
     "JP": "スキル種別",
     "EN": "Skill Type",
     "KR": "스킬 종류별",
-    "DE": "Fertigkeiten Klassifizierung",
-    "FR": "Classification des compétences",
-    "ES": "Tipo de habilidades",
-    "TH": "ตามประเภทสกิล",
+    "DE": "Skill Type",
+    "FR": "Skill Type",
+    "ES": "Skill Type",
+    "TH": "Skill Type",
     "VN": ""
   },
   {
@@ -17476,13 +17476,13 @@
     "TLM": 51818,
     "Type": 0,
     "GameKey": "PREFAB",
-    "JP": "※スキル検索、スキル効果などの項目と組み合わせて\\nご使用下さい。",
-    "EN": "Note: When searching skills, please signify effects or other items.",
-    "KR": "※스킬 검색, 스킬 효과 등의 항목과 조합하여\\n사용하세요.",
-    "DE": "*Bei der Fertigkeiten Suche kannst du Gliederungspunkte von Effekte etc. kombiniert benutzen.",
-    "FR": "*Recherche de compétences, veuillez l'utiliser en combinant avec des éléments tels que l'efficacité des compétences.",
-    "ES": "*Úsalo junto con elementos de búsqueda de habilidades,\\nefectos de habilidades, etc.",
-    "TH": "*กรุณาใช้งานโดยรวมหัวข้อ เช่น\\nค้นหาสกิล, ผลเอฟเฟกต์",
+    "JP": "スキル効果、スキル対象数の項目と組み合わせてご使用下さい。",
+    "EN": "Please use in combination with Skill Effects and/or Skill Target Count.",
+    "KR": "스킬 효과, 스킬 대상 수 항목과 조합하여 사용하세요.",
+    "DE": "Please use in combination with Skill Effects and/or Skill Target Count.",
+    "FR": "Please use in combination with Skill Effects and/or Skill Target Count.",
+    "ES": "Please use in combination with Skill Effects and/or Skill Target Count.",
+    "TH": "Please use in combination with Skill Effects and/or Skill Target Count.",
     "VN": ""
   },
   {
@@ -17535,10 +17535,10 @@
     "JP": "モノガタリ・コロシアムスキル効果",
     "EN": "Story/Colosseum Skill Effects",
     "KR": "이야기/콜로세움 스킬 효과",
-    "DE": "Geschichte, Kolosseumsfertigkeiteneffekt",
-    "FR": "Effet sur l'efficacité des compétences dans l'Histoire/le Colisée",
-    "ES": "Resultados de habilidades para la Historia / Coliseo",
-    "TH": "ผลเอฟเฟกต์สกิลโคลอสเซียม-เนื้อเรื่อง",
+    "DE": "Story/Colosseum Skill Effects",
+    "FR": "Story/Colosseum Skill Effects",
+    "ES": "Story/Colosseum Skill Effects",
+    "TH": "Story/Colosseum Skill Effects",
     "VN": ""
   },
   {
@@ -17549,10 +17549,10 @@
     "JP": "※2種選択している場合は、一つのスキル内効果に\\n2種の効果を所有している武器のみが表示されます。\\n※モノガタリスキルとコロシアムスキルで\\n効果が異なる武器を絞り込む場合、\\nスキル種別を必ず1つのみ選択してください。",
     "EN": "Notes:\\n-If two items are selected, only skills that possess both will be displayed.\\n-When narrowing down weapons with different effects for story and Colosseum skills, be sure to select only one item.",
     "KR": "※두 종류의 스킬을 선택한 경우\\n해당하는 두 스킬을 모두 보유한 무기만 표시됩니다.\\n※이야기 스킬과 콜로세움 스킬의 효과가\\n각기 다른 무기를 필터링할 경우\\n반드시 한 종류의 스킬만 선택하여 주십시오.",
-    "DE": "Wenn du zwei Typen auswählst, werden nur Waffen angezeigt, die zwei Effekte besitzen.\\nWähle bitte nur eine Klassifizierung aus, wenn sich die Geschichtsfertigkeiten und die Kolloseumsfertigkeiten Effekte unterscheiden.",
-    "FR": "*Lorsque vous faites deux sélection, seule les armes possédant\\nl'effet des deux sélection dans leur compétence s'afficheront.\\n*Lorsque vous réduisez la recherche d'arme avec des effets différents\\nde ceux des compétences de Colisée et des compétences d'histoire,\\nassurez-vous de ne sélectionner qu'un seul type de compétence.",
-    "ES": "*Si se seleccionan 2 tipos, solo se mostrarán las armas que tengan\\n2 tipos de efectos como efecto de habilidad.\\n*En caso de reducirse las armas con diferentes efectos\\nasegúrate de seleccionar solo un tipo de habilidad en la historia y en la habilidad del Coliseo.\\n ",
-    "TH": "*กรณีที่เลือก 2 ประเภท\\nอาวุธที่มีเอฟเฟกต์ทั้ง 2 ประเภทเท่านั้นที่จะแสดง\\n*กรณีที่เลือกระบุอาวุธที่เอฟเฟกต์แตกต่างกันด้วย\\nสกิลเนื้อเรื่องกับสกิลโคลอสเซียม\\nกรุณาเลือกประเภทสกิลเพียง 1 เท่านั้น",
+    "DE": "Notes:\\n-If two items are selected, only skills that possess both will be displayed.\\n-When narrowing down weapons with different effects for story and Colosseum skills, be sure to select only one item.",
+    "FR": "Notes:\\n-If two items are selected, only skills that possess both will be displayed.\\n-When narrowing down weapons with different effects for story and Colosseum skills, be sure to select only one item.",
+    "ES": "Notes:\\n-If two items are selected, only skills that possess both will be displayed.\\n-When narrowing down weapons with different effects for story and Colosseum skills, be sure to select only one item.",
+    "TH": "Notes:\\n-If two items are selected, only skills that possess both will be displayed.\\n-When narrowing down weapons with different effects for story and Colosseum skills, be sure to select only one item.",
     "VN": ""
   },
   {
@@ -17561,12 +17561,12 @@
     "Type": 0,
     "GameKey": "PREFAB",
     "JP": "スキル対象数",
-    "EN": "Skill Target Amounts",
+    "EN": "Skill Target Count",
     "KR": "스킬 대상 수",
-    "DE": "Betroffene Fertigkeitenanzahl",
-    "FR": "Cible(s) de la compétence",
-    "ES": "Nº de habilidades",
-    "TH": "จำนวนสกิลเป้าหมาย",
+    "DE": "Skill Target Count",
+    "FR": "Skill Target Count",
+    "ES": "Skill Target Count",
+    "TH": "Skill Target Count",
     "VN": ""
   },
   {
@@ -17580,7 +17580,7 @@
     "DE": "1",
     "FR": "1",
     "ES": "1",
-    "TH": "1คน",
+    "TH": "1",
     "VN": ""
   },
   {
@@ -17591,10 +17591,10 @@
     "JP": "1～2体",
     "EN": "1 to 2",
     "KR": "1~2명",
-    "DE": "1-2",
-    "FR": "1 à 2",
-    "ES": "1~2",
-    "TH": "1-2คน",
+    "DE": "1 to 2",
+    "FR": "1 to 2",
+    "ES": "1 to 2",
+    "TH": "1 to 2",
     "VN": ""
   },
   {
@@ -17605,10 +17605,10 @@
     "JP": "1～3体",
     "EN": "1 to 3",
     "KR": "1~3명",
-    "DE": "1-3",
-    "FR": "1 à 3",
-    "ES": "1~3",
-    "TH": "1-3คน",
+    "DE": "1 to 3",
+    "FR": "1 to 3",
+    "ES": "1 to 3",
+    "TH": "1 to 3",
     "VN": ""
   },
   {
@@ -17622,7 +17622,7 @@
     "DE": "2",
     "FR": "2",
     "ES": "2",
-    "TH": "2คน",
+    "TH": "2",
     "VN": ""
   },
   {
@@ -17633,10 +17633,10 @@
     "JP": "2～3体",
     "EN": "2 to 3",
     "KR": "2~3명",
-    "DE": "2-3",
-    "FR": "2 à 3",
-    "ES": "2~3",
-    "TH": "2-3คน",
+    "DE": "2 to 3",
+    "FR": "2 to 3",
+    "ES": "2 to 3",
+    "TH": "2 to 3",
     "VN": ""
   },
   {
@@ -17650,7 +17650,7 @@
     "DE": "3",
     "FR": "3",
     "ES": "3",
-    "TH": "3คน",
+    "TH": "3",
     "VN": ""
   },
   {
@@ -17661,10 +17661,10 @@
     "JP": "勇猛果敢",
     "EN": "Dauntless Courage",
     "KR": "용맹 과감",
-    "DE": "Unerschrockener Mut",
-    "FR": "Courage de l'intrépide",
-    "ES": "Coraje del valiente",
-    "TH": "กล้าหาญชาญชัย",
+    "DE": "Dauntless Courage",
+    "FR": "Dauntless Courage",
+    "ES": "Dauntless Courage",
+    "TH": "Dauntless Courage",
     "VN": ""
   },
   {
@@ -17675,10 +17675,10 @@
     "JP": "補助支援",
     "EN": "Assistance Support",
     "KR": "보조 지원",
-    "DE": "Unterstützung",
-    "FR": "Bénédiction de soutien",
-    "ES": "Ayuda de apoyo",
-    "TH": "ช่วยสนับสนุน",
+    "DE": "Assistance Support",
+    "FR": "Assistance Support",
+    "ES": "Assistance Support",
+    "TH": "Assistance Support",
     "VN": ""
   },
   {
@@ -17689,10 +17689,10 @@
     "JP": "回復支援",
     "EN": "Recovery Support",
     "KR": "회복 지원",
-    "DE": "Regenerationsunterstützung",
-    "FR": "Soutien de récupération",
-    "ES": "Apoyo de recuperación",
-    "TH": "สนับสนุนการฟื้นฟู",
+    "DE": "Recovery Support",
+    "FR": "Recovery Support",
+    "ES": "Recovery Support",
+    "TH": "Recovery Support",
     "VN": ""
   },
   {
@@ -17703,10 +17703,10 @@
     "JP": "乾坤一擲",
     "EN": "All or Nothing",
     "KR": "건곤일척",
-    "DE": "Alles oder nichts",
-    "FR": "Le tout pour le tout",
-    "ES": "Todo o nada",
-    "TH": "ชี้ชะตาแพ้ชนะ",
+    "DE": "All or Nothing",
+    "FR": "All or Nothing",
+    "ES": "All or Nothing",
+    "TH": "All or Nothing",
     "VN": ""
   },
   {
@@ -17717,10 +17717,10 @@
     "JP": "起死回生",
     "EN": "Resurrection",
     "KR": "기사회생",
-    "DE": "Wiedergeburt",
-    "FR": "Résurrection",
-    "ES": "Resurrección",
-    "TH": "ฟื้นคืนชีพ",
+    "DE": "Resurrection",
+    "FR": "Resurrection",
+    "ES": "Resurrection",
+    "TH": "Resurrection",
     "VN": ""
   },
   {
@@ -17731,10 +17731,10 @@
     "JP": "回帰定理",
     "EN": "Recurrence Theorem",
     "KR": "회귀 정리",
-    "DE": "Wiederholungstheorem",
-    "FR": "Théorème de récurrence",
-    "ES": "Teorema de recurrencia",
-    "TH": "ทฤษฎีการเกิดใหม่",
+    "DE": "Recurrence Theorem",
+    "FR": "Recurrence Theorem",
+    "ES": "Recurrence Theorem",
+    "TH": "Recurrence Theorem",
     "VN": ""
   },
   {
@@ -19891,6 +19891,20 @@
     "FR": "Power Up!",
     "ES": "Power Up!",
     "TH": "Power Up!",
+    "VN": ""
+  },
+  {
+    "id": 1422,
+    "TLM": 52517,
+    "Type": 0,
+    "GameKey": "PREFAB",
+    "JP": "3～4体",
+    "EN": "3 to 4",
+    "KR": "3~4명",
+    "DE": "3 to 4",
+    "FR": "3 to 4",
+    "ES": "3 to 4",
+    "TH": "3 to 4",
     "VN": ""
   }
 ]

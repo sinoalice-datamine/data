@@ -133,10 +133,10 @@
     "JP": "物攻UP",
     "EN": "P.ATK UP",
     "KR": "물공 상승",
-    "DE": "P.ANG PLUS",
-    "FR": "ATQ PHY +",
-    "ES": "AUMENTO ATQ FÍS",
-    "TH": "PHY ATK UP",
+    "DE": "P.ATK UP",
+    "FR": "P.ATK UP",
+    "ES": "P.ATK UP",
+    "TH": "P.ATK UP",
     "VN": "Tăng công vật lý"
   },
   {
@@ -147,10 +147,10 @@
     "JP": "物防UP",
     "EN": "P.DEF UP",
     "KR": "물방 상승",
-    "DE": "P.ABW PLUS",
-    "FR": "DÉF PHY +",
-    "ES": "AUMENTO DEF FÍS",
-    "TH": "PHY DEF UP",
+    "DE": "P.DEF UP",
+    "FR": "P.DEF UP",
+    "ES": "P.DEF UP",
+    "TH": "P.DEF UP",
     "VN": "Tăng thủ vật lý"
   },
   {
@@ -161,10 +161,10 @@
     "JP": "魔攻UP",
     "EN": "M.ATK UP",
     "KR": "마공 상승",
-    "DE": "M.ANG PLUS",
-    "FR": "ATQ MAG +",
-    "ES": "AUMENTO ATQ MÁG",
-    "TH": "MAG ATK UP",
+    "DE": "M.ATK UP",
+    "FR": "M.ATK UP",
+    "ES": "M.ATK UP",
+    "TH": "M.ATK UP",
     "VN": "Tăng công phép"
   },
   {
@@ -175,10 +175,10 @@
     "JP": "魔防UP",
     "EN": "M.DEF UP",
     "KR": "마방 상승",
-    "DE": "M.ABW PLUS",
-    "FR": "DÉF MAG +",
-    "ES": "AUMENTO DEF MÁG",
-    "TH": "MAG DEF UP",
+    "DE": "M.DEF UP",
+    "FR": "M.DEF UP",
+    "ES": "M.DEF UP",
+    "TH": "M.DEF UP",
     "VN": "Tăng thủ phép"
   },
   {
@@ -189,10 +189,10 @@
     "JP": "物攻DOWN",
     "EN": "P.ATK DOWN",
     "KR": "물공 감소",
-    "DE": "P.ANG MINUS",
-    "FR": "ATQ PHY -",
-    "ES": "DISMINUCIÓN ATQ FÍS",
-    "TH": "PHY ATK DOWN",
+    "DE": "P.ATK DOWN",
+    "FR": "P.ATK DOWN",
+    "ES": "P.ATK DOWN",
+    "TH": "P.ATK DOWN",
     "VN": "Giảm công vật lý"
   },
   {
@@ -203,10 +203,10 @@
     "JP": "物防DOWN",
     "EN": "P.DEF DOWN",
     "KR": "물방 감소",
-    "DE": "P.ABW MINUS",
-    "FR": "DÉF PHY -",
-    "ES": "DISMINUCIÓN DEF FÍS",
-    "TH": "PHY DEF DOWN",
+    "DE": "P.DEF DOWN",
+    "FR": "P.DEF DOWN",
+    "ES": "P.DEF DOWN",
+    "TH": "P.DEF DOWN",
     "VN": "Giảm thủ vật lý"
   },
   {
@@ -217,10 +217,10 @@
     "JP": "魔攻DOWN",
     "EN": "M.ATK DOWN",
     "KR": "마공 감소",
-    "DE": "M.ANG MINUS",
-    "FR": "ATQ MAG -",
-    "ES": "DISMINUCIÓN ATQ MÁG",
-    "TH": "MAG ATK DOWN",
+    "DE": "M.ATK DOWN",
+    "FR": "M.ATK DOWN",
+    "ES": "M.ATK DOWN",
+    "TH": "M.ATK DOWN",
     "VN": "Giảm công phép"
   },
   {
@@ -231,10 +231,10 @@
     "JP": "魔防DOWN",
     "EN": "M.DEF DOWN",
     "KR": "마방 감소",
-    "DE": "M.ABW MINUS",
-    "FR": "DÉF MAG -",
-    "ES": "DISMINUCIÓN DEF MÁG",
-    "TH": "MAG DEF DOWN",
+    "DE": "M.DEF DOWN",
+    "FR": "M.DEF DOWN",
+    "ES": "M.DEF DOWN",
+    "TH": "M.DEF DOWN",
     "VN": "Giảm thủ phép"
   },
   {

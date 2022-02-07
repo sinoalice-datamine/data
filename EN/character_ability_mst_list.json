@@ -19680,6 +19680,126 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 2273,
+    "characterMstId": 193,
+    "name": "Blade +60% (Alice+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2274,
+    "characterMstId": 193,
+    "name": "Blade +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2275,
+    "characterMstId": 193,
+    "name": "P.ATK +80",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 80,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2276,
+    "characterMstId": 193,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2277,
+    "characterMstId": 193,
+    "name": "M.ATK +120",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 120,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2278,
+    "characterMstId": 193,
+    "name": "M.DEF +140",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 140,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2279,
+    "characterMstId": 193,
+    "name": "M.DEF +160",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 160,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2280,
+    "characterMstId": 193,
+    "name": "M.ATK +180",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 180,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2281,
+    "characterMstId": 193,
+    "name": "P.DEF +200",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2282,
+    "characterMstId": 193,
+    "name": "P.ATK +220",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 220,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2283,
+    "characterMstId": 193,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2284,
+    "characterMstId": 193,
+    "name": "M.ATK +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 2303,
     "characterMstId": 194,
     "name": "Polearm +30% (Snow White+ stages)",
@@ -19938,6 +20058,26 @@
     "effectType": 4,
     "effectValue": 300,
     "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 2329,
+    "characterMstId": 193,
+    "name": "HP +200",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2330,
+    "characterMstId": 193,
+    "name": "P.ATK +300",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
   },
   {
     "characterAbilityMstId": 2331,
@@ -22158,6 +22298,126 @@
     "effectType": 1,
     "effectValue": 200,
     "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 2739,
+    "characterMstId": 219,
+    "name": "Polearm (Fire) +30% (Little Mermaid+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2740,
+    "characterMstId": 219,
+    "name": "All Weapons (Water) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 2741,
+    "characterMstId": 219,
+    "name": "Polearm (Fire) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2742,
+    "characterMstId": 219,
+    "name": "Polearm (Fire) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2743,
+    "characterMstId": 219,
+    "name": "M.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2744,
+    "characterMstId": 219,
+    "name": "P.DEF +1,000",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 1000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2745,
+    "characterMstId": 219,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2746,
+    "characterMstId": 219,
+    "name": "M.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2747,
+    "characterMstId": 219,
+    "name": "Polearm (Fire) +10% (Little Mermaid+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2748,
+    "characterMstId": 219,
+    "name": "M.DMG +2% when using polearm class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5032,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2749,
+    "characterMstId": 219,
+    "name": "M.DEF +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 2750,
+    "characterMstId": 219,
+    "name": "M.DEF +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 8
   },
   {
     "characterAbilityMstId": 2751,
@@ -28860,6 +29120,146 @@
     "cardDetailType": 3
   },
   {
+    "characterAbilityMstId": 4443,
+    "characterMstId": 359,
+    "name": "Heavy (Fire) +30% (Red Riding Hood+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4444,
+    "characterMstId": 359,
+    "name": "All Weapons (Water) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 4445,
+    "characterMstId": 359,
+    "name": "Heavy (Fire) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4446,
+    "characterMstId": 359,
+    "name": "Heavy (Fire) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4447,
+    "characterMstId": 359,
+    "name": "P.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4448,
+    "characterMstId": 359,
+    "name": "M.DEF +1,000",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 1000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4449,
+    "characterMstId": 359,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4450,
+    "characterMstId": 359,
+    "name": "P.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4451,
+    "characterMstId": 359,
+    "name": "Heavy (Fire) +10% (Red Riding Hood+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4452,
+    "characterMstId": 359,
+    "name": "P.DMG +2% when using heavy class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5030,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4453,
+    "characterMstId": 359,
+    "name": "P.DEF +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4454,
+    "characterMstId": 359,
+    "name": "P.DEF +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4455,
+    "characterMstId": 359,
+    "name": "Heavy (Fire) +30% (Red Riding Hood+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4456,
+    "characterMstId": 359,
+    "name": "P.ATK +1,000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 1000,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 4595,
     "characterMstId": 89,
     "name": "Staff +10% (Cinderella+ stages)",
@@ -29758,6 +30158,26 @@
     "effectType": 1,
     "effectValue": 400,
     "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 5023,
+    "characterMstId": 219,
+    "name": "Polearm (Fire) +30% (Little Mermaid+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5024,
+    "characterMstId": 219,
+    "name": "M.ATK +1,000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 1000,
+    "cardDetailType": 8
   },
   {
     "characterAbilityMstId": 5025,
@@ -31358,6 +31778,26 @@
     "effectType": 12,
     "effectValue": 800,
     "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6811,
+    "characterMstId": 359,
+    "name": "P.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6812,
+    "characterMstId": 359,
+    "name": "P.DEF +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 6
   },
   {
     "characterAbilityMstId": 6819,
@@ -34938,5 +35378,45 @@
     "effectType": 2,
     "effectValue": 350,
     "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 900177,
+    "characterMstId": 193,
+    "name": "P.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 900178,
+    "characterMstId": 193,
+    "name": "M.ATK +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 900179,
+    "characterMstId": 219,
+    "name": "M.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 900180,
+    "characterMstId": 219,
+    "name": "M.DEF +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 8
   }
 ]
