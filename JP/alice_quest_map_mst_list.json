@@ -5775,6 +5775,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 551,
+    "mapType": 1,
+    "mapGroup": 532,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "モフモフとのであいNormal",
+    "description": "サンリオイベントNormal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 552,
+    "mapType": 1,
+    "mapGroup": 532,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "モフモフとのであいHard",
+    "description": "サンリオイベントHard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 553,
     "mapType": 1,
     "mapGroup": 533,
