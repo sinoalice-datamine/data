@@ -4298,7 +4298,7 @@
     "isComingSoon": false,
     "unCombatFlag": false,
     "isGve": false,
-    "disableMultipleCharacter": false,
+    "disableMultipleCharacter": true,
     "createdTime": 1483974000
   },
   {
@@ -6289,6 +6289,24 @@
     "exchangesSceneName": "",
     "assetBundleName": "questareabackground/121",
     "bgResourceName": "0121",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 456,
+    "questMapMstId": 213,
+    "name": "Snake Eyes",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/17",
+    "bgResourceName": "0017",
     "cueSheetName": "bgm_mypage",
     "cueName": "bgm_mypage@001",
     "bgm": "",
