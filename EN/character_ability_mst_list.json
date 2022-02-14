@@ -20940,6 +20940,126 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 2549,
+    "characterMstId": 206,
+    "name": "Blade (Water) +30% (Snow White+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2550,
+    "characterMstId": 206,
+    "name": "All Weapons (Wind) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 2551,
+    "characterMstId": 206,
+    "name": "Blade (Water) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2552,
+    "characterMstId": 206,
+    "name": "Blade (Water) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2553,
+    "characterMstId": 206,
+    "name": "P.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2554,
+    "characterMstId": 206,
+    "name": "HP +1,200",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2555,
+    "characterMstId": 206,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2556,
+    "characterMstId": 206,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2557,
+    "characterMstId": 206,
+    "name": "Blade (Water) +10% (Snow White+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2558,
+    "characterMstId": 206,
+    "name": "P.DMG +2% when using blade class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5029,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2559,
+    "characterMstId": 206,
+    "name": "P.ATK +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 2560,
+    "characterMstId": 206,
+    "name": "P.ATK +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 2589,
     "characterMstId": 181,
     "name": "Tome (Wind) +30%  (Alice+ stages)",
@@ -26560,6 +26680,126 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 3311,
+    "characterMstId": 266,
+    "name": "Tome (Water) +30% (Cinderella+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 3312,
+    "characterMstId": 266,
+    "name": "All Weapons (Wind) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 3313,
+    "characterMstId": 266,
+    "name": "Tome (Water) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 3314,
+    "characterMstId": 266,
+    "name": "Tome (Water) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 3315,
+    "characterMstId": 266,
+    "name": "M.DEF +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 3316,
+    "characterMstId": 266,
+    "name": "P.DEF +1,000",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 1000,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 3317,
+    "characterMstId": 266,
+    "name": "M.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 3318,
+    "characterMstId": 266,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 3319,
+    "characterMstId": 266,
+    "name": "Tome (Water) +10% (Cinderella+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 3320,
+    "characterMstId": 266,
+    "name": "Debuff effect +2% when using tome class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5034,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 3321,
+    "characterMstId": 266,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 3322,
+    "characterMstId": 266,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
     "characterAbilityMstId": 3433,
     "characterMstId": 274,
     "name": "Staff (Fire) +30% (Alice+ stages)",
@@ -27098,6 +27338,26 @@
     "effectType": 4,
     "effectValue": 350,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 3609,
+    "characterMstId": 206,
+    "name": "Blade (Water) +30% (Snow White+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 3610,
+    "characterMstId": 206,
+    "name": "P.ATK +1,000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 1000,
+    "cardDetailType": 5
   },
   {
     "characterAbilityMstId": 3613,
@@ -29120,6 +29380,26 @@
     "cardDetailType": 3
   },
   {
+    "characterAbilityMstId": 4423,
+    "characterMstId": 266,
+    "name": "Tome (Water) +30% (Cinderella+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4424,
+    "characterMstId": 266,
+    "name": "M.DEF +1,000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 1000,
+    "cardDetailType": 2
+  },
+  {
     "characterAbilityMstId": 4443,
     "characterMstId": 359,
     "name": "Heavy (Fire) +30% (Red Riding Hood+ stages)",
@@ -31040,6 +31320,26 @@
     "cardDetailType": 1
   },
   {
+    "characterAbilityMstId": 6077,
+    "characterMstId": 266,
+    "name": "P.DEF +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6078,
+    "characterMstId": 266,
+    "name": "M.DEF +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
     "characterAbilityMstId": 6217,
     "characterMstId": 489,
     "name": "Tome +30% (NieR Replicant+ stages)",
@@ -31238,6 +31538,26 @@
     "effectType": 5,
     "effectValue": 100,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6363,
+    "characterMstId": 206,
+    "name": "P.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6364,
+    "characterMstId": 206,
+    "name": "P.DEF +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 5
   },
   {
     "characterAbilityMstId": 6405,
