@@ -5150,5 +5150,37 @@
     "endTime": 1646146799,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 342,
+    "name": "復刻ドロシー工房メダル",
+    "description": "ガチャで獲得できるメダル\r\n※2022年3月7日23:59まで",
+    "resourceName": "0",
+    "assetBundleName": "item20200124_pinocchio_gacha",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2022年3月7日23:59まで",
+    "priority": 43,
+    "itemMstId": 4181,
+    "startTime": 1645077600,
+    "endTime": 1646665199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 343,
+    "name": "スノウホワイトメダル",
+    "description": "ガチャで獲得できるメダル\r\n※2022年3月7日23:59まで",
+    "resourceName": "0",
+    "assetBundleName": "item20200124_pinocchio_gacha",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2022年3月7日23:59まで",
+    "priority": 43,
+    "itemMstId": 4182,
+    "startTime": 1645077600,
+    "endTime": 1646665199,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]
