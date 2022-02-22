@@ -5136,6 +5136,38 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 339,
+    "name": "アルカナメダル",
+    "description": "アルカナと交換できるメダル\r\n※2022年3月10日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "216",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "アルカナメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2022年3月10日23:59まで",
+    "priority": 37,
+    "itemMstId": 4091,
+    "startTime": 1645509600,
+    "endTime": 1646924399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 340,
+    "name": "ジョブメダル",
+    "description": "魔晶石購入特典のジョブと交換できるメダル\r\n※2022年3月10日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "217",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ジョブメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2022年3月10日23:59まで",
+    "priority": 37,
+    "itemMstId": 4092,
+    "startTime": 1645509600,
+    "endTime": 1646924399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 341,
     "name": "ハローキティメダル",
     "description": "ギシンアンキが集めているメダル※2022年3月1日23:59まで",

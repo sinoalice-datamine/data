@@ -19988,6 +19988,25 @@
     "createdTime": 1467266410
   },
   {
+    "gachaSeriesMstId": 2707,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 6504,
+    "isAlways": false,
+    "name": "純真ノ花束ガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅱ)\r\n枚数：1回ガチャで10枚、11回ガチャで100枚\r\n有効期限：2022年3月7日23:59",
+    "priority": 17000,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=9575&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 5001,
     "gachaGroupId": 9,
     "topBannerMstId": 0,
