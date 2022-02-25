@@ -627,6 +627,72 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 79,
+    "mapType": 1,
+    "mapGroup": 47,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Nightmare in the Chapel",
+    "description": "Jörmungandr Redux",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 80,
+    "mapType": 1,
+    "mapGroup": 47,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "Nightmare in the Chapel (Hard)",
+    "description": "Jörmungandr Redux (Hard)",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 81,
+    "mapType": 1,
+    "mapGroup": 48,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Dragon of the Depths",
+    "description": "Fafnir Redux",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 82,
+    "mapType": 1,
+    "mapGroup": 48,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "Dragon of the Depths (Hard)",
+    "description": "Fafnir Redux (Hard)",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 83,
+    "mapType": 1,
+    "mapGroup": 49,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Nightmare in the Woods",
+    "description": "Ogre Redux",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 84,
+    "mapType": 1,
+    "mapGroup": 49,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "Nightmare in the Woods (Hard)",
+    "description": "Ogre Redux (Hard)",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 86,
     "mapType": 1,
     "mapGroup": 51,
@@ -1595,6 +1661,17 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 275,
+    "mapType": 1,
+    "mapGroup": 167,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Daily Stage",
+    "description": "曜日イベントNormal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 276,
     "mapType": 1,
     "mapGroup": 106,
@@ -1823,6 +1900,50 @@
     "name": "アリス、もう一人(ライト版)",
     "description": "CP「アリス、もう一人(ライト版)」Normal",
     "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 395,
+    "mapType": 1,
+    "mapGroup": 244,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Divine Mechanism of Rebellion: Chapter 1",
+    "description": "メダル「叛逆の機神」Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6352&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 396,
+    "mapType": 1,
+    "mapGroup": 245,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Divine Mechanism of Rebellion: Chapter 2",
+    "description": "メダル「叛逆の機神」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6352&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 399,
+    "mapType": 1,
+    "mapGroup": 246,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Divine Mechanism of Rebellion: Final Chapter",
+    "description": "メダル「叛逆の機神」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6352&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 400,
+    "mapType": 1,
+    "mapGroup": 246,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "Divine Mechanism of Rebellion (Hard)",
+    "description": "メダル「叛逆の機神」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6352&&isHideBackButton=1",
     "createdTime": 1483974000
   },
   {

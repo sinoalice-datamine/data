@@ -219,8 +219,8 @@
     "wayToGet": "Earned by playing an event.",
     "priority": 30,
     "itemMstId": 345,
-    "startTime": 1643608800,
-    "endTime": 1644901199,
+    "startTime": 1645765200,
+    "endTime": 1647061199,
     "displayType": 0,
     "isDeleted": false
   },
@@ -720,6 +720,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 70,
+    "name": "Medal of Desire (III)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "0003",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 1054,
+    "startTime": 1645768800,
+    "endTime": 1650034799,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 79,
     "name": "Camp Medal",
     "description": "Medal collected by Parrah-Noya.",
@@ -911,6 +926,21 @@
     "itemMstId": 2249,
     "startTime": 1637215200,
     "endTime": 1639029599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 196,
+    "name": "Robo Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20220225_medal_hangyaku",
+    "assetBundleName": "2602",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 2602,
+    "startTime": 1645765200,
+    "endTime": 1647583199,
     "displayType": 0,
     "isDeleted": false
   },

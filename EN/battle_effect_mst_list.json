@@ -2212,6 +2212,48 @@
     "createdTime": 1485961226
   },
   {
+    "battleEffectMstId": 246,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_robot",
+    "cueName": "se_robot@001_R",
+    "createdTime": 1485961200
+  },
+  {
+    "battleEffectMstId": 247,
+    "positionType": 2,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_robot",
+    "cueName": "",
+    "createdTime": 1485961200
+  },
+  {
+    "battleEffectMstId": 248,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": -50,
+    "additionalPositionZ": 0,
+    "magnificationScale": 90,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_robot",
+    "cueName": "se_robot@002_R",
+    "createdTime": 1485961200
+  },
+  {
     "battleEffectMstId": 249,
     "positionType": 3,
     "additionalPositionX": 400,
