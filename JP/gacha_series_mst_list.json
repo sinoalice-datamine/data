@@ -20026,6 +20026,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 2712,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 6509,
+    "isAlways": false,
+    "name": "復刻　淘汰ノ果テガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅲ)\r\n枚数：11回ガチャで100枚\r\n有効期限：2022年4月7日23:59",
+    "priority": 17001,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=9614&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 5001,
     "gachaGroupId": 9,
     "topBannerMstId": 0,

@@ -5222,6 +5222,34 @@
     "createdTime": 1485961226
   },
   {
+    "battleEffectMstId": 406,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 7,
+    "cueSheet": "se_touta6",
+    "cueName": "se_touta6@001_R",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 407,
+    "positionType": 4,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "",
+    "cueName": "",
+    "createdTime": 1485961226
+  },
+  {
     "battleEffectMstId": 409,
     "positionType": 1,
     "additionalPositionX": 0,
@@ -5247,6 +5275,62 @@
     "period": 5,
     "cueSheet": "se_touta5_F",
     "cueName": "se_touta5_F@003_R",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 411,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_touta6",
+    "cueName": "se_touta6@003_R",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 412,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_touta6",
+    "cueName": "se_touta6@002_R",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 423,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 7,
+    "cueSheet": "se_touta6",
+    "cueName": "se_touta6@001_R",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 424,
+    "positionType": 4,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 7,
+    "cueSheet": "",
+    "cueName": "",
     "createdTime": 1485961226
   }
 ]
