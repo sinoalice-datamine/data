@@ -5830,6 +5830,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 556,
+    "mapType": 1,
+    "mapGroup": 534,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "乙女の学宴",
+    "description": "乙女ゲームイベントNormal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 557,
+    "mapType": 1,
+    "mapGroup": 534,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "乙女の学宴Hard",
+    "description": "乙女ゲームイベントHard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 558,
     "mapType": 1,
     "mapGroup": 535,
@@ -5903,6 +5925,17 @@
     "mapCategory": 0,
     "name": "幽魂ノ群衆Hard",
     "description": "討伐「幽魂ノ群衆」Hard",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 572,
+    "mapType": 1,
+    "mapGroup": 545,
+    "mapGroupLv": 1,
+    "mapCategory": 8,
+    "name": "乙女ゲーパート",
+    "description": "乙女ゲーイベント　乙女ゲーパート",
     "announceUrl": "",
     "createdTime": 1483974000
   },
