@@ -2086,6 +2086,34 @@
     "createdTime": null
   },
   {
+    "chatStampMstId": 165,
+    "name": "いばら姫/つよい！かわいい！りりおん！(WGC優勝)",
+    "resourceName": "165",
+    "assetBundleName": "chat65",
+    "filterType": 8,
+    "howToGet": "WGC優勝ギルドメンバーが獲得可能",
+    "itemMstId": 4291,
+    "replaceMessage": "[*165]",
+    "isAnytime": 0,
+    "startTime": 1646892000,
+    "endTime": 1646899200,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 166,
+    "name": "いばら姫/いぇーい/Defier(WGC準優勝)",
+    "resourceName": "166",
+    "assetBundleName": "chat65",
+    "filterType": 8,
+    "howToGet": "WGC準優勝ギルドメンバーが獲得可能",
+    "itemMstId": 4292,
+    "replaceMessage": "[*166]",
+    "isAnytime": 0,
+    "startTime": 1646892000,
+    "endTime": 1646899200,
+    "createdTime": null
+  },
+  {
     "chatStampMstId": 900001,
     "name": "スノウホワイト/No.1",
     "resourceName": "900001",
