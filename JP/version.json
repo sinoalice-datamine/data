@@ -1,9 +1,9 @@
 {
-  "lastCreatedTime": "2022-03-10 16:27:30",
+  "lastCreatedTime": "2022-03-15 15:40:02",
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
-      "version": 1155,
+      "version": 1158,
       "names": [
         "item_mst_list"
       ]
@@ -17,7 +17,7 @@
     },
     {
       "mstTableId": 5,
-      "version": 348,
+      "version": 350,
       "names": [
         "art_mst_list"
       ]
@@ -38,14 +38,14 @@
     },
     {
       "mstTableId": 8,
-      "version": 1167,
+      "version": 1169,
       "names": [
         "medal_trade_mst_list"
       ]
     },
     {
       "mstTableId": 9,
-      "version": 996,
+      "version": 997,
       "names": [
         "card_mst_list"
       ]
@@ -66,14 +66,14 @@
     },
     {
       "mstTableId": 16,
-      "version": 385,
+      "version": 386,
       "names": [
         "login_bonus_mst_list"
       ]
     },
     {
       "mstTableId": 17,
-      "version": 372,
+      "version": 373,
       "names": [
         "login_bonus_reward_mst_list"
       ]
@@ -94,28 +94,28 @@
     },
     {
       "mstTableId": 20,
-      "version": 1203,
+      "version": 1204,
       "names": [
         "gacha_mst_list"
       ]
     },
     {
       "mstTableId": 21,
-      "version": 1233,
+      "version": 1234,
       "names": [
         "gacha_pickup_mst_list"
       ]
     },
     {
       "mstTableId": 22,
-      "version": 855,
+      "version": 856,
       "names": [
         "gacha_series_mst_list"
       ]
     },
     {
       "mstTableId": 23,
-      "version": 786,
+      "version": 789,
       "names": [
         "mission_mst_list"
       ]
@@ -150,7 +150,7 @@
     },
     {
       "mstTableId": 29,
-      "version": 74,
+      "version": 75,
       "names": [
         "ultimate_art_method_mst_list"
       ]
@@ -199,14 +199,14 @@
     },
     {
       "mstTableId": 37,
-      "version": 648,
+      "version": 651,
       "names": [
         "mission_title_mst_list"
       ]
     },
     {
       "mstTableId": 38,
-      "version": 3334,
+      "version": 3340,
       "names": [
         "banner_mst_list"
       ]
@@ -353,7 +353,7 @@
     },
     {
       "mstTableId": 61,
-      "version": 738,
+      "version": 739,
       "names": [
         "card_evolution_mst_list"
       ]
@@ -416,14 +416,14 @@
     },
     {
       "mstTableId": 70,
-      "version": 112,
+      "version": 114,
       "names": [
         "user_title_mst_list"
       ]
     },
     {
       "mstTableId": 71,
-      "version": 76,
+      "version": 78,
       "names": [
         "guild_title_mst_list"
       ]
@@ -654,7 +654,7 @@
     },
     {
       "mstTableId": 112,
-      "version": 36,
+      "version": 37,
       "names": [
         "guild_ship_parts_mst_list"
       ]
