@@ -83858,5 +83858,145 @@
     "effectType": 13,
     "effectValue": 5030,
     "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8581,
+    "characterMstId": 612,
+    "name": "Dorothyエリアで魔具60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 8582,
+    "characterMstId": 612,
+    "name": "魔具10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 8583,
+    "characterMstId": 612,
+    "name": "魔法防御+200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 8584,
+    "characterMstId": 612,
+    "name": "物理防御+200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 8585,
+    "characterMstId": 612,
+    "name": "祈祷10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 8586,
+    "characterMstId": 612,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 8587,
+    "characterMstId": 612,
+    "name": "物理防御+300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 8588,
+    "characterMstId": 612,
+    "name": "魔法防御+400",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 8589,
+    "characterMstId": 612,
+    "name": "HP+1000",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 8590,
+    "characterMstId": 612,
+    "name": "魔具ジョブ使用時、魔法ダメージ3%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7086,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 8591,
+    "characterMstId": 612,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 8592,
+    "characterMstId": 612,
+    "name": "魔書5%UP",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8593,
+    "characterMstId": 612,
+    "name": "魔法攻撃+800",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 800,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 8594,
+    "characterMstId": 612,
+    "name": "楽器5%UP",
+    "releaseLevel": 14,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 1
   }
 ]

@@ -654,8 +654,8 @@
     "price": "5020",
     "default_product_id": "jp.co.pokelabo.sinoalice.campaign13.crystal5020a",
     "default_price": "5020",
-    "start_datetime": "2022-01-18T15:00:00+0900",
-    "end_datetime": "2022-01-31T14:59:59+0900",
+    "start_datetime": "2022-03-17T15:00:00+0900",
+    "end_datetime": "2022-03-22T13:59:59+0900",
     "iconResourceName": "shop_icon/20200121_nightmaremedal:20200121_nightmaremedal_01.png"
   },
   {
@@ -740,8 +740,8 @@
     "price": "5020",
     "default_product_id": "jp.co.pokelabo.sinoalice.campaign17.crystal5000a",
     "default_price": "5020",
-    "start_datetime": "2022-02-14T15:00:00+0900",
-    "end_datetime": "2022-02-22T14:59:59+0900"
+    "start_datetime": "2022-03-17T15:00:00+0900",
+    "end_datetime": "2022-03-22T13:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign17.crystal9800a",
@@ -762,8 +762,8 @@
     "price": "10000",
     "default_product_id": "jp.co.pokelabo.sinoalice.campaign17.crystal9800a",
     "default_price": "10000",
-    "start_datetime": "2022-02-14T15:00:00+0900",
-    "end_datetime": "2022-02-22T14:59:59+0900"
+    "start_datetime": "2022-03-17T15:00:00+0900",
+    "end_datetime": "2022-03-22T13:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign18.crystal9800a",
@@ -879,6 +879,16 @@
     "start_datetime": "2020-11-26T15:00:00+0900",
     "end_datetime": "2099-01-01T00:00:00+0900",
     "iconResourceName": "shop_icon/20201127_comeback:20201127_comeback_B.png"
+  },
+  {
+    "product_id": "jp.co.pokelabo.sinoalice.campaign22.crystal5020a",
+    "description": "有償魔晶石502個＋任意のアイテムを1種獲得",
+    "iconResourceName": "shop_icon/20220317_select_sale:20220317_select_sale_01.png"
+  },
+  {
+    "product_id": "jp.co.pokelabo.sinoalice.campaign22.crystal980a",
+    "description": "有償魔晶石98個＋任意のアイテムを2種獲得",
+    "iconResourceName": "shop_icon/20220317_select_sale:20220317_select_sale_01.png"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign23.crystal5020a",
