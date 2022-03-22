@@ -708,6 +708,30 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 221,
+    "title": "Event Bonus ①",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1647928800,
+    "endTime": 1649134799,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 222,
+    "title": "Event Bonus ②",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1648530000,
+    "endTime": 1649134799,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 232,
     "title": "Collaboration Event Bonus",
     "cycleType": 2,
@@ -1339,6 +1363,18 @@
     "pickupSkillType": 1,
     "startTime": 1645768800,
     "endTime": 1646369999,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900045,
+    "title": "New Character Release Celebration Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1648184400,
+    "endTime": 1648443599,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""
