@@ -82160,6 +82160,126 @@
     "cardDetailType": 7
   },
   {
+    "characterAbilityMstId": 8399,
+    "characterMstId": 613,
+    "name": "Ibarahimeエリアで長柄(風)30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8400,
+    "characterMstId": 613,
+    "name": "全武器種(火)75%DOWN",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -75,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 8401,
+    "characterMstId": 613,
+    "name": "全武器種(水)75%DOWN",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -75,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 8402,
+    "characterMstId": 613,
+    "name": "Ibarahimeエリアで長柄(風)10%UP",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8403,
+    "characterMstId": 613,
+    "name": "Ibarahimeエリアで長柄(風)10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8404,
+    "characterMstId": 613,
+    "name": "モノガタリで長柄(風)20%UP",
+    "releaseLevel": 6,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8405,
+    "characterMstId": 613,
+    "name": "モノガタリで長柄(風)10%UP",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8406,
+    "characterMstId": 613,
+    "name": "長柄(風)10%UP",
+    "releaseLevel": 8,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8407,
+    "characterMstId": 613,
+    "name": "魔法防御+500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8408,
+    "characterMstId": 613,
+    "name": "長柄(風)5%UP",
+    "releaseLevel": 10,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8409,
+    "characterMstId": 613,
+    "name": "魔法攻撃+500",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8410,
+    "characterMstId": 613,
+    "name": "長柄(風)5%UP",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 8
+  },
+  {
     "characterAbilityMstId": 8411,
     "characterMstId": 603,
     "name": "Hamelnエリアで刀剣60%UP",
