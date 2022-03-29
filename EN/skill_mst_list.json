@@ -52940,6 +52940,26 @@
     "skillEffectParam2": 0
   },
   {
+    "skillMstId": 4829,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "Gale of Onslaught (IV)",
+    "description": "Deals massive P.DMG to 1 enemy.\\nSlightly reduces enemy's P.ATK.",
+    "attackEffect": 0,
+    "sp": 19,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 7,
+    "typeLabel": "Single Enemy",
+    "primaryIcon": 1,
+    "secondaryIcon": 14,
+    "rangeIcon": 1,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0
+  },
+  {
     "skillMstId": 4831,
     "category": 4,
     "setEffectSeriesId": 0,

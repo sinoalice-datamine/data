@@ -219,8 +219,8 @@
     "wayToGet": "Earned by playing an event.",
     "priority": 30,
     "itemMstId": 345,
-    "startTime": 1645765200,
-    "endTime": 1647061199,
+    "startTime": 1648530000,
+    "endTime": 1649825999,
     "displayType": 0,
     "isDeleted": false
   },
@@ -1166,6 +1166,21 @@
     "itemMstId": 900225,
     "startTime": 1640671200,
     "endTime": 1642517999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900013,
+    "name": "Medal of Desire (IV)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "0003",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 36,
+    "itemMstId": 153,
+    "startTime": 1648533600,
+    "endTime": 1652972399,
     "displayType": 0,
     "isDeleted": false
   }

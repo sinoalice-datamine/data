@@ -2090,6 +2090,28 @@
     "vibStartTime": -1.0
   },
   {
+    "movieResourceMstId": 210,
+    "movieTitle": "Act of Hatred New Chapter: Little Match Girl",
+    "resourceName": "Match_OP_Movie",
+    "isPreDownLoad": 0,
+    "type": 2,
+    "value": 0,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1648530000,
+    "endTime": 1649743199,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "Bug if No Conditions shows",
+    "thumbAssetBundleName": "museumthumbnail/210",
+    "thumbResourceName": "Match_OP_Movie",
+    "museumStartTime": 1648530000,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0
+  },
+  {
     "movieResourceMstId": 224,
     "movieTitle": "Divine Mechanism of Rebellion OP",
     "resourceName": "YokuboRobot_opening",
