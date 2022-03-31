@@ -213,7 +213,7 @@
     "optionObjectId": 0,
     "targetGuildLv": 10,
     "startTime": 1569769200,
-    "endTime": 1908975600
+    "endTime": 1648997999
   },
   {
     "guildMissionMstId": 9,
@@ -483,6 +483,33 @@
     "optionObjectId": 0,
     "targetGuildLv": 50,
     "startTime": 1569769200,
+    "endTime": 1908975600
+  },
+  {
+    "guildMissionMstId": 19,
+    "guildMissionUniqueId": 2,
+    "guildMissionUniquePriority": 3,
+    "guildMissionType": 1,
+    "priority": 3,
+    "title": "討伐イベントを合計200回クリア",
+    "description": "討伐イベントをクリアしよう。討伐イベントは特定の時間帯に開催中。※鍵で開くモノガタリは対象外となっております。",
+    "transition": "QuestMenu",
+    "missionTitleMstId": 0,
+    "objectType": 1,
+    "objectId": 1636,
+    "num": 1,
+    "resetType": 1,
+    "resetCycle": 7,
+    "triggerType": 0,
+    "conditionsType": 2,
+    "conditionsObjectId": 0,
+    "conditionsObjectId2": 0,
+    "conditionsCount": 200,
+    "activeView": 1,
+    "optionType": 0,
+    "optionObjectId": 0,
+    "targetGuildLv": 10,
+    "startTime": 1648998000,
     "endTime": 1908975600
   }
 ]
