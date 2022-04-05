@@ -1540,6 +1540,28 @@
     "vibStartTime": -1.0
   },
   {
+    "movieResourceMstId": 136,
+    "movieTitle": "第弐拾壱回グランコロシアム開幕",
+    "resourceName": "GvGEventMovie",
+    "isPreDownLoad": 0,
+    "type": 2,
+    "value": 0,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1649221200,
+    "endTime": 1649480399,
+    "isMuseum": 0,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "Bug if No Display shows",
+    "thumbAssetBundleName": "museumthumbnail/1",
+    "thumbResourceName": "GvGEventMovie",
+    "museumStartTime": 1528869600,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0
+  },
+  {
     "movieResourceMstId": 137,
     "movieTitle": "Bloom-Buried Plinth ED",
     "resourceName": "Prometheus_Appearance",

@@ -8847,7 +8847,7 @@
     "characterVoice": "Rika Tachibana",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1649138400
   },
   {
     "characterMstId": 316,
@@ -11098,6 +11098,36 @@
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
     "displayStartTime": 1624341600
+  },
+  {
+    "characterMstId": 509,
+    "name": "Sleeping Beauty/Proud Lion Breaker",
+    "characterUniqueId": 8,
+    "characterUniqueName": "Sleeping Beauty",
+    "characterUniqueEnglishName": "Ibarahime",
+    "characterVoiceId": 0,
+    "collaborationId": 0,
+    "collaborationName": "0",
+    "rolePosition": 1,
+    "motionType": 1,
+    "shaderType": 0,
+    "spineAvatarType": 0,
+    "scale": 100,
+    "avatarGroupId": 0,
+    "partnerNum": -1,
+    "maxLevel": 10,
+    "description": "A \"blessing\" and a \"curse.\"\\nHer life was ruled by conflicting wishes.\\nWhat tale awaits the girl who wakes from a 100-year slumber?",
+    "favoriteWeapon": 5,
+    "isSpirit": false,
+    "spiritType": 0,
+    "disableStanding": 0,
+    "isAvailable": true,
+    "resourceName": "509",
+    "assetBundleName": "character/509",
+    "characterVoice": "Kaede Hondo",
+    "mypageMinVoice": 0,
+    "mypageMaxVoice": 0,
+    "displayStartTime": 1649138400
   },
   {
     "characterMstId": 520,
