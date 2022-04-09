@@ -20957,6 +20957,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 2801,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 6726,
+    "isAlways": false,
+    "name": "生放送記念SS1点確定ガチャ＋セットアイテム",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅳ)\r\n枚数：11回ガチャで100枚\r\n有効期限：2022年5月7日23:59",
+    "priority": 17500,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=9899&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 5001,
     "gachaGroupId": 9,
     "topBannerMstId": 0,
