@@ -7104,5 +7104,39 @@
     "displayType": 0,
     "filterType": 1,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 441,
+    "name": "家畜札のメダル",
+    "description": "ギシンアンキが集めているメダル※2022年5月3日23:59まで",
+    "resourceName": "item20220412_kake_gacha",
+    "assetBundleName": "4445",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2022年5月3日23:59まで",
+    "priority": 44,
+    "itemMstId": 4445,
+    "startTime": 1649739600,
+    "endTime": 1651589999,
+    "displayType": 0,
+    "filterType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 445,
+    "name": "生放送記念ガチャ補填メダル",
+    "description": "生放送記念『SS1点確定ガチャ＋セットアイテム』の補填です。",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "生放送記念『SS1点確定ガチャ＋セットアイテム』の補填です。",
+    "priority": 300,
+    "itemMstId": 4458,
+    "startTime": 1649739600,
+    "endTime": 1924959599,
+    "displayType": 1,
+    "filterType": 0,
+    "isDeleted": false
   }
 ]

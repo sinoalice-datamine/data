@@ -7992,6 +7992,22 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 1025,
+    "title": "「童話の女、賭ケグルイの女」ﾐｯｼｮﾝ",
+    "priority": 20003,
+    "startTime": 1649739600,
+    "endTime": 1650952799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1026,
+    "title": "イベントデイリーミッション",
+    "priority": 20004,
+    "startTime": 1649739600,
+    "endTime": 1650952799,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 1027,
     "title": "「牛貌ノ刹鬼」Hard追加記念ﾐｯｼｮﾝ",
     "priority": 0,
@@ -8016,11 +8032,51 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 1030,
+    "title": "コラボ記念オソウジミッション",
+    "priority": 20001,
+    "startTime": 1649739600,
+    "endTime": 1650952799,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 1033,
     "title": "生放送連動ミッション",
     "priority": 50000,
     "startTime": 1649418900,
     "endTime": 1649516399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1034,
+    "title": "シノアリスの日ミッション",
+    "priority": 49999,
+    "startTime": 1649948400,
+    "endTime": 1650207599,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1035,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1649948400,
+    "endTime": 1650034799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1036,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1650034800,
+    "endTime": 1650121199,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1037,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1650121200,
+    "endTime": 1650207599,
     "isHideTime": false
   }
 ]

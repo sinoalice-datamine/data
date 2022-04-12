@@ -17836,5 +17836,554 @@
     "effectType": 15,
     "effectValue": 20,
     "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2031,
+    "characterUniqueId": 87,
+    "name": "エリアUP",
+    "description": "蛇喰夢子のジョブを編成時、賭ケグルイ××エリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2032,
+    "characterUniqueId": 87,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 蛇喰夢子のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2033,
+    "characterUniqueId": 87,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 蛇喰夢子のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2034,
+    "characterUniqueId": 87,
+    "name": "物魔攻撃UP",
+    "description": "蛇喰夢子のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2035,
+    "characterUniqueId": 87,
+    "name": "物魔防御UP",
+    "description": "蛇喰夢子のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2036,
+    "characterUniqueId": 87,
+    "name": "チケットUP",
+    "description": "蛇喰夢子のジョブを編成時、賭ケグルイ××エリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2037,
+    "characterUniqueId": 87,
+    "name": "チケットUP",
+    "description": "蛇喰夢子のジョブを編成時、賭ケグルイ××エリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2038,
+    "characterUniqueId": 87,
+    "name": "物攻+300",
+    "description": "蛇喰夢子のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2039,
+    "characterUniqueId": 87,
+    "name": "物防+300",
+    "description": "蛇喰夢子のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2040,
+    "characterUniqueId": 87,
+    "name": "魔攻+300",
+    "description": "蛇喰夢子のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2041,
+    "characterUniqueId": 87,
+    "name": "魔防+300",
+    "description": "蛇喰夢子のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2042,
+    "characterUniqueId": 87,
+    "name": "刀剣 4%UP",
+    "description": "蛇喰夢子のジョブを編成時、刀剣4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 2043,
+    "characterUniqueId": 88,
+    "name": "エリアUP",
+    "description": "桃喰綺羅莉のジョブを編成時、賭ケグルイ××エリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2044,
+    "characterUniqueId": 88,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 桃喰綺羅莉のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2045,
+    "characterUniqueId": 88,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 桃喰綺羅莉のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2046,
+    "characterUniqueId": 88,
+    "name": "物魔攻撃UP",
+    "description": "桃喰綺羅莉のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2047,
+    "characterUniqueId": 88,
+    "name": "物魔防御UP",
+    "description": "桃喰綺羅莉のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2048,
+    "characterUniqueId": 88,
+    "name": "チケットUP",
+    "description": "桃喰綺羅莉のジョブを編成時、賭ケグルイ××エリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2049,
+    "characterUniqueId": 88,
+    "name": "チケットUP",
+    "description": "桃喰綺羅莉のジョブを編成時、賭ケグルイ××エリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2050,
+    "characterUniqueId": 88,
+    "name": "物攻+300",
+    "description": "桃喰綺羅莉のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2051,
+    "characterUniqueId": 88,
+    "name": "物防+300",
+    "description": "桃喰綺羅莉のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2052,
+    "characterUniqueId": 88,
+    "name": "魔攻+300",
+    "description": "桃喰綺羅莉のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2053,
+    "characterUniqueId": 88,
+    "name": "魔防+300",
+    "description": "桃喰綺羅莉のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2054,
+    "characterUniqueId": 88,
+    "name": "魔書 2%UP",
+    "description": "桃喰綺羅莉のジョブを編成時、魔書2%UP",
+    "effectType": 6,
+    "effectValue": 2,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 2055,
+    "characterUniqueId": 89,
+    "name": "エリアUP",
+    "description": "早乙女芽亜里のジョブを編成時、賭ケグルイ××エリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2056,
+    "characterUniqueId": 89,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 早乙女芽亜里のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2057,
+    "characterUniqueId": 89,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 早乙女芽亜里のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2058,
+    "characterUniqueId": 89,
+    "name": "物魔攻撃UP",
+    "description": "早乙女芽亜里のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2059,
+    "characterUniqueId": 89,
+    "name": "物魔防御UP",
+    "description": "早乙女芽亜里のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2060,
+    "characterUniqueId": 89,
+    "name": "チケットUP",
+    "description": "早乙女芽亜里のジョブを編成時、賭ケグルイ××エリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2061,
+    "characterUniqueId": 89,
+    "name": "チケットUP",
+    "description": "早乙女芽亜里のジョブを編成時、賭ケグルイ××エリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2062,
+    "characterUniqueId": 89,
+    "name": "物攻+300",
+    "description": "早乙女芽亜里のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2063,
+    "characterUniqueId": 89,
+    "name": "物防+300",
+    "description": "早乙女芽亜里のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2064,
+    "characterUniqueId": 89,
+    "name": "魔攻+300",
+    "description": "早乙女芽亜里のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2065,
+    "characterUniqueId": 89,
+    "name": "魔防+300",
+    "description": "早乙女芽亜里のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2066,
+    "characterUniqueId": 89,
+    "name": "打撃 4%UP",
+    "description": "早乙女芽亜里のジョブを編成時、打撃4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 2067,
+    "characterUniqueId": 90,
+    "name": "エリアUP",
+    "description": "生志摩妄のジョブを編成時、賭ケグルイ××エリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2068,
+    "characterUniqueId": 90,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 生志摩妄のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2069,
+    "characterUniqueId": 90,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 生志摩妄のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2070,
+    "characterUniqueId": 90,
+    "name": "物魔攻撃UP",
+    "description": "生志摩妄のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2071,
+    "characterUniqueId": 90,
+    "name": "物魔防御UP",
+    "description": "生志摩妄のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2072,
+    "characterUniqueId": 90,
+    "name": "チケットUP",
+    "description": "生志摩妄のジョブを編成時、賭ケグルイ××エリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2073,
+    "characterUniqueId": 90,
+    "name": "チケットUP",
+    "description": "生志摩妄のジョブを編成時、賭ケグルイ××エリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2074,
+    "characterUniqueId": 90,
+    "name": "物攻+300",
+    "description": "生志摩妄のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2075,
+    "characterUniqueId": 90,
+    "name": "物防+300",
+    "description": "生志摩妄のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2076,
+    "characterUniqueId": 90,
+    "name": "魔攻+300",
+    "description": "生志摩妄のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2077,
+    "characterUniqueId": 90,
+    "name": "魔防+300",
+    "description": "生志摩妄のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2078,
+    "characterUniqueId": 90,
+    "name": "射出 4%UP",
+    "description": "生志摩妄のジョブを編成時、射出4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 2079,
+    "characterUniqueId": 91,
+    "name": "エリアUP",
+    "description": "五十嵐清華のジョブを編成時、賭ケグルイ××エリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2080,
+    "characterUniqueId": 91,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP 五十嵐清華のジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2081,
+    "characterUniqueId": 91,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP 五十嵐清華のジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2082,
+    "characterUniqueId": 91,
+    "name": "物魔攻撃UP",
+    "description": "五十嵐清華のジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2083,
+    "characterUniqueId": 91,
+    "name": "物魔防御UP",
+    "description": "五十嵐清華のジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2084,
+    "characterUniqueId": 91,
+    "name": "チケットUP",
+    "description": "五十嵐清華のジョブを編成時、賭ケグルイ××エリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2085,
+    "characterUniqueId": 91,
+    "name": "チケットUP",
+    "description": "五十嵐清華のジョブを編成時、賭ケグルイ××エリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2086,
+    "characterUniqueId": 91,
+    "name": "物攻+300",
+    "description": "五十嵐清華のジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2087,
+    "characterUniqueId": 91,
+    "name": "物防+300",
+    "description": "五十嵐清華のジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2088,
+    "characterUniqueId": 91,
+    "name": "魔攻+300",
+    "description": "五十嵐清華のジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2089,
+    "characterUniqueId": 91,
+    "name": "魔防+300",
+    "description": "五十嵐清華のジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2090,
+    "characterUniqueId": 91,
+    "name": "長柄 4%UP",
+    "description": "五十嵐清華のジョブを編成時、長柄4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 2091,
+    "characterUniqueId": 52,
+    "name": "チケットUP",
+    "description": "マッチ売りの少女のジョブを編成時、賭ケグルイ××エリアエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
   }
 ]

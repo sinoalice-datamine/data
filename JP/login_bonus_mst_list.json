@@ -4719,6 +4719,17 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 438,
+    "title": "イベントボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1649739600,
+    "endTime": 1650952799,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 439,
     "title": "ギルドイベントボーナス",
     "cycleType": 2,
@@ -4726,6 +4737,28 @@
     "pickupSkillType": 1,
     "startTime": 1648756800,
     "endTime": 1649343599,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 440,
+    "title": "グランコロシアム開催CP",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1650139200,
+    "endTime": 1650625199,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 442,
+    "title": "シノアリスの日プレゼント",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1649966400,
+    "endTime": 1650225599,
     "resourceName": "1",
     "assetBundleName": ""
   },

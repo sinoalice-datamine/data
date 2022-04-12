@@ -49,7 +49,7 @@
     "total_gem": "306",
     "campaign_type": "2",
     "campaign_mode": "6",
-    "priority": "1",
+    "priority": "17",
     "consumable": "0",
     "limited_count": "1",
     "product_type": "0",
@@ -173,8 +173,8 @@
     "price": "120",
     "default_product_id": "jp.co.pokelabo.sinoalice.crystal120a",
     "default_price": "120",
-    "start_datetime": "2022-04-08T15:00:00+0900",
-    "end_datetime": "2022-04-12T13:59:59+0900"
+    "start_datetime": "2022-04-12T15:00:00+0900",
+    "end_datetime": "2022-04-26T14:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign01.crystal3000a",
@@ -195,8 +195,8 @@
     "price": "3060",
     "default_product_id": "jp.co.pokelabo.sinoalice.crystal3000a",
     "default_price": "3060",
-    "start_datetime": "2022-04-08T15:00:00+0900",
-    "end_datetime": "2022-04-12T13:59:59+0900"
+    "start_datetime": "2022-04-12T15:00:00+0900",
+    "end_datetime": "2022-04-26T14:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign01.crystal360a",
@@ -217,8 +217,8 @@
     "price": "370",
     "default_product_id": "jp.co.pokelabo.sinoalice.crystal360a",
     "default_price": "370",
-    "start_datetime": "2022-04-08T15:00:00+0900",
-    "end_datetime": "2022-04-12T13:59:59+0900"
+    "start_datetime": "2022-04-12T15:00:00+0900",
+    "end_datetime": "2022-04-26T14:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign01.crystal5000a",
@@ -239,8 +239,8 @@
     "price": "5020",
     "default_product_id": "jp.co.pokelabo.sinoalice.crystal5000a",
     "default_price": "5020",
-    "start_datetime": "2022-04-08T15:00:00+0900",
-    "end_datetime": "2022-04-12T13:59:59+0900"
+    "start_datetime": "2022-04-12T15:00:00+0900",
+    "end_datetime": "2022-04-26T14:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign01.crystal600a",
@@ -261,8 +261,8 @@
     "price": "610",
     "default_product_id": "jp.co.pokelabo.sinoalice.crystal600a",
     "default_price": "610",
-    "start_datetime": "2022-04-08T15:00:00+0900",
-    "end_datetime": "2022-04-12T13:59:59+0900"
+    "start_datetime": "2022-04-12T15:00:00+0900",
+    "end_datetime": "2022-04-26T14:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign01.crystal7400a",
@@ -283,8 +283,8 @@
     "price": "7500",
     "default_product_id": "jp.co.pokelabo.sinoalice.crystal7400a",
     "default_price": "7500",
-    "start_datetime": "2022-04-08T15:00:00+0900",
-    "end_datetime": "2022-04-12T13:59:59+0900"
+    "start_datetime": "2022-04-12T15:00:00+0900",
+    "end_datetime": "2022-04-26T14:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign01.crystal9800a",
@@ -305,8 +305,8 @@
     "price": "10000",
     "default_product_id": "jp.co.pokelabo.sinoalice.crystal9800a",
     "default_price": "10000",
-    "start_datetime": "2022-04-08T15:00:00+0900",
-    "end_datetime": "2022-04-12T13:59:59+0900"
+    "start_datetime": "2022-04-12T15:00:00+0900",
+    "end_datetime": "2022-04-26T14:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign03.crystal5000a",
@@ -516,9 +516,9 @@
     "price": "3060",
     "default_product_id": "jp.co.pokelabo.sinoalice.campaign09.crystal3000aa",
     "default_price": "3060",
-    "start_datetime": "2022-02-08T14:00:00+0900",
-    "end_datetime": "2022-02-22T14:59:59+0900",
-    "iconResourceName": "shop_icon/20220208_sanrio_mcp:20220208_sanrio_mcp_01.png"
+    "start_datetime": "2022-04-12T14:00:00+0900",
+    "end_datetime": "2022-04-26T14:59:59+0900",
+    "iconResourceName": "shop_icon/20220412_kake_mcp:20220412_kake_mcp_01.png"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign09.crystal3000ba",
@@ -539,9 +539,9 @@
     "price": "3060",
     "default_product_id": "jp.co.pokelabo.sinoalice.campaign09.crystal3000ba",
     "default_price": "3060",
-    "start_datetime": "2022-02-08T14:00:00+0900",
-    "end_datetime": "2022-02-22T14:59:59+0900",
-    "iconResourceName": "shop_icon/20220208_sanrio_mcp:20220208_sanrio_mcp_02.png"
+    "start_datetime": "2022-04-12T14:00:00+0900",
+    "end_datetime": "2022-04-26T14:59:59+0900",
+    "iconResourceName": "shop_icon/20220412_kake_mcp:20220412_kake_mcp_02.png"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign09.crystal5000a",
@@ -608,9 +608,9 @@
     "price": "5020",
     "default_product_id": "jp.co.pokelabo.sinoalice.campaign11.crystal5000a",
     "default_price": "5020",
-    "start_datetime": "2022-02-08T14:00:00+0900",
-    "end_datetime": "2022-02-22T14:59:59+0900",
-    "iconResourceName": "shop_icon/20220208_sanrio_mcp:20220208_arcanaLv1_stone.png"
+    "start_datetime": "2022-04-12T14:00:00+0900",
+    "end_datetime": "2022-04-26T14:59:59+0900",
+    "iconResourceName": "shop_icon/20220412_kake_mcp:20220412_arcanaLv1_stone.png"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign12.crystal5000a",
@@ -631,9 +631,9 @@
     "price": "5020",
     "default_product_id": "jp.co.pokelabo.sinoalice.campaign12.crystal5000a",
     "default_price": "5020",
-    "start_datetime": "2022-02-08T14:00:00+0900",
-    "end_datetime": "2022-02-22T14:59:59+0900",
-    "iconResourceName": "shop_icon/20220208_sanrio_mcp:20220208_arcanaLv2_stone.png"
+    "start_datetime": "2022-04-12T14:00:00+0900",
+    "end_datetime": "2022-04-26T14:59:59+0900",
+    "iconResourceName": "shop_icon/20220412_kake_mcp:20220412_arcanaLv2_stone.png"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign13.crystal5020a",
@@ -937,9 +937,9 @@
     "price": "5020",
     "default_product_id": "jp.co.pokelabo.sinoalice.campaign23.crystal5020a",
     "default_price": "5020",
-    "start_datetime": "2022-02-08T14:00:00+0900",
-    "end_datetime": "2022-02-22T14:59:59+0900",
-    "iconResourceName": "shop_icon/20220208_sanrio_mcp:20220208_arcanaLv3_stone.png"
+    "start_datetime": "2022-04-12T14:00:00+0900",
+    "end_datetime": "2022-04-26T14:59:59+0900",
+    "iconResourceName": "shop_icon/20220412_kake_mcp:20220412_arcanaLv3_stone.png"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign24.crystal5020a",
@@ -1101,6 +1101,29 @@
     "start_datetime": "2021-06-28T15:00:00+0900",
     "end_datetime": "2021-07-03T14:59:59+0900",
     "iconResourceName": "shop_icon/20210628_jobmcp:20210628_arcanaLv2_stone.png"
+  },
+  {
+    "product_id": "jp.co.pokelabo.sinoalice.campaign30.crystal12000a",
+    "name": "魔晶石1200個＋ジョブ解放＋武器＋アルカナLv.1～3取得",
+    "description": "有償魔晶石1200個＋おまけで「:武器:」の獲得、「:キャラクターズ:」の解放、「:アルカナ:」の獲得",
+    "thumbnail_url": "",
+    "charge_gem": "1200",
+    "free_gem": "0",
+    "increase_gem": "0",
+    "bonus_gem": "0",
+    "total_gem": "1200",
+    "campaign_type": "2",
+    "campaign_mode": "6",
+    "priority": "0",
+    "consumable": "0",
+    "limited_count": "1",
+    "product_type": "0",
+    "price": "12000",
+    "default_product_id": "jp.co.pokelabo.sinoalice.campaign30.crystal12000a",
+    "default_price": "12000",
+    "start_datetime": "2022-04-12T14:00:00+0900",
+    "end_datetime": "2022-04-26T14:59:59+0900",
+    "iconResourceName": "shop_icon/20220412_kake_mcp:20220412_kake_mcp_03.png"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.crystal120a",

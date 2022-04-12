@@ -6028,6 +6028,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 574,
+    "mapType": 1,
+    "mapGroup": 548,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "賭ケグルイNormal",
+    "description": "賭ケグルイNormal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 575,
+    "mapType": 1,
+    "mapGroup": 548,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "賭ケグルイHard",
+    "description": "賭ケグルイHard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 577,
     "mapType": 1,
     "mapGroup": 549,
