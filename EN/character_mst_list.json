@@ -8427,7 +8427,7 @@
     "characterVoice": "Shizuka Ito",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1650002400
   },
   {
     "characterMstId": 301,
@@ -11278,6 +11278,36 @@
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
     "displayStartTime": 1631890800
+  },
+  {
+    "characterMstId": 551,
+    "name": "Hamelin/Envious Serpent Gunner",
+    "characterUniqueId": 44,
+    "characterUniqueName": "Hamelin",
+    "characterUniqueEnglishName": "Hameln",
+    "characterVoiceId": 0,
+    "collaborationId": 0,
+    "collaborationName": "0",
+    "rolePosition": 1,
+    "motionType": 2,
+    "shaderType": 0,
+    "spineAvatarType": 0,
+    "scale": 100,
+    "avatarGroupId": 0,
+    "partnerNum": -1,
+    "maxLevel": 10,
+    "description": "The piper plays his pipe.\\nTrampling over the unsightly before it reaches his sight.\\nFor his song is only for the beautiful.",
+    "favoriteWeapon": 7,
+    "isSpirit": false,
+    "spiritType": 0,
+    "disableStanding": 0,
+    "isAvailable": true,
+    "resourceName": "551",
+    "assetBundleName": "character/551",
+    "characterVoice": "Tomoaki Maeno",
+    "mypageMinVoice": 0,
+    "mypageMaxVoice": 0,
+    "displayStartTime": 1650002400
   },
   {
     "characterMstId": 560,
