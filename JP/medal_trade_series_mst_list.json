@@ -6732,6 +6732,23 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 414,
+    "name": "ナイトメアメダル",
+    "description": "魔晶石購入特典のナイトメアと交換できるメダル\r\n※2022年4月28日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "0414",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ナイトメアメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2022年4月28日23:59まで",
+    "priority": 37,
+    "itemMstId": 4295,
+    "startTime": 1650002400,
+    "endTime": 1651157999,
+    "displayType": 0,
+    "filterType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 417,
     "name": "ヨクボウメダル(Ⅳ)",
     "description": "ガチャで獲得できるメダル\r\n※2022年5月7日23:59まで",

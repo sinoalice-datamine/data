@@ -21033,6 +21033,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 2808,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 6780,
+    "isAlways": false,
+    "name": "学鴉と聖虎ガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅳ)\r\n枚数：1回ガチャで10枚、11回ガチャで100枚\r\n有効期限：2022年5月7日23:59",
+    "priority": 17257,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=9939&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 5001,
     "gachaGroupId": 9,
     "topBannerMstId": 0,
