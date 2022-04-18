@@ -34371,6 +34371,25 @@
     "createdTime": 1467266414
   },
   {
+    "gachaSeriesMstId": 105020,
+    "gachaGroupId": 5,
+    "topBannerMstId": 0,
+    "bannerMstId": 6749,
+    "isAlways": false,
+    "name": "復刻　聖ノ祝祭～第一弾～",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅳ)\r\n枚数：STEP1～3で各100枚\r\n有効期限：2022年5月7日23:59",
+    "priority": 18000,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=9929&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266414
+  },
+  {
     "gachaSeriesMstId": 1000002,
     "gachaGroupId": 4,
     "topBannerMstId": 0,
