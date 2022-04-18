@@ -44440,6 +44440,26 @@
     "skillEffectParam2": 0
   },
   {
+    "skillMstId": 4113,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "Incantation of Breaking/Life (III)",
+    "description": "Reduces the P.ATK and M.DEF of 1 to 2 enemies.\\nThe effects increase from the beginning of the colosseum until five minutes before it ends.",
+    "attackEffect": 0,
+    "sp": 22,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 553,
+    "typeLabel": "Multiple Enemies",
+    "primaryIcon": 20,
+    "secondaryIcon": 31,
+    "rangeIcon": 2,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 4,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 900
+  },
+  {
     "skillMstId": 4114,
     "category": 1,
     "setEffectSeriesId": 0,

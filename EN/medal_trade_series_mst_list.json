@@ -900,6 +900,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 138,
+    "name": "Sin Medal",
+    "description": "Medal obtained in Parrah-Noya’s tavern at Colosseum Sin.",
+    "resourceName": "item20211018_colosseumsin1_honsen",
+    "assetBundleName": "1319",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Can be earned at the Colosseum Sin Parrah-Noya Tavern.",
+    "priority": 38,
+    "itemMstId": 1851,
+    "startTime": 1650258000,
+    "endTime": 1653195599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 139,
     "name": "Heartfelt Chocolate Medal",
     "description": "A medal that is an incidental byproduct of a Grimoire.",

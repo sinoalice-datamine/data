@@ -4624,6 +4624,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 2016,
+    "gachaGroupId": 5,
+    "bannerMstId": 5159,
+    "isAlways": false,
+    "name": "Soldier Beast's Hubris & Indolent Ursine Rogue",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅳ)\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Medal of desire (Ⅳ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 2110,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=2479&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 8010,
     "gachaGroupId": 5,
     "bannerMstId": 472,

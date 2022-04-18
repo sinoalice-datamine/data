@@ -9717,7 +9717,7 @@
     "characterVoice": "Eri Kitamura",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1650520800
   },
   {
     "characterMstId": 351,
@@ -10918,6 +10918,36 @@
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
     "displayStartTime": 1613624400
+  },
+  {
+    "characterMstId": 466,
+    "name": "Pinocchio/Proud Lion Breaker",
+    "characterUniqueId": 5,
+    "characterUniqueName": "Pinocchio",
+    "characterUniqueEnglishName": "Pinocchio",
+    "characterVoiceId": 0,
+    "collaborationId": 0,
+    "collaborationName": "0",
+    "rolePosition": 1,
+    "motionType": 1,
+    "shaderType": 0,
+    "spineAvatarType": 0,
+    "scale": 100,
+    "avatarGroupId": 0,
+    "partnerNum": -1,
+    "maxLevel": 10,
+    "description": "The puppet Geppetto made was a mere misfit. Pinocchio desperately struggled through life with the hope of becoming a real boy. But would his wish ever come true?",
+    "favoriteWeapon": 5,
+    "isSpirit": false,
+    "spiritType": 0,
+    "disableStanding": 0,
+    "isAvailable": true,
+    "resourceName": "466",
+    "assetBundleName": "character/466",
+    "characterVoice": "Yuko Sanpei",
+    "mypageMinVoice": 0,
+    "mypageMaxVoice": 0,
+    "displayStartTime": 1650520800
   },
   {
     "characterMstId": 488,
