@@ -492,6 +492,18 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 119,
+    "title": "Guild Event Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1650952800,
+    "endTime": 1651553999,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 126,
     "title": "Event Bonus ①",
     "cycleType": 2,
@@ -895,6 +907,18 @@
     "pickupSkillType": 1,
     "startTime": 1640671200,
     "endTime": 1641877199,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 438,
+    "title": "Event Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1650952800,
+    "endTime": 1652158799,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""
@@ -1423,6 +1447,30 @@
     "pickupSkillType": 1,
     "startTime": 1648530000,
     "endTime": 1649134799,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900047,
+    "title": "Guild Event Streak Bonus",
+    "cycleType": 101,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1650952800,
+    "endTime": 1651553999,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900048,
+    "title": "Kakegurui xx Collaboration Commemorative Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1650952800,
+    "endTime": 1652158799,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""

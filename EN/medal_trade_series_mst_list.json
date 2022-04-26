@@ -219,8 +219,8 @@
     "wayToGet": "Earned by playing an event.",
     "priority": 30,
     "itemMstId": 345,
-    "startTime": 1648530000,
-    "endTime": 1649825999,
+    "startTime": 1650952800,
+    "endTime": 1652245199,
     "displayType": 0,
     "isDeleted": false
   },
@@ -765,6 +765,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 81,
+    "name": "Medal of Desire (V)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "0003",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 1142,
+    "startTime": 1650952800,
+    "endTime": 1655737199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 94,
     "name": "Order of the Black Knights Medal",
     "description": "Medal collected by Parrah-Noya.",
@@ -1211,6 +1226,21 @@
     "itemMstId": 153,
     "startTime": 1648533600,
     "endTime": 1652972399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900014,
+    "name": "Housepet Medal",
+    "description": "Medal from a collaboration grimoire.",
+    "resourceName": "item20220426_gacha_kakegurui",
+    "assetBundleName": "4445",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 56,
+    "itemMstId": 4445,
+    "startTime": 1650952800,
+    "endTime": 1652799599,
     "displayType": 0,
     "isDeleted": false
   }

@@ -402,6 +402,18 @@
     "endTime": 1641880799
   },
   {
+    "missionTitleMstId": 1025,
+    "title": "Fairytale Gamblers Mission",
+    "startTime": 1650952800,
+    "endTime": 1652162399
+  },
+  {
+    "missionTitleMstId": 1030,
+    "title": "Collaboration Missions",
+    "startTime": 1650952800,
+    "endTime": 1652162399
+  },
+  {
     "missionTitleMstId": 900001,
     "title": "Gran Election Daily Mission",
     "startTime": 1603173600,
@@ -682,5 +694,17 @@
     "title": "End of Month Global Daily Missions",
     "startTime": 1648530000,
     "endTime": 1649134799
+  },
+  {
+    "missionTitleMstId": 900050,
+    "title": "End of Month Global Missions",
+    "startTime": 1651035600,
+    "endTime": 1651121999
+  },
+  {
+    "missionTitleMstId": 900051,
+    "title": "End of Month Global Daily Missions",
+    "startTime": 1650952800,
+    "endTime": 1651553999
   }
 ]
