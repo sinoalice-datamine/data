@@ -85938,5 +85938,325 @@
     "effectType": 2,
     "effectValue": 800,
     "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8805,
+    "characterMstId": 628,
+    "name": "SnowWhiteエリアで魔書60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8806,
+    "characterMstId": 628,
+    "name": "魔書10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8807,
+    "characterMstId": 628,
+    "name": "物理防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8808,
+    "characterMstId": 628,
+    "name": "物理攻撃+2000",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 2000,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8809,
+    "characterMstId": 628,
+    "name": "物理攻撃+200",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8810,
+    "characterMstId": 628,
+    "name": "魔法防御+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8811,
+    "characterMstId": 628,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8812,
+    "characterMstId": 628,
+    "name": "魔書ジョブ使用時、デバフ効果2%UP",
+    "releaseLevel": 8,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5034,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8813,
+    "characterMstId": 628,
+    "name": "HP+1500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1500,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8814,
+    "characterMstId": 628,
+    "name": "魔書ジョブ使用時、バフ効果2%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7004,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8815,
+    "characterMstId": 628,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8816,
+    "characterMstId": 628,
+    "name": "物理防御+400",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8817,
+    "characterMstId": 628,
+    "name": "物理攻撃+600",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 600,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8818,
+    "characterMstId": 628,
+    "name": "魔法攻撃+3000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 3000,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8819,
+    "characterMstId": 629,
+    "name": "Gretelエリアで射出60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8820,
+    "characterMstId": 629,
+    "name": "射出10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8821,
+    "characterMstId": 629,
+    "name": "魔法防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8822,
+    "characterMstId": 629,
+    "name": "魔法攻撃+2500",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 2500,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8823,
+    "characterMstId": 629,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8824,
+    "characterMstId": 629,
+    "name": "物理防御+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8825,
+    "characterMstId": 629,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8826,
+    "characterMstId": 629,
+    "name": "射出ジョブ使用時、魔法ダメージ3%UP",
+    "releaseLevel": 8,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7082,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8827,
+    "characterMstId": 629,
+    "name": "HP+1500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1500,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8828,
+    "characterMstId": 629,
+    "name": "長柄ジョブ使用時、魔法ダメージ3%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6192,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8829,
+    "characterMstId": 629,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8830,
+    "characterMstId": 629,
+    "name": "魔法防御+400",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8831,
+    "characterMstId": 629,
+    "name": "魔法攻撃+600",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 600,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8832,
+    "characterMstId": 629,
+    "name": "HP+5000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 5000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8833,
+    "characterMstId": 178,
+    "name": "火属性武器使用時、魔法ダメージ3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6432,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8834,
+    "characterMstId": 178,
+    "name": "魔法攻撃+700",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 700,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8835,
+    "characterMstId": 456,
+    "name": "風属性武器使用時、バフ効果3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6436,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8836,
+    "characterMstId": 456,
+    "name": "物理防御+700",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 700,
+    "cardDetailType": 1
   }
 ]

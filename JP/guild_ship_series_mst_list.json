@@ -526,5 +526,21 @@
     "shipPartsBodyMstId": 226,
     "shipPartsRoofMstId": 225,
     "shipPartsAttachedMstId": 227
+  },
+  {
+    "guildShipSeriesMstId": 68,
+    "name": "LiLLion!シリーズ(WGC)",
+    "description": "WGC優勝ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 239,
+    "shipPartsRoofMstId": 238,
+    "shipPartsAttachedMstId": 240
+  },
+  {
+    "guildShipSeriesMstId": 69,
+    "name": "Defierシリーズ(WGC)",
+    "description": "WGC準優勝ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 242,
+    "shipPartsRoofMstId": 241,
+    "shipPartsAttachedMstId": 243
   }
 ]

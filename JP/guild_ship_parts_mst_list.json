@@ -2806,5 +2806,77 @@
     "fltParam": 0,
     "pdlmParam": 1,
     "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 238,
+    "name": "LiLLion!シリーズ(WGC)[船楼]",
+    "description": "WGC優勝ギルドに贈られるシップの船楼パーツ",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1536,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 239,
+    "name": "LiLLion!シリーズ(WGC)[船体]",
+    "description": "WGC優勝ギルドに贈られるシップの船体パーツ",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 32,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 240,
+    "name": "LiLLion!シリーズ(WGC)[灯篭]",
+    "description": "WGC優勝ギルドに贈られるシップの灯篭パーツ",
+    "partsType": 3,
+    "hasReverseImage": true,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 241,
+    "name": "Defierシリーズ(WGC)[船楼]",
+    "description": "WGC準優勝ギルドに贈られるシップの船楼パーツ",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1536,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 242,
+    "name": "Defierシリーズ(WGC)[船体]",
+    "description": "WGC準優勝ギルドに贈られるシップの船体パーツ",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 32,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 243,
+    "name": "Defierシリーズ(WGC)[灯篭]",
+    "description": "WGC準優勝ギルドに贈られるシップの灯篭パーツ",
+    "partsType": 3,
+    "hasReverseImage": true,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1,
+    "pdlmParam": 0,
+    "rttParam": 0
   }
 ]
