@@ -6083,6 +6083,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 579,
+    "mapType": 1,
+    "mapGroup": 550,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "童歌ノ聖域",
+    "description": "「童歌ノ聖域」完全版",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 580,
+    "mapType": 1,
+    "mapGroup": 551,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "童歌ノ聖域Ⅱ",
+    "description": "童歌ノ聖域Ⅱ",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 581,
     "mapType": 1,
     "mapGroup": 268,
@@ -6145,6 +6167,50 @@
     "mapCategory": 0,
     "name": "牛貌ノ刹鬼Hard",
     "description": "討伐「牛貌ノ刹鬼」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 592,
+    "mapType": 1,
+    "mapGroup": 560,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "戦国",
+    "description": "戦国イベントNormal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 593,
+    "mapType": 1,
+    "mapGroup": 560,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "戦国Hard",
+    "description": "戦国イベントHard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 602,
+    "mapType": 1,
+    "mapGroup": 569,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "再構築サレタ双牙",
+    "description": "超討伐「再構築サレタ双牙」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 603,
+    "mapType": 1,
+    "mapGroup": 570,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "再構築サレタ因果",
+    "description": "超討伐「再構築サレタ因果」Normal",
     "announceUrl": "",
     "createdTime": 1483974000
   }

@@ -2926,6 +2926,48 @@
     "createdTime": 1485961226
   },
   {
+    "battleEffectMstId": 222,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_quest",
+    "cueName": "se_quest@053",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 223,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "",
+    "cueName": "",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 224,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_quest_001",
+    "cueName": "se_quest_001@014_L",
+    "createdTime": 1485961226
+  },
+  {
     "battleEffectMstId": 225,
     "positionType": 3,
     "additionalPositionX": 100,
@@ -5471,6 +5513,20 @@
     "period": 7,
     "cueSheet": "",
     "cueName": "",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 431,
+    "positionType": 1,
+    "additionalPositionX": -20,
+    "additionalPositionY": -320,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_quest_001",
+    "cueName": "se_quest_001@015_R",
     "createdTime": 1485961226
   }
 ]
