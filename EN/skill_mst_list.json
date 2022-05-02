@@ -44360,6 +44360,26 @@
     "skillEffectParam2": 0
   },
   {
+    "skillMstId": 4105,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "Evil Ember of Defense (IV)",
+    "description": "Deals massive M.DMG to 1 enemy.\\nSlightly reduces enemy's M.DEF",
+    "attackEffect": 0,
+    "sp": 21,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 7,
+    "typeLabel": "Single Enemy",
+    "primaryIcon": 2,
+    "secondaryIcon": 17,
+    "rangeIcon": 1,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0
+  },
+  {
     "skillMstId": 4106,
     "category": 4,
     "setEffectSeriesId": 0,

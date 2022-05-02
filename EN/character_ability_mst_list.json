@@ -25360,6 +25360,126 @@
     "cardDetailType": 7
   },
   {
+    "characterAbilityMstId": 3067,
+    "characterMstId": 238,
+    "name": "Staff (Fire) +30% (Little Mermaid+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3068,
+    "characterMstId": 238,
+    "name": "All Weapons (Water) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 3069,
+    "characterMstId": 238,
+    "name": "Staff (Fire) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3070,
+    "characterMstId": 238,
+    "name": "Staff (Fire) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3071,
+    "characterMstId": 238,
+    "name": "M.DEF +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3072,
+    "characterMstId": 238,
+    "name": "P.DEF +1,000",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 1000,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3073,
+    "characterMstId": 238,
+    "name": "M.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3074,
+    "characterMstId": 238,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3075,
+    "characterMstId": 238,
+    "name": "Staff (Fire) +10% (Little Mermaid+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3076,
+    "characterMstId": 238,
+    "name": "Recovery effect +2% when using staff class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5035,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3077,
+    "characterMstId": 238,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3078,
+    "characterMstId": 238,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
     "characterAbilityMstId": 3079,
     "characterMstId": 243,
     "name": "Staff +30% (Re:ZERO+ stages)",
@@ -26718,6 +26838,126 @@
     "effectType": 10,
     "effectValue": 1000,
     "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3243,
+    "characterMstId": 258,
+    "name": "Projectile +30% (Rapunzel+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3244,
+    "characterMstId": 258,
+    "name": "Projectile +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3245,
+    "characterMstId": 258,
+    "name": "M.ATK +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3246,
+    "characterMstId": 258,
+    "name": "M.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3247,
+    "characterMstId": 258,
+    "name": "Projectile +10% (Rapunzel+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3248,
+    "characterMstId": 258,
+    "name": "M.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3249,
+    "characterMstId": 258,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3250,
+    "characterMstId": 258,
+    "name": "M.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3251,
+    "characterMstId": 258,
+    "name": "Projectile +10% (Rapunzel+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3252,
+    "characterMstId": 258,
+    "name": "HP +50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3253,
+    "characterMstId": 258,
+    "name": "M.DEF +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 3254,
+    "characterMstId": 258,
+    "name": "M.DEF +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 7
   },
   {
     "characterAbilityMstId": 3255,
@@ -32740,6 +32980,46 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 4941,
+    "characterMstId": 258,
+    "name": "Projectile +10% (Rapunzel+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4942,
+    "characterMstId": 258,
+    "name": "M.DEF +400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4943,
+    "characterMstId": 258,
+    "name": "M.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 4944,
+    "characterMstId": 258,
+    "name": "M.DMG +2% when using projectile class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5031,
+    "cardDetailType": 7
+  },
+  {
     "characterAbilityMstId": 4995,
     "characterMstId": 220,
     "name": "Staff +10% (Aladdin+ stages)",
@@ -33878,6 +34158,26 @@
     "effectType": 5,
     "effectValue": 400,
     "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6079,
+    "characterMstId": 238,
+    "name": "Staff (Fire) +30% (Little Mermaid+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 6080,
+    "characterMstId": 238,
+    "name": "P.DEF +1,000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 1000,
+    "cardDetailType": 4
   },
   {
     "characterAbilityMstId": 6081,
@@ -37158,6 +37458,26 @@
     "effectType": 4,
     "effectValue": 400,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 8273,
+    "characterMstId": 238,
+    "name": "P.DEF +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 8274,
+    "characterMstId": 238,
+    "name": "P.DEF +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 4
   },
   {
     "characterAbilityMstId": 8455,

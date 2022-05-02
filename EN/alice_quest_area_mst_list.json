@@ -7758,6 +7758,24 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 755,
+    "questMapMstId": 387,
+    "name": "Sanctuary of Children's Song",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/217",
+    "bgResourceName": "0217",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "createdTime": 1485183600
+  },
+  {
     "questAreaMstId": 763,
     "questMapMstId": 395,
     "name": "Divine Mechanism of Rebellion: Chapter 1",
