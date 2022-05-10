@@ -1199,6 +1199,17 @@
     "isDeleted": false
   },
   {
+    "medalTradePickupMstId": 222,
+    "medalTradeSeriesMstId": 81,
+    "objectType": 2,
+    "objectId": 5612,
+    "pickupSkillType": 4,
+    "num": 1,
+    "startTime": 1652162400,
+    "endTime": 1652421599,
+    "isDeleted": false
+  },
+  {
     "medalTradePickupMstId": 248,
     "medalTradeSeriesMstId": 900013,
     "objectType": 2,
@@ -1537,6 +1548,17 @@
     "num": 1,
     "startTime": 1651471200,
     "endTime": 1651816799,
+    "isDeleted": false
+  },
+  {
+    "medalTradePickupMstId": 900032,
+    "medalTradeSeriesMstId": 81,
+    "objectType": 2,
+    "objectId": 6134,
+    "pickupSkillType": 1,
+    "num": 1,
+    "startTime": 1652421600,
+    "endTime": 1653026399,
     "isDeleted": false
   }
 ]
