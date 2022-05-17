@@ -26580,6 +26580,126 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 3203,
+    "characterMstId": 251,
+    "name": "Staff +30% (Aladdin+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3204,
+    "characterMstId": 251,
+    "name": "Instrument -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 3205,
+    "characterMstId": 251,
+    "name": "Tome -25%",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 3206,
+    "characterMstId": 251,
+    "name": "Instrument -25%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 3207,
+    "characterMstId": 251,
+    "name": "Tome -25%",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 3208,
+    "characterMstId": 251,
+    "name": "Instrument -25%",
+    "releaseLevel": 6,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 3209,
+    "characterMstId": 251,
+    "name": "Tome -25%",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 3210,
+    "characterMstId": 251,
+    "name": "Staff +15%",
+    "releaseLevel": 8,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3211,
+    "characterMstId": 251,
+    "name": "P.DEF +500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3212,
+    "characterMstId": 251,
+    "name": "Staff +15%",
+    "releaseLevel": 10,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3213,
+    "characterMstId": 251,
+    "name": "M.DEF +500",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 3214,
+    "characterMstId": 251,
+    "name": "Staff +5%",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 4
+  },
+  {
     "characterAbilityMstId": 3217,
     "characterMstId": 250,
     "name": "Projectile (Water) +30% (Pinocchio+ stages)",
@@ -34760,6 +34880,166 @@
     "cardDetailType": 7
   },
   {
+    "characterAbilityMstId": 6083,
+    "characterMstId": 463,
+    "name": "Polearm (Fire) +30% (Red Riding Hood+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6084,
+    "characterMstId": 463,
+    "name": "All Weapons (Water) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 6085,
+    "characterMstId": 463,
+    "name": "Polearm (Fire) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6086,
+    "characterMstId": 463,
+    "name": "Polearm (Fire) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6087,
+    "characterMstId": 463,
+    "name": "M.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6088,
+    "characterMstId": 463,
+    "name": "HP +1,200",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6089,
+    "characterMstId": 463,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6090,
+    "characterMstId": 463,
+    "name": "M.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6091,
+    "characterMstId": 463,
+    "name": "Polearm (Fire) +10% (Red Riding Hood+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6092,
+    "characterMstId": 463,
+    "name": "M.DMG +2% when using polearm class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5032,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6093,
+    "characterMstId": 463,
+    "name": "M.DEF +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6094,
+    "characterMstId": 463,
+    "name": "M.DEF +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6095,
+    "characterMstId": 463,
+    "name": "Polearm (Fire) +30% (Red Riding Hood+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6096,
+    "characterMstId": 463,
+    "name": "M.ATK +1,000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 1000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6097,
+    "characterMstId": 463,
+    "name": "M.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6098,
+    "characterMstId": 463,
+    "name": "M.DEF +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
     "characterAbilityMstId": 6155,
     "characterMstId": 466,
     "name": "Blade (Wind) +30% (Pinocchio+ stages)",
@@ -36578,6 +36858,166 @@
     "effectType": 2,
     "effectValue": 300,
     "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7065,
+    "characterMstId": 519,
+    "name": "Projectile (Wind) +30% (Snow White+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 7066,
+    "characterMstId": 519,
+    "name": "All Weapons (Fire) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 7067,
+    "characterMstId": 519,
+    "name": "Projectile (Wind) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 7068,
+    "characterMstId": 519,
+    "name": "Projectile (Wind) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 7069,
+    "characterMstId": 519,
+    "name": "M.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 7070,
+    "characterMstId": 519,
+    "name": "P.DEF +1,000",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 1000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 7071,
+    "characterMstId": 519,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 7072,
+    "characterMstId": 519,
+    "name": "M.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 7073,
+    "characterMstId": 519,
+    "name": "Projectile (Wind) +10% (Snow White+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 7074,
+    "characterMstId": 519,
+    "name": "M.DMG +2% when using projectile class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5031,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 7075,
+    "characterMstId": 519,
+    "name": "M.ATK +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 7076,
+    "characterMstId": 519,
+    "name": "M.ATK +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 7077,
+    "characterMstId": 519,
+    "name": "Projectile (Wind) +30% (Snow White+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 7078,
+    "characterMstId": 519,
+    "name": "M.ATK +1,000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 1000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 7079,
+    "characterMstId": 519,
+    "name": "M.DEF +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 7080,
+    "characterMstId": 519,
+    "name": "M.ATK +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 7
   },
   {
     "characterAbilityMstId": 7081,
