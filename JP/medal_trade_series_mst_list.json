@@ -7497,6 +7497,23 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 462,
+    "name": "ニーア全復刻メダル",
+    "description": "ガチャで獲得できるメダル\r\n※2022年6月12日23:59まで",
+    "resourceName": "item15",
+    "assetBundleName": "0246",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2022年6月12日23:59まで",
+    "priority": 43,
+    "itemMstId": 4536,
+    "startTime": 1653282000,
+    "endTime": 1655045999,
+    "displayType": 0,
+    "filterType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 463,
     "name": "褒美のジョブメダル",
     "description": "ギシンアンキが集めているメダル",
