@@ -21489,6 +21489,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 2870,
+    "gachaGroupId": 4,
+    "topBannerMstId": 0,
+    "bannerMstId": 7026,
+    "isAlways": false,
+    "name": "補填用チケットガチャ～ドロシー工房/暴力の歌姫～",
+    "description": "-",
+    "noticeMessage": "このガチャのガチャチケットは補填用です。\r\n※このガチャでは『ニーア全復刻メダル』はおまけとして獲得できません。",
+    "priority": 22000,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": true,
+    "announceUrl": "/web/announce/body?announceMstId=10102&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 0,
+    "createdTime": 1467266414
+  },
+  {
     "gachaSeriesMstId": 5001,
     "gachaGroupId": 9,
     "topBannerMstId": 0,
