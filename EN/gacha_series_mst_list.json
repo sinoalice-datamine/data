@@ -3842,6 +3842,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 643,
+    "gachaGroupId": 3,
+    "bannerMstId": 1473,
+    "isAlways": false,
+    "name": "June Featured Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅵ)\\nAmount: 10 medals from grimoire x1, 100 medals from grimoire x11\\n-Medal of desire (Ⅵ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 120,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=2568&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 651,
     "gachaGroupId": 5,
     "bannerMstId": 1505,
@@ -5287,6 +5304,40 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 10040,
+    "gachaGroupId": 3,
+    "bannerMstId": 4050,
+    "isAlways": false,
+    "name": "Limit Break Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅵ)\\nAmount: 100 medals from grimoire x11\\n-Medal of desire (Ⅵ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 2220,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=2565&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 10041,
+    "gachaGroupId": 3,
+    "bannerMstId": 4051,
+    "isAlways": false,
+    "name": "SR x1 Guaranteed Limit Break Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅵ)\\nAmount: 100 medals from grimoire x11\\n-Medal of desire (Ⅵ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 2220,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=2565&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 100200,
     "gachaGroupId": 5,
     "bannerMstId": 1406,
@@ -5474,6 +5525,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 100850,
+    "gachaGroupId": 5,
+    "bannerMstId": 2851,
+    "isAlways": false,
+    "name": "Doted Child Actresses Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅴ)\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Medal of desire (Ⅴ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 2200,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=2576&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 100940,
     "gachaGroupId": 5,
     "bannerMstId": 2934,
@@ -5540,6 +5608,23 @@
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",
     "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 103300,
+    "gachaGroupId": 5,
+    "bannerMstId": 5912,
+    "isAlways": false,
+    "name": "Puppetry Performers",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal from this grimoire can be acquired by the following:\\nType: Detective Medal\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Detective medals from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 2210,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=2574&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266414
   },
   {
     "gachaSeriesMstId": 103600,
