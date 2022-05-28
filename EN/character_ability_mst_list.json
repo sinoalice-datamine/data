@@ -28640,6 +28640,26 @@
     "cardDetailType": 4
   },
   {
+    "characterAbilityMstId": 3553,
+    "characterMstId": 88,
+    "name": "Tome +10% (Sleeping Beauty+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 3554,
+    "characterMstId": 88,
+    "name": "HP +400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
     "characterAbilityMstId": 3567,
     "characterMstId": 285,
     "name": "Heavy (Wind) +30% (Little Mermaid+ stages)",
