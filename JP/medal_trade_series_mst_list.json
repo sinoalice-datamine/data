@@ -776,7 +776,7 @@
     "priority": 43,
     "itemMstId": 780,
     "startTime": 1536818400,
-    "endTime": 1924959599,
+    "endTime": 1654181999,
     "displayType": 0,
     "filterType": 0,
     "isDeleted": false
@@ -7409,6 +7409,23 @@
     "endTime": 1653317999,
     "displayType": 0,
     "filterType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 454,
+    "name": "ｱﾙｶﾅﾒﾀﾞﾙ（ｷﾞｼｱﾝﾊﾟｽ）",
+    "description": "ギシンアンキが集めているメダル※取得から30日まで",
+    "resourceName": "item20180913",
+    "assetBundleName": "0780",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ギシアンパス（金）継続特典で獲得できます。",
+    "priority": 500,
+    "itemMstId": 4467,
+    "startTime": 1654459200,
+    "endTime": 1924959599,
+    "displayType": 0,
+    "filterType": 1,
     "isDeleted": false
   },
   {

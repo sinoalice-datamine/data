@@ -18829,6 +18829,25 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 1035,
+    "questMapMstId": 584,
+    "name": "実験兵器ノ決意EX",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/87",
+    "bgResourceName": "0087",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "startTime": null,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 1036,
     "questMapMstId": 585,
     "name": "落丁シタ夢",

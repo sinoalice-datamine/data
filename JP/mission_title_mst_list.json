@@ -8208,6 +8208,14 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 1052,
+    "title": "「実験兵器ノ決意」EXﾐｯｼｮﾝ",
+    "priority": 20003,
+    "startTime": 1653282000,
+    "endTime": 1654441199,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 1053,
     "title": "シノアリスの日ミッション",
     "priority": 49999,
@@ -8277,6 +8285,14 @@
     "priority": 49999,
     "startTime": 1653030000,
     "endTime": 1656532799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1092,
+    "title": "生放送連動ミッション",
+    "priority": 50000,
+    "startTime": 1654172700,
+    "endTime": 1654786799,
     "isHideTime": false
   }
 ]
