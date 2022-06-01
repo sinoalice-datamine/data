@@ -5307,7 +5307,7 @@
     "characterVoice": "Kaede Hondo",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1654063200
   },
   {
     "characterMstId": 189,
@@ -11008,6 +11008,36 @@
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
     "displayStartTime": 1652162400
+  },
+  {
+    "characterMstId": 462,
+    "name": "Hamelin/Sorcerer",
+    "characterUniqueId": 44,
+    "characterUniqueName": "Hamelin",
+    "characterUniqueEnglishName": "Hameln",
+    "characterVoiceId": 0,
+    "collaborationId": 0,
+    "collaborationName": "0",
+    "rolePosition": 2,
+    "motionType": 2,
+    "shaderType": 0,
+    "spineAvatarType": 0,
+    "scale": 100,
+    "avatarGroupId": 0,
+    "partnerNum": -1,
+    "maxLevel": 10,
+    "description": "The piper plays his pipe.\\nTrampling over the unsightly before it reaches his sight.\\nFor his song is only for the beautiful.",
+    "favoriteWeapon": 2,
+    "isSpirit": false,
+    "spiritType": 0,
+    "disableStanding": 0,
+    "isAvailable": true,
+    "resourceName": "462",
+    "assetBundleName": "character/462",
+    "characterVoice": "Tomoaki Maeno",
+    "mypageMinVoice": 0,
+    "mypageMaxVoice": 0,
+    "displayStartTime": 1654063200
   },
   {
     "characterMstId": 463,

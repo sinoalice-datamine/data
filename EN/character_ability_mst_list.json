@@ -18080,6 +18080,126 @@
     "cardDetailType": 1
   },
   {
+    "characterAbilityMstId": 2049,
+    "characterMstId": 188,
+    "name": "Heavy (Water) +30% (Sleeping Beauty+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2050,
+    "characterMstId": 188,
+    "name": "All Weapons (Wind) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 2051,
+    "characterMstId": 188,
+    "name": "Heavy (Water) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2052,
+    "characterMstId": 188,
+    "name": "Heavy (Water) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2053,
+    "characterMstId": 188,
+    "name": "P.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2054,
+    "characterMstId": 188,
+    "name": "P.ATK +1,000",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 1000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2055,
+    "characterMstId": 188,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2056,
+    "characterMstId": 188,
+    "name": "P.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2057,
+    "characterMstId": 188,
+    "name": "Heavy (Water) +10% (Sleeping Beauty+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2058,
+    "characterMstId": 188,
+    "name": "P.DMG +2% when using heavy class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5030,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2059,
+    "characterMstId": 188,
+    "name": "P.DEF +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 2060,
+    "characterMstId": 188,
+    "name": "P.DEF +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 2061,
     "characterMstId": 12,
     "name": "Tome +10% (Cinderella+ stages)",
@@ -27880,6 +28000,26 @@
     "cardDetailType": 4
   },
   {
+    "characterAbilityMstId": 3457,
+    "characterMstId": 188,
+    "name": "Heavy (Water) +30% (Sleeping Beauty+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 3458,
+    "characterMstId": 188,
+    "name": "HP +1,200",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1200,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 3473,
     "characterMstId": 280,
     "name": "Projectile +50% (Three Little Pigs+ stages)",
@@ -35180,6 +35320,146 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 6103,
+    "characterMstId": 462,
+    "name": "Tome +30% (Hamelin+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6104,
+    "characterMstId": 462,
+    "name": "Tome +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6105,
+    "characterMstId": 462,
+    "name": "M.DEF +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6106,
+    "characterMstId": 462,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6107,
+    "characterMstId": 462,
+    "name": "Tome +10% (Hamelin+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6108,
+    "characterMstId": 462,
+    "name": "M.ATK +500",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6109,
+    "characterMstId": 462,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6110,
+    "characterMstId": 462,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6111,
+    "characterMstId": 462,
+    "name": "Tome +10% (Hamelin+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6112,
+    "characterMstId": 462,
+    "name": "HP +600",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 600,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6113,
+    "characterMstId": 462,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6114,
+    "characterMstId": 462,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6115,
+    "characterMstId": 462,
+    "name": "Tome +10% (Hamelin+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6116,
+    "characterMstId": 462,
+    "name": "HP +400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
     "characterAbilityMstId": 6155,
     "characterMstId": 466,
     "name": "Blade (Wind) +30% (Pinocchio+ stages)",
@@ -35437,6 +35717,26 @@
     "skillType": 1,
     "effectType": 3,
     "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6243,
+    "characterMstId": 462,
+    "name": "P.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6244,
+    "characterMstId": 462,
+    "name": "Debuff effect +2% when using tome class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5034,
     "cardDetailType": 2
   },
   {
@@ -42198,5 +42498,25 @@
     "effectType": 5,
     "effectValue": 400,
     "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 900201,
+    "characterMstId": 188,
+    "name": "P.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 900202,
+    "characterMstId": 188,
+    "name": "P.ATK +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 1
   }
 ]
