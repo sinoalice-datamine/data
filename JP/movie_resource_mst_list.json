@@ -7496,5 +7496,28 @@
     "museumEndTime": 1924959599,
     "vibStartTime": -1.0,
     "skipButtonType": 0
+  },
+  {
+    "movieResourceMstId": 353,
+    "movieTitle": "通算ログインボーナスARIGATO1825日版",
+    "resourceName": "LoginARIGATO_1825",
+    "isPreDownLoad": 0,
+    "type": 11,
+    "value": 0,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1654236000,
+    "endTime": 1922594400,
+    "isMuseum": 0,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "条件なし　表示されていたらバグ",
+    "thumbAssetBundleName": "museumthumbnail/353",
+    "thumbResourceName": "LoginARIGATO_1825",
+    "museumStartTime": 1654236000,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0,
+    "skipButtonType": 0
   }
 ]
