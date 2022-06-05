@@ -2170,6 +2170,48 @@
     "createdTime": null
   },
   {
+    "chatStampMstId": 170,
+    "name": "ピノキオ/ピノとネコ",
+    "resourceName": "170",
+    "assetBundleName": "chat68",
+    "filterType": 5,
+    "howToGet": "レイドイベント「精霊奉葬」獲得可能",
+    "itemMstId": 4396,
+    "replaceMessage": "[*170]",
+    "isAnytime": 0,
+    "startTime": 1654441200,
+    "endTime": 1655791199,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 171,
+    "name": "スノウホワイト/節約しよう…",
+    "resourceName": "171",
+    "assetBundleName": "chat69",
+    "filterType": 2,
+    "howToGet": "『最貧のハッシュタグキャンペーン』にて獲得可能",
+    "itemMstId": 4615,
+    "replaceMessage": "[*171]",
+    "isAnytime": 0,
+    "startTime": 1654441200,
+    "endTime": 1655737199,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 172,
+    "name": "いばら姫/うるさい！",
+    "resourceName": "172",
+    "assetBundleName": "chat69",
+    "filterType": 8,
+    "howToGet": "『それは最貧と感謝の五周年 ～ 予算が減っても、節約して執念でヤルノデス周年を！～』開催記念",
+    "itemMstId": 4616,
+    "replaceMessage": "[*172]",
+    "isAnytime": 0,
+    "startTime": 1654441200,
+    "endTime": 1656601199,
+    "createdTime": null
+  },
+  {
     "chatStampMstId": 900001,
     "name": "スノウホワイト/No.1",
     "resourceName": "900001",

@@ -4873,6 +4873,17 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 452,
+    "title": "レイドイベントボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1654441200,
+    "endTime": 1655791199,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 453,
     "title": "5周年記念カムバック報酬増量分",
     "cycleType": 6,
@@ -4957,6 +4968,50 @@
     "pickupSkillType": 1,
     "startTime": 1654027200,
     "endTime": 1654613999,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 465,
+    "title": "5周年記念ログインボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1654459200,
+    "endTime": 1656395999,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 466,
+    "title": "5周年プレゼントCPログボ",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1654441200,
+    "endTime": 1654786799,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 467,
+    "title": "5周年プレゼントCPログボ",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1654786800,
+    "endTime": 1655305199,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 468,
+    "title": "5周年プレゼントCPログボ",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1655305200,
+    "endTime": 1655737199,
     "resourceName": "1",
     "assetBundleName": ""
   },

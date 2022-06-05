@@ -6248,6 +6248,83 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 594,
+    "mapType": 1,
+    "mapGroup": 561,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "精霊奇譚",
+    "description": "レイド「精霊奇譚_シナリオ」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 595,
+    "mapType": 1,
+    "mapGroup": 562,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "精霊邂逅",
+    "description": "レイド「精霊奇譚_エンカウント」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 596,
+    "mapType": 1,
+    "mapGroup": 563,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "精霊邂逅",
+    "description": "レイド「精霊奇譚_エンカウント」Hard",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 597,
+    "mapType": 1,
+    "mapGroup": 564,
+    "mapGroupLv": 3,
+    "mapCategory": 0,
+    "name": "精霊邂逅",
+    "description": "レイド「精霊奇譚_エンカウント」Extreme",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 598,
+    "mapType": 1,
+    "mapGroup": 565,
+    "mapGroupLv": 4,
+    "mapCategory": 0,
+    "name": "精霊邂逅",
+    "description": "レイド「精霊奇譚_エンカウント」Genocide",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 599,
+    "mapType": 1,
+    "mapGroup": 566,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "通常レイド",
+    "description": "レイド自体のクエスト用",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 600,
+    "mapType": 1,
+    "mapGroup": 567,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "ギルドレイド",
+    "description": "レイド自体のクエスト用",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 602,
     "mapType": 1,
     "mapGroup": 569,
@@ -6266,6 +6343,17 @@
     "mapCategory": 0,
     "name": "再構築サレタ因果",
     "description": "超討伐「再構築サレタ因果」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 604,
+    "mapType": 1,
+    "mapGroup": 571,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "しょうごPイベント22",
+    "description": "特殊「しょうごPイベント22」",
     "announceUrl": "",
     "createdTime": 1483974000
   }
