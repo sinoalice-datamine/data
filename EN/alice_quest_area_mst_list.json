@@ -4316,7 +4316,7 @@
     "isComingSoon": false,
     "unCombatFlag": false,
     "isGve": false,
-    "disableMultipleCharacter": false,
+    "disableMultipleCharacter": true,
     "createdTime": 1483974000
   },
   {
@@ -5974,6 +5974,24 @@
     "isGve": false,
     "disableMultipleCharacter": true,
     "createdTime": 1485183600
+  },
+  {
+    "questAreaMstId": 406,
+    "questMapMstId": 181,
+    "name": "Messenger of Gloom",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/3",
+    "bgResourceName": "0003",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "createdTime": 1483974000
   },
   {
     "questAreaMstId": 411,
