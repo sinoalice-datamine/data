@@ -18601,5 +18601,23 @@
     "effectType": 6,
     "effectValue": 4,
     "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 2116,
+    "characterUniqueId": 0,
+    "name": "物防+300",
+    "description": "物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2117,
+    "characterUniqueId": 0,
+    "name": "魔防+300",
+    "description": "魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
   }
 ]
