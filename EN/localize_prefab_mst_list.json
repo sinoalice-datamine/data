@@ -20403,12 +20403,12 @@
     "Type": 0,
     "GameKey": "PREFAB",
     "JP": "SP供給Lv/噺",
-    "EN": "SP Supply Lv./Story",
+    "EN": "SP Supply Lv./Tale",
     "KR": "SP 공급 Lv./만담",
-    "DE": "SP Supply Lv./Story",
-    "FR": "SP Supply Lv./Story",
-    "ES": "SP Supply Lv./Story",
-    "TH": "SP Supply Lv./Story",
+    "DE": "SP Supply Lv./Tale",
+    "FR": "SP Supply Lv./Tale",
+    "ES": "SP Supply Lv./Tale",
+    "TH": "SP Supply Lv./Tale",
     "VN": ""
   },
   {
@@ -20417,12 +20417,12 @@
     "Type": 0,
     "GameKey": "PREFAB",
     "JP": "SP供給Lv/決闘",
-    "EN": "SP Supply Lv./Battle",
+    "EN": "SP Supply Lv./Duel",
     "KR": "SP 공급 Lv./결투",
-    "DE": "SP Supply Lv./Battle",
-    "FR": "SP Supply Lv./Battle",
-    "ES": "SP Supply Lv./Battle",
-    "TH": "SP Supply Lv./Battle",
+    "DE": "SP Supply Lv./Duel",
+    "FR": "SP Supply Lv./Duel",
+    "ES": "SP Supply Lv./Duel",
+    "TH": "SP Supply Lv./Duel",
     "VN": ""
   },
   {
@@ -20787,6 +20787,34 @@
     "FR": "\\nAchieved: {0} / {1}",
     "ES": "\\nAchieved: {0} / {1}",
     "TH": "\\nAchieved: {0} / {1}",
+    "VN": ""
+  },
+  {
+    "id": 1486,
+    "TLM": 52671,
+    "Type": 0,
+    "GameKey": "PREFAB",
+    "JP": "アカウント削除",
+    "EN": "Delete Account",
+    "KR": "계정 삭제",
+    "DE": "Delete Account",
+    "FR": "Delete Account",
+    "ES": "Delete Account",
+    "TH": "Delete Account",
+    "VN": ""
+  },
+  {
+    "id": 1487,
+    "TLM": 52672,
+    "Type": 0,
+    "GameKey": "PREFAB",
+    "JP": "【アカウント削除希望】",
+    "EN": "[I want to delete my account]",
+    "KR": "[계정 삭제 희망]",
+    "DE": "[I want to delete my account]",
+    "FR": "[I want to delete my account]",
+    "ES": "[I want to delete my account]",
+    "TH": "[I want to delete my account]",
     "VN": ""
   }
 ]

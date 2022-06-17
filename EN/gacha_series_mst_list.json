@@ -7869,5 +7869,39 @@
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",
     "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 900142,
+    "gachaGroupId": 3,
+    "bannerMstId": 900529,
+    "isAlways": false,
+    "name": "2nd Anniversary Pre-Fest: Vanguard Grimoire",
+    "description": "-",
+    "noticeMessage": "Note: The items from this grimoire are as follows:\\nItem: Medal of Desire (Ⅵ)\\nAmount: 100 from grimoire x11\\nItem: 2nd Anniversary Medal\\nAmount: 100 from grimoire x11\\nMedal of Desire (Ⅵ)s and 2nd Anniversary Medals from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 2281,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=2603&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 900143,
+    "gachaGroupId": 3,
+    "bannerMstId": 900530,
+    "isAlways": false,
+    "name": "2nd Anniversary Pre-Fest: Rearguard Grimoire",
+    "description": "-",
+    "noticeMessage": "Note: The items from this grimoire are as follows:\\nItem: Medal of Desire (Ⅵ)\\nAmount: 100 from grimoire x11\\nItem: 2nd Anniversary Medal\\nAmount: 100 from grimoire x11\\nMedal of Desire (Ⅵ)s and 2nd Anniversary Medals from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 2280,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=2604&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
   }
 ]

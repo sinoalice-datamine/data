@@ -19280,6 +19280,106 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 2185,
+    "characterMstId": 163,
+    "name": "Projectile (Fire) +30% (Dorothy+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 2186,
+    "characterMstId": 163,
+    "name": "All Weapons (Water) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 2187,
+    "characterMstId": 163,
+    "name": "Projectile (Fire) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 2188,
+    "characterMstId": 163,
+    "name": "Projectile (Fire) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 2189,
+    "characterMstId": 163,
+    "name": "M.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 2190,
+    "characterMstId": 163,
+    "name": "M.ATK +1,000",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 1000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 2191,
+    "characterMstId": 163,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 2192,
+    "characterMstId": 163,
+    "name": "M.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 2193,
+    "characterMstId": 163,
+    "name": "Projectile (Fire) +10% (Dorothy+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 2194,
+    "characterMstId": 163,
+    "name": "M.DMG +2% when using projectile class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5031,
+    "cardDetailType": 7
+  },
+  {
     "characterAbilityMstId": 2205,
     "characterMstId": 171,
     "name": "Projectile (Wind) +30% (Little Mermaid+ stages)",
@@ -35878,6 +35978,26 @@
     "effectType": 5,
     "effectValue": 400,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6099,
+    "characterMstId": 99,
+    "name": "Buff effect +5% when using fire weapon",
+    "releaseLevel": 13,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6440,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6100,
+    "characterMstId": 99,
+    "name": "Recovery effect +5% when using fire weapon",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6442,
+    "cardDetailType": 5
   },
   {
     "characterAbilityMstId": 6103,
