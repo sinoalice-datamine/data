@@ -19226,5 +19226,43 @@
     "disableMultipleCharacter": false,
     "startTime": null,
     "createdTime": 1485183600
+  },
+  {
+    "questAreaMstId": 1068,
+    "questMapMstId": 610,
+    "name": "偶像ト崇拝",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/152",
+    "bgResourceName": "0152",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": false,
+    "startTime": null,
+    "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 1069,
+    "questMapMstId": 611,
+    "name": "偶像ト崇拝",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/153",
+    "bgResourceName": "0153",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": false,
+    "startTime": null,
+    "createdTime": 1483974000
   }
 ]
