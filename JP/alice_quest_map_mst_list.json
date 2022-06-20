@@ -6358,6 +6358,17 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 605,
+    "mapType": 0,
+    "mapGroup": 7,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "作者篇",
+    "description": "作者篇　Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 610,
     "mapType": 1,
     "mapGroup": 576,
@@ -6376,6 +6387,28 @@
     "mapCategory": 0,
     "name": "偶像ト崇拝　Hard",
     "description": "周年防具イベント",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 612,
+    "mapType": 1,
+    "mapGroup": 577,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "怪物ノ願イ　Normal",
+    "description": "獣クリーチャー",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 613,
+    "mapType": 1,
+    "mapGroup": 577,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "怪物ノ願イ　Hard",
+    "description": "獣クリーチャー",
     "announceUrl": "",
     "createdTime": 1483974000
   }

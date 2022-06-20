@@ -89180,6 +89180,306 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 9103,
+    "characterMstId": 272,
+    "name": "魔法防御+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 9104,
+    "characterMstId": 272,
+    "name": "魔具ジョブ使用時、魔法ダメージ2%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5036,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 9105,
+    "characterMstId": 650,
+    "name": "モノガタリで刀剣90%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 90,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9106,
+    "characterMstId": 650,
+    "name": "刀剣10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9107,
+    "characterMstId": 650,
+    "name": "物理攻撃+500",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9108,
+    "characterMstId": 650,
+    "name": "物理防御+500",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9109,
+    "characterMstId": 650,
+    "name": "物理攻撃+500",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9110,
+    "characterMstId": 650,
+    "name": "コスト+10",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9111,
+    "characterMstId": 650,
+    "name": "HP+1000",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9112,
+    "characterMstId": 650,
+    "name": "物理攻撃+4000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 4000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9113,
+    "characterMstId": 650,
+    "name": "HP+1250",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1250,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9114,
+    "characterMstId": 650,
+    "name": "刀剣ジョブ使用時、物理ダメージ3%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7081,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9115,
+    "characterMstId": 650,
+    "name": "物理防御+700",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 700,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9116,
+    "characterMstId": 650,
+    "name": "物理攻撃+800",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 800,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9117,
+    "characterMstId": 650,
+    "name": "物理防御+1000",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9118,
+    "characterMstId": 650,
+    "name": "物理攻撃+1000",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 1000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9119,
+    "characterMstId": 651,
+    "name": "モノガタリで魔書90%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 90,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9120,
+    "characterMstId": 651,
+    "name": "魔書10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9121,
+    "characterMstId": 651,
+    "name": "魔法攻撃+500",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9122,
+    "characterMstId": 651,
+    "name": "魔法防御+500",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9123,
+    "characterMstId": 651,
+    "name": "魔法攻撃+500",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9124,
+    "characterMstId": 651,
+    "name": "コスト+10",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9125,
+    "characterMstId": 651,
+    "name": "HP+1000",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9126,
+    "characterMstId": 651,
+    "name": "魔法攻撃+4000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 4000,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9127,
+    "characterMstId": 651,
+    "name": "HP+1250",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1250,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9128,
+    "characterMstId": 651,
+    "name": "魔書ジョブ使用時、デバフ効果3%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7084,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9129,
+    "characterMstId": 651,
+    "name": "魔法防御+700",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 700,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9130,
+    "characterMstId": 651,
+    "name": "魔法攻撃+800",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 800,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9131,
+    "characterMstId": 651,
+    "name": "魔法防御+1000",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9132,
+    "characterMstId": 651,
+    "name": "魔法攻撃+1000",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 1000,
+    "cardDetailType": 2
+  },
+  {
     "characterAbilityMstId": 9133,
     "characterMstId": 648,
     "name": "Gretelエリアで祈祷60%UP",
