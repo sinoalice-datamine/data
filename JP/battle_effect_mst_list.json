@@ -5766,5 +5766,19 @@
     "cueSheet": "se_raid_goushi",
     "cueName": "se_raid_goushi@010",
     "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 443,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 7,
+    "cueSheet": "se_raid_5syunen",
+    "cueName": "se_raid_5syunen@001_R",
+    "createdTime": 1485961226
   }
 ]

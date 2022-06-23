@@ -89798,5 +89798,325 @@
     "effectType": 2,
     "effectValue": 500,
     "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9221,
+    "characterMstId": 656,
+    "name": "Rapunzelエリアで打撃(水)30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9222,
+    "characterMstId": 656,
+    "name": "全武器種(風)25%DOWN",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 9223,
+    "characterMstId": 656,
+    "name": "モノガタリで打撃(水)25%UP",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9224,
+    "characterMstId": 656,
+    "name": "打撃(水)15%UP",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9225,
+    "characterMstId": 656,
+    "name": "物理攻撃+100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9226,
+    "characterMstId": 656,
+    "name": "物理防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9227,
+    "characterMstId": 656,
+    "name": "HP+50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9228,
+    "characterMstId": 656,
+    "name": "物理防御+100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9229,
+    "characterMstId": 656,
+    "name": "Rapunzelエリアで打撃(水)10%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9230,
+    "characterMstId": 656,
+    "name": "HP+50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9231,
+    "characterMstId": 656,
+    "name": "物理防御+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9232,
+    "characterMstId": 656,
+    "name": "物理防御+300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9233,
+    "characterMstId": 656,
+    "name": "Rapunzelエリアで打撃(水)30%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9234,
+    "characterMstId": 656,
+    "name": "物理攻撃+700",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 700,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9235,
+    "characterMstId": 656,
+    "name": "水属性武器使用時、物理ダメージ3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6195,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9236,
+    "characterMstId": 656,
+    "name": "物理防御+700",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 700,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9237,
+    "characterMstId": 657,
+    "name": "Aladdinエリアで長柄(火)30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9238,
+    "characterMstId": 657,
+    "name": "全武器種(水)25%DOWN",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 9239,
+    "characterMstId": 657,
+    "name": "モノガタリで長柄(火)25%UP",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9240,
+    "characterMstId": 657,
+    "name": "長柄(火)15%UP",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9241,
+    "characterMstId": 657,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9242,
+    "characterMstId": 657,
+    "name": "魔法防御+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9243,
+    "characterMstId": 657,
+    "name": "HP+50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9244,
+    "characterMstId": 657,
+    "name": "魔法防御+100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9245,
+    "characterMstId": 657,
+    "name": "Aladdinエリアで長柄(火)10%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9246,
+    "characterMstId": 657,
+    "name": "HP+50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9247,
+    "characterMstId": 657,
+    "name": "魔法防御+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9248,
+    "characterMstId": 657,
+    "name": "魔法防御+300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9249,
+    "characterMstId": 657,
+    "name": "Aladdinエリアで長柄(火)30%UP",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9250,
+    "characterMstId": 657,
+    "name": "魔法攻撃+700",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 700,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9251,
+    "characterMstId": 657,
+    "name": "火属性武器使用時、魔法ダメージ3%UP",
+    "releaseLevel": 15,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6432,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9252,
+    "characterMstId": 657,
+    "name": "魔法防御+700",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 700,
+    "cardDetailType": 8
   }
 ]

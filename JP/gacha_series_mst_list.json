@@ -21945,6 +21945,25 @@
     "createdTime": 1467266432
   },
   {
+    "gachaSeriesMstId": 2929,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 7076,
+    "isAlways": false,
+    "name": "傷花狼と金闇鴉ガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅵ)\r\n枚数：1回ガチャで10枚、11回ガチャで100枚\r\n有効期限：2022年7月7日23:59",
+    "priority": 28000,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=10283&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 5001,
     "gachaGroupId": 9,
     "topBannerMstId": 0,
