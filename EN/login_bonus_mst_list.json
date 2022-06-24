@@ -552,6 +552,18 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 134,
+    "title": "Guild Event Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1656568800,
+    "endTime": 1657169999,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 152,
     "title": "Colosseum Sin Login Bonus",
     "cycleType": 2,
@@ -1512,6 +1524,18 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 900050,
+    "title": "Guild Event Streak Bonus",
+    "cycleType": 101,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1656568800,
+    "endTime": 1657169999,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 900051,
     "title": "2nd Anniversary Pre-Fest Login Bonus",
     "cycleType": 2,
@@ -1531,6 +1555,54 @@
     "pickupSkillType": 1,
     "startTime": 1655528400,
     "endTime": 1656392399,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900053,
+    "title": "2nd Anniversary Countdown Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1656392400,
+    "endTime": 1656478799,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900054,
+    "title": "2nd Anniversary Countdown Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1656478800,
+    "endTime": 1656565199,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900055,
+    "title": "2nd Anniversary Countdown Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1656565200,
+    "endTime": 1656651599,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900056,
+    "title": "2nd Anniversary Celebratory Gift",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1656050400,
+    "endTime": 1656655199,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""

@@ -8787,7 +8787,7 @@
     "characterVoice": "Kaede Hondo",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1656050400
   },
   {
     "characterMstId": 314,
@@ -12088,6 +12088,36 @@
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
     "displayStartTime": 1640962800
+  },
+  {
+    "characterMstId": 606,
+    "name": "Rapunzel/Crusher",
+    "characterUniqueId": 35,
+    "characterUniqueName": "Rapunzel",
+    "characterUniqueEnglishName": "Rapunzel",
+    "characterVoiceId": 0,
+    "collaborationId": 0,
+    "collaborationName": "0",
+    "rolePosition": 1,
+    "motionType": 1,
+    "shaderType": 0,
+    "spineAvatarType": 0,
+    "scale": 100,
+    "avatarGroupId": 0,
+    "partnerNum": -1,
+    "maxLevel": 10,
+    "description": "The little bird sang.\\nFor the sake of its parent.\\nBut at some point, the little bird's song was not what its parents had wished.",
+    "favoriteWeapon": 6,
+    "isSpirit": false,
+    "spiritType": 0,
+    "disableStanding": 0,
+    "isAvailable": true,
+    "resourceName": "606",
+    "assetBundleName": "character/606",
+    "characterVoice": "Akane Fujita",
+    "mypageMinVoice": 0,
+    "mypageMaxVoice": 0,
+    "displayStartTime": 1656050400
   },
   {
     "characterMstId": 619,
