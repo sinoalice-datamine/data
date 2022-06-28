@@ -4983,6 +4983,17 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 464,
+    "title": "シノアリスの日プレゼント",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1656532800,
+    "endTime": 1656791999,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 465,
     "title": "5周年記念ログインボーナス",
     "cycleType": 2,
@@ -5034,6 +5045,28 @@
     "pickupSkillType": 1,
     "startTime": 1655582400,
     "endTime": 1656068399,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 471,
+    "title": "イベントボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1656396000,
+    "endTime": 1657601999,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 472,
+    "title": "ギルドイベントボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1656619200,
+    "endTime": 1657205999,
     "resourceName": "1",
     "assetBundleName": ""
   },
@@ -5430,6 +5463,28 @@
     "pickupSkillType": 1,
     "startTime": 1654009200,
     "endTime": 1656601199,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 100038,
+    "title": "Rank100応援ボーナス①",
+    "cycleType": 7,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1656601200,
+    "endTime": 1659279599,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 100039,
+    "title": "Rank100応援ボーナス②",
+    "cycleType": 7,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1656601200,
+    "endTime": 1659279599,
     "resourceName": "1",
     "assetBundleName": ""
   }
