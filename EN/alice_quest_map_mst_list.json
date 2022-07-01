@@ -1408,6 +1408,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 211,
+    "mapType": 1,
+    "mapGroup": 123,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Snow, Justice of Two (Normal)",
+    "description": "Medal: Snow, Justice of Two (Normal)",
+    "announceUrl": "/web/announce/body?announceMstId=3182&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 212,
+    "mapType": 1,
+    "mapGroup": 123,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "Snow, Justice of Two (Hard)",
+    "description": "Medal: Snow, Justice of Two (Hard)",
+    "announceUrl": "/web/announce/body?announceMstId=3182&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 213,
     "mapType": 1,
     "mapGroup": 70,

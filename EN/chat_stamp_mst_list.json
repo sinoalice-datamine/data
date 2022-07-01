@@ -728,6 +728,48 @@
     "createdTime": null
   },
   {
+    "chatStampMstId": 72,
+    "name": "Snow White/Bride",
+    "resourceName": "072",
+    "assetBundleName": "chat900014",
+    "filterType": 2,
+    "howToGet": "Obtainable at the \"Snow, Justice of Two\" event",
+    "itemMstId": 1221,
+    "replaceMessage": "[*072]",
+    "isAnytime": 0,
+    "startTime": 1656655200,
+    "endTime": 1658469599,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 73,
+    "name": "Snow White/I still don't get it",
+    "resourceName": "073",
+    "assetBundleName": "chat900014",
+    "filterType": 2,
+    "howToGet": "Obtainable at the \"Snow, Justice of Two\" event",
+    "itemMstId": 1222,
+    "replaceMessage": "[*073]",
+    "isAnytime": 0,
+    "startTime": 1657267200,
+    "endTime": 1658469599,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 74,
+    "name": "Snow White/Good point",
+    "resourceName": "074",
+    "assetBundleName": "chat900014",
+    "filterType": 2,
+    "howToGet": "Obtainable at the \"Snow, Justice of Two\" event",
+    "itemMstId": 1223,
+    "replaceMessage": "[*074]",
+    "isAnytime": 0,
+    "startTime": 1657267200,
+    "endTime": 1658469599,
+    "createdTime": null
+  },
+  {
     "chatStampMstId": 75,
     "name": "Red Riding Hood/Yahoo!",
     "resourceName": "075",

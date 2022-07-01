@@ -1,0 +1,57 @@
+[
+  {
+    "characterBoardMstId": 1,
+    "characterUniqueId": 1,
+    "name": "Alice",
+    "priority": 1,
+    "boardAssetBundleName": "board/1",
+    "boardResourceName": "001",
+    "boardTopAssetBundleName": "boardtop/1",
+    "boardTopResourceName": "001",
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardMstId": 2,
+    "characterUniqueId": 2,
+    "name": "Snow White",
+    "priority": 2,
+    "boardAssetBundleName": "board/2",
+    "boardResourceName": "002",
+    "boardTopAssetBundleName": "boardtop/2",
+    "boardTopResourceName": "002",
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardMstId": 3,
+    "characterUniqueId": 3,
+    "name": "Red Riding Hood",
+    "priority": 3,
+    "boardAssetBundleName": "board/3",
+    "boardResourceName": "003",
+    "boardTopAssetBundleName": "boardtop/3",
+    "boardTopResourceName": "003",
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardMstId": 4,
+    "characterUniqueId": 4,
+    "name": "Cinderella",
+    "priority": 4,
+    "boardAssetBundleName": "board/4",
+    "boardResourceName": "004",
+    "boardTopAssetBundleName": "boardtop/4",
+    "boardTopResourceName": "004",
+    "materialSourceText": ""
+  },
+  {
+    "characterBoardMstId": 5,
+    "characterUniqueId": 5,
+    "name": "Pinocchio",
+    "priority": 5,
+    "boardAssetBundleName": "board/5",
+    "boardResourceName": "005",
+    "boardTopAssetBundleName": "boardtop/5",
+    "boardTopResourceName": "005",
+    "materialSourceText": ""
+  }
+]

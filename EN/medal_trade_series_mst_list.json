@@ -795,6 +795,36 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 89,
+    "name": "Proud Lion Medal (II)",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item91",
+    "assetBundleName": "0607",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 1193,
+    "startTime": 1656655200,
+    "endTime": 1658469599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 90,
+    "name": "Arcana Medal",
+    "description": "A medal that is an incidental byproduct of purchasing certain twilight crystals",
+    "resourceName": "item1",
+    "assetBundleName": "0060",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by buying twilight crystals with the Arcana Medal.",
+    "priority": 37,
+    "itemMstId": 1262,
+    "startTime": 1656655200,
+    "endTime": 1658469599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 92,
     "name": "Medal of Desire (VII)",
     "description": "A medal that is an incidental byproduct of a Grimoire.",
