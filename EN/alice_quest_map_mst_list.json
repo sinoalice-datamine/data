@@ -2222,6 +2222,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 511,
+    "mapType": 1,
+    "mapGroup": 506,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Race of a Lifetime",
+    "description": "畢生ノ疾駆 Normal",
+    "announceUrl": "/web/announce/body?announceMstId=2713&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 512,
+    "mapType": 1,
+    "mapGroup": 506,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "Race of a Lifetime (Hard)",
+    "description": "畢生ノ疾駆 Hard",
+    "announceUrl": "/web/announce/body?announceMstId=2713&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 514,
     "mapType": 1,
     "mapGroup": 508,
