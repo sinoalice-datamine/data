@@ -30398,6 +30398,66 @@
     "matk_effect_size": 1
   },
   {
+    "skillMstId": 7951,
+    "skill_type": 1,
+    "targets": {
+      "type": 1,
+      "min": 2,
+      "max": 3
+    },
+    "damage_type": 1,
+    "damage_effect_size": 4,
+    "support_direction": 1,
+    "patk_effect_size": 1,
+    "pdef_effect_size": 1,
+    "combo": 10
+  },
+  {
+    "skillMstId": 7952,
+    "skill_type": 1,
+    "targets": {
+      "type": 1,
+      "min": 2,
+      "max": 3
+    },
+    "damage_type": 2,
+    "damage_effect_size": 4,
+    "support_direction": 1,
+    "matk_effect_size": 1,
+    "mdef_effect_size": 1,
+    "combo": 10
+  },
+  {
+    "skillMstId": 7953,
+    "skill_type": 1,
+    "targets": {
+      "type": 1,
+      "min": 2,
+      "max": 3
+    },
+    "damage_type": 1,
+    "damage_effect_size": 4,
+    "support_direction": 1,
+    "patk_effect_size": 1,
+    "pdef_effect_size": 1,
+    "combo": 10
+  },
+  {
+    "skillMstId": 7954,
+    "skill_type": 1,
+    "targets": {
+      "type": 1,
+      "min": 2,
+      "max": 3
+    },
+    "damage_type": 2,
+    "damage_effect_size": 4,
+    "support_direction": 1,
+    "matk_effect_size": 1,
+    "mdef_effect_size": 1,
+    "combo": 10
+  },
+  {
     "skillMstId": 900001,
     "skill_type": 4,
     "when": {

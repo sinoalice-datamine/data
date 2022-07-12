@@ -90680,6 +90680,166 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 9253,
+    "characterMstId": 662,
+    "name": "モノガタリで祈祷90%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 90,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9254,
+    "characterMstId": 662,
+    "name": "祈祷10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9255,
+    "characterMstId": 662,
+    "name": "物理防御+500",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9256,
+    "characterMstId": 662,
+    "name": "魔法防御+500",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9257,
+    "characterMstId": 662,
+    "name": "物理防御+500",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9258,
+    "characterMstId": 662,
+    "name": "コスト+10",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 10,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9259,
+    "characterMstId": 662,
+    "name": "HP+1000",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9260,
+    "characterMstId": 662,
+    "name": "魔法防御+4000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 4000,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9261,
+    "characterMstId": 662,
+    "name": "HP+1250",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1250,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9262,
+    "characterMstId": 662,
+    "name": "祈祷ジョブ使用時、回復効果3%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7085,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9263,
+    "characterMstId": 662,
+    "name": "魔法防御+700",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 700,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9264,
+    "characterMstId": 662,
+    "name": "物理防御+800",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 800,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9265,
+    "characterMstId": 662,
+    "name": "魔法防御+1000",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9266,
+    "characterMstId": 662,
+    "name": "物理防御+1000",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9267,
+    "characterMstId": 661,
+    "name": "モノガタリで打撃90%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 90,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9268,
+    "characterMstId": 661,
+    "name": "打撃10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 9269,
     "characterMstId": 286,
     "name": "物理防御+500",
@@ -90698,5 +90858,125 @@
     "effectType": 2,
     "effectValue": 700,
     "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9271,
+    "characterMstId": 661,
+    "name": "物理攻撃+500",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9272,
+    "characterMstId": 661,
+    "name": "物理防御+500",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9273,
+    "characterMstId": 661,
+    "name": "物理攻撃+500",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9274,
+    "characterMstId": 661,
+    "name": "コスト+10",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9275,
+    "characterMstId": 661,
+    "name": "HP+1000",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9276,
+    "characterMstId": 661,
+    "name": "物理攻撃+4000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 4000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9277,
+    "characterMstId": 661,
+    "name": "HP+1250",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1250,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9278,
+    "characterMstId": 661,
+    "name": "打撃ジョブ使用時、物理ダメージ3%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6149,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9279,
+    "characterMstId": 661,
+    "name": "物理防御+700",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 700,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9280,
+    "characterMstId": 661,
+    "name": "物理攻撃+800",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 800,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9281,
+    "characterMstId": 661,
+    "name": "物理防御+1000",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9282,
+    "characterMstId": 661,
+    "name": "物理攻撃+1000",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 1000,
+    "cardDetailType": 6
   }
 ]
