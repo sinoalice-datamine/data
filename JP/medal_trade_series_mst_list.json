@@ -8738,5 +8738,24 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 480,
+    "name": "サメメダル",
+    "description": "ギシンアンキが集めているメダル※2022年8月8日23:59まで",
+    "resourceName": "item20220714_nightmare_gacha",
+    "assetBundleName": "4697",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2022年8月8日23:59まで",
+    "priority": 43,
+    "itemMstId": 4697,
+    "startTime": 1657778400,
+    "endTime": 1659970799,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]
