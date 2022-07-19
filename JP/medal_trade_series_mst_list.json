@@ -8740,6 +8740,25 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 478,
+    "name": "フカヒレスープメダル",
+    "description": "ギシンアンキが集めているメダル※2022年8月8日23:59まで",
+    "resourceName": "item20220719_event_same",
+    "assetBundleName": "4663",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2022年8月8日23:59まで",
+    "priority": 43,
+    "itemMstId": 4663,
+    "startTime": 1658210400,
+    "endTime": 1659970799,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 480,
     "name": "サメメダル",
     "description": "ギシンアンキが集めているメダル※2022年8月8日23:59まで",

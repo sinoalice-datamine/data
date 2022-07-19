@@ -6457,6 +6457,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 616,
+    "mapType": 1,
+    "mapGroup": 579,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "戦慄ノ鮫宴",
+    "description": "メダル「戦慄ノ鮫宴」Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 617,
+    "mapType": 1,
+    "mapGroup": 579,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "戦慄ノ鮫宴　Hard",
+    "description": "メダル「戦慄ノ鮫宴」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 618,
     "mapType": 1,
     "mapGroup": 580,

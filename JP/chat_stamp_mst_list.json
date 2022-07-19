@@ -2226,6 +2226,34 @@
     "createdTime": null
   },
   {
+    "chatStampMstId": 174,
+    "name": "人魚姫/巨大化パンチ",
+    "resourceName": "174",
+    "assetBundleName": "chat71",
+    "filterType": 6,
+    "howToGet": "『戦慄ノ鮫宴』イベントで獲得可能",
+    "itemMstId": 4754,
+    "replaceMessage": "[*174]",
+    "isAnytime": 0,
+    "startTime": 1658210400,
+    "endTime": 1659970799,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 175,
+    "name": "ハーメルン/見逃しません",
+    "resourceName": "175",
+    "assetBundleName": "chat71",
+    "filterType": 44,
+    "howToGet": "『戦慄ノ鮫宴』イベントで獲得可能",
+    "itemMstId": 4755,
+    "replaceMessage": "[*175]",
+    "isAnytime": 0,
+    "startTime": 1658210400,
+    "endTime": 1659970799,
+    "createdTime": null
+  },
+  {
     "chatStampMstId": 900001,
     "name": "スノウホワイト/No.1",
     "resourceName": "900001",
