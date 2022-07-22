@@ -22401,6 +22401,25 @@
     "createdTime": 1467266417
   },
   {
+    "gachaSeriesMstId": 2961,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 7172,
+    "isAlways": false,
+    "name": "軍狼と魔蠍ガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅶ)\r\n枚数：1回ガチャで10枚、11回ガチャで100枚\r\n有効期限：2022年8月7日23:59",
+    "priority": 29100,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=10466&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 2963,
     "gachaGroupId": 3,
     "topBannerMstId": 0,
