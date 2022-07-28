@@ -92258,5 +92258,285 @@
     "effectType": 5,
     "effectValue": 700,
     "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9459,
+    "characterMstId": 669,
+    "name": "Rapunzelエリアで打撃60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9460,
+    "characterMstId": 669,
+    "name": "打撃10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9461,
+    "characterMstId": 669,
+    "name": "物理防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9462,
+    "characterMstId": 669,
+    "name": "物理攻撃+2500",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 2500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9463,
+    "characterMstId": 669,
+    "name": "物理攻撃+200",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9464,
+    "characterMstId": 669,
+    "name": "魔法防御+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9465,
+    "characterMstId": 669,
+    "name": "物理攻撃+200",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9466,
+    "characterMstId": 669,
+    "name": "HP+1000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9467,
+    "characterMstId": 669,
+    "name": "HP+1500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9468,
+    "characterMstId": 669,
+    "name": "打撃ジョブ使用時、物理ダメージ4%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7870,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9469,
+    "characterMstId": 669,
+    "name": "物理攻撃+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9470,
+    "characterMstId": 669,
+    "name": "物理防御+400",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9471,
+    "characterMstId": 669,
+    "name": "物理攻撃+600",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 600,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9472,
+    "characterMstId": 669,
+    "name": "水属性武器使用時、物理ダメージ3%UP",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6195,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9473,
+    "characterMstId": 681,
+    "name": "MatchGirlエリアで楽器60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9474,
+    "characterMstId": 681,
+    "name": "楽器10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9475,
+    "characterMstId": 681,
+    "name": "魔法防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9476,
+    "characterMstId": 681,
+    "name": "魔法防御+2000",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 2000,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9477,
+    "characterMstId": 681,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9478,
+    "characterMstId": 681,
+    "name": "物理防御+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9479,
+    "characterMstId": 681,
+    "name": "物理攻撃+200",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9480,
+    "characterMstId": 681,
+    "name": "魔法攻撃+3000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 3000,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9481,
+    "characterMstId": 681,
+    "name": "HP+1500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9482,
+    "characterMstId": 681,
+    "name": "楽器ジョブ使用時、バフ効果4%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7873,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9483,
+    "characterMstId": 681,
+    "name": "物理攻撃+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9484,
+    "characterMstId": 681,
+    "name": "魔法防御+400",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9485,
+    "characterMstId": 681,
+    "name": "魔法攻撃+600",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 600,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9486,
+    "characterMstId": 681,
+    "name": "火属性武器使用時、バフ効果3%UP",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6434,
+    "cardDetailType": 1
   }
 ]
