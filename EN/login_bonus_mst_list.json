@@ -588,6 +588,18 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 149,
+    "title": "Guild Event Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1659074400,
+    "endTime": 1659675599,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 152,
     "title": "Colosseum Sin Login Bonus",
     "cycleType": 2,
@@ -991,6 +1003,18 @@
     "pickupSkillType": 1,
     "startTime": 1650952800,
     "endTime": 1652158799,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 473,
+    "title": "10 Million Users Celebration",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1659074400,
+    "endTime": 1660280399,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""
@@ -1663,6 +1687,18 @@
     "pickupSkillType": 1,
     "startTime": 1657515600,
     "endTime": 1657861199,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900059,
+    "title": "Guild Event Streak Bonus",
+    "cycleType": 101,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1659074400,
+    "endTime": 1659675599,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""
