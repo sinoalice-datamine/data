@@ -19739,5 +19739,43 @@
     "disableMultipleCharacter": false,
     "startTime": null,
     "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 1086,
+    "questMapMstId": 620,
+    "name": "宵闇ニ輝ク光芒",
+    "collectItemId": 4714,
+    "exchangesSceneName": "SinShootingGachaTop",
+    "assetBundleName": "questareabackground/374",
+    "bgResourceName": "0374",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "startTime": null,
+    "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 1087,
+    "questMapMstId": 621,
+    "name": "宵闇ニ輝ク光芒",
+    "collectItemId": 4714,
+    "exchangesSceneName": "SinShootingGachaTop",
+    "assetBundleName": "questareabackground/375",
+    "bgResourceName": "0375",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": false,
+    "startTime": null,
+    "createdTime": 1483974000
   }
 ]

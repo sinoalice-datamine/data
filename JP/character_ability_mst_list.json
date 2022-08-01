@@ -90980,6 +90980,486 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 9283,
+    "characterMstId": 671,
+    "name": "Dorothyエリアで刀剣60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9284,
+    "characterMstId": 671,
+    "name": "刀剣10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9285,
+    "characterMstId": 671,
+    "name": "HP+500",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9286,
+    "characterMstId": 671,
+    "name": "物理攻撃+200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9287,
+    "characterMstId": 671,
+    "name": "魔法防御+200",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9288,
+    "characterMstId": 671,
+    "name": "物理攻撃+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9289,
+    "characterMstId": 671,
+    "name": "魔法防御+300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9290,
+    "characterMstId": 671,
+    "name": "HP+500",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9291,
+    "characterMstId": 671,
+    "name": "物理攻撃+300",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9292,
+    "characterMstId": 671,
+    "name": "HP+1000",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9293,
+    "characterMstId": 671,
+    "name": "魔法防御+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9294,
+    "characterMstId": 671,
+    "name": "物理攻撃+300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9295,
+    "characterMstId": 671,
+    "name": "魔法防御+300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9296,
+    "characterMstId": 671,
+    "name": "物理攻撃+400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9297,
+    "characterMstId": 671,
+    "name": "魔法防御+500",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9298,
+    "characterMstId": 671,
+    "name": "物理攻撃+500",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9299,
+    "characterMstId": 672,
+    "name": "Pinocchioエリアで長柄60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9300,
+    "characterMstId": 672,
+    "name": "長柄10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9301,
+    "characterMstId": 672,
+    "name": "HP+500",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9302,
+    "characterMstId": 672,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9303,
+    "characterMstId": 672,
+    "name": "物理防御+200",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9304,
+    "characterMstId": 672,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9305,
+    "characterMstId": 672,
+    "name": "物理防御+300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9306,
+    "characterMstId": 672,
+    "name": "HP+500",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9307,
+    "characterMstId": 672,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9308,
+    "characterMstId": 672,
+    "name": "HP+1000",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9309,
+    "characterMstId": 672,
+    "name": "物理防御+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9310,
+    "characterMstId": 672,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9311,
+    "characterMstId": 672,
+    "name": "物理防御+300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9312,
+    "characterMstId": 672,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9313,
+    "characterMstId": 672,
+    "name": "物理防御+500",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9314,
+    "characterMstId": 672,
+    "name": "魔法攻撃+500",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9315,
+    "characterMstId": 673,
+    "name": "ドリランドエリアで魔書60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9316,
+    "characterMstId": 673,
+    "name": "魔書10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9317,
+    "characterMstId": 673,
+    "name": "HP+500",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9318,
+    "characterMstId": 673,
+    "name": "物理防御+200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9319,
+    "characterMstId": 673,
+    "name": "魔法防御+200",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9320,
+    "characterMstId": 673,
+    "name": "物理防御+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9321,
+    "characterMstId": 673,
+    "name": "魔法防御+300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9322,
+    "characterMstId": 673,
+    "name": "HP+500",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9323,
+    "characterMstId": 673,
+    "name": "物理防御+300",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9324,
+    "characterMstId": 673,
+    "name": "HP+1000",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9325,
+    "characterMstId": 673,
+    "name": "魔法防御+300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9326,
+    "characterMstId": 673,
+    "name": "物理防御+300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9327,
+    "characterMstId": 673,
+    "name": "魔法防御+300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9328,
+    "characterMstId": 673,
+    "name": "物理防御+400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9329,
+    "characterMstId": 673,
+    "name": "魔法防御+500",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9330,
+    "characterMstId": 673,
+    "name": "物理防御+500",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 2
+  },
+  {
     "characterAbilityMstId": 9331,
     "characterMstId": 659,
     "name": "Pinocchioエリアで射出60%UP",

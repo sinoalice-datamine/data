@@ -6499,5 +6499,27 @@
     "description": "深海の亡愛　Hard",
     "announceUrl": "",
     "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 620,
+    "mapType": 1,
+    "mapGroup": 581,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "宵闇ニ輝ク光芒　Normal ",
+    "description": "宵闇ニ輝ク光芒 Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 621,
+    "mapType": 1,
+    "mapGroup": 581,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "宵闇ニ輝ク光芒　Hard",
+    "description": "宵闇ニ輝ク光芒メダル Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
   }
 ]

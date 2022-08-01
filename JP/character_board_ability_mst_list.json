@@ -17014,9 +17014,9 @@
     "characterUniqueId": 5,
     "name": "チケットUP",
     "description": "ピノキオのジョブを編成時、DCエリアでチケット獲得倍率+0.2倍",
-    "effectType": 15,
-    "effectValue": 20,
-    "cardDetailType": 0
+    "effectType": 6,
+    "effectValue": 0,
+    "cardDetailType": 1
   },
   {
     "characterBoardAbilityMstId": 1940,
@@ -18618,6 +18618,132 @@
     "description": "魔法防御 +300",
     "effectType": 5,
     "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2118,
+    "characterUniqueId": 95,
+    "name": "エリアUP",
+    "description": "ハルカのジョブを編成時、ドリランドエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2119,
+    "characterUniqueId": 95,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP ハルカのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2120,
+    "characterUniqueId": 95,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP ハルカのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2121,
+    "characterUniqueId": 95,
+    "name": "物魔攻撃UP",
+    "description": "ハルカのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2122,
+    "characterUniqueId": 95,
+    "name": "物魔防御UP",
+    "description": "ハルカのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2123,
+    "characterUniqueId": 95,
+    "name": "チケットUP",
+    "description": "ハルカのジョブを編成時、ドリランドエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2124,
+    "characterUniqueId": 95,
+    "name": "チケットUP",
+    "description": "ハルカのジョブを編成時、ドリランドエリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2125,
+    "characterUniqueId": 95,
+    "name": "物攻+300",
+    "description": "ハルカのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2126,
+    "characterUniqueId": 95,
+    "name": "物防+300",
+    "description": "ハルカのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2127,
+    "characterUniqueId": 95,
+    "name": "魔攻+300",
+    "description": "ハルカのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2128,
+    "characterUniqueId": 95,
+    "name": "魔防+300",
+    "description": "ハルカのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2129,
+    "characterUniqueId": 95,
+    "name": "魔書 2%UP",
+    "description": "ハルカのジョブを編成時、魔書2%UP",
+    "effectType": 6,
+    "effectValue": 2,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 2130,
+    "characterUniqueId": 5,
+    "name": "チケットUP",
+    "description": "ピノキオのジョブを編成時、ドリランドエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2131,
+    "characterUniqueId": 14,
+    "name": "チケットUP",
+    "description": "ドロシーのジョブを編成時、ドリランドエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
     "cardDetailType": 0
   }
 ]
