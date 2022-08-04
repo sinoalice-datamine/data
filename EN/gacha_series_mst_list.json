@@ -5729,6 +5729,23 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 100360,
+    "gachaGroupId": 5,
+    "bannerMstId": 2241,
+    "isAlways": false,
+    "name": "STEP Grimoire: Harmonic Voice of Blue",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅷ)\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Medal of desire (Ⅷ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 2430,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=2779&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 100380,
     "gachaGroupId": 5,
     "bannerMstId": 2314,
@@ -5948,6 +5965,23 @@
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",
     "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 102270,
+    "gachaGroupId": 5,
+    "bannerMstId": 4559,
+    "isAlways": false,
+    "name": "Dorothy's Workshop/Delirious Chum & Forlorn Fetters",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅷ)\\nAmount: STEP 1 to STEP 3, x100 medals each\\n-Medal of desire (Ⅷ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 2440,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=2790&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266413
   },
   {
     "gachaSeriesMstId": 103300,

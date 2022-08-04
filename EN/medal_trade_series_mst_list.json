@@ -885,6 +885,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 97,
+    "name": "Contest Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item99",
+    "assetBundleName": "0650",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 1332,
+    "startTime": 1659592800,
+    "endTime": 1661407199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 98,
     "name": "Medal of Desire (VIII)",
     "description": "A medal that is an incidental byproduct of a Grimoire.",

@@ -5967,7 +5967,7 @@
     "characterVoice": "Rika Tachibana",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1659592800
   },
   {
     "characterMstId": 215,
@@ -5997,7 +5997,7 @@
     "characterVoice": "Eri Kitamura",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1659592800
   },
   {
     "characterMstId": 216,
@@ -6027,7 +6027,7 @@
     "characterVoice": "Akane Fujita",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1659592800
   },
   {
     "characterMstId": 217,
@@ -8097,7 +8097,7 @@
     "characterVoice": "Akane Fujita",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1660057200
   },
   {
     "characterMstId": 289,
@@ -10918,6 +10918,36 @@
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
     "displayStartTime": 1657519200
+  },
+  {
+    "characterMstId": 401,
+    "name": "Gretel/Fully Automated Breadcrumb Machine",
+    "characterUniqueId": 7,
+    "characterUniqueName": "Gretel",
+    "characterUniqueEnglishName": "Gretel",
+    "characterVoiceId": 0,
+    "collaborationId": 0,
+    "collaborationName": "0",
+    "rolePosition": 1,
+    "motionType": 1,
+    "shaderType": 0,
+    "spineAvatarType": 0,
+    "scale": 100,
+    "avatarGroupId": 0,
+    "partnerNum": -1,
+    "maxLevel": 10,
+    "description": "The siblings got lost in the forest. The old woman in a gingerbread house patiently awaited their arrival.\\nTheir love got them through that ordeal.\\nBut the real terror awaited elsewhere...",
+    "favoriteWeapon": 7,
+    "isSpirit": false,
+    "spiritType": 0,
+    "disableStanding": 0,
+    "isAvailable": true,
+    "resourceName": "401",
+    "assetBundleName": "character/401",
+    "characterVoice": "Maaya Uchida",
+    "mypageMinVoice": 0,
+    "mypageMaxVoice": 0,
+    "displayStartTime": 1659938400
   },
   {
     "characterMstId": 441,

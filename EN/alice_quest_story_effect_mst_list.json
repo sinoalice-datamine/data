@@ -7,6 +7,7 @@
     "resourceName": "SandStorm01",
     "seQueueSheet": "cv_quest_story_event_50",
     "seQueueName": "scenario_SE_event_50@001",
+    "shakeInfo": "",
     "createdTime": 1483974000
   },
   {
@@ -17,6 +18,18 @@
     "resourceName": "SandStorm01",
     "seQueueSheet": "cv_quest_story_event_50",
     "seQueueName": "scenario_SE_event_50@001",
+    "shakeInfo": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questStoryEffectMstId": 3,
+    "questStoryMstId": 4286,
+    "type": 2,
+    "assetBundleName": "scenario_effect/2",
+    "resourceName": "KenkaAnimationRoot",
+    "seQueueSheet": "cv_quest_story_event_53",
+    "seQueueName": "scenario_SE_event_53@001",
+    "shakeInfo": "{\"duration\":2.0,\"strength\":150.0,\"times\":15}",
     "createdTime": 1483974000
   },
   {
@@ -27,6 +40,7 @@
     "resourceName": "HackingObject",
     "seQueueSheet": "",
     "seQueueName": "",
+    "shakeInfo": "",
     "createdTime": 1483974000
   }
 ]
