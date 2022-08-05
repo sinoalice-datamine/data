@@ -1,5 +1,5 @@
 {
-  "lastCreatedTime": "2022-08-01 15:49:53",
+  "lastCreatedTime": "2022-08-05 15:49:25",
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
@@ -38,7 +38,7 @@
     },
     {
       "mstTableId": 8,
-      "version": 1323,
+      "version": 1324,
       "names": [
         "medal_trade_mst_list"
       ]
@@ -206,7 +206,7 @@
     },
     {
       "mstTableId": 38,
-      "version": 3702,
+      "version": 3703,
       "names": [
         "banner_mst_list"
       ]
@@ -255,28 +255,28 @@
     },
     {
       "mstTableId": 45,
-      "version": 329,
+      "version": 330,
       "names": [
         "alice_quest_map_mst_list"
       ]
     },
     {
       "mstTableId": 46,
-      "version": 386,
+      "version": 387,
       "names": [
         "alice_quest_area_mst_list"
       ]
     },
     {
       "mstTableId": 47,
-      "version": 441,
+      "version": 443,
       "names": [
         "quest_stage_mst_list"
       ]
     },
     {
       "mstTableId": 48,
-      "version": 244,
+      "version": 245,
       "names": [
         "alice_quest_area_group_mst_list"
       ]
@@ -290,21 +290,21 @@
     },
     {
       "mstTableId": 50,
-      "version": 380,
+      "version": 381,
       "names": [
         "quest_mission_mst_list"
       ]
     },
     {
       "mstTableId": 51,
-      "version": 356,
+      "version": 357,
       "names": [
         "quest_mission_reward_mst_list"
       ]
     },
     {
       "mstTableId": 54,
-      "version": 309,
+      "version": 310,
       "names": [
         "quest_stage_reward_mst_list"
       ]
@@ -367,7 +367,7 @@
     },
     {
       "mstTableId": 63,
-      "version": 1149,
+      "version": 1150,
       "names": [
         "quest_schedule_mst_list"
       ]
@@ -633,7 +633,7 @@
     },
     {
       "mstTableId": 109,
-      "version": 112,
+      "version": 113,
       "names": [
         "quest_area_character_unique_mst_list"
       ]
@@ -728,11 +728,11 @@
     },
     {
       "mstTableId": 129,
-      "version": 2
+      "version": 3
     },
     {
       "mstTableId": 130,
-      "version": 3
+      "version": 4
     }
   ]
 }
