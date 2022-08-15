@@ -22762,6 +22762,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 2992,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 7309,
+    "isAlways": false,
+    "name": "審獅と妬蛇ガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅷ)\r\n枚数：1回ガチャで10枚、11回ガチャで100枚\r\n有効期限：2022年9月7日23:59",
+    "priority": 30200,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=10582&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 2996,
     "gachaGroupId": 3,
     "topBannerMstId": 0,
