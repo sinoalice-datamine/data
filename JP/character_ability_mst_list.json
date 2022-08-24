@@ -93978,5 +93978,25 @@
     "effectType": 4,
     "effectValue": 500,
     "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9611,
+    "characterMstId": 269,
+    "name": "物理防御+500",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9612,
+    "characterMstId": 269,
+    "name": "物理攻撃+500",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 6
   }
 ]

@@ -33,5 +33,33 @@
     "termsType": 1,
     "termsValue": 10,
     "termsDescription": "レベル10以上"
+  },
+  {
+    "nightmareSearchTermsMstId": 10,
+    "nightmareSearchMstId": 12,
+    "termsType": 1,
+    "termsValue": 5,
+    "termsDescription": "レベル5以上"
+  },
+  {
+    "nightmareSearchTermsMstId": 11,
+    "nightmareSearchMstId": 12,
+    "termsType": 2,
+    "termsValue": 4,
+    "termsDescription": "レアリティS以上"
+  },
+  {
+    "nightmareSearchTermsMstId": 12,
+    "nightmareSearchMstId": 13,
+    "termsType": 1,
+    "termsValue": 5,
+    "termsDescription": "レベル5以上"
+  },
+  {
+    "nightmareSearchTermsMstId": 13,
+    "nightmareSearchMstId": 13,
+    "termsType": 2,
+    "termsValue": 4,
+    "termsDescription": "レアリティS以上"
   }
 ]

@@ -72182,5 +72182,33 @@
     "endTime": 1914418799,
     "repetitionStartDay": 0,
     "repetitionEndDay": 0
+  },
+  {
+    "missionMstId": 36959,
+    "missionUniqueId": 36959,
+    "missionUniquePriority": 1,
+    "missionType": 3,
+    "priority": 1,
+    "title": "コロシアムSPに参戦",
+    "description": "コロシアムSPは8月30日限定で開催されるコロシアムです。自分のギルドの開催時刻を確認しておこう。",
+    "transition": "",
+    "missionTitleMstId": 1122,
+    "objectType": 21,
+    "objectId": 10071,
+    "num": 1,
+    "resetType": 0,
+    "resetCycle": 0,
+    "triggerType": 58,
+    "conditionsType": 105,
+    "conditionsObjectId": 0,
+    "conditionsCount": 1,
+    "activeView": 1,
+    "optionType": 0,
+    "optionObjectId": 0,
+    "osType": 0,
+    "startTime": 1661785200,
+    "endTime": 1661975999,
+    "repetitionStartDay": 0,
+    "repetitionEndDay": 0
   }
 ]
