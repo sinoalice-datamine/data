@@ -1,0 +1,29 @@
+[
+  {
+    "soloEventDifficultyMstId": 1,
+    "soloEventMstId": 2,
+    "questAreaMstId": 879,
+    "difficulty": 1,
+    "mapConfigAssetId": 0,
+    "limitWeaponNum": 100,
+    "remainWeaponCoefficient": 1
+  },
+  {
+    "soloEventDifficultyMstId": 2,
+    "soloEventMstId": 1,
+    "questAreaMstId": 843,
+    "difficulty": 2,
+    "mapConfigAssetId": 1,
+    "limitWeaponNum": 100,
+    "remainWeaponCoefficient": 10
+  },
+  {
+    "soloEventDifficultyMstId": 4,
+    "soloEventMstId": 2,
+    "questAreaMstId": 910,
+    "difficulty": 2,
+    "mapConfigAssetId": 1,
+    "limitWeaponNum": 100,
+    "remainWeaponCoefficient": 10
+  }
+]

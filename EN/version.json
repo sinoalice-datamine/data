@@ -3,7 +3,7 @@
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
-      "version": 61415155,
+      "version": 61795286,
       "names": [
         "item_mst_list"
       ]
@@ -663,14 +663,14 @@
       "mstTableId": 109,
       "version": 4,
       "names": [
-        "quest_area_character_unique_mst_list"
+        "country_code_mst_list"
       ]
     },
     {
       "mstTableId": 110,
       "version": 80,
       "names": [
-        "job_level_bonus_mst_list"
+        "quest_area_character_unique_mst_list"
       ]
     },
     {
@@ -696,15 +696,24 @@
     },
     {
       "mstTableId": 116,
-      "version": 1
+      "version": 1,
+      "names": [
+        "talk_event_story_mst_list"
+      ]
     },
     {
       "mstTableId": 118,
-      "version": 3
+      "version": 3,
+      "names": [
+        "limit_break_nightmare_skill_mst_list"
+      ]
     },
     {
       "mstTableId": 119,
-      "version": 1
+      "version": 1,
+      "names": [
+        "limit_break_nightmare_effect_mst_list"
+      ]
     },
     {
       "mstTableId": 1000,

@@ -668,71 +668,122 @@
     },
     {
       "mstTableId": 114,
-      "version": 117
+      "version": 117,
+      "names": [
+        "gacha_count_bonus_mst_list"
+      ]
     },
     {
       "mstTableId": 115,
-      "version": 117
+      "version": 117,
+      "names": [
+        "gacha_count_bonus_detail_mst_list"
+      ]
     },
     {
       "mstTableId": 116,
-      "version": 3
+      "version": 3,
+      "names": [
+        "talk_event_story_mst_list"
+      ]
     },
     {
       "mstTableId": 117,
-      "version": 101
+      "version": 101,
+      "names": [
+        "card_attribute_evolution_mst_list"
+      ]
     },
     {
       "mstTableId": 118,
-      "version": 18
+      "version": 18,
+      "names": [
+        "limit_break_nightmare_skill_mst_list"
+      ]
     },
     {
       "mstTableId": 119,
-      "version": 1
+      "version": 1,
+      "names": [
+        "limit_break_nightmare_effect_mst_list"
+      ]
     },
     {
       "mstTableId": 120,
-      "version": 14
+      "version": 14,
+      "names": [
+        "card_choice_mst_list"
+      ]
     },
     {
       "mstTableId": 121,
-      "version": 2
+      "version": 2,
+      "names": [
+        "solo_event_mst_list"
+      ]
     },
     {
       "mstTableId": 122,
-      "version": 4
+      "version": 4,
+      "names": [
+        "solo_event_difficulty_mst_list"
+      ]
     },
     {
       "mstTableId": 123,
-      "version": 3
+      "version": 3,
+      "names": [
+        "solo_event_branch_mst_list"
+      ]
     },
     {
       "mstTableId": 124,
-      "version": 1
+      "version": 1,
+      "names": [
+        "limit_break_skill_ability_mst_list"
+      ]
     },
     {
       "mstTableId": 125,
-      "version": 13
+      "version": 13,
+      "names": [
+        "item_card_limit_break_mst_list"
+      ]
     },
     {
       "mstTableId": 126,
-      "version": 1
+      "version": 1,
+      "names": [
+        "card_option_mst_list"
+      ]
     },
     {
       "mstTableId": 127,
-      "version": 3
+      "version": 3,
+      "names": [
+        "card_parameter_custom_ver2_mst_list"
+      ]
     },
     {
       "mstTableId": 128,
-      "version": 3
+      "version": 3,
+      "names": [
+        "card_skill_custom_ver2_mst_list"
+      ]
     },
     {
       "mstTableId": 129,
-      "version": 3
+      "version": 3,
+      "names": [
+        "quest_stage_status_limitation_mst_list"
+      ]
     },
     {
       "mstTableId": 130,
-      "version": 4
+      "version": 4,
+      "names": [
+        "quest_stage_job_limitation_mst_list"
+      ]
     }
   ]
 }
