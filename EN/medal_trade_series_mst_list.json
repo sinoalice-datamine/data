@@ -915,6 +915,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 99,
+    "name": "Medal of Desire (IX)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "0003",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 1417,
+    "startTime": 1661839200,
+    "endTime": 1666537199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 117,
     "name": "mana medal",
     "description": "Medal collected by Parrah-Noya.",

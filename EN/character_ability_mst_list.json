@@ -19602,7 +19602,7 @@
   {
     "characterAbilityMstId": 2225,
     "characterMstId": 173,
-    "name": "Instrument 20% (Alice+ stages)",
+    "name": "Instrument +20% (Alice+ stages)",
     "releaseLevel": 9,
     "skillType": 2,
     "effectType": 6,
@@ -19722,7 +19722,7 @@
   {
     "characterAbilityMstId": 2237,
     "characterMstId": 174,
-    "name": "Staff 20% (Dorothy+ stages)",
+    "name": "Staff +20% (Dorothy+ stages)",
     "releaseLevel": 9,
     "skillType": 2,
     "effectType": 6,
@@ -19842,7 +19842,7 @@
   {
     "characterAbilityMstId": 2249,
     "characterMstId": 175,
-    "name": "Polearm 20% (Sleeping Beauty+ stages)",
+    "name": "Polearm +20% (Sleeping Beauty+ stages)",
     "releaseLevel": 9,
     "skillType": 2,
     "effectType": 6,
@@ -35680,6 +35680,146 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 4627,
+    "characterMstId": 376,
+    "name": "Instrument +30% (Little Match Girl+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4628,
+    "characterMstId": 376,
+    "name": "Instrument +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4629,
+    "characterMstId": 376,
+    "name": "M.DEF +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4630,
+    "characterMstId": 376,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4631,
+    "characterMstId": 376,
+    "name": "Instrument +10% (Little Match Girl+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4632,
+    "characterMstId": 376,
+    "name": "M.ATK +500",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4633,
+    "characterMstId": 376,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4634,
+    "characterMstId": 376,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4635,
+    "characterMstId": 376,
+    "name": "Instrument +10% (Little Match Girl+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4636,
+    "characterMstId": 376,
+    "name": "HP +600",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 600,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4637,
+    "characterMstId": 376,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4638,
+    "characterMstId": 376,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4639,
+    "characterMstId": 376,
+    "name": "Instrument +10% (Little Match Girl+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4640,
+    "characterMstId": 376,
+    "name": "HP +400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
     "characterAbilityMstId": 4641,
     "characterMstId": 377,
     "name": "Staff +40% (Princess Kaguya+ stages)",
@@ -37942,7 +38082,7 @@
   {
     "characterAbilityMstId": 5557,
     "characterMstId": 447,
-    "name": "Projectile 10% (TenSura+ stages)",
+    "name": "Projectile +10% (TenSura+ stages)",
     "releaseLevel": 5,
     "skillType": 2,
     "effectType": 6,
@@ -37982,7 +38122,7 @@
   {
     "characterAbilityMstId": 5561,
     "characterMstId": 447,
-    "name": "Projectile 10% (TenSura+ stages)",
+    "name": "Projectile +10% (TenSura+ stages)",
     "releaseLevel": 9,
     "skillType": 2,
     "effectType": 6,
@@ -38318,6 +38458,26 @@
     "effectType": 13,
     "effectValue": 5032,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5903,
+    "characterMstId": 376,
+    "name": "M.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 5904,
+    "characterMstId": 376,
+    "name": "Buff effect +2% when using instrument class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5033,
+    "cardDetailType": 1
   },
   {
     "characterAbilityMstId": 5905,
@@ -42018,6 +42178,166 @@
     "effectType": 3,
     "effectValue": 400,
     "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 7399,
+    "characterMstId": 543,
+    "name": "Blade (Fire) +30% (Rapunzel+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7400,
+    "characterMstId": 543,
+    "name": "All Weapons (Water) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 7401,
+    "characterMstId": 543,
+    "name": "Blade (Fire) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7402,
+    "characterMstId": 543,
+    "name": "Blade (Fire) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7403,
+    "characterMstId": 543,
+    "name": "P.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7404,
+    "characterMstId": 543,
+    "name": "HP +1,200",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7405,
+    "characterMstId": 543,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7406,
+    "characterMstId": 543,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7407,
+    "characterMstId": 543,
+    "name": "Blade (Fire) +10% (Rapunzel+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7408,
+    "characterMstId": 543,
+    "name": "P.DMG +2% when using blade class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5029,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7409,
+    "characterMstId": 543,
+    "name": "P.ATK +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7410,
+    "characterMstId": 543,
+    "name": "P.ATK +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7411,
+    "characterMstId": 543,
+    "name": "Blade (Fire) +30% (Rapunzel+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7412,
+    "characterMstId": 543,
+    "name": "P.ATK +1,000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 1000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7413,
+    "characterMstId": 543,
+    "name": "P.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7414,
+    "characterMstId": 543,
+    "name": "P.ATK +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
   },
   {
     "characterAbilityMstId": 7415,
