@@ -2358,6 +2358,2211 @@
     "cardDetailType": 0
   },
   {
+    "characterBoardAbilityMstId": 271,
+    "characterUniqueId": 8,
+    "name": "HP +50",
+    "description": "HP +50 (Sleeping Beauty class equipped)",
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 272,
+    "characterUniqueId": 8,
+    "name": "HP +100",
+    "description": "HP +100 (Sleeping Beauty class equipped)",
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 273,
+    "characterUniqueId": 8,
+    "name": "HP +150",
+    "description": "HP +150 (Sleeping Beauty class equipped)",
+    "effectType": 1,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 274,
+    "characterUniqueId": 8,
+    "name": "HP +200",
+    "description": "HP +200 (Sleeping Beauty class equipped)",
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 275,
+    "characterUniqueId": 8,
+    "name": "P.ATK +50",
+    "description": "P.ATK +50 (Sleeping Beauty class equipped)",
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 276,
+    "characterUniqueId": 8,
+    "name": "P.ATK +75",
+    "description": "P.ATK +75 (Sleeping Beauty class equipped)",
+    "effectType": 2,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 277,
+    "characterUniqueId": 8,
+    "name": "P.ATK +100",
+    "description": "P.ATK +100 (Sleeping Beauty class equipped)",
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 278,
+    "characterUniqueId": 8,
+    "name": "P.ATK +150",
+    "description": "P.ATK +150 (Sleeping Beauty class equipped)",
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 279,
+    "characterUniqueId": 8,
+    "name": "P.ATK +200",
+    "description": "P.ATK +200 (Sleeping Beauty class equipped)",
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 280,
+    "characterUniqueId": 8,
+    "name": "P.ATK +250",
+    "description": "P.ATK +250 (Sleeping Beauty class equipped)",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 281,
+    "characterUniqueId": 8,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (Sleeping Beauty class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 282,
+    "characterUniqueId": 8,
+    "name": "P.DEF +50",
+    "description": "P.DEF +50 (Sleeping Beauty class equipped)",
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 283,
+    "characterUniqueId": 8,
+    "name": "P.DEF +75",
+    "description": "P.DEF +75 (Sleeping Beauty class equipped)",
+    "effectType": 3,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 284,
+    "characterUniqueId": 8,
+    "name": "P.DEF +100",
+    "description": "P.DEF +100 (Sleeping Beauty class equipped)",
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 285,
+    "characterUniqueId": 8,
+    "name": "P.DEF +150",
+    "description": "P.DEF +150 (Sleeping Beauty class equipped)",
+    "effectType": 3,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 286,
+    "characterUniqueId": 8,
+    "name": "P.DEF +200",
+    "description": "P.DEF +200 (Sleeping Beauty class equipped)",
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 287,
+    "characterUniqueId": 8,
+    "name": "P.DEF +250",
+    "description": "P.DEF +250 (Sleeping Beauty class equipped)",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 288,
+    "characterUniqueId": 8,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (Sleeping Beauty class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 289,
+    "characterUniqueId": 8,
+    "name": "M.ATK +50",
+    "description": "M.ATK +50 (Sleeping Beauty class equipped)",
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 290,
+    "characterUniqueId": 8,
+    "name": "M.ATK +75",
+    "description": "M.ATK +75 (Sleeping Beauty class equipped)",
+    "effectType": 4,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 291,
+    "characterUniqueId": 8,
+    "name": "M.ATK +100",
+    "description": "M.ATK +100 (Sleeping Beauty class equipped)",
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 292,
+    "characterUniqueId": 8,
+    "name": "M.ATK +150",
+    "description": "M.ATK +150 (Sleeping Beauty class equipped)",
+    "effectType": 4,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 293,
+    "characterUniqueId": 8,
+    "name": "M.ATK +200",
+    "description": "M.ATK +200 (Sleeping Beauty class equipped)",
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 294,
+    "characterUniqueId": 8,
+    "name": "M.ATK +250",
+    "description": "M.ATK +250 (Sleeping Beauty class equipped)",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 295,
+    "characterUniqueId": 8,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (Sleeping Beauty class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 296,
+    "characterUniqueId": 8,
+    "name": "M.DEF +50",
+    "description": "M.DEF +50 (Sleeping Beauty class equipped)",
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 297,
+    "characterUniqueId": 8,
+    "name": "M.DEF +75",
+    "description": "M.DEF +75 (Sleeping Beauty class equipped)",
+    "effectType": 5,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 298,
+    "characterUniqueId": 8,
+    "name": "M.DEF +100",
+    "description": "M.DEF +100 (Sleeping Beauty class equipped)",
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 299,
+    "characterUniqueId": 8,
+    "name": "M.DEF +150",
+    "description": "M.DEF +150 (Sleeping Beauty class equipped)",
+    "effectType": 5,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 300,
+    "characterUniqueId": 8,
+    "name": "M.DEF +200",
+    "description": "M.DEF +200 (Sleeping Beauty class equipped)",
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 301,
+    "characterUniqueId": 8,
+    "name": "M.DEF +250",
+    "description": "M.DEF +250 (Sleeping Beauty class equipped)",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 302,
+    "characterUniqueId": 8,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (Sleeping Beauty class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 303,
+    "characterUniqueId": 8,
+    "name": "Instrument +1%",
+    "description": "Instrument +1% (Sleeping Beauty class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 304,
+    "characterUniqueId": 8,
+    "name": "Tome +1%",
+    "description": "Tome +1% (Sleeping Beauty class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 305,
+    "characterUniqueId": 8,
+    "name": "Artifact +1%",
+    "description": "Artifact +1% (Sleeping Beauty class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 306,
+    "characterUniqueId": 8,
+    "name": "Staff +1%",
+    "description": "Staff +1% (Sleeping Beauty class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 307,
+    "characterUniqueId": 8,
+    "name": "Blade +1%",
+    "description": "Blade +1% (Sleeping Beauty class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 308,
+    "characterUniqueId": 8,
+    "name": "Heavy +1%",
+    "description": "Heavy +1% (Sleeping Beauty class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 309,
+    "characterUniqueId": 8,
+    "name": "Projectile +1%",
+    "description": "Projectile +1% (Sleeping Beauty class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 310,
+    "characterUniqueId": 8,
+    "name": "Polearm +1%",
+    "description": "Polearm +1% (Sleeping Beauty class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 311,
+    "characterUniqueId": 8,
+    "name": "Increase in Stages",
+    "description": "All weapon types +3% (Sleeping Beauty+ stages)",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 312,
+    "characterUniqueId": 8,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +50 (Sleeping Beauty class equipped)",
+    "effectType": 11,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 313,
+    "characterUniqueId": 8,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +100 (Sleeping Beauty class equipped)",
+    "effectType": 11,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 314,
+    "characterUniqueId": 8,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +150 (Sleeping Beauty class equipped)",
+    "effectType": 11,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 315,
+    "characterUniqueId": 8,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +50 (Sleeping Beauty class equipped)",
+    "effectType": 12,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 316,
+    "characterUniqueId": 8,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +100 (Sleeping Beauty class equipped)",
+    "effectType": 12,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 317,
+    "characterUniqueId": 8,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +150 (Sleeping Beauty class equipped)",
+    "effectType": 12,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 318,
+    "characterUniqueId": 8,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When Sleeping Beauty class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 319,
+    "characterUniqueId": 8,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When Sleeping Beauty class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 320,
+    "characterUniqueId": 7,
+    "name": "HP +50",
+    "description": "HP +50 (Gretel class equipped)",
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 321,
+    "characterUniqueId": 7,
+    "name": "HP +100",
+    "description": "HP +100 (Gretel class equipped)",
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 322,
+    "characterUniqueId": 7,
+    "name": "HP +150",
+    "description": "HP +150 (Gretel class equipped)",
+    "effectType": 1,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 323,
+    "characterUniqueId": 7,
+    "name": "HP +200",
+    "description": "HP +200 (Gretel class equipped)",
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 324,
+    "characterUniqueId": 7,
+    "name": "P.ATK +50",
+    "description": "P.ATK +50 (Gretel class equipped)",
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 325,
+    "characterUniqueId": 7,
+    "name": "P.ATK +75",
+    "description": "P.ATK +75 (Gretel class equipped)",
+    "effectType": 2,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 326,
+    "characterUniqueId": 7,
+    "name": "P.ATK +100",
+    "description": "P.ATK +100 (Gretel class equipped)",
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 327,
+    "characterUniqueId": 7,
+    "name": "P.ATK +150",
+    "description": "P.ATK +150 (Gretel class equipped)",
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 328,
+    "characterUniqueId": 7,
+    "name": "P.ATK +200",
+    "description": "P.ATK +200 (Gretel class equipped)",
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 329,
+    "characterUniqueId": 7,
+    "name": "P.ATK +250",
+    "description": "P.ATK +250 (Gretel class equipped)",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 330,
+    "characterUniqueId": 7,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (Gretel class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 331,
+    "characterUniqueId": 7,
+    "name": "P.DEF +50",
+    "description": "P.DEF +50 (Gretel class equipped)",
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 332,
+    "characterUniqueId": 7,
+    "name": "P.DEF +75",
+    "description": "P.DEF +75 (Gretel class equipped)",
+    "effectType": 3,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 333,
+    "characterUniqueId": 7,
+    "name": "P.DEF +100",
+    "description": "P.DEF +100 (Gretel class equipped)",
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 334,
+    "characterUniqueId": 7,
+    "name": "P.DEF +150",
+    "description": "P.DEF +150 (Gretel class equipped)",
+    "effectType": 3,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 335,
+    "characterUniqueId": 7,
+    "name": "P.DEF +200",
+    "description": "P.DEF +200 (Gretel class equipped)",
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 336,
+    "characterUniqueId": 7,
+    "name": "P.DEF +250",
+    "description": "P.DEF +250 (Gretel class equipped)",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 337,
+    "characterUniqueId": 7,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (Gretel class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 338,
+    "characterUniqueId": 7,
+    "name": "M.ATK +50",
+    "description": "M.ATK +50 (Gretel class equipped)",
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 339,
+    "characterUniqueId": 7,
+    "name": "M.ATK +75",
+    "description": "M.ATK +75 (Gretel class equipped)",
+    "effectType": 4,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 340,
+    "characterUniqueId": 7,
+    "name": "M.ATK +100",
+    "description": "M.ATK +100 (Gretel class equipped)",
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 341,
+    "characterUniqueId": 7,
+    "name": "M.ATK +150",
+    "description": "M.ATK +150 (Gretel class equipped)",
+    "effectType": 4,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 342,
+    "characterUniqueId": 7,
+    "name": "M.ATK +200",
+    "description": "M.ATK +200 (Gretel class equipped)",
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 343,
+    "characterUniqueId": 7,
+    "name": "M.ATK +250",
+    "description": "M.ATK +250 (Gretel class equipped)",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 344,
+    "characterUniqueId": 7,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (Gretel class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 345,
+    "characterUniqueId": 7,
+    "name": "M.DEF +50",
+    "description": "M.DEF +50 (Gretel class equipped)",
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 346,
+    "characterUniqueId": 7,
+    "name": "M.DEF +75",
+    "description": "M.DEF +75 (Gretel class equipped)",
+    "effectType": 5,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 347,
+    "characterUniqueId": 7,
+    "name": "M.DEF +100",
+    "description": "M.DEF +100 (Gretel class equipped)",
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 348,
+    "characterUniqueId": 7,
+    "name": "M.DEF +150",
+    "description": "M.DEF +150 (Gretel class equipped)",
+    "effectType": 5,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 349,
+    "characterUniqueId": 7,
+    "name": "M.DEF +200",
+    "description": "M.DEF +200 (Gretel class equipped)",
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 350,
+    "characterUniqueId": 7,
+    "name": "M.DEF +250",
+    "description": "M.DEF +250 (Gretel class equipped)",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 351,
+    "characterUniqueId": 7,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (Gretel class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 352,
+    "characterUniqueId": 7,
+    "name": "Instrument +1%",
+    "description": "Instrument +1% (Gretel class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 353,
+    "characterUniqueId": 7,
+    "name": "Tome +1%",
+    "description": "Tome +1% (Gretel class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 354,
+    "characterUniqueId": 7,
+    "name": "Artifact +1%",
+    "description": "Artifact +1% (Gretel class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 355,
+    "characterUniqueId": 7,
+    "name": "Staff +1%",
+    "description": "Staff +1% (Gretel class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 356,
+    "characterUniqueId": 7,
+    "name": "Blade +1%",
+    "description": "Blade +1% (Gretel class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 357,
+    "characterUniqueId": 7,
+    "name": "Heavy +1%",
+    "description": "Heavy +1% (Gretel class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 358,
+    "characterUniqueId": 7,
+    "name": "Projectile +1%",
+    "description": "Projectile +1% (Gretel class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 359,
+    "characterUniqueId": 7,
+    "name": "Polearm +1%",
+    "description": "Polearm +1% (Gretel class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 360,
+    "characterUniqueId": 7,
+    "name": "Increase in Stages",
+    "description": "All weapon types +3% (Gretel+ stages)",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 361,
+    "characterUniqueId": 7,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +50 (Gretel class equipped)",
+    "effectType": 11,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 362,
+    "characterUniqueId": 7,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +100 (Gretel class equipped)",
+    "effectType": 11,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 363,
+    "characterUniqueId": 7,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +150 (Gretel class equipped)",
+    "effectType": 11,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 364,
+    "characterUniqueId": 7,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +50 (Gretel class equipped)",
+    "effectType": 12,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 365,
+    "characterUniqueId": 7,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +100 (Gretel class equipped)",
+    "effectType": 12,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 366,
+    "characterUniqueId": 7,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +150 (Gretel class equipped)",
+    "effectType": 12,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 367,
+    "characterUniqueId": 7,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When Gretel class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 368,
+    "characterUniqueId": 7,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When Gretel class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 369,
+    "characterUniqueId": 9,
+    "name": "HP +50",
+    "description": "HP +50 (Princess Kaguya class equipped)",
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 370,
+    "characterUniqueId": 9,
+    "name": "HP +100",
+    "description": "HP +100 (Princess Kaguya class equipped)",
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 371,
+    "characterUniqueId": 9,
+    "name": "HP +150",
+    "description": "HP +150 (Princess Kaguya class equipped)",
+    "effectType": 1,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 372,
+    "characterUniqueId": 9,
+    "name": "HP +200",
+    "description": "HP +200 (Princess Kaguya class equipped)",
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 373,
+    "characterUniqueId": 9,
+    "name": "P.ATK +50",
+    "description": "P.ATK +50 (Princess Kaguya class equipped)",
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 374,
+    "characterUniqueId": 9,
+    "name": "P.ATK +75",
+    "description": "P.ATK +75 (Princess Kaguya class equipped)",
+    "effectType": 2,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 375,
+    "characterUniqueId": 9,
+    "name": "P.ATK +100",
+    "description": "P.ATK +100 (Princess Kaguya class equipped)",
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 376,
+    "characterUniqueId": 9,
+    "name": "P.ATK +150",
+    "description": "P.ATK +150 (Princess Kaguya class equipped)",
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 377,
+    "characterUniqueId": 9,
+    "name": "P.ATK +200",
+    "description": "P.ATK +200 (Princess Kaguya class equipped)",
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 378,
+    "characterUniqueId": 9,
+    "name": "P.ATK +250",
+    "description": "P.ATK +250 (Princess Kaguya class equipped)",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 379,
+    "characterUniqueId": 9,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (Princess Kaguya class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 380,
+    "characterUniqueId": 9,
+    "name": "P.DEF +50",
+    "description": "P.DEF +50 (Princess Kaguya class equipped)",
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 381,
+    "characterUniqueId": 9,
+    "name": "P.DEF +75",
+    "description": "P.DEF +75 (Princess Kaguya class equipped)",
+    "effectType": 3,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 382,
+    "characterUniqueId": 9,
+    "name": "P.DEF +100",
+    "description": "P.DEF +100 (Princess Kaguya class equipped)",
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 383,
+    "characterUniqueId": 9,
+    "name": "P.DEF +150",
+    "description": "P.DEF +150 (Princess Kaguya class equipped)",
+    "effectType": 3,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 384,
+    "characterUniqueId": 9,
+    "name": "P.DEF +200",
+    "description": "P.DEF +200 (Princess Kaguya class equipped)",
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 385,
+    "characterUniqueId": 9,
+    "name": "P.DEF +250",
+    "description": "P.DEF +250 (Princess Kaguya class equipped)",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 386,
+    "characterUniqueId": 9,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (Princess Kaguya class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 387,
+    "characterUniqueId": 9,
+    "name": "M.ATK +50",
+    "description": "M.ATK +50 (Princess Kaguya class equipped)",
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 388,
+    "characterUniqueId": 9,
+    "name": "M.ATK +75",
+    "description": "M.ATK +75 (Princess Kaguya class equipped)",
+    "effectType": 4,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 389,
+    "characterUniqueId": 9,
+    "name": "M.ATK +100",
+    "description": "M.ATK +100 (Princess Kaguya class equipped)",
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 390,
+    "characterUniqueId": 9,
+    "name": "M.ATK +150",
+    "description": "M.ATK +150 (Princess Kaguya class equipped)",
+    "effectType": 4,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 391,
+    "characterUniqueId": 9,
+    "name": "M.ATK +200",
+    "description": "M.ATK +200 (Princess Kaguya class equipped)",
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 392,
+    "characterUniqueId": 9,
+    "name": "M.ATK +250",
+    "description": "M.ATK +250 (Princess Kaguya class equipped)",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 393,
+    "characterUniqueId": 9,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (Princess Kaguya class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 394,
+    "characterUniqueId": 9,
+    "name": "M.DEF +50",
+    "description": "M.DEF +50 (Princess Kaguya class equipped)",
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 395,
+    "characterUniqueId": 9,
+    "name": "M.DEF +75",
+    "description": "M.DEF +75 (Princess Kaguya class equipped)",
+    "effectType": 5,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 396,
+    "characterUniqueId": 9,
+    "name": "M.DEF +100",
+    "description": "M.DEF +100 (Princess Kaguya class equipped)",
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 397,
+    "characterUniqueId": 9,
+    "name": "M.DEF +150",
+    "description": "M.DEF +150 (Princess Kaguya class equipped)",
+    "effectType": 5,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 398,
+    "characterUniqueId": 9,
+    "name": "M.DEF +200",
+    "description": "M.DEF +200 (Princess Kaguya class equipped)",
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 399,
+    "characterUniqueId": 9,
+    "name": "M.DEF +250",
+    "description": "M.DEF +250 (Princess Kaguya class equipped)",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 400,
+    "characterUniqueId": 9,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (Princess Kaguya class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 401,
+    "characterUniqueId": 9,
+    "name": "Instrument +1%",
+    "description": "Instrument +1% (Princess Kaguya class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 402,
+    "characterUniqueId": 9,
+    "name": "Tome +1%",
+    "description": "Tome +1% (Princess Kaguya class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 403,
+    "characterUniqueId": 9,
+    "name": "Artifact +1%",
+    "description": "Artifact +1% (Princess Kaguya class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 404,
+    "characterUniqueId": 9,
+    "name": "Staff +1%",
+    "description": "Staff +1% (Princess Kaguya class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 405,
+    "characterUniqueId": 9,
+    "name": "Blade +1%",
+    "description": "Blade +1% (Princess Kaguya class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 406,
+    "characterUniqueId": 9,
+    "name": "Heavy +1%",
+    "description": "Heavy +1% (Princess Kaguya class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 407,
+    "characterUniqueId": 9,
+    "name": "Projectile +1%",
+    "description": "Projectile +1% (Princess Kaguya class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 408,
+    "characterUniqueId": 9,
+    "name": "Polearm +1%",
+    "description": "Polearm +1% (Princess Kaguya class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 409,
+    "characterUniqueId": 9,
+    "name": "Increase in Stages",
+    "description": "All weapon types +3% (Princess Kaguya+ stages)",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 410,
+    "characterUniqueId": 9,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +50 (Princess Kaguya class equipped)",
+    "effectType": 11,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 411,
+    "characterUniqueId": 9,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +100 (Princess Kaguya class equipped)",
+    "effectType": 11,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 412,
+    "characterUniqueId": 9,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +150 (Princess Kaguya class equipped)",
+    "effectType": 11,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 413,
+    "characterUniqueId": 9,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +50 (Princess Kaguya class equipped)",
+    "effectType": 12,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 414,
+    "characterUniqueId": 9,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +100 (Princess Kaguya class equipped)",
+    "effectType": 12,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 415,
+    "characterUniqueId": 9,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +150 (Princess Kaguya class equipped)",
+    "effectType": 12,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 416,
+    "characterUniqueId": 9,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When Princess Kaguya class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 417,
+    "characterUniqueId": 9,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When Princess Kaguya class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 418,
+    "characterUniqueId": 6,
+    "name": "HP +50",
+    "description": "HP +50 (Little Mermaid class equipped)",
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 419,
+    "characterUniqueId": 6,
+    "name": "HP +100",
+    "description": "HP +100 (Little Mermaid class equipped)",
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 420,
+    "characterUniqueId": 6,
+    "name": "HP +150",
+    "description": "HP +150 (Little Mermaid class equipped)",
+    "effectType": 1,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 421,
+    "characterUniqueId": 6,
+    "name": "HP +200",
+    "description": "HP +200 (Little Mermaid class equipped)",
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 422,
+    "characterUniqueId": 6,
+    "name": "P.ATK +50",
+    "description": "P.ATK +50 (Little Mermaid class equipped)",
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 423,
+    "characterUniqueId": 6,
+    "name": "P.ATK +75",
+    "description": "P.ATK +75 (Little Mermaid class equipped)",
+    "effectType": 2,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 424,
+    "characterUniqueId": 6,
+    "name": "P.ATK +100",
+    "description": "P.ATK +100 (Little Mermaid class equipped)",
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 425,
+    "characterUniqueId": 6,
+    "name": "P.ATK +150",
+    "description": "P.ATK +150 (Little Mermaid class equipped)",
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 426,
+    "characterUniqueId": 6,
+    "name": "P.ATK +200",
+    "description": "P.ATK +200 (Little Mermaid class equipped)",
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 427,
+    "characterUniqueId": 6,
+    "name": "P.ATK +250",
+    "description": "P.ATK +250 (Little Mermaid class equipped)",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 428,
+    "characterUniqueId": 6,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (Little Mermaid class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 429,
+    "characterUniqueId": 6,
+    "name": "P.DEF +50",
+    "description": "P.DEF +50 (Little Mermaid class equipped)",
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 430,
+    "characterUniqueId": 6,
+    "name": "P.DEF +75",
+    "description": "P.DEF +75 (Little Mermaid class equipped)",
+    "effectType": 3,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 431,
+    "characterUniqueId": 6,
+    "name": "P.DEF +100",
+    "description": "P.DEF +100 (Little Mermaid class equipped)",
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 432,
+    "characterUniqueId": 6,
+    "name": "P.DEF +150",
+    "description": "P.DEF +150 (Little Mermaid class equipped)",
+    "effectType": 3,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 433,
+    "characterUniqueId": 6,
+    "name": "P.DEF +200",
+    "description": "P.DEF +200 (Little Mermaid class equipped)",
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 434,
+    "characterUniqueId": 6,
+    "name": "P.DEF +250",
+    "description": "P.DEF +250 (Little Mermaid class equipped)",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 435,
+    "characterUniqueId": 6,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (Little Mermaid class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 436,
+    "characterUniqueId": 6,
+    "name": "M.ATK +50",
+    "description": "M.ATK +50 (Little Mermaid class equipped)",
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 437,
+    "characterUniqueId": 6,
+    "name": "M.ATK +75",
+    "description": "M.ATK +75 (Little Mermaid class equipped)",
+    "effectType": 4,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 438,
+    "characterUniqueId": 6,
+    "name": "M.ATK +100",
+    "description": "M.ATK +100 (Little Mermaid class equipped)",
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 439,
+    "characterUniqueId": 6,
+    "name": "M.ATK +150",
+    "description": "M.ATK +150 (Little Mermaid class equipped)",
+    "effectType": 4,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 440,
+    "characterUniqueId": 6,
+    "name": "M.ATK +200",
+    "description": "M.ATK +200 (Little Mermaid class equipped)",
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 441,
+    "characterUniqueId": 6,
+    "name": "M.ATK +250",
+    "description": "M.ATK +250 (Little Mermaid class equipped)",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 442,
+    "characterUniqueId": 6,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (Little Mermaid class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 443,
+    "characterUniqueId": 6,
+    "name": "M.DEF +50",
+    "description": "M.DEF +50 (Little Mermaid class equipped)",
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 444,
+    "characterUniqueId": 6,
+    "name": "M.DEF +75",
+    "description": "M.DEF +75 (Little Mermaid class equipped)",
+    "effectType": 5,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 445,
+    "characterUniqueId": 6,
+    "name": "M.DEF +100",
+    "description": "M.DEF +100 (Little Mermaid class equipped)",
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 446,
+    "characterUniqueId": 6,
+    "name": "M.DEF +150",
+    "description": "M.DEF +150 (Little Mermaid class equipped)",
+    "effectType": 5,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 447,
+    "characterUniqueId": 6,
+    "name": "M.DEF +200",
+    "description": "M.DEF +200 (Little Mermaid class equipped)",
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 448,
+    "characterUniqueId": 6,
+    "name": "M.DEF +250",
+    "description": "M.DEF +250 (Little Mermaid class equipped)",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 449,
+    "characterUniqueId": 6,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (Little Mermaid class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 450,
+    "characterUniqueId": 6,
+    "name": "Instrument +1%",
+    "description": "Instrument +1% (Little Mermaid class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 451,
+    "characterUniqueId": 6,
+    "name": "Tome +1%",
+    "description": "Tome +1% (Little Mermaid class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 452,
+    "characterUniqueId": 6,
+    "name": "Artifact +1%",
+    "description": "Artifact +1% (Little Mermaid class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 453,
+    "characterUniqueId": 6,
+    "name": "Staff +1%",
+    "description": "Staff +1% (Little Mermaid class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 454,
+    "characterUniqueId": 6,
+    "name": "Blade +1%",
+    "description": "Blade +1% (Little Mermaid class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 455,
+    "characterUniqueId": 6,
+    "name": "Heavy +1%",
+    "description": "Heavy +1% (Little Mermaid class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 456,
+    "characterUniqueId": 6,
+    "name": "Projectile +1%",
+    "description": "Projectile +1% (Little Mermaid class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 457,
+    "characterUniqueId": 6,
+    "name": "Polearm +1%",
+    "description": "Polearm +1% (Little Mermaid class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 458,
+    "characterUniqueId": 6,
+    "name": "Increase in Stages",
+    "description": "All weapon types +3% (Little Mermaid+ stages)",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 459,
+    "characterUniqueId": 6,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +50 (Little Mermaid class equipped)",
+    "effectType": 11,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 460,
+    "characterUniqueId": 6,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +100 (Little Mermaid class equipped)",
+    "effectType": 11,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 461,
+    "characterUniqueId": 6,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +150 (Little Mermaid class equipped)",
+    "effectType": 11,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 462,
+    "characterUniqueId": 6,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +50 (Little Mermaid class equipped)",
+    "effectType": 12,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 463,
+    "characterUniqueId": 6,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +100 (Little Mermaid class equipped)",
+    "effectType": 12,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 464,
+    "characterUniqueId": 6,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +150 (Little Mermaid class equipped)",
+    "effectType": 12,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 465,
+    "characterUniqueId": 6,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When Little Mermaid class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 466,
+    "characterUniqueId": 6,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When Little Mermaid class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 467,
+    "characterUniqueId": 14,
+    "name": "HP +50",
+    "description": "HP +50 (Dorothy class equipped)",
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 468,
+    "characterUniqueId": 14,
+    "name": "HP +100",
+    "description": "HP +100 (Dorothy class equipped)",
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 469,
+    "characterUniqueId": 14,
+    "name": "HP +150",
+    "description": "HP +150 (Dorothy class equipped)",
+    "effectType": 1,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 470,
+    "characterUniqueId": 14,
+    "name": "HP +200",
+    "description": "HP +200 (Dorothy class equipped)",
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 471,
+    "characterUniqueId": 14,
+    "name": "P.ATK +50",
+    "description": "P.ATK +50 (Dorothy class equipped)",
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 472,
+    "characterUniqueId": 14,
+    "name": "P.ATK +75",
+    "description": "P.ATK +75 (Dorothy class equipped)",
+    "effectType": 2,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 473,
+    "characterUniqueId": 14,
+    "name": "P.ATK +100",
+    "description": "P.ATK +100 (Dorothy class equipped)",
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 474,
+    "characterUniqueId": 14,
+    "name": "P.ATK +150",
+    "description": "P.ATK +150 (Dorothy class equipped)",
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 475,
+    "characterUniqueId": 14,
+    "name": "P.ATK +200",
+    "description": "P.ATK +200 (Dorothy class equipped)",
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 476,
+    "characterUniqueId": 14,
+    "name": "P.ATK +250",
+    "description": "P.ATK +250 (Dorothy class equipped)",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 477,
+    "characterUniqueId": 14,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (Dorothy class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 478,
+    "characterUniqueId": 14,
+    "name": "P.DEF +50",
+    "description": "P.DEF +50 (Dorothy class equipped)",
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 479,
+    "characterUniqueId": 14,
+    "name": "P.DEF +75",
+    "description": "P.DEF +75 (Dorothy class equipped)",
+    "effectType": 3,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 480,
+    "characterUniqueId": 14,
+    "name": "P.DEF +100",
+    "description": "P.DEF +100 (Dorothy class equipped)",
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 481,
+    "characterUniqueId": 14,
+    "name": "P.DEF +150",
+    "description": "P.DEF +150 (Dorothy class equipped)",
+    "effectType": 3,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 482,
+    "characterUniqueId": 14,
+    "name": "P.DEF +200",
+    "description": "P.DEF +200 (Dorothy class equipped)",
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 483,
+    "characterUniqueId": 14,
+    "name": "P.DEF +250",
+    "description": "P.DEF +250 (Dorothy class equipped)",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 484,
+    "characterUniqueId": 14,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (Dorothy class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 485,
+    "characterUniqueId": 14,
+    "name": "M.ATK +50",
+    "description": "M.ATK +50 (Dorothy class equipped)",
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 486,
+    "characterUniqueId": 14,
+    "name": "M.ATK +75",
+    "description": "M.ATK +75 (Dorothy class equipped)",
+    "effectType": 4,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 487,
+    "characterUniqueId": 14,
+    "name": "M.ATK +100",
+    "description": "M.ATK +100 (Dorothy class equipped)",
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 488,
+    "characterUniqueId": 14,
+    "name": "M.ATK +150",
+    "description": "M.ATK +150 (Dorothy class equipped)",
+    "effectType": 4,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 489,
+    "characterUniqueId": 14,
+    "name": "M.ATK +200",
+    "description": "M.ATK +200 (Dorothy class equipped)",
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 490,
+    "characterUniqueId": 14,
+    "name": "M.ATK +250",
+    "description": "M.ATK +250 (Dorothy class equipped)",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 491,
+    "characterUniqueId": 14,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (Dorothy class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 492,
+    "characterUniqueId": 14,
+    "name": "M.DEF +50",
+    "description": "M.DEF +50 (Dorothy class equipped)",
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 493,
+    "characterUniqueId": 14,
+    "name": "M.DEF +75",
+    "description": "M.DEF +75 (Dorothy class equipped)",
+    "effectType": 5,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 494,
+    "characterUniqueId": 14,
+    "name": "M.DEF +100",
+    "description": "M.DEF +100 (Dorothy class equipped)",
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 495,
+    "characterUniqueId": 14,
+    "name": "M.DEF +150",
+    "description": "M.DEF +150 (Dorothy class equipped)",
+    "effectType": 5,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 496,
+    "characterUniqueId": 14,
+    "name": "M.DEF +200",
+    "description": "M.DEF +200 (Dorothy class equipped)",
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 497,
+    "characterUniqueId": 14,
+    "name": "M.DEF +250",
+    "description": "M.DEF +250 (Dorothy class equipped)",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 498,
+    "characterUniqueId": 14,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (Dorothy class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 499,
+    "characterUniqueId": 14,
+    "name": "Instrument +1%",
+    "description": "Instrument +1% (Dorothy class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 500,
+    "characterUniqueId": 14,
+    "name": "Tome +1%",
+    "description": "Tome +1% (Dorothy class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 501,
+    "characterUniqueId": 14,
+    "name": "Artifact +1%",
+    "description": "Artifact +1% (Dorothy class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 502,
+    "characterUniqueId": 14,
+    "name": "Staff +1%",
+    "description": "Staff +1% (Dorothy class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 503,
+    "characterUniqueId": 14,
+    "name": "Blade +1%",
+    "description": "Blade +1% (Dorothy class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 504,
+    "characterUniqueId": 14,
+    "name": "Heavy +1%",
+    "description": "Heavy +1% (Dorothy class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 505,
+    "characterUniqueId": 14,
+    "name": "Projectile +1%",
+    "description": "Projectile +1% (Dorothy class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 506,
+    "characterUniqueId": 14,
+    "name": "Polearm +1%",
+    "description": "Polearm +1% (Dorothy class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 507,
+    "characterUniqueId": 14,
+    "name": "Increase in Stages",
+    "description": "All weapon types +3% (Dorothy+ stages)",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 508,
+    "characterUniqueId": 14,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +50 (Dorothy class equipped)",
+    "effectType": 11,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 509,
+    "characterUniqueId": 14,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +100 (Dorothy class equipped)",
+    "effectType": 11,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 510,
+    "characterUniqueId": 14,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +150 (Dorothy class equipped)",
+    "effectType": 11,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 511,
+    "characterUniqueId": 14,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +50 (Dorothy class equipped)",
+    "effectType": 12,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 512,
+    "characterUniqueId": 14,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +100 (Dorothy class equipped)",
+    "effectType": 12,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 513,
+    "characterUniqueId": 14,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +150 (Dorothy class equipped)",
+    "effectType": 12,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 514,
+    "characterUniqueId": 14,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When Dorothy class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 515,
+    "characterUniqueId": 14,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When Dorothy class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
     "characterBoardAbilityMstId": 1036,
     "characterUniqueId": 0,
     "name": "HP +100",
@@ -2396,8 +4601,8 @@
   {
     "characterBoardAbilityMstId": 1040,
     "characterUniqueId": 0,
-    "name": "HP +1000",
-    "description": "HP +1000",
+    "name": "HP +1,000",
+    "description": "HP +1,000",
     "effectType": 1,
     "effectValue": 1000,
     "cardDetailType": 0
@@ -2441,7 +4646,7 @@
   {
     "characterBoardAbilityMstId": 1045,
     "characterUniqueId": 1,
-    "name": "HP +1000",
+    "name": "HP +1,000",
     "description": "HP +1000 (Alice class equipped)",
     "effectType": 1,
     "effectValue": 1000,
@@ -2468,7 +4673,7 @@
   {
     "characterBoardAbilityMstId": 1048,
     "characterUniqueId": 2,
-    "name": "HP +1000",
+    "name": "HP +1,000",
     "description": "HP +1000 (Snow White class equipped)",
     "effectType": 1,
     "effectValue": 1000,
@@ -2495,7 +4700,7 @@
   {
     "characterBoardAbilityMstId": 1051,
     "characterUniqueId": 3,
-    "name": "HP +1000",
+    "name": "HP +1,000",
     "description": "HP +1000 (Red Riding Hood class equipped)",
     "effectType": 1,
     "effectValue": 1000,
@@ -2522,7 +4727,7 @@
   {
     "characterBoardAbilityMstId": 1054,
     "characterUniqueId": 4,
-    "name": "HP +1000",
+    "name": "HP +1,000",
     "description": "HP +1000 (Cinderella class equipped)",
     "effectType": 1,
     "effectValue": 1000,
@@ -2544,6 +4749,141 @@
     "description": "HP +500 (Pinocchio class equipped)",
     "effectType": 1,
     "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1058,
+    "characterUniqueId": 8,
+    "name": "HP +300",
+    "description": "いばら姫のジョブを編成時、HP +300",
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1059,
+    "characterUniqueId": 8,
+    "name": "HP +500",
+    "description": "いばら姫のジョブを編成時、HP +500",
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1060,
+    "characterUniqueId": 8,
+    "name": "HP +1,000",
+    "description": "いばら姫のジョブを編成時、HP +1000",
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1061,
+    "characterUniqueId": 7,
+    "name": "HP +300",
+    "description": "グレーテルのジョブを編成時、HP +300",
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1062,
+    "characterUniqueId": 7,
+    "name": "HP +500",
+    "description": "グレーテルのジョブを編成時、HP +500",
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1063,
+    "characterUniqueId": 7,
+    "name": "HP +1,000",
+    "description": "グレーテルのジョブを編成時、HP +1000",
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1064,
+    "characterUniqueId": 9,
+    "name": "HP +300",
+    "description": "かぐや姫のジョブを編成時、HP +300",
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1065,
+    "characterUniqueId": 9,
+    "name": "HP +500",
+    "description": "かぐや姫のジョブを編成時、HP +500",
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1066,
+    "characterUniqueId": 9,
+    "name": "HP +1,000",
+    "description": "かぐや姫のジョブを編成時、HP +1000",
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1067,
+    "characterUniqueId": 6,
+    "name": "HP +300",
+    "description": "人魚姫のジョブを編成時、HP +300",
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1068,
+    "characterUniqueId": 6,
+    "name": "HP +500",
+    "description": "人魚姫のジョブを編成時、HP +500",
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1069,
+    "characterUniqueId": 6,
+    "name": "HP +1,000",
+    "description": "人魚姫のジョブを編成時、HP +1000",
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1070,
+    "characterUniqueId": 14,
+    "name": "HP +300",
+    "description": "ドロシーのジョブを編成時、HP +300",
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1071,
+    "characterUniqueId": 14,
+    "name": "HP +500",
+    "description": "ドロシーのジョブを編成時、HP +500",
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1072,
+    "characterUniqueId": 14,
+    "name": "HP +1,000",
+    "description": "ドロシーのジョブを編成時、HP +1000",
+    "effectType": 1,
+    "effectValue": 1000,
     "cardDetailType": 0
   }
 ]

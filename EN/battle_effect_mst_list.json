@@ -2490,5 +2490,33 @@
     "cueSheet": "se_touta2_b",
     "cueName": "se_touta2_b@002_L",
     "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 385,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_9kisetsu",
+    "cueName": "se_9kisetsu@001_R",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 386,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "",
+    "cueName": "",
+    "createdTime": 1485961226
   }
 ]
