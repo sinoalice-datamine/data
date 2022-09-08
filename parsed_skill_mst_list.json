@@ -35664,6 +35664,55 @@
     }
   },
   {
+    "skillMstId": 8039,
+    "skill_type": 1,
+    "skill_name_tier": 6,
+    "primary_effect": 3,
+    "targets": {
+      "type": 2,
+      "min": 3,
+      "max": 3
+    },
+    "support_direction": 1,
+    "patk_effect_size": 3,
+    "matk_effect_size": 3,
+    "sp_recovery": {
+      "target": 5,
+      "value": 70
+    }
+  },
+  {
+    "skillMstId": 8040,
+    "skill_type": 1,
+    "skill_name_tier": 6,
+    "primary_effect": 3,
+    "targets": {
+      "type": 2,
+      "min": 3,
+      "max": 3
+    },
+    "support_direction": 1,
+    "patk_effect_size": 3,
+    "matk_effect_size": 3,
+    "sp_recovery": {
+      "target": 5,
+      "value": 70
+    }
+  },
+  {
+    "skillMstId": 8041,
+    "skill_type": 1,
+    "skill_name_tier": 6,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 3
+    },
+    "damage_type": 1,
+    "damage_effect_size": 4
+  },
+  {
     "skillMstId": 900001,
     "skill_type": 4,
     "when": {
