@@ -1110,6 +1110,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 186,
+    "name": "Sin Medal",
+    "description": "Medal obtained in Parrah-Noya’s tavern at Colosseum Sin.",
+    "resourceName": "item20211018_colosseumsin1_honsen",
+    "assetBundleName": "1319",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Can be earned at the Colosseum Sin Parrah-Noya Tavern.",
+    "priority": 38,
+    "itemMstId": 2398,
+    "startTime": 1662958800,
+    "endTime": 1665896399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 196,
     "name": "Robo Medal",
     "description": "Medal collected by Parrah-Noya.",
