@@ -8864,6 +8864,38 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 1140,
+    "title": "シノアリスの日ミッション",
+    "priority": 49999,
+    "startTime": 1663167600,
+    "endTime": 1663426799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1141,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1663167600,
+    "endTime": 1663253999,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1142,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1663254000,
+    "endTime": 1663340399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1143,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1663340400,
+    "endTime": 1663426799,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 1148,
     "title": "生放送連動ミッション",
     "priority": 50000,
@@ -8877,6 +8909,14 @@
     "priority": 50000,
     "startTime": 1662174000,
     "endTime": 1664636399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1152,
+    "title": "淘汰編リアルタイムミッション復活",
+    "priority": 20000,
+    "startTime": 1663048800,
+    "endTime": 1663653599,
     "isHideTime": false
   }
 ]
