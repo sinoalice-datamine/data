@@ -9158,6 +9158,25 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 503,
+    "name": "ナイトメアメダル",
+    "description": "魔晶石購入特典のナイトメアと交換できるメダル\r\n※2022年10月6日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "0503",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ナイトメアメダル付き魔晶石を購入することで獲得できます。\r\n※有効期限2022年10月6日23:59まで",
+    "priority": 37,
+    "itemMstId": 4842,
+    "startTime": 1663653600,
+    "endTime": 1665068399,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 504,
     "name": "腕章メダル",
     "description": "ギシンアンキが集めているメダル※2022年9月27日23:59まで",

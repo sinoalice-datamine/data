@@ -100897,5 +100897,779 @@
     "description": "後衛特化ガチャ-祈祷武器PickUp-ピックアップ武器",
     "priority": 1,
     "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12040,
+    "gachaMstId": 3093,
+    "count": 1,
+    "name": "強化の剣(Ⅴ)×10",
+    "description": "武器を強化するための素材",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12041,
+    "gachaMstId": 3093,
+    "count": 2,
+    "name": "強化の剣(Ⅴ)×10",
+    "description": "武器を強化するための素材",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12042,
+    "gachaMstId": 3093,
+    "count": 3,
+    "name": "ガチャチケット（邂逅ト離別-SS1点確定）",
+    "description": "「チケットガチャ～邂逅ト離別-SS1点確定～」で使用できるガチャチケット。有効期限：2022年10月7日23:59まで。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12043,
+    "gachaMstId": 3093,
+    "count": 3,
+    "name": "スノウ/怠熊のミンストレルのアルカナLv.1",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12044,
+    "gachaMstId": 3093,
+    "count": 3,
+    "name": "スノウ/怠熊のミンストレルのアルカナLv.2",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12045,
+    "gachaMstId": 3093,
+    "count": 3,
+    "name": "スノウ/怠熊のミンストレルのアルカナLv.3",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12046,
+    "gachaMstId": 3093,
+    "count": 3,
+    "name": "シンデレラ/憤狼のクラッシャーのアルカナLv.1",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12047,
+    "gachaMstId": 3093,
+    "count": 3,
+    "name": "シンデレラ/憤狼のクラッシャーのアルカナLv.2",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12048,
+    "gachaMstId": 3093,
+    "count": 3,
+    "name": "シンデレラ/憤狼のクラッシャーのアルカナLv.3",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12049,
+    "gachaMstId": 3093,
+    "count": 4,
+    "name": "強化の剣(Ⅴ)×10",
+    "description": "武器を強化するための素材",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12050,
+    "gachaMstId": 3093,
+    "count": 5,
+    "name": "強化の剣(Ⅴ)×10",
+    "description": "武器を強化するための素材",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12051,
+    "gachaMstId": 3093,
+    "count": 6,
+    "name": "ガチャチケット（邂逅ト離別-SS1点確定）",
+    "description": "「チケットガチャ～邂逅ト離別-SS1点確定～」で使用できるガチャチケット。有効期限：2022年10月7日23:59まで。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12052,
+    "gachaMstId": 3093,
+    "count": 6,
+    "name": "スノウ/怠熊のミンストレルのアルカナLv.1",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12053,
+    "gachaMstId": 3093,
+    "count": 6,
+    "name": "スノウ/怠熊のミンストレルのアルカナLv.2",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12054,
+    "gachaMstId": 3093,
+    "count": 6,
+    "name": "スノウ/怠熊のミンストレルのアルカナLv.3",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12055,
+    "gachaMstId": 3093,
+    "count": 6,
+    "name": "シンデレラ/憤狼のクラッシャーのアルカナLv.1",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12056,
+    "gachaMstId": 3093,
+    "count": 6,
+    "name": "シンデレラ/憤狼のクラッシャーのアルカナLv.2",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12057,
+    "gachaMstId": 3093,
+    "count": 6,
+    "name": "シンデレラ/憤狼のクラッシャーのアルカナLv.3",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12058,
+    "gachaMstId": 3093,
+    "count": 7,
+    "name": "強化の剣(Ⅴ)×10",
+    "description": "武器を強化するための素材",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12059,
+    "gachaMstId": 3093,
+    "count": 8,
+    "name": "強化の剣(Ⅴ)×10",
+    "description": "武器を強化するための素材",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12060,
+    "gachaMstId": 3093,
+    "count": 9,
+    "name": "ガチャチケット（邂逅ト離別-SS1点確定）",
+    "description": "「チケットガチャ～邂逅ト離別-SS1点確定～」で使用できるガチャチケット。有効期限：2022年10月7日23:59まで。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12061,
+    "gachaMstId": 3093,
+    "count": 9,
+    "name": "スノウ/怠熊のミンストレルのアルカナLv.1",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12062,
+    "gachaMstId": 3093,
+    "count": 9,
+    "name": "スノウ/怠熊のミンストレルのアルカナLv.2",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12063,
+    "gachaMstId": 3093,
+    "count": 9,
+    "name": "スノウ/怠熊のミンストレルのアルカナLv.3",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12064,
+    "gachaMstId": 3093,
+    "count": 9,
+    "name": "シンデレラ/憤狼のクラッシャーのアルカナLv.1",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12065,
+    "gachaMstId": 3093,
+    "count": 9,
+    "name": "シンデレラ/憤狼のクラッシャーのアルカナLv.2",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12066,
+    "gachaMstId": 3093,
+    "count": 9,
+    "name": "シンデレラ/憤狼のクラッシャーのアルカナLv.3",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12067,
+    "gachaMstId": 3093,
+    "count": 10,
+    "name": "強化の剣(Ⅴ)×10",
+    "description": "武器を強化するための素材",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12068,
+    "gachaMstId": 3093,
+    "count": 11,
+    "name": "SS武器進化セット(火)＋L武器進化セット(火)",
+    "description": "竜の鱗(火)×40、竜の瞳(火)×55\r\n竜種の枷×20、竜の心臓(火)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12069,
+    "gachaMstId": 3093,
+    "count": 11,
+    "name": "SS武器進化セット(水)＋L武器進化セット(水)",
+    "description": "竜の鱗(水)×40、竜の瞳(水)×55\r\n竜種の枷×20、竜の心臓(水)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12070,
+    "gachaMstId": 3093,
+    "count": 11,
+    "name": "SS武器進化セット(風)＋L武器進化セット(風)",
+    "description": "竜の鱗(風)×40、竜の瞳(風)×55\r\n竜種の枷×20、竜の心臓(風)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12071,
+    "gachaMstId": 3093,
+    "count": 11,
+    "name": "SS武器進化セット(陰)＋L武器進化セット(陰)",
+    "description": "竜の鱗(陰)×40、竜の瞳(陰)×55\r\n竜種の枷×20、竜の心臓(陰)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12072,
+    "gachaMstId": 3093,
+    "count": 11,
+    "name": "SS武器進化セット(陽)＋L武器進化セット(陽)",
+    "description": "竜の鱗(陽)×40、竜の瞳(陽)×55\r\n竜種の枷×20、竜の心臓(陽)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12073,
+    "gachaMstId": 3093,
+    "count": 12,
+    "name": "ガチャチケット（邂逅ト離別-SS1点確定）",
+    "description": "「チケットガチャ～邂逅ト離別-SS1点確定～」で使用できるガチャチケット。有効期限：2022年10月7日23:59まで。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12074,
+    "gachaMstId": 3093,
+    "count": 12,
+    "name": "スノウ/怠熊のミンストレルのアルカナLv.1",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12075,
+    "gachaMstId": 3093,
+    "count": 12,
+    "name": "スノウ/怠熊のミンストレルのアルカナLv.2",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12076,
+    "gachaMstId": 3093,
+    "count": 12,
+    "name": "スノウ/怠熊のミンストレルのアルカナLv.3",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12077,
+    "gachaMstId": 3093,
+    "count": 12,
+    "name": "シンデレラ/憤狼のクラッシャーのアルカナLv.1",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12078,
+    "gachaMstId": 3093,
+    "count": 12,
+    "name": "シンデレラ/憤狼のクラッシャーのアルカナLv.2",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12079,
+    "gachaMstId": 3093,
+    "count": 12,
+    "name": "シンデレラ/憤狼のクラッシャーのアルカナLv.3",
+    "description": "非常に珍しいアルカナ。\r\n※既にプレゼントボックスに付与されている場合、魔晶石×10に変換されます。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12080,
+    "gachaMstId": 3093,
+    "count": 13,
+    "name": "SS武器進化セット(火)＋L武器進化セット(火)",
+    "description": "竜の鱗(火)×40、竜の瞳(火)×55\r\n竜種の枷×20、竜の心臓(火)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12081,
+    "gachaMstId": 3093,
+    "count": 13,
+    "name": "SS武器進化セット(水)＋L武器進化セット(水)",
+    "description": "竜の鱗(水)×40、竜の瞳(水)×55\r\n竜種の枷×20、竜の心臓(水)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12082,
+    "gachaMstId": 3093,
+    "count": 13,
+    "name": "SS武器進化セット(風)＋L武器進化セット(風)",
+    "description": "竜の鱗(風)×40、竜の瞳(風)×55\r\n竜種の枷×20、竜の心臓(風)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12083,
+    "gachaMstId": 3093,
+    "count": 13,
+    "name": "SS武器進化セット(陰)＋L武器進化セット(陰)",
+    "description": "竜の鱗(陰)×40、竜の瞳(陰)×55\r\n竜種の枷×20、竜の心臓(陰)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12084,
+    "gachaMstId": 3093,
+    "count": 13,
+    "name": "SS武器進化セット(陽)＋L武器進化セット(陽)",
+    "description": "竜の鱗(陽)×40、竜の瞳(陽)×55\r\n竜種の枷×20、竜の心臓(陽)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12085,
+    "gachaMstId": 3093,
+    "count": 14,
+    "name": "SS武器進化セット(火)＋L武器進化セット(火)",
+    "description": "竜の鱗(火)×40、竜の瞳(火)×55\r\n竜種の枷×20、竜の心臓(火)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12086,
+    "gachaMstId": 3093,
+    "count": 14,
+    "name": "SS武器進化セット(水)＋L武器進化セット(水)",
+    "description": "竜の鱗(水)×40、竜の瞳(水)×55\r\n竜種の枷×20、竜の心臓(水)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12087,
+    "gachaMstId": 3093,
+    "count": 14,
+    "name": "SS武器進化セット(風)＋L武器進化セット(風)",
+    "description": "竜の鱗(風)×40、竜の瞳(風)×55\r\n竜種の枷×20、竜の心臓(風)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12088,
+    "gachaMstId": 3093,
+    "count": 14,
+    "name": "SS武器進化セット(陰)＋L武器進化セット(陰)",
+    "description": "竜の鱗(陰)×40、竜の瞳(陰)×55\r\n竜種の枷×20、竜の心臓(陰)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12089,
+    "gachaMstId": 3093,
+    "count": 14,
+    "name": "SS武器進化セット(陽)＋L武器進化セット(陽)",
+    "description": "竜の鱗(陽)×40、竜の瞳(陽)×55\r\n竜種の枷×20、竜の心臓(陽)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12090,
+    "gachaMstId": 3093,
+    "count": 15,
+    "name": "ガチャチケット（邂逅ト離別-新ジョブ確定）",
+    "description": "「チケットガチャ～邂逅ト離別-新ジョブ確定～」で使用できるガチャチケット。有効期限：2022年10月7日23:59まで。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12091,
+    "gachaMstId": 3093,
+    "count": 16,
+    "name": "SS武器進化セット(火)＋L武器進化セット(火)",
+    "description": "竜の鱗(火)×40、竜の瞳(火)×55\r\n竜種の枷×20、竜の心臓(火)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12092,
+    "gachaMstId": 3093,
+    "count": 16,
+    "name": "SS武器進化セット(水)＋L武器進化セット(水)",
+    "description": "竜の鱗(水)×40、竜の瞳(水)×55\r\n竜種の枷×20、竜の心臓(水)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12093,
+    "gachaMstId": 3093,
+    "count": 16,
+    "name": "SS武器進化セット(風)＋L武器進化セット(風)",
+    "description": "竜の鱗(風)×40、竜の瞳(風)×55\r\n竜種の枷×20、竜の心臓(風)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12094,
+    "gachaMstId": 3093,
+    "count": 16,
+    "name": "SS武器進化セット(陰)＋L武器進化セット(陰)",
+    "description": "竜の鱗(陰)×40、竜の瞳(陰)×55\r\n竜種の枷×20、竜の心臓(陰)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12095,
+    "gachaMstId": 3093,
+    "count": 16,
+    "name": "SS武器進化セット(陽)＋L武器進化セット(陽)",
+    "description": "竜の鱗(陽)×40、竜の瞳(陽)×55\r\n竜種の枷×20、竜の心臓(陽)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12096,
+    "gachaMstId": 3093,
+    "count": 17,
+    "name": "SS武器進化セット(火)＋L武器進化セット(火)",
+    "description": "竜の鱗(火)×40、竜の瞳(火)×55\r\n竜種の枷×20、竜の心臓(火)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12097,
+    "gachaMstId": 3093,
+    "count": 17,
+    "name": "SS武器進化セット(水)＋L武器進化セット(水)",
+    "description": "竜の鱗(水)×40、竜の瞳(水)×55\r\n竜種の枷×20、竜の心臓(水)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12098,
+    "gachaMstId": 3093,
+    "count": 17,
+    "name": "SS武器進化セット(風)＋L武器進化セット(風)",
+    "description": "竜の鱗(風)×40、竜の瞳(風)×55\r\n竜種の枷×20、竜の心臓(風)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12099,
+    "gachaMstId": 3093,
+    "count": 17,
+    "name": "SS武器進化セット(陰)＋L武器進化セット(陰)",
+    "description": "竜の鱗(陰)×40、竜の瞳(陰)×55\r\n竜種の枷×20、竜の心臓(陰)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12100,
+    "gachaMstId": 3093,
+    "count": 17,
+    "name": "SS武器進化セット(陽)＋L武器進化セット(陽)",
+    "description": "竜の鱗(陽)×40、竜の瞳(陽)×55\r\n竜種の枷×20、竜の心臓(陽)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12101,
+    "gachaMstId": 3093,
+    "count": 18,
+    "name": "ガチャチケット（邂逅ト離別-SS1点確定）",
+    "description": "「チケットガチャ～邂逅ト離別-SS1点確定～」で使用できるガチャチケット。有効期限：2022年10月7日23:59まで。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12102,
+    "gachaMstId": 3093,
+    "count": 19,
+    "name": "SS武器進化セット(火)＋L武器進化セット(火)",
+    "description": "竜の鱗(火)×40、竜の瞳(火)×55\r\n竜種の枷×20、竜の心臓(火)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12103,
+    "gachaMstId": 3093,
+    "count": 19,
+    "name": "SS武器進化セット(水)＋L武器進化セット(水)",
+    "description": "竜の鱗(水)×40、竜の瞳(水)×55\r\n竜種の枷×20、竜の心臓(水)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12104,
+    "gachaMstId": 3093,
+    "count": 19,
+    "name": "SS武器進化セット(風)＋L武器進化セット(風)",
+    "description": "竜の鱗(風)×40、竜の瞳(風)×55\r\n竜種の枷×20、竜の心臓(風)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12105,
+    "gachaMstId": 3093,
+    "count": 19,
+    "name": "SS武器進化セット(陰)＋L武器進化セット(陰)",
+    "description": "竜の鱗(陰)×40、竜の瞳(陰)×55\r\n竜種の枷×20、竜の心臓(陰)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12106,
+    "gachaMstId": 3093,
+    "count": 19,
+    "name": "SS武器進化セット(陽)＋L武器進化セット(陽)",
+    "description": "竜の鱗(陽)×40、竜の瞳(陽)×55\r\n竜種の枷×20、竜の心臓(陽)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12107,
+    "gachaMstId": 3093,
+    "count": 20,
+    "name": "SS武器進化セット(火)＋L武器進化セット(火)",
+    "description": "竜の鱗(火)×40、竜の瞳(火)×55\r\n竜種の枷×20、竜の心臓(火)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12108,
+    "gachaMstId": 3093,
+    "count": 20,
+    "name": "SS武器進化セット(水)＋L武器進化セット(水)",
+    "description": "竜の鱗(水)×40、竜の瞳(水)×55\r\n竜種の枷×20、竜の心臓(水)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12109,
+    "gachaMstId": 3093,
+    "count": 20,
+    "name": "SS武器進化セット(風)＋L武器進化セット(風)",
+    "description": "竜の鱗(風)×40、竜の瞳(風)×55\r\n竜種の枷×20、竜の心臓(風)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12110,
+    "gachaMstId": 3093,
+    "count": 20,
+    "name": "SS武器進化セット(陰)＋L武器進化セット(陰)",
+    "description": "竜の鱗(陰)×40、竜の瞳(陰)×55\r\n竜種の枷×20、竜の心臓(陰)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12111,
+    "gachaMstId": 3093,
+    "count": 20,
+    "name": "SS武器進化セット(陽)＋L武器進化セット(陽)",
+    "description": "竜の鱗(陽)×40、竜の瞳(陽)×55\r\n竜種の枷×20、竜の心臓(陽)×10\r\n竜種の炎×6",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12112,
+    "gachaMstId": 3093,
+    "count": 21,
+    "name": "ガチャチケット（邂逅ト離別-SS1点確定）",
+    "description": "「チケットガチャ～邂逅ト離別-SS1点確定～」で使用できるガチャチケット。有効期限：2022年10月7日23:59まで。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12113,
+    "gachaMstId": 3093,
+    "count": 22,
+    "name": "ドロップ増加の加護×1",
+    "description": "モノガタリでのアイテムドロップ獲得量が30分間2倍になる。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12114,
+    "gachaMstId": 3093,
+    "count": 23,
+    "name": "ドロップ増加の加護×1",
+    "description": "モノガタリでのアイテムドロップ獲得量が30分間2倍になる。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12115,
+    "gachaMstId": 3093,
+    "count": 24,
+    "name": "ガチャチケット（邂逅ト離別-SS1点確定）",
+    "description": "「チケットガチャ～邂逅ト離別-SS1点確定～」で使用できるガチャチケット。有効期限：2022年10月7日23:59まで。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12116,
+    "gachaMstId": 3093,
+    "count": 25,
+    "name": "ドロップ増加の加護×1",
+    "description": "モノガタリでのアイテムドロップ獲得量が30分間2倍になる。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12117,
+    "gachaMstId": 3093,
+    "count": 26,
+    "name": "ドロップ増加の加護×1",
+    "description": "モノガタリでのアイテムドロップ獲得量が30分間2倍になる。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12118,
+    "gachaMstId": 3093,
+    "count": 27,
+    "name": "ガチャチケット（邂逅ト離別-SS1点確定）",
+    "description": "「チケットガチャ～邂逅ト離別-SS1点確定～」で使用できるガチャチケット。有効期限：2022年10月7日23:59まで。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12119,
+    "gachaMstId": 3093,
+    "count": 28,
+    "name": "ドロップ増加の加護×1",
+    "description": "モノガタリでのアイテムドロップ獲得量が30分間2倍になる。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12120,
+    "gachaMstId": 3093,
+    "count": 29,
+    "name": "ドロップ増加の加護×1",
+    "description": "モノガタリでのアイテムドロップ獲得量が30分間2倍になる。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12121,
+    "gachaMstId": 3093,
+    "count": 30,
+    "name": "暴力の魔斧銃",
+    "description": "邂逅ト離別-睡眠/暴力-の選べる武器\r\n※ジョブを解放している場合は武器のみ。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12122,
+    "gachaMstId": 3093,
+    "count": 30,
+    "name": "睡眠の魔笛",
+    "description": "邂逅ト離別-睡眠/暴力-の選べる武器\r\n※ジョブを解放している場合は武器のみ。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12123,
+    "gachaMstId": 3093,
+    "count": 30,
+    "name": "マキシマムハンマー",
+    "description": "邂逅ト離別-睡眠/暴力-の選べる武器",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12124,
+    "gachaMstId": 3093,
+    "count": 30,
+    "name": "偽りの権威",
+    "description": "邂逅ト離別-睡眠/暴力-の選べる武器",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12125,
+    "gachaMstId": 3093,
+    "count": 0,
+    "name": "SS宝玉セット",
+    "description": "コロシアムの宝玉(Ⅲ)×1\r\nコロシアム補助の宝玉(Ⅲ)×1\r\nモノガタリの宝玉(Ⅲ)×1\r\nモノガタリ補助の宝玉(Ⅲ)×1",
+    "priority": 1,
+    "isLimitRepeat": true
   }
 ]
