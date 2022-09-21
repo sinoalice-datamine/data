@@ -36820,6 +36820,146 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 4837,
+    "characterMstId": 387,
+    "name": "Heavy +30% (Hamelin+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4838,
+    "characterMstId": 387,
+    "name": "Heavy +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4839,
+    "characterMstId": 387,
+    "name": "P.ATK +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4840,
+    "characterMstId": 387,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4841,
+    "characterMstId": 387,
+    "name": "Heavy +10% (Hamelin+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4842,
+    "characterMstId": 387,
+    "name": "P.ATK +500",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4843,
+    "characterMstId": 387,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4844,
+    "characterMstId": 387,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4845,
+    "characterMstId": 387,
+    "name": "Heavy +10% (Hamelin+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4846,
+    "characterMstId": 387,
+    "name": "HP +600",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 600,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4847,
+    "characterMstId": 387,
+    "name": "P.ATK +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4848,
+    "characterMstId": 387,
+    "name": "P.ATK +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4849,
+    "characterMstId": 387,
+    "name": "Heavy +10% (Hamelin+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4850,
+    "characterMstId": 387,
+    "name": "P.ATK +400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 4851,
     "characterMstId": 386,
     "name": "Polearm +30% (Rapunzel+ stages)",
@@ -38598,6 +38738,26 @@
     "effectType": 13,
     "effectValue": 5032,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5901,
+    "characterMstId": 387,
+    "name": "P.DEF +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5902,
+    "characterMstId": 387,
+    "name": "P.DMG +2% when using heavy class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5030,
+    "cardDetailType": 6
   },
   {
     "characterAbilityMstId": 5903,
@@ -41158,6 +41318,166 @@
     "effectType": 2,
     "effectValue": 400,
     "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6889,
+    "characterMstId": 513,
+    "name": "Polearm (Fire) +30% (Rapunzel+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6890,
+    "characterMstId": 513,
+    "name": "All Weapons (Water) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 6891,
+    "characterMstId": 513,
+    "name": "Polearm (Fire) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6892,
+    "characterMstId": 513,
+    "name": "Polearm (Fire) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6893,
+    "characterMstId": 513,
+    "name": "M.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6894,
+    "characterMstId": 513,
+    "name": "HP +1,200",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6895,
+    "characterMstId": 513,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6896,
+    "characterMstId": 513,
+    "name": "M.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6897,
+    "characterMstId": 513,
+    "name": "Polearm (Fire) +10% (Rapunzel+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6898,
+    "characterMstId": 513,
+    "name": "M.DMG +2% when using polearm class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5032,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6899,
+    "characterMstId": 513,
+    "name": "M.DEF +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6900,
+    "characterMstId": 513,
+    "name": "M.DEF +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6901,
+    "characterMstId": 513,
+    "name": "Polearm (Fire) +30% (Rapunzel+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6902,
+    "characterMstId": 513,
+    "name": "M.ATK +1,000",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 1000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6903,
+    "characterMstId": 513,
+    "name": "M.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 6904,
+    "characterMstId": 513,
+    "name": "M.ATK +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
   },
   {
     "characterAbilityMstId": 6905,
