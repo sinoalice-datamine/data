@@ -7362,6 +7362,24 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 551,
+    "questMapMstId": 285,
+    "name": "Looming Calamity of the Serpent Storm",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/17",
+    "bgResourceName": "0017",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "createdTime": 1485183600
+  },
+  {
     "questAreaMstId": 560,
     "questMapMstId": 275,
     "name": "Evolution Mysteries (Weapon)",
@@ -8349,6 +8367,24 @@
     "unCombatFlag": false,
     "isGve": false,
     "disableMultipleCharacter": false,
+    "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 793,
+    "questMapMstId": 425,
+    "name": "Looming Calamity of the Serpent Storm",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/17",
+    "bgResourceName": "0017",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
     "createdTime": 1483974000
   },
   {

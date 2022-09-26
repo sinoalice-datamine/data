@@ -708,6 +708,18 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 169,
+    "title": "Guild Event Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1664517600,
+    "endTime": 1665118799,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 171,
     "title": "FFBE Collaboration Event Portal I",
     "cycleType": 2,
@@ -1759,6 +1771,54 @@
     "pickupSkillType": 1,
     "startTime": 1661407200,
     "endTime": 1662008399,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900061,
+    "title": "Guild Event Streak Bonus",
+    "cycleType": 101,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1664517600,
+    "endTime": 1665118799,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900062,
+    "title": "WGC Commencement Campaign",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1664179200,
+    "endTime": 1665032399,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900063,
+    "title": "WGC Commencement Campaign",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1666328400,
+    "endTime": 1667192399,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900064,
+    "title": "WGC Commencement Campaign",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1668142800,
+    "endTime": 1669006799,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""
