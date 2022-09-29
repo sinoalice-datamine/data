@@ -95680,6 +95680,286 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 9753,
+    "characterMstId": 690,
+    "name": "SnowWhiteエリアで射出60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9754,
+    "characterMstId": 690,
+    "name": "射出10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9755,
+    "characterMstId": 690,
+    "name": "魔法防御+200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9756,
+    "characterMstId": 690,
+    "name": "魔法防御+2000",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 2000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9757,
+    "characterMstId": 690,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9758,
+    "characterMstId": 690,
+    "name": "物理防御+300",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9759,
+    "characterMstId": 690,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9760,
+    "characterMstId": 690,
+    "name": "魔法攻撃+3000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 3000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9761,
+    "characterMstId": 690,
+    "name": "HP+2000",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9762,
+    "characterMstId": 690,
+    "name": "射出ジョブ使用時、魔法ダメージ4%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7871,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9763,
+    "characterMstId": 690,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9764,
+    "characterMstId": 690,
+    "name": "魔法防御+500",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9765,
+    "characterMstId": 690,
+    "name": "魔法攻撃+600",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 600,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9766,
+    "characterMstId": 690,
+    "name": "火属性武器使用時、魔法ダメージ3%UP",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6432,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9767,
+    "characterMstId": 691,
+    "name": "Cinderellaエリアで刀剣60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9768,
+    "characterMstId": 691,
+    "name": "刀剣10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9769,
+    "characterMstId": 691,
+    "name": "物理防御+200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9770,
+    "characterMstId": 691,
+    "name": "物理防御+2000",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 2000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9771,
+    "characterMstId": 691,
+    "name": "物理攻撃+300",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9772,
+    "characterMstId": 691,
+    "name": "魔法防御+300",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9773,
+    "characterMstId": 691,
+    "name": "物理攻撃+300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9774,
+    "characterMstId": 691,
+    "name": "物理攻撃+3000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 3000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9775,
+    "characterMstId": 691,
+    "name": "HP+2000",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9776,
+    "characterMstId": 691,
+    "name": "刀剣ジョブ使用時、物理ダメージ4%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7869,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9777,
+    "characterMstId": 691,
+    "name": "物理攻撃+400",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9778,
+    "characterMstId": 691,
+    "name": "物理防御+500",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9779,
+    "characterMstId": 691,
+    "name": "物理防御+600",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 600,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9780,
+    "characterMstId": 691,
+    "name": "水属性武器使用時、物理ダメージ3%UP",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6195,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 9781,
     "characterMstId": 61,
     "name": "物理防御+600",
