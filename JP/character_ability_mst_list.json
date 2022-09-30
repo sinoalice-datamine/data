@@ -95998,5 +95998,25 @@
     "effectType": 4,
     "effectValue": 600,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9933,
+    "characterMstId": 116,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9934,
+    "characterMstId": 116,
+    "name": "楽器ジョブ使用時、バフ効果2%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5033,
+    "cardDetailType": 1
   }
 ]
