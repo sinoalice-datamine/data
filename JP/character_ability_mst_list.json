@@ -96000,6 +96000,686 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 9785,
+    "characterMstId": 694,
+    "name": "Mermaidエリアで魔書60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9786,
+    "characterMstId": 694,
+    "name": "魔書13%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 13,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9787,
+    "characterMstId": 694,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9788,
+    "characterMstId": 694,
+    "name": "魔法防御+200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9789,
+    "characterMstId": 694,
+    "name": "Mermaidエリアで楽器20%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9790,
+    "characterMstId": 694,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9791,
+    "characterMstId": 694,
+    "name": "魔法防御+200",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9792,
+    "characterMstId": 694,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9793,
+    "characterMstId": 694,
+    "name": "魔法防御+200",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9794,
+    "characterMstId": 694,
+    "name": "HP+1500",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1500,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9795,
+    "characterMstId": 694,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9796,
+    "characterMstId": 694,
+    "name": "楽器7%UP",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 7,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9797,
+    "characterMstId": 694,
+    "name": "魔法防御+500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9798,
+    "characterMstId": 694,
+    "name": "魔法攻撃+500",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9799,
+    "characterMstId": 695,
+    "name": "Akazukinエリアで楽器60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9800,
+    "characterMstId": 695,
+    "name": "楽器13%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 13,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9801,
+    "characterMstId": 695,
+    "name": "物理攻撃+200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9802,
+    "characterMstId": 695,
+    "name": "物理防御+200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9803,
+    "characterMstId": 695,
+    "name": "Akazukinエリアで魔書20%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9804,
+    "characterMstId": 695,
+    "name": "物理攻撃+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9805,
+    "characterMstId": 695,
+    "name": "物理防御+200",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9806,
+    "characterMstId": 695,
+    "name": "物理攻撃+200",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9807,
+    "characterMstId": 695,
+    "name": "物理防御+200",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9808,
+    "characterMstId": 695,
+    "name": "HP+1500",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9809,
+    "characterMstId": 695,
+    "name": "物理攻撃+400",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9810,
+    "characterMstId": 695,
+    "name": "魔書7%UP",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 7,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9811,
+    "characterMstId": 695,
+    "name": "物理防御+500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9812,
+    "characterMstId": 695,
+    "name": "物理攻撃+500",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9813,
+    "characterMstId": 706,
+    "name": "Ibarahimeエリアで魔具30%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 9814,
+    "characterMstId": 706,
+    "name": "魔具10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 9815,
+    "characterMstId": 706,
+    "name": "魔法防御+100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 9816,
+    "characterMstId": 706,
+    "name": "物理防御+100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 9817,
+    "characterMstId": 706,
+    "name": "Ibarahimeエリアで魔具10%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 9818,
+    "characterMstId": 706,
+    "name": "魔法攻撃+100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 9819,
+    "characterMstId": 706,
+    "name": "HP+50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 9820,
+    "characterMstId": 706,
+    "name": "物理攻撃+100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 9821,
+    "characterMstId": 706,
+    "name": "Ibarahimeエリアで魔具10%UP",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 9822,
+    "characterMstId": 706,
+    "name": "HP+50",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 9903,
+    "characterMstId": 48,
+    "name": "長柄5%UP",
+    "releaseLevel": 15,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9904,
+    "characterMstId": 48,
+    "name": "HP+3000",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9905,
+    "characterMstId": 64,
+    "name": "射出5%UP",
+    "releaseLevel": 15,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9906,
+    "characterMstId": 64,
+    "name": "HP+3000",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9907,
+    "characterMstId": 85,
+    "name": "祈祷5%UP",
+    "releaseLevel": 15,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9908,
+    "characterMstId": 85,
+    "name": "HP+3000",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9909,
+    "characterMstId": 93,
+    "name": "魔書5%UP",
+    "releaseLevel": 15,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9910,
+    "characterMstId": 93,
+    "name": "HP+3000",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9911,
+    "characterMstId": 103,
+    "name": "打撃5%UP",
+    "releaseLevel": 15,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9912,
+    "characterMstId": 103,
+    "name": "HP+3000",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9913,
+    "characterMstId": 114,
+    "name": "楽器5%UP",
+    "releaseLevel": 15,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9914,
+    "characterMstId": 114,
+    "name": "HP+3000",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9915,
+    "characterMstId": 126,
+    "name": "刀剣5%UP",
+    "releaseLevel": 15,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9916,
+    "characterMstId": 126,
+    "name": "HP+3000",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9917,
+    "characterMstId": 139,
+    "name": "射出5%UP",
+    "releaseLevel": 15,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9918,
+    "characterMstId": 139,
+    "name": "HP+3000",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 9919,
+    "characterMstId": 167,
+    "name": "魔書5%UP",
+    "releaseLevel": 15,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9920,
+    "characterMstId": 167,
+    "name": "HP+3000",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 9921,
+    "characterMstId": 204,
+    "name": "魔具5%UP",
+    "releaseLevel": 15,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 9922,
+    "characterMstId": 204,
+    "name": "HP+3000",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 9923,
+    "characterMstId": 231,
+    "name": "長柄5%UP",
+    "releaseLevel": 15,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9924,
+    "characterMstId": 231,
+    "name": "HP+3000",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9925,
+    "characterMstId": 251,
+    "name": "祈祷5%UP",
+    "releaseLevel": 15,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9926,
+    "characterMstId": 251,
+    "name": "HP+3000",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 9927,
+    "characterMstId": 288,
+    "name": "打撃5%UP",
+    "releaseLevel": 15,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9928,
+    "characterMstId": 288,
+    "name": "HP+3000",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9929,
+    "characterMstId": 328,
+    "name": "楽器5%UP",
+    "releaseLevel": 15,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9930,
+    "characterMstId": 328,
+    "name": "HP+3000",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 9931,
+    "characterMstId": 398,
+    "name": "刀剣5%UP",
+    "releaseLevel": 15,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 9932,
+    "characterMstId": 398,
+    "name": "HP+3000",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 9933,
     "characterMstId": 116,
     "name": "魔法攻撃+400",
