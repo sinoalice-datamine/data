@@ -894,5 +894,69 @@
     "queueName": "bgm_gvg_wgc@001",
     "statusType": 0,
     "sectionSecond": 0
+  },
+  {
+    "gvgBgmMstId": 113,
+    "uniqueId": 14,
+    "queueSheetName": "bgm_gvg_wgc",
+    "queueName": "bgm_gvg_wgc@002",
+    "statusType": 1,
+    "sectionSecond": 1200
+  },
+  {
+    "gvgBgmMstId": 114,
+    "uniqueId": 14,
+    "queueSheetName": "bgm_gvg_wgc",
+    "queueName": "bgm_gvg_wgc@003",
+    "statusType": 1,
+    "sectionSecond": 1000
+  },
+  {
+    "gvgBgmMstId": 115,
+    "uniqueId": 14,
+    "queueSheetName": "bgm_gvg_wgc",
+    "queueName": "bgm_gvg_wgc@004",
+    "statusType": 1,
+    "sectionSecond": 800
+  },
+  {
+    "gvgBgmMstId": 116,
+    "uniqueId": 14,
+    "queueSheetName": "bgm_gvg_wgc",
+    "queueName": "bgm_gvg_wgc@005",
+    "statusType": 1,
+    "sectionSecond": 600
+  },
+  {
+    "gvgBgmMstId": 117,
+    "uniqueId": 14,
+    "queueSheetName": "bgm_gvg_wgc",
+    "queueName": "bgm_gvg_wgc@006",
+    "statusType": 2,
+    "sectionSecond": 187
+  },
+  {
+    "gvgBgmMstId": 118,
+    "uniqueId": 14,
+    "queueSheetName": "bgm_gvg",
+    "queueName": "bgm_gvg@001",
+    "statusType": 3,
+    "sectionSecond": 0
+  },
+  {
+    "gvgBgmMstId": 119,
+    "uniqueId": 14,
+    "queueSheetName": "bgm_gvg",
+    "queueName": "bgm_gvg@005",
+    "statusType": 4,
+    "sectionSecond": 0
+  },
+  {
+    "gvgBgmMstId": 120,
+    "uniqueId": 14,
+    "queueSheetName": "bgm_gvg_wgc",
+    "queueName": "bgm_gvg_wgc@001",
+    "statusType": 0,
+    "sectionSecond": 0
   }
 ]

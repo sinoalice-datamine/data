@@ -8976,11 +8976,43 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 1150,
+    "title": "「薄明ノ秘郷」ミッション",
+    "priority": 20003,
+    "startTime": 1665032400,
+    "endTime": 1666245599,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1151,
+    "title": "イベントデイリーミッション",
+    "priority": 20004,
+    "startTime": 1665032400,
+    "endTime": 1666245599,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 1152,
     "title": "淘汰編リアルタイムミッション復活",
     "priority": 20000,
     "startTime": 1663048800,
     "endTime": 1663653599,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1155,
+    "title": "「ギシアンジャンボ」ミッション",
+    "priority": 0,
+    "startTime": 1665036000,
+    "endTime": 1667937599,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1162,
+    "title": "生放送連動ミッション",
+    "priority": 50000,
+    "startTime": 1665055500,
+    "endTime": 1665673199,
     "isHideTime": false
   }
 ]
