@@ -486,5 +486,69 @@
     "shipPartsBodyMstId": 208,
     "shipPartsRoofMstId": 207,
     "shipPartsAttachedMstId": 209
+  },
+  {
+    "guildShipSeriesMstId": 62,
+    "name": "遊魔シリーズ(1部)",
+    "description": "第48回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 211,
+    "shipPartsRoofMstId": 210,
+    "shipPartsAttachedMstId": 212
+  },
+  {
+    "guildShipSeriesMstId": 63,
+    "name": "遊魔シリーズ(2部)",
+    "description": "第48回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 214,
+    "shipPartsRoofMstId": 213,
+    "shipPartsAttachedMstId": 215
+  },
+  {
+    "guildShipSeriesMstId": 64,
+    "name": "遊魔シリーズ(3部)",
+    "description": "第48回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 217,
+    "shipPartsRoofMstId": 216,
+    "shipPartsAttachedMstId": 218
+  },
+  {
+    "guildShipSeriesMstId": 65,
+    "name": "馬車シリーズ(1部)",
+    "description": "第49回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 220,
+    "shipPartsRoofMstId": 219,
+    "shipPartsAttachedMstId": 221
+  },
+  {
+    "guildShipSeriesMstId": 66,
+    "name": "馬車シリーズ(2部)",
+    "description": "第49回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 223,
+    "shipPartsRoofMstId": 222,
+    "shipPartsAttachedMstId": 224
+  },
+  {
+    "guildShipSeriesMstId": 67,
+    "name": "馬車シリーズ(3部)",
+    "description": "第49回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 226,
+    "shipPartsRoofMstId": 225,
+    "shipPartsAttachedMstId": 227
+  },
+  {
+    "guildShipSeriesMstId": 68,
+    "name": "LiLLion!シリーズ(WGC)",
+    "description": "WGC優勝ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 239,
+    "shipPartsRoofMstId": 238,
+    "shipPartsAttachedMstId": 240
+  },
+  {
+    "guildShipSeriesMstId": 69,
+    "name": "Defierシリーズ(WGC)",
+    "description": "WGC準優勝ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 242,
+    "shipPartsRoofMstId": 241,
+    "shipPartsAttachedMstId": 243
   }
 ]

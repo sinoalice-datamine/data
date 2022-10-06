@@ -38940,6 +38940,146 @@
     "cardDetailType": 1
   },
   {
+    "characterAbilityMstId": 5909,
+    "characterMstId": 451,
+    "name": "Blade +40% (Rapunzel+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 40,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5910,
+    "characterMstId": 451,
+    "name": "Blade +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5911,
+    "characterMstId": 451,
+    "name": "P.DEF +200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5912,
+    "characterMstId": 451,
+    "name": "M.DEF +200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5913,
+    "characterMstId": 451,
+    "name": "Heavy +20% (Rapunzel+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5914,
+    "characterMstId": 451,
+    "name": "P.ATK +200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5915,
+    "characterMstId": 451,
+    "name": "Blade +20% (Rapunzel+ stages)",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5916,
+    "characterMstId": 451,
+    "name": "P.DEF +200",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5917,
+    "characterMstId": 451,
+    "name": "M.DEF +200",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5918,
+    "characterMstId": 451,
+    "name": "HP +500",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5919,
+    "characterMstId": 451,
+    "name": "P.ATK +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5920,
+    "characterMstId": 451,
+    "name": "Heavy +10%",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5921,
+    "characterMstId": 451,
+    "name": "P.ATK +400",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5922,
+    "characterMstId": 451,
+    "name": "HP +600",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 600,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 5923,
     "characterMstId": 441,
     "name": "Staff (Fire) +30% (Three Little Pigs+ stages)",
@@ -50360,9 +50500,29 @@
     "cardDetailType": 3
   },
   {
+    "characterAbilityMstId": 900255,
+    "characterMstId": 451,
+    "name": "P.ATK +600",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 600,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 900256,
+    "characterMstId": 451,
+    "name": "P.ATK +600",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 600,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 900257,
     "characterMstId": 692,
-    "name": "Polearm +60% (Pinocchio+ stages)",
+    "name": "",
     "releaseLevel": 1,
     "skillType": 2,
     "effectType": 6,
@@ -50522,7 +50682,7 @@
   {
     "characterAbilityMstId": 900273,
     "characterMstId": 693,
-    "name": "Tome +60% (Dorothy+ stages)",
+    "name": "",
     "releaseLevel": 1,
     "skillType": 2,
     "effectType": 6,
@@ -50678,5 +50838,45 @@
     "effectType": 2,
     "effectValue": 500,
     "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 900289,
+    "characterMstId": 575,
+    "name": "HP +500",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 900290,
+    "characterMstId": 575,
+    "name": "P.ATK +500",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 900291,
+    "characterMstId": 578,
+    "name": "HP +500",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 900292,
+    "characterMstId": 578,
+    "name": "M.DEF +500",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 4
   }
 ]

@@ -4563,6 +4563,2211 @@
     "cardDetailType": 0
   },
   {
+    "characterBoardAbilityMstId": 516,
+    "characterUniqueId": 15,
+    "name": "HP +50",
+    "description": "HP +50 (Nutcracker class equipped)",
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 517,
+    "characterUniqueId": 15,
+    "name": "HP +100",
+    "description": "HP +100 (Nutcracker class equipped)",
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 518,
+    "characterUniqueId": 15,
+    "name": "HP +150",
+    "description": "HP +150 (Nutcracker class equipped)",
+    "effectType": 1,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 519,
+    "characterUniqueId": 15,
+    "name": "HP +200",
+    "description": "HP +200 (Nutcracker class equipped)",
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 520,
+    "characterUniqueId": 15,
+    "name": "P.ATK +50",
+    "description": "P.ATK +50 (Nutcracker class equipped)",
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 521,
+    "characterUniqueId": 15,
+    "name": "P.ATK +75",
+    "description": "P.ATK +75 (Nutcracker class equipped)",
+    "effectType": 2,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 522,
+    "characterUniqueId": 15,
+    "name": "P.ATK +100",
+    "description": "P.ATK +100 (Nutcracker class equipped)",
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 523,
+    "characterUniqueId": 15,
+    "name": "P.ATK +150",
+    "description": "P.ATK +150 (Nutcracker class equipped)",
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 524,
+    "characterUniqueId": 15,
+    "name": "P.ATK +200",
+    "description": "P.ATK +200 (Nutcracker class equipped)",
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 525,
+    "characterUniqueId": 15,
+    "name": "P.ATK +250",
+    "description": "P.ATK +250 (Nutcracker class equipped)",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 526,
+    "characterUniqueId": 15,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (Nutcracker class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 527,
+    "characterUniqueId": 15,
+    "name": "P.DEF +50",
+    "description": "P.DEF +50 (Nutcracker class equipped)",
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 528,
+    "characterUniqueId": 15,
+    "name": "P.DEF +75",
+    "description": "P.DEF +75 (Nutcracker class equipped)",
+    "effectType": 3,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 529,
+    "characterUniqueId": 15,
+    "name": "P.DEF +100",
+    "description": "P.DEF +100 (Nutcracker class equipped)",
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 530,
+    "characterUniqueId": 15,
+    "name": "P.DEF +150",
+    "description": "P.DEF +150 (Nutcracker class equipped)",
+    "effectType": 3,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 531,
+    "characterUniqueId": 15,
+    "name": "P.DEF +200",
+    "description": "P.DEF +200 (Nutcracker class equipped)",
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 532,
+    "characterUniqueId": 15,
+    "name": "P.DEF +250",
+    "description": "P.DEF +250 (Nutcracker class equipped)",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 533,
+    "characterUniqueId": 15,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (Nutcracker class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 534,
+    "characterUniqueId": 15,
+    "name": "M.ATK +50",
+    "description": "M.ATK +50 (Nutcracker class equipped)",
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 535,
+    "characterUniqueId": 15,
+    "name": "M.ATK +75",
+    "description": "M.ATK +75 (Nutcracker class equipped)",
+    "effectType": 4,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 536,
+    "characterUniqueId": 15,
+    "name": "M.ATK +100",
+    "description": "M.ATK +100 (Nutcracker class equipped)",
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 537,
+    "characterUniqueId": 15,
+    "name": "M.ATK +150",
+    "description": "M.ATK +150 (Nutcracker class equipped)",
+    "effectType": 4,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 538,
+    "characterUniqueId": 15,
+    "name": "M.ATK +200",
+    "description": "M.ATK +200 (Nutcracker class equipped)",
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 539,
+    "characterUniqueId": 15,
+    "name": "M.ATK +250",
+    "description": "M.ATK +250 (Nutcracker class equipped)",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 540,
+    "characterUniqueId": 15,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (Nutcracker class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 541,
+    "characterUniqueId": 15,
+    "name": "M.DEF +50",
+    "description": "M.DEF +50 (Nutcracker class equipped)",
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 542,
+    "characterUniqueId": 15,
+    "name": "M.DEF +75",
+    "description": "M.DEF +75 (Nutcracker class equipped)",
+    "effectType": 5,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 543,
+    "characterUniqueId": 15,
+    "name": "M.DEF +100",
+    "description": "M.DEF +100 (Nutcracker class equipped)",
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 544,
+    "characterUniqueId": 15,
+    "name": "M.DEF +150",
+    "description": "M.DEF +150 (Nutcracker class equipped)",
+    "effectType": 5,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 545,
+    "characterUniqueId": 15,
+    "name": "M.DEF +200",
+    "description": "M.DEF +200 (Nutcracker class equipped)",
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 546,
+    "characterUniqueId": 15,
+    "name": "M.DEF +250",
+    "description": "M.DEF +250 (Nutcracker class equipped)",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 547,
+    "characterUniqueId": 15,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (Nutcracker class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 548,
+    "characterUniqueId": 15,
+    "name": "Instrument +1%",
+    "description": "Instrument +1% (Nutcracker class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 549,
+    "characterUniqueId": 15,
+    "name": "Tome +1%",
+    "description": "Tome +1% (Nutcracker class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 550,
+    "characterUniqueId": 15,
+    "name": "Artifact +1%",
+    "description": "Artifact +1% (Nutcracker class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 551,
+    "characterUniqueId": 15,
+    "name": "Staff +1%",
+    "description": "Staff +1% (Nutcracker class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 552,
+    "characterUniqueId": 15,
+    "name": "Blade +1%",
+    "description": "Blade +1% (Nutcracker class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 553,
+    "characterUniqueId": 15,
+    "name": "Heavy +1%",
+    "description": "Heavy +1% (Nutcracker class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 554,
+    "characterUniqueId": 15,
+    "name": "Projectile +1%",
+    "description": "Projectile +1% (Nutcracker class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 555,
+    "characterUniqueId": 15,
+    "name": "Polearm +1%",
+    "description": "Polearm +1% (Nutcracker class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 556,
+    "characterUniqueId": 15,
+    "name": "Increase in Stages",
+    "description": "All weapon types +3% (Nutcracker+ stages)",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 557,
+    "characterUniqueId": 15,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +50 (Nutcracker class equipped)",
+    "effectType": 11,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 558,
+    "characterUniqueId": 15,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +100 (Nutcracker class equipped)",
+    "effectType": 11,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 559,
+    "characterUniqueId": 15,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +150 (Nutcracker class equipped)",
+    "effectType": 11,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 560,
+    "characterUniqueId": 15,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +50 (Nutcracker class equipped)",
+    "effectType": 12,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 561,
+    "characterUniqueId": 15,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +100 (Nutcracker class equipped)",
+    "effectType": 12,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 562,
+    "characterUniqueId": 15,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +150 (Nutcracker class equipped)",
+    "effectType": 12,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 563,
+    "characterUniqueId": 15,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When Nutcracker class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 564,
+    "characterUniqueId": 15,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When Nutcracker class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 565,
+    "characterUniqueId": 20,
+    "name": "HP +50",
+    "description": "HP +50 (Three Little Pigs class equipped)",
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 566,
+    "characterUniqueId": 20,
+    "name": "HP +100",
+    "description": "HP +100 (Three Little Pigs class equipped)",
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 567,
+    "characterUniqueId": 20,
+    "name": "HP +150",
+    "description": "HP +150 (Three Little Pigs class equipped)",
+    "effectType": 1,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 568,
+    "characterUniqueId": 20,
+    "name": "HP +200",
+    "description": "HP +200 (Three Little Pigs class equipped)",
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 569,
+    "characterUniqueId": 20,
+    "name": "P.ATK +50",
+    "description": "P.ATK +50 (Three Little Pigs class equipped)",
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 570,
+    "characterUniqueId": 20,
+    "name": "P.ATK +75",
+    "description": "P.ATK +75 (Three Little Pigs class equipped)",
+    "effectType": 2,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 571,
+    "characterUniqueId": 20,
+    "name": "P.ATK +100",
+    "description": "P.ATK +100 (Three Little Pigs class equipped)",
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 572,
+    "characterUniqueId": 20,
+    "name": "P.ATK +150",
+    "description": "P.ATK +150 (Three Little Pigs class equipped)",
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 573,
+    "characterUniqueId": 20,
+    "name": "P.ATK +200",
+    "description": "P.ATK +200 (Three Little Pigs class equipped)",
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 574,
+    "characterUniqueId": 20,
+    "name": "P.ATK +250",
+    "description": "P.ATK +250 (Three Little Pigs class equipped)",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 575,
+    "characterUniqueId": 20,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (Three Little Pigs class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 576,
+    "characterUniqueId": 20,
+    "name": "P.DEF +50",
+    "description": "P.DEF +50 (Three Little Pigs class equipped)",
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 577,
+    "characterUniqueId": 20,
+    "name": "P.DEF +75",
+    "description": "P.DEF +75 (Three Little Pigs class equipped)",
+    "effectType": 3,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 578,
+    "characterUniqueId": 20,
+    "name": "P.DEF +100",
+    "description": "P.DEF +100 (Three Little Pigs class equipped)",
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 579,
+    "characterUniqueId": 20,
+    "name": "P.DEF +150",
+    "description": "P.DEF +150 (Three Little Pigs class equipped)",
+    "effectType": 3,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 580,
+    "characterUniqueId": 20,
+    "name": "P.DEF +200",
+    "description": "P.DEF +200 (Three Little Pigs class equipped)",
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 581,
+    "characterUniqueId": 20,
+    "name": "P.DEF +250",
+    "description": "P.DEF +250 (Three Little Pigs class equipped)",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 582,
+    "characterUniqueId": 20,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (Three Little Pigs class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 583,
+    "characterUniqueId": 20,
+    "name": "M.ATK +50",
+    "description": "M.ATK +50 (Three Little Pigs class equipped)",
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 584,
+    "characterUniqueId": 20,
+    "name": "M.ATK +75",
+    "description": "M.ATK +75 (Three Little Pigs class equipped)",
+    "effectType": 4,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 585,
+    "characterUniqueId": 20,
+    "name": "M.ATK +100",
+    "description": "M.ATK +100 (Three Little Pigs class equipped)",
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 586,
+    "characterUniqueId": 20,
+    "name": "M.ATK +150",
+    "description": "M.ATK +150 (Three Little Pigs class equipped)",
+    "effectType": 4,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 587,
+    "characterUniqueId": 20,
+    "name": "M.ATK +200",
+    "description": "M.ATK +200 (Three Little Pigs class equipped)",
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 588,
+    "characterUniqueId": 20,
+    "name": "M.ATK +250",
+    "description": "M.ATK +250 (Three Little Pigs class equipped)",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 589,
+    "characterUniqueId": 20,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (Three Little Pigs class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 590,
+    "characterUniqueId": 20,
+    "name": "M.DEF +50",
+    "description": "M.DEF +50 (Three Little Pigs class equipped)",
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 591,
+    "characterUniqueId": 20,
+    "name": "M.DEF +75",
+    "description": "M.DEF +75 (Three Little Pigs class equipped)",
+    "effectType": 5,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 592,
+    "characterUniqueId": 20,
+    "name": "M.DEF +100",
+    "description": "M.DEF +100 (Three Little Pigs class equipped)",
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 593,
+    "characterUniqueId": 20,
+    "name": "M.DEF +150",
+    "description": "M.DEF +150 (Three Little Pigs class equipped)",
+    "effectType": 5,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 594,
+    "characterUniqueId": 20,
+    "name": "M.DEF +200",
+    "description": "M.DEF +200 (Three Little Pigs class equipped)",
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 595,
+    "characterUniqueId": 20,
+    "name": "M.DEF +250",
+    "description": "M.DEF +250 (Three Little Pigs class equipped)",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 596,
+    "characterUniqueId": 20,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (Three Little Pigs class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 597,
+    "characterUniqueId": 20,
+    "name": "Instrument +1%",
+    "description": "Instrument +1% (Three Little Pigs class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 598,
+    "characterUniqueId": 20,
+    "name": "Tome +1%",
+    "description": "Tome +1% (Three Little Pigs class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 599,
+    "characterUniqueId": 20,
+    "name": "Artifact +1%",
+    "description": "Artifact +1% (Three Little Pigs class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 600,
+    "characterUniqueId": 20,
+    "name": "Staff +1%",
+    "description": "Staff +1% (Three Little Pigs class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 601,
+    "characterUniqueId": 20,
+    "name": "Blade +1%",
+    "description": "Blade +1% (Three Little Pigs class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 602,
+    "characterUniqueId": 20,
+    "name": "Heavy +1%",
+    "description": "Heavy +1% (Three Little Pigs class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 603,
+    "characterUniqueId": 20,
+    "name": "Projectile +1%",
+    "description": "Projectile +1% (Three Little Pigs class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 604,
+    "characterUniqueId": 20,
+    "name": "Polearm +1%",
+    "description": "Polearm +1% (Three Little Pigs class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 605,
+    "characterUniqueId": 20,
+    "name": "Increase in Stages",
+    "description": "All weapon types +3% (Three Little Pigs+ stages)",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 606,
+    "characterUniqueId": 20,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +50 (Three Little Pigs class equipped)",
+    "effectType": 11,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 607,
+    "characterUniqueId": 20,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +100 (Three Little Pigs class equipped)",
+    "effectType": 11,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 608,
+    "characterUniqueId": 20,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +150 (Three Little Pigs class equipped)",
+    "effectType": 11,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 609,
+    "characterUniqueId": 20,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +50 (Three Little Pigs class equipped)",
+    "effectType": 12,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 610,
+    "characterUniqueId": 20,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +100 (Three Little Pigs class equipped)",
+    "effectType": 12,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 611,
+    "characterUniqueId": 20,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +150 (Three Little Pigs class equipped)",
+    "effectType": 12,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 612,
+    "characterUniqueId": 20,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When Three Little Pigs class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 613,
+    "characterUniqueId": 20,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When Three Little Pigs class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 614,
+    "characterUniqueId": 22,
+    "name": "HP +50",
+    "description": "HP +50 (Aladdin class equipped)",
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 615,
+    "characterUniqueId": 22,
+    "name": "HP +100",
+    "description": "HP +100 (Aladdin class equipped)",
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 616,
+    "characterUniqueId": 22,
+    "name": "HP +150",
+    "description": "HP +150 (Aladdin class equipped)",
+    "effectType": 1,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 617,
+    "characterUniqueId": 22,
+    "name": "HP +200",
+    "description": "HP +200 (Aladdin class equipped)",
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 618,
+    "characterUniqueId": 22,
+    "name": "P.ATK +50",
+    "description": "P.ATK +50 (Aladdin class equipped)",
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 619,
+    "characterUniqueId": 22,
+    "name": "P.ATK +75",
+    "description": "P.ATK +75 (Aladdin class equipped)",
+    "effectType": 2,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 620,
+    "characterUniqueId": 22,
+    "name": "P.ATK +100",
+    "description": "P.ATK +100 (Aladdin class equipped)",
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 621,
+    "characterUniqueId": 22,
+    "name": "P.ATK +150",
+    "description": "P.ATK +150 (Aladdin class equipped)",
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 622,
+    "characterUniqueId": 22,
+    "name": "P.ATK +200",
+    "description": "P.ATK +200 (Aladdin class equipped)",
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 623,
+    "characterUniqueId": 22,
+    "name": "P.ATK +250",
+    "description": "P.ATK +250 (Aladdin class equipped)",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 624,
+    "characterUniqueId": 22,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (Aladdin class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 625,
+    "characterUniqueId": 22,
+    "name": "P.DEF +50",
+    "description": "P.DEF +50 (Aladdin class equipped)",
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 626,
+    "characterUniqueId": 22,
+    "name": "P.DEF +75",
+    "description": "P.DEF +75 (Aladdin class equipped)",
+    "effectType": 3,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 627,
+    "characterUniqueId": 22,
+    "name": "P.DEF +100",
+    "description": "P.DEF +100 (Aladdin class equipped)",
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 628,
+    "characterUniqueId": 22,
+    "name": "P.DEF +150",
+    "description": "P.DEF +150 (Aladdin class equipped)",
+    "effectType": 3,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 629,
+    "characterUniqueId": 22,
+    "name": "P.DEF +200",
+    "description": "P.DEF +200 (Aladdin class equipped)",
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 630,
+    "characterUniqueId": 22,
+    "name": "P.DEF +250",
+    "description": "P.DEF +250 (Aladdin class equipped)",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 631,
+    "characterUniqueId": 22,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (Aladdin class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 632,
+    "characterUniqueId": 22,
+    "name": "M.ATK +50",
+    "description": "M.ATK +50 (Aladdin class equipped)",
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 633,
+    "characterUniqueId": 22,
+    "name": "M.ATK +75",
+    "description": "M.ATK +75 (Aladdin class equipped)",
+    "effectType": 4,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 634,
+    "characterUniqueId": 22,
+    "name": "M.ATK +100",
+    "description": "M.ATK +100 (Aladdin class equipped)",
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 635,
+    "characterUniqueId": 22,
+    "name": "M.ATK +150",
+    "description": "M.ATK +150 (Aladdin class equipped)",
+    "effectType": 4,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 636,
+    "characterUniqueId": 22,
+    "name": "M.ATK +200",
+    "description": "M.ATK +200 (Aladdin class equipped)",
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 637,
+    "characterUniqueId": 22,
+    "name": "M.ATK +250",
+    "description": "M.ATK +250 (Aladdin class equipped)",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 638,
+    "characterUniqueId": 22,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (Aladdin class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 639,
+    "characterUniqueId": 22,
+    "name": "M.DEF +50",
+    "description": "M.DEF +50 (Aladdin class equipped)",
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 640,
+    "characterUniqueId": 22,
+    "name": "M.DEF +75",
+    "description": "M.DEF +75 (Aladdin class equipped)",
+    "effectType": 5,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 641,
+    "characterUniqueId": 22,
+    "name": "M.DEF +100",
+    "description": "M.DEF +100 (Aladdin class equipped)",
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 642,
+    "characterUniqueId": 22,
+    "name": "M.DEF +150",
+    "description": "M.DEF +150 (Aladdin class equipped)",
+    "effectType": 5,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 643,
+    "characterUniqueId": 22,
+    "name": "M.DEF +200",
+    "description": "M.DEF +200 (Aladdin class equipped)",
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 644,
+    "characterUniqueId": 22,
+    "name": "M.DEF +250",
+    "description": "M.DEF +250 (Aladdin class equipped)",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 645,
+    "characterUniqueId": 22,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (Aladdin class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 646,
+    "characterUniqueId": 22,
+    "name": "Instrument +1%",
+    "description": "Instrument +1% (Aladdin class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 647,
+    "characterUniqueId": 22,
+    "name": "Tome +1%",
+    "description": "Tome +1% (Aladdin class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 648,
+    "characterUniqueId": 22,
+    "name": "Artifact +1%",
+    "description": "Artifact +1% (Aladdin class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 649,
+    "characterUniqueId": 22,
+    "name": "Staff +1%",
+    "description": "Staff +1% (Aladdin class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 650,
+    "characterUniqueId": 22,
+    "name": "Blade +1%",
+    "description": "Blade +1% (Aladdin class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 651,
+    "characterUniqueId": 22,
+    "name": "Heavy +1%",
+    "description": "Heavy +1% (Aladdin class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 652,
+    "characterUniqueId": 22,
+    "name": "Projectile +1%",
+    "description": "Projectile +1% (Aladdin class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 653,
+    "characterUniqueId": 22,
+    "name": "Polearm +1%",
+    "description": "Polearm +1% (Aladdin class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 654,
+    "characterUniqueId": 22,
+    "name": "Increase in Stages",
+    "description": "All weapon types +3% (Aladdin+ stages)",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 655,
+    "characterUniqueId": 22,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +50 (Aladdin class equipped)",
+    "effectType": 11,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 656,
+    "characterUniqueId": 22,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +100 (Aladdin class equipped)",
+    "effectType": 11,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 657,
+    "characterUniqueId": 22,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +150 (Aladdin class equipped)",
+    "effectType": 11,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 658,
+    "characterUniqueId": 22,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +50 (Aladdin class equipped)",
+    "effectType": 12,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 659,
+    "characterUniqueId": 22,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +100 (Aladdin class equipped)",
+    "effectType": 12,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 660,
+    "characterUniqueId": 22,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +150 (Aladdin class equipped)",
+    "effectType": 12,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 661,
+    "characterUniqueId": 22,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When Aladdin class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 662,
+    "characterUniqueId": 22,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When Aladdin class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 663,
+    "characterUniqueId": 35,
+    "name": "HP +50",
+    "description": "HP +50 (Rapunzel class equipped)",
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 664,
+    "characterUniqueId": 35,
+    "name": "HP +100",
+    "description": "HP +100 (Rapunzel class equipped)",
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 665,
+    "characterUniqueId": 35,
+    "name": "HP +150",
+    "description": "HP +150 (Rapunzel class equipped)",
+    "effectType": 1,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 666,
+    "characterUniqueId": 35,
+    "name": "HP +200",
+    "description": "HP +200 (Rapunzel class equipped)",
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 667,
+    "characterUniqueId": 35,
+    "name": "P.ATK +50",
+    "description": "P.ATK +50 (Rapunzel class equipped)",
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 668,
+    "characterUniqueId": 35,
+    "name": "P.ATK +75",
+    "description": "P.ATK +75 (Rapunzel class equipped)",
+    "effectType": 2,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 669,
+    "characterUniqueId": 35,
+    "name": "P.ATK +100",
+    "description": "P.ATK +100 (Rapunzel class equipped)",
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 670,
+    "characterUniqueId": 35,
+    "name": "P.ATK +150",
+    "description": "P.ATK +150 (Rapunzel class equipped)",
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 671,
+    "characterUniqueId": 35,
+    "name": "P.ATK +200",
+    "description": "P.ATK +200 (Rapunzel class equipped)",
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 672,
+    "characterUniqueId": 35,
+    "name": "P.ATK +250",
+    "description": "P.ATK +250 (Rapunzel class equipped)",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 673,
+    "characterUniqueId": 35,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (Rapunzel class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 674,
+    "characterUniqueId": 35,
+    "name": "P.DEF +50",
+    "description": "P.DEF +50 (Rapunzel class equipped)",
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 675,
+    "characterUniqueId": 35,
+    "name": "P.DEF +75",
+    "description": "P.DEF +75 (Rapunzel class equipped)",
+    "effectType": 3,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 676,
+    "characterUniqueId": 35,
+    "name": "P.DEF +100",
+    "description": "P.DEF +100 (Rapunzel class equipped)",
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 677,
+    "characterUniqueId": 35,
+    "name": "P.DEF +150",
+    "description": "P.DEF +150 (Rapunzel class equipped)",
+    "effectType": 3,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 678,
+    "characterUniqueId": 35,
+    "name": "P.DEF +200",
+    "description": "P.DEF +200 (Rapunzel class equipped)",
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 679,
+    "characterUniqueId": 35,
+    "name": "P.DEF +250",
+    "description": "P.DEF +250 (Rapunzel class equipped)",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 680,
+    "characterUniqueId": 35,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (Rapunzel class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 681,
+    "characterUniqueId": 35,
+    "name": "M.ATK +50",
+    "description": "M.ATK +50 (Rapunzel class equipped)",
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 682,
+    "characterUniqueId": 35,
+    "name": "M.ATK +75",
+    "description": "M.ATK +75 (Rapunzel class equipped)",
+    "effectType": 4,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 683,
+    "characterUniqueId": 35,
+    "name": "M.ATK +100",
+    "description": "M.ATK +100 (Rapunzel class equipped)",
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 684,
+    "characterUniqueId": 35,
+    "name": "M.ATK +150",
+    "description": "M.ATK +150 (Rapunzel class equipped)",
+    "effectType": 4,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 685,
+    "characterUniqueId": 35,
+    "name": "M.ATK +200",
+    "description": "M.ATK +200 (Rapunzel class equipped)",
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 686,
+    "characterUniqueId": 35,
+    "name": "M.ATK +250",
+    "description": "M.ATK +250 (Rapunzel class equipped)",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 687,
+    "characterUniqueId": 35,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (Rapunzel class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 688,
+    "characterUniqueId": 35,
+    "name": "M.DEF +50",
+    "description": "M.DEF +50 (Rapunzel class equipped)",
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 689,
+    "characterUniqueId": 35,
+    "name": "M.DEF +75",
+    "description": "M.DEF +75 (Rapunzel class equipped)",
+    "effectType": 5,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 690,
+    "characterUniqueId": 35,
+    "name": "M.DEF +100",
+    "description": "M.DEF +100 (Rapunzel class equipped)",
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 691,
+    "characterUniqueId": 35,
+    "name": "M.DEF +150",
+    "description": "M.DEF +150 (Rapunzel class equipped)",
+    "effectType": 5,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 692,
+    "characterUniqueId": 35,
+    "name": "M.DEF +200",
+    "description": "M.DEF +200 (Rapunzel class equipped)",
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 693,
+    "characterUniqueId": 35,
+    "name": "M.DEF +250",
+    "description": "M.DEF +250 (Rapunzel class equipped)",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 694,
+    "characterUniqueId": 35,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (Rapunzel class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 695,
+    "characterUniqueId": 35,
+    "name": "Instrument +1%",
+    "description": "Instrument +1% (Rapunzel class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 696,
+    "characterUniqueId": 35,
+    "name": "Tome +1%",
+    "description": "Tome +1% (Rapunzel class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 697,
+    "characterUniqueId": 35,
+    "name": "Artifact +1%",
+    "description": "Artifact +1% (Rapunzel class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 698,
+    "characterUniqueId": 35,
+    "name": "Staff +1%",
+    "description": "Staff +1% (Rapunzel class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 699,
+    "characterUniqueId": 35,
+    "name": "Blade +1%",
+    "description": "Blade +1% (Rapunzel class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 700,
+    "characterUniqueId": 35,
+    "name": "Heavy +1%",
+    "description": "Heavy +1% (Rapunzel class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 701,
+    "characterUniqueId": 35,
+    "name": "Projectile +1%",
+    "description": "Projectile +1% (Rapunzel class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 702,
+    "characterUniqueId": 35,
+    "name": "Polearm +1%",
+    "description": "Polearm +1% (Rapunzel class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 703,
+    "characterUniqueId": 35,
+    "name": "Increase in Stages",
+    "description": "All weapon types +3% (Rapunzel+ stages)",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 704,
+    "characterUniqueId": 35,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +50 (Rapunzel class equipped)",
+    "effectType": 11,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 705,
+    "characterUniqueId": 35,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +100 (Rapunzel class equipped)",
+    "effectType": 11,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 706,
+    "characterUniqueId": 35,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +150 (Rapunzel class equipped)",
+    "effectType": 11,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 707,
+    "characterUniqueId": 35,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +50 (Rapunzel class equipped)",
+    "effectType": 12,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 708,
+    "characterUniqueId": 35,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +100 (Rapunzel class equipped)",
+    "effectType": 12,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 709,
+    "characterUniqueId": 35,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +150 (Rapunzel class equipped)",
+    "effectType": 12,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 710,
+    "characterUniqueId": 35,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When Rapunzel class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 711,
+    "characterUniqueId": 35,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When Rapunzel class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 932,
+    "characterUniqueId": 44,
+    "name": "HP +50",
+    "description": "HP +50 (Hamelin class equipped)",
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 933,
+    "characterUniqueId": 44,
+    "name": "HP +100",
+    "description": "HP +100 (Hamelin class equipped)",
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 934,
+    "characterUniqueId": 44,
+    "name": "HP +150",
+    "description": "HP +150 (Hamelin class equipped)",
+    "effectType": 1,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 935,
+    "characterUniqueId": 44,
+    "name": "HP +200",
+    "description": "HP +200 (Hamelin class equipped)",
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 936,
+    "characterUniqueId": 44,
+    "name": "P.ATK +50",
+    "description": "P.ATK +50 (Hamelin class equipped)",
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 937,
+    "characterUniqueId": 44,
+    "name": "P.ATK +75",
+    "description": "P.ATK +75 (Hamelin class equipped)",
+    "effectType": 2,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 938,
+    "characterUniqueId": 44,
+    "name": "P.ATK +100",
+    "description": "P.ATK +100 (Hamelin class equipped)",
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 939,
+    "characterUniqueId": 44,
+    "name": "P.ATK +150",
+    "description": "P.ATK +150 (Hamelin class equipped)",
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 940,
+    "characterUniqueId": 44,
+    "name": "P.ATK +200",
+    "description": "P.ATK +200 (Hamelin class equipped)",
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 941,
+    "characterUniqueId": 44,
+    "name": "P.ATK +250",
+    "description": "P.ATK +250 (Hamelin class equipped)",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 942,
+    "characterUniqueId": 44,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (Hamelin class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 943,
+    "characterUniqueId": 44,
+    "name": "P.DEF +50",
+    "description": "P.DEF +50 (Hamelin class equipped)",
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 944,
+    "characterUniqueId": 44,
+    "name": "P.DEF +75",
+    "description": "P.DEF +75 (Hamelin class equipped)",
+    "effectType": 3,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 945,
+    "characterUniqueId": 44,
+    "name": "P.DEF +100",
+    "description": "P.DEF +100 (Hamelin class equipped)",
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 946,
+    "characterUniqueId": 44,
+    "name": "P.DEF +150",
+    "description": "P.DEF +150 (Hamelin class equipped)",
+    "effectType": 3,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 947,
+    "characterUniqueId": 44,
+    "name": "P.DEF +200",
+    "description": "P.DEF +200 (Hamelin class equipped)",
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 948,
+    "characterUniqueId": 44,
+    "name": "P.DEF +250",
+    "description": "P.DEF +250 (Hamelin class equipped)",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 949,
+    "characterUniqueId": 44,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (Hamelin class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 950,
+    "characterUniqueId": 44,
+    "name": "M.ATK +50",
+    "description": "M.ATK +50 (Hamelin class equipped)",
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 951,
+    "characterUniqueId": 44,
+    "name": "M.ATK +75",
+    "description": "M.ATK +75 (Hamelin class equipped)",
+    "effectType": 4,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 952,
+    "characterUniqueId": 44,
+    "name": "M.ATK +100",
+    "description": "M.ATK +100 (Hamelin class equipped)",
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 953,
+    "characterUniqueId": 44,
+    "name": "M.ATK +150",
+    "description": "M.ATK +150 (Hamelin class equipped)",
+    "effectType": 4,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 954,
+    "characterUniqueId": 44,
+    "name": "M.ATK +200",
+    "description": "M.ATK +200 (Hamelin class equipped)",
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 955,
+    "characterUniqueId": 44,
+    "name": "M.ATK +250",
+    "description": "M.ATK +250 (Hamelin class equipped)",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 956,
+    "characterUniqueId": 44,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (Hamelin class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 957,
+    "characterUniqueId": 44,
+    "name": "M.DEF +50",
+    "description": "M.DEF +50 (Hamelin class equipped)",
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 958,
+    "characterUniqueId": 44,
+    "name": "M.DEF +75",
+    "description": "M.DEF +75 (Hamelin class equipped)",
+    "effectType": 5,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 959,
+    "characterUniqueId": 44,
+    "name": "M.DEF +100",
+    "description": "M.DEF +100 (Hamelin class equipped)",
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 960,
+    "characterUniqueId": 44,
+    "name": "M.DEF +150",
+    "description": "M.DEF +150 (Hamelin class equipped)",
+    "effectType": 5,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 961,
+    "characterUniqueId": 44,
+    "name": "M.DEF +200",
+    "description": "M.DEF +200 (Hamelin class equipped)",
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 962,
+    "characterUniqueId": 44,
+    "name": "M.DEF +250",
+    "description": "M.DEF +250 (Hamelin class equipped)",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 963,
+    "characterUniqueId": 44,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (Hamelin class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 964,
+    "characterUniqueId": 44,
+    "name": "Instrument +1%",
+    "description": "Instrument +1% (Hamelin class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 965,
+    "characterUniqueId": 44,
+    "name": "Tome +1%",
+    "description": "Tome +1% (Hamelin class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 966,
+    "characterUniqueId": 44,
+    "name": "Artifact +1%",
+    "description": "Artifact +1% (Hamelin class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 967,
+    "characterUniqueId": 44,
+    "name": "Staff +1%",
+    "description": "Staff +1% (Hamelin class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 968,
+    "characterUniqueId": 44,
+    "name": "Blade +1%",
+    "description": "Blade +1% (Hamelin class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 969,
+    "characterUniqueId": 44,
+    "name": "Heavy +1%",
+    "description": "Heavy +1% (Hamelin class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 970,
+    "characterUniqueId": 44,
+    "name": "Projectile +1%",
+    "description": "Projectile +1% (Hamelin class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 971,
+    "characterUniqueId": 44,
+    "name": "Polearm +1%",
+    "description": "Polearm +1% (Hamelin class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 972,
+    "characterUniqueId": 44,
+    "name": "Increase in Stages",
+    "description": "All weapon types +3% (Hamelin+ stages)",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 973,
+    "characterUniqueId": 44,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +50 (Hamelin class equipped)",
+    "effectType": 11,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 974,
+    "characterUniqueId": 44,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +100 (Hamelin class equipped)",
+    "effectType": 11,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 975,
+    "characterUniqueId": 44,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +150 (Hamelin class equipped)",
+    "effectType": 11,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 976,
+    "characterUniqueId": 44,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +50 (Hamelin class equipped)",
+    "effectType": 12,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 977,
+    "characterUniqueId": 44,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +100 (Hamelin class equipped)",
+    "effectType": 12,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 978,
+    "characterUniqueId": 44,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +150 (Hamelin class equipped)",
+    "effectType": 12,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 979,
+    "characterUniqueId": 44,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When Hamelin class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 980,
+    "characterUniqueId": 44,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When Hamelin class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
     "characterBoardAbilityMstId": 1036,
     "characterUniqueId": 0,
     "name": "HP +100",
@@ -4885,5 +7090,689 @@
     "effectType": 1,
     "effectValue": 1000,
     "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1638,
+    "characterUniqueId": 52,
+    "name": "HP +50",
+    "description": "HP +50 (Little Match Girl class equipped)",
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1639,
+    "characterUniqueId": 52,
+    "name": "HP +100",
+    "description": "HP +100 (Little Match Girl class equipped)",
+    "effectType": 1,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1640,
+    "characterUniqueId": 52,
+    "name": "HP +150",
+    "description": "HP +150 (Little Match Girl class equipped)",
+    "effectType": 1,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1641,
+    "characterUniqueId": 52,
+    "name": "HP +200",
+    "description": "HP +200 (Little Match Girl class equipped)",
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1642,
+    "characterUniqueId": 52,
+    "name": "P.ATK +50",
+    "description": "P.ATK +50 (Little Match Girl class equipped)",
+    "effectType": 2,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1643,
+    "characterUniqueId": 52,
+    "name": "P.ATK +75",
+    "description": "P.ATK +75 (Little Match Girl class equipped)",
+    "effectType": 2,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1644,
+    "characterUniqueId": 52,
+    "name": "P.ATK +100",
+    "description": "P.ATK +100 (Little Match Girl class equipped)",
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1645,
+    "characterUniqueId": 52,
+    "name": "P.ATK +150",
+    "description": "P.ATK +150 (Little Match Girl class equipped)",
+    "effectType": 2,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1646,
+    "characterUniqueId": 52,
+    "name": "P.ATK +200",
+    "description": "P.ATK +200 (Little Match Girl class equipped)",
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1647,
+    "characterUniqueId": 52,
+    "name": "P.ATK +250",
+    "description": "P.ATK +250 (Little Match Girl class equipped)",
+    "effectType": 2,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1648,
+    "characterUniqueId": 52,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (Little Match Girl class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1649,
+    "characterUniqueId": 52,
+    "name": "P.DEF +50",
+    "description": "P.DEF +50 (Little Match Girl class equipped)",
+    "effectType": 3,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1650,
+    "characterUniqueId": 52,
+    "name": "P.DEF +75",
+    "description": "P.DEF +75 (Little Match Girl class equipped)",
+    "effectType": 3,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1651,
+    "characterUniqueId": 52,
+    "name": "P.DEF +100",
+    "description": "P.DEF +100 (Little Match Girl class equipped)",
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1652,
+    "characterUniqueId": 52,
+    "name": "P.DEF +150",
+    "description": "P.DEF +150 (Little Match Girl class equipped)",
+    "effectType": 3,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1653,
+    "characterUniqueId": 52,
+    "name": "P.DEF +200",
+    "description": "P.DEF +200 (Little Match Girl class equipped)",
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1654,
+    "characterUniqueId": 52,
+    "name": "P.DEF +250",
+    "description": "P.DEF +250 (Little Match Girl class equipped)",
+    "effectType": 3,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1655,
+    "characterUniqueId": 52,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (Little Match Girl class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1656,
+    "characterUniqueId": 52,
+    "name": "M.ATK +50",
+    "description": "M.ATK +50 (Little Match Girl class equipped)",
+    "effectType": 4,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1657,
+    "characterUniqueId": 52,
+    "name": "M.ATK +75",
+    "description": "M.ATK +75 (Little Match Girl class equipped)",
+    "effectType": 4,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1658,
+    "characterUniqueId": 52,
+    "name": "M.ATK +100",
+    "description": "M.ATK +100 (Little Match Girl class equipped)",
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1659,
+    "characterUniqueId": 52,
+    "name": "M.ATK +150",
+    "description": "M.ATK +150 (Little Match Girl class equipped)",
+    "effectType": 4,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1660,
+    "characterUniqueId": 52,
+    "name": "M.ATK +200",
+    "description": "M.ATK +200 (Little Match Girl class equipped)",
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1661,
+    "characterUniqueId": 52,
+    "name": "M.ATK +250",
+    "description": "M.ATK +250 (Little Match Girl class equipped)",
+    "effectType": 4,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1662,
+    "characterUniqueId": 52,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (Little Match Girl class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1663,
+    "characterUniqueId": 52,
+    "name": "M.DEF +50",
+    "description": "M.DEF +50 (Little Match Girl class equipped)",
+    "effectType": 5,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1664,
+    "characterUniqueId": 52,
+    "name": "M.DEF +75",
+    "description": "M.DEF +75 (Little Match Girl class equipped)",
+    "effectType": 5,
+    "effectValue": 75,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1665,
+    "characterUniqueId": 52,
+    "name": "M.DEF +100",
+    "description": "M.DEF +100 (Little Match Girl class equipped)",
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1666,
+    "characterUniqueId": 52,
+    "name": "M.DEF +150",
+    "description": "M.DEF +150 (Little Match Girl class equipped)",
+    "effectType": 5,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1667,
+    "characterUniqueId": 52,
+    "name": "M.DEF +200",
+    "description": "M.DEF +200 (Little Match Girl class equipped)",
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1668,
+    "characterUniqueId": 52,
+    "name": "M.DEF +250",
+    "description": "M.DEF +250 (Little Match Girl class equipped)",
+    "effectType": 5,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1669,
+    "characterUniqueId": 52,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (Little Match Girl class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1670,
+    "characterUniqueId": 52,
+    "name": "Instrument +1%",
+    "description": "Instrument +1% (Little Match Girl class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 1671,
+    "characterUniqueId": 52,
+    "name": "Tome +1%",
+    "description": "Tome +1% (Little Match Girl class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 1672,
+    "characterUniqueId": 52,
+    "name": "Artifact +1%",
+    "description": "Artifact +1% (Little Match Girl class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 1673,
+    "characterUniqueId": 52,
+    "name": "Staff +1%",
+    "description": "Staff +1% (Little Match Girl class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 1674,
+    "characterUniqueId": 52,
+    "name": "Blade +1%",
+    "description": "Blade +1% (Little Match Girl class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 1675,
+    "characterUniqueId": 52,
+    "name": "Heavy +1%",
+    "description": "Heavy +1% (Little Match Girl class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 1676,
+    "characterUniqueId": 52,
+    "name": "Projectile +1%",
+    "description": "Projectile +1% (Little Match Girl class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 1677,
+    "characterUniqueId": 52,
+    "name": "Polearm +1%",
+    "description": "Polearm +1% (Little Match Girl class equipped)",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 1678,
+    "characterUniqueId": 52,
+    "name": "Increase in Stages",
+    "description": "All weapon types +3% (Little Match Girl+ stages)",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1679,
+    "characterUniqueId": 52,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +50 (Little Match Girl class equipped)",
+    "effectType": 11,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1680,
+    "characterUniqueId": 52,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +100 (Little Match Girl class equipped)",
+    "effectType": 11,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1681,
+    "characterUniqueId": 52,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +150 (Little Match Girl class equipped)",
+    "effectType": 11,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1682,
+    "characterUniqueId": 52,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +50 (Little Match Girl class equipped)",
+    "effectType": 12,
+    "effectValue": 50,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1683,
+    "characterUniqueId": 52,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +100 (Little Match Girl class equipped)",
+    "effectType": 12,
+    "effectValue": 100,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1684,
+    "characterUniqueId": 52,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +150 (Little Match Girl class equipped)",
+    "effectType": 12,
+    "effectValue": 150,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1685,
+    "characterUniqueId": 52,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When Little Match Girl class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1686,
+    "characterUniqueId": 52,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When Little Match Girl class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1687,
+    "characterUniqueId": 52,
+    "name": "HP +300",
+    "description": "マッチ売りの少女のジョブを編成時、HP +300",
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1688,
+    "characterUniqueId": 52,
+    "name": "HP +500",
+    "description": "マッチ売りの少女のジョブを編成時、HP +500",
+    "effectType": 1,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1689,
+    "characterUniqueId": 52,
+    "name": "HP +1,000",
+    "description": "マッチ売りの少女のジョブを編成時、HP +1000",
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 1690,
+    "characterUniqueId": 52,
+    "name": "エリアUP(楽器)",
+    "description": "MatchGirlエリアで楽器1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 1691,
+    "characterUniqueId": 52,
+    "name": "エリアUP(楽器)",
+    "description": "MatchGirlエリアで楽器3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 1692,
+    "characterUniqueId": 52,
+    "name": "エリアUP(楽器)",
+    "description": "MatchGirlエリアで楽器5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 1693,
+    "characterUniqueId": 52,
+    "name": "エリアUP(魔書)",
+    "description": "MatchGirlエリアで魔書1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 1694,
+    "characterUniqueId": 52,
+    "name": "エリアUP(魔書)",
+    "description": "MatchGirlエリアで魔書3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 1695,
+    "characterUniqueId": 52,
+    "name": "エリアUP(魔書)",
+    "description": "MatchGirlエリアで魔書5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 1696,
+    "characterUniqueId": 52,
+    "name": "エリアUP(魔具)",
+    "description": "MatchGirlエリアで魔具1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 1697,
+    "characterUniqueId": 52,
+    "name": "エリアUP(魔具)",
+    "description": "MatchGirlエリアで魔具3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 1698,
+    "characterUniqueId": 52,
+    "name": "エリアUP(魔具)",
+    "description": "MatchGirlエリアで魔具5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 3
+  },
+  {
+    "characterBoardAbilityMstId": 1699,
+    "characterUniqueId": 52,
+    "name": "エリアUP(祈祷)",
+    "description": "MatchGirlエリアで祈祷1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 1700,
+    "characterUniqueId": 52,
+    "name": "エリアUP(祈祷)",
+    "description": "MatchGirlエリアで祈祷3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 1701,
+    "characterUniqueId": 52,
+    "name": "エリアUP(祈祷)",
+    "description": "MatchGirlエリアで祈祷5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 4
+  },
+  {
+    "characterBoardAbilityMstId": 1702,
+    "characterUniqueId": 52,
+    "name": "エリアUP(刀剣)",
+    "description": "MatchGirlエリアで刀剣1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 1703,
+    "characterUniqueId": 52,
+    "name": "エリアUP(刀剣)",
+    "description": "MatchGirlエリアで刀剣3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 1704,
+    "characterUniqueId": 52,
+    "name": "エリアUP(刀剣)",
+    "description": "MatchGirlエリアで刀剣5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 1705,
+    "characterUniqueId": 52,
+    "name": "エリアUP(打撃)",
+    "description": "MatchGirlエリアで打撃1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 1706,
+    "characterUniqueId": 52,
+    "name": "エリアUP(打撃)",
+    "description": "MatchGirlエリアで打撃3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 1707,
+    "characterUniqueId": 52,
+    "name": "エリアUP(打撃)",
+    "description": "MatchGirlエリアで打撃5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 1708,
+    "characterUniqueId": 52,
+    "name": "エリアUP(射出)",
+    "description": "MatchGirlエリアで射出1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 1709,
+    "characterUniqueId": 52,
+    "name": "エリアUP(射出)",
+    "description": "MatchGirlエリアで射出3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 1710,
+    "characterUniqueId": 52,
+    "name": "エリアUP(射出)",
+    "description": "MatchGirlエリアで射出5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 1711,
+    "characterUniqueId": 52,
+    "name": "エリアUP(長柄)",
+    "description": "MatchGirlエリアで長柄1%UP",
+    "effectType": 6,
+    "effectValue": 1,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 1712,
+    "characterUniqueId": 52,
+    "name": "エリアUP(長柄)",
+    "description": "MatchGirlエリアで長柄3%UP",
+    "effectType": 6,
+    "effectValue": 3,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 1713,
+    "characterUniqueId": 52,
+    "name": "エリアUP(長柄)",
+    "description": "MatchGirlエリアで長柄5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 8
   }
 ]
