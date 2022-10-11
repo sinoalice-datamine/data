@@ -9008,11 +9008,59 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 1158,
+    "title": "シノアリスの日ミッション",
+    "priority": 49999,
+    "startTime": 1665759600,
+    "endTime": 1666018799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1159,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1665759600,
+    "endTime": 1665845999,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1160,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1665846000,
+    "endTime": 1665932399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1161,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1665932400,
+    "endTime": 1666018799,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 1162,
     "title": "生放送連動ミッション",
     "priority": 50000,
     "startTime": 1665055500,
     "endTime": 1665673199,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1163,
+    "title": "WGC応援CPミッション",
+    "priority": 50000,
+    "startTime": 1665759600,
+    "endTime": 1666450799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1164,
+    "title": "本戦出場者インタビュー連動ミッション",
+    "priority": 50000,
+    "startTime": 1665746700,
+    "endTime": 1666364399,
     "isHideTime": false
   }
 ]
