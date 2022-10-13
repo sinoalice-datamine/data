@@ -1200,6 +1200,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 297,
+    "name": "Crop Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20221013_medal_houjou",
+    "assetBundleName": "3684",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 3684,
+    "startTime": 1665640800,
+    "endTime": 1667455199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 299,
     "name": "Mystery Medal",
     "description": "Medal collected by Parrah-Noya.",
@@ -1451,6 +1466,21 @@
     "itemMstId": 4445,
     "startTime": 1650952800,
     "endTime": 1652799599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900015,
+    "name": "Harvest Medal",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item20221013_gacha_inaho",
+    "assetBundleName": "900267",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 900267,
+    "startTime": 1665640800,
+    "endTime": 1667487599,
     "displayType": 0,
     "isDeleted": false
   }
