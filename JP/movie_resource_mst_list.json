@@ -8186,5 +8186,28 @@
     "museumEndTime": 1924959599,
     "vibStartTime": -1.0,
     "skipButtonType": 0
+  },
+  {
+    "movieResourceMstId": 371,
+    "movieTitle": "WGC本戦開幕",
+    "resourceName": "wgc_honsen_opening_2022",
+    "isPreDownLoad": 0,
+    "type": 2,
+    "value": 0,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1666450800,
+    "endTime": 1668319199,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "条件なし　表示されていたらバグ",
+    "thumbAssetBundleName": "museumthumbnail/315",
+    "thumbResourceName": "wgc_honsen_opening_2021",
+    "museumStartTime": 1666450800,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0,
+    "skipButtonType": 0
   }
 ]
