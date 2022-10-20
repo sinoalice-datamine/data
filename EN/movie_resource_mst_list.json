@@ -2728,6 +2728,28 @@
     "vibStartTime": -1.0
   },
   {
+    "movieResourceMstId": 371,
+    "movieTitle": "WGC Finals Commencement",
+    "resourceName": "wgc_honsen_opening_2022",
+    "isPreDownLoad": 0,
+    "type": 2,
+    "value": 0,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1666450800,
+    "endTime": 1668319199,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "Bug if No Conditions shows",
+    "thumbAssetBundleName": "museumthumbnail/315",
+    "thumbResourceName": "wgc_honsen_opening_2021",
+    "museumStartTime": 1666450800,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0
+  },
+  {
     "movieResourceMstId": 900001,
     "movieTitle": "憎悪編：次回予告動画",
     "resourceName": "QuestHartedMovie_Global",
