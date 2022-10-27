@@ -8967,7 +8967,7 @@
     "characterVoice": "Akane Fujita",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1666850400
   },
   {
     "characterMstId": 323,
@@ -13198,6 +13198,36 @@
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
     "displayStartTime": 1664431200
+  },
+  {
+    "characterMstId": 657,
+    "name": "Aladdin/Greedy Crow Paladin",
+    "characterUniqueId": 22,
+    "characterUniqueName": "Aladdin",
+    "characterUniqueEnglishName": "Aladdin",
+    "characterVoiceId": 0,
+    "collaborationId": 0,
+    "collaborationName": "0",
+    "rolePosition": 1,
+    "motionType": 2,
+    "shaderType": 0,
+    "spineAvatarType": 0,
+    "scale": 100,
+    "avatarGroupId": 0,
+    "partnerNum": -1,
+    "maxLevel": 10,
+    "description": "A man stands atop a mountain of treasure, laughing as though he's crying.\\nHe might be scorning his own foolishness, or perhaps lamenting a world driven by greed.",
+    "favoriteWeapon": 8,
+    "isSpirit": false,
+    "spiritType": 0,
+    "disableStanding": 0,
+    "isAvailable": true,
+    "resourceName": "657",
+    "assetBundleName": "character/657",
+    "characterVoice": "Tetsuya Kakihara",
+    "mypageMinVoice": 0,
+    "mypageMaxVoice": 0,
+    "displayStartTime": 1666850400
   },
   {
     "characterMstId": 659,

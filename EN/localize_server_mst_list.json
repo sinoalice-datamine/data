@@ -16665,12 +16665,12 @@
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign07.tier29/description",
     "JP": "有償魔晶石354個＋「奏惑の人魚ストラ」の獲得",
-    "EN": "Paid T.Crys. x354 & Lelai, Chains Swirl Like Petals",
-    "KR": "유료 마정석 354개+\"쇠사슬 꽃잎 릴라이\" 획득",
-    "DE": "Paid T.Crys. x354 & Lelai, Chains Swirl Like Petals",
-    "FR": "Paid T.Crys. x354 & Lelai, Chains Swirl Like Petals",
-    "ES": "Paid T.Crys. x354 & Lelai, Chains Swirl Like Petals",
-    "TH": "Paid T.Crys. x354 & Lelai, Chains Swirl Like Petals",
+    "EN": "Paid T.Crys. x354 & Dissident Mermaid, Sutra",
+    "KR": "유료 마정석 354개+\"주혹의 인어 스트라\" 획득",
+    "DE": "Paid T.Crys. x354 & Dissident Mermaid, Sutra",
+    "FR": "Paid T.Crys. x354 & Dissident Mermaid, Sutra",
+    "ES": "Paid T.Crys. x354 & Dissident Mermaid, Sutra",
+    "TH": "Paid T.Crys. x354 & Dissident Mermaid, Sutra",
     "VN": ""
   },
   {
@@ -25757,6 +25757,34 @@
     "FR": "My righteousness will be tested in this nightmarish world. Even if all I believed in crumbles, I will—",
     "ES": "My righteousness will be tested in this nightmarish world. Even if all I believed in crumbles, I will—",
     "TH": "My righteousness will be tested in this nightmarish world. Even if all I believed in crumbles, I will—",
+    "VN": ""
+  },
+  {
+    "id": 1841,
+    "TLM": 52706,
+    "Type": 0,
+    "GameKey": "Server/quest.questAreaWindowText.7.4",
+    "JP": "怯える必要はない。\\n隠れる必要はない。\\n僕は力を手に入れた。\\n僕は、自由だ。",
+    "EN": "A metamorphosing world born from my ever-growing curiosity.\\nMy heart flutters at the many wonders waiting to be discovered.\\nCome, everybody.\\nIt's the dawn of a new era.",
+    "KR": "변모하는 세계.\\n저의 호기심이 만들어 낸 세계의 형태.\\n그 모습을 앞에 두고 가슴이 두근거려요.\\n자, 여러분.\\n새로운 시대의 막이 열립니다.",
+    "DE": "A metamorphosing world born from my ever-growing curiosity.\\nMy heart flutters at the many wonders waiting to be discovered.\\nCome, everybody.\\nIt's the dawn of a new era.",
+    "FR": "A metamorphosing world born from my ever-growing curiosity.\\nMy heart flutters at the many wonders waiting to be discovered.\\nCome, everybody.\\nIt's the dawn of a new era.",
+    "ES": "A metamorphosing world born from my ever-growing curiosity.\\nMy heart flutters at the many wonders waiting to be discovered.\\nCome, everybody.\\nIt's the dawn of a new era.",
+    "TH": "A metamorphosing world born from my ever-growing curiosity.\\nMy heart flutters at the many wonders waiting to be discovered.\\nCome, everybody.\\nIt's the dawn of a new era.",
+    "VN": ""
+  },
+  {
+    "id": 1842,
+    "TLM": 52707,
+    "Type": 0,
+    "GameKey": "Server/quest.questAreaWindowText.14.4",
+    "JP": "変容する世界。\\n私の好奇心が生んだ世界の形。\\nその姿を前に私は胸を躍らせる。\\nさあ、みなさん。\\n新時代の幕開けですよ。",
+    "EN": "There's nothing to be frightened of.\\nNo need to hide.\\nI have all the power I need.\\nI am free",
+    "KR": "겁먹을 필요 없다.\\n숨을 필요 없다.\\n나의 힘을 손에 넣었다.\\n나는 자유다.",
+    "DE": "There's nothing to be frightened of.\\nNo need to hide.\\nI have all the power I need.\\nI am free",
+    "FR": "There's nothing to be frightened of.\\nNo need to hide.\\nI have all the power I need.\\nI am free",
+    "ES": "There's nothing to be frightened of.\\nNo need to hide.\\nI have all the power I need.\\nI am free",
+    "TH": "There's nothing to be frightened of.\\nNo need to hide.\\nI have all the power I need.\\nI am free",
     "VN": ""
   }
 ]
