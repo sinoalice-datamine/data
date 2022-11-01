@@ -9146,6 +9146,23 @@
     "createdTime": 1467266413
   },
   {
+    "gachaSeriesMstId": 900179,
+    "gachaGroupId": 5,
+    "bannerMstId": 900659,
+    "isAlways": false,
+    "name": "Mystic Scorpion & Feathery Fancy",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (XI)\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Medal of desire (XI) from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 2720,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=2978&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 900193,
     "gachaGroupId": 5,
     "bannerMstId": 900661,
@@ -9178,5 +9195,22 @@
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",
     "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 900195,
+    "gachaGroupId": 5,
+    "bannerMstId": 4977,
+    "isAlways": false,
+    "name": "Dorothy's Workshop/Waltz of Depravity & Reentry Suit of Masochism",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (XI)\\nAmount: STEP 1 to STEP 3, x100 medals each\\n-Medal of desire (XI)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 2710,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=3005&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266413
   }
 ]
