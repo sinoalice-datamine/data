@@ -8209,5 +8209,28 @@
     "museumEndTime": 1924959599,
     "vibStartTime": -1.0,
     "skipButtonType": 0
+  },
+  {
+    "movieResourceMstId": 372,
+    "movieTitle": "真紅舞う晴れ舞台OP",
+    "resourceName": "fashionMovie",
+    "isPreDownLoad": 0,
+    "type": 1,
+    "value": 1111,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1667282400,
+    "endTime": 1988117999,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "条件なし　表示されていたらバグ",
+    "thumbAssetBundleName": "museumthumbnail/372",
+    "thumbResourceName": "fashionMovie",
+    "museumStartTime": 1667282400,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0,
+    "skipButtonType": 0
   }
 ]

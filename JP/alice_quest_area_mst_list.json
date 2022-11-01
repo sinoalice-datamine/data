@@ -20100,5 +20100,43 @@
     "disableMultipleCharacter": true,
     "startTime": null,
     "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 1111,
+    "questMapMstId": 631,
+    "name": "真紅舞う晴れ舞台",
+    "collectItemId": 4912,
+    "exchangesSceneName": "MedalTradeMain",
+    "assetBundleName": "questareabackground/384",
+    "bgResourceName": "0384",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "startTime": null,
+    "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 1112,
+    "questMapMstId": 632,
+    "name": "真紅舞う晴れ舞台",
+    "collectItemId": 4912,
+    "exchangesSceneName": "MedalTradeMain",
+    "assetBundleName": "questareabackground/385",
+    "bgResourceName": "0385",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": false,
+    "startTime": null,
+    "createdTime": 1483974000
   }
 ]
