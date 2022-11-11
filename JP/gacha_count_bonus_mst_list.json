@@ -106803,6 +106803,78 @@
     "isLimitRepeat": false
   },
   {
+    "gachaCountBonusMstId": 12634,
+    "gachaMstId": 3135,
+    "count": 5,
+    "name": "ガチャチケット（覇者ノ頂キ）",
+    "description": "「チケットガチャ～覇者ノ頂キ～」で使用できるガチャチケット。有効期限：2022年12月6日23:59まで。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12635,
+    "gachaMstId": 3135,
+    "count": 10,
+    "name": "シンデレラ/WGCセット",
+    "description": "卑劣の深淵　※ジョブを解放している場合は武器のみ。\r\nシンデレラ/WGCのアルカナLv.1～3\r\nガチャチケット（覇者ノ頂キ）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12636,
+    "gachaMstId": 3135,
+    "count": 10,
+    "name": "ハーメルン/WGCセット",
+    "description": "耽美の深厭　※ジョブを解放している場合は武器のみ。\r\nハーメルン/WGCのアルカナLv.1～3\r\nガチャチケット（覇者ノ頂キ）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12637,
+    "gachaMstId": 3135,
+    "count": 15,
+    "name": "シンデレラ/WGCセット",
+    "description": "卑劣の深淵　※ジョブを解放している場合は武器のみ。\r\nシンデレラ/WGCのアルカナLv.1～3\r\nガチャチケット（覇者ノ頂キ）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12638,
+    "gachaMstId": 3135,
+    "count": 15,
+    "name": "ハーメルン/WGCセット",
+    "description": "耽美の深厭　※ジョブを解放している場合は武器のみ。\r\nハーメルン/WGCのアルカナLv.1～3\r\nガチャチケット（覇者ノ頂キ）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12639,
+    "gachaMstId": 3135,
+    "count": 20,
+    "name": "限界突破の燦壊セット",
+    "description": "限界突破の燦壊\r\nガチャチケット（覇者ノ頂キ）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12640,
+    "gachaMstId": 3135,
+    "count": 25,
+    "name": "限界突破の燦壊セット",
+    "description": "限界突破の燦壊\r\nガチャチケット（覇者ノ頂キ）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12641,
+    "gachaMstId": 3135,
+    "count": 30,
+    "name": "限界突破の燦壊セット",
+    "description": "限界突破の燦壊\r\nガチャチケット（覇者ノ頂キ）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
     "gachaCountBonusMstId": 12642,
     "gachaMstId": 3137,
     "count": 5,
@@ -107843,6 +107915,474 @@
     "count": 30,
     "name": "耽美のファッション誌",
     "description": "復刻ドロシー工房の選べる武器\r\n※ジョブを解放している場合は武器のみ。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12882,
+    "gachaMstId": 3157,
+    "count": 5,
+    "name": "ガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "description": "「チケットガチャ～復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編～」で使用できるガチャチケット。有効期限：2022年12月6日23:59まで。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12883,
+    "gachaMstId": 3157,
+    "count": 10,
+    "name": "いばら姫/WGCセット",
+    "description": "睡眠の叡智　※ジョブを解放している場合は武器のみ。\r\nいばら姫/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12884,
+    "gachaMstId": 3157,
+    "count": 10,
+    "name": "アラジン/WGCセット",
+    "description": "成金の叡智　※ジョブを解放している場合は武器のみ。\r\nアラジン/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12885,
+    "gachaMstId": 3157,
+    "count": 10,
+    "name": "かぐや姫/WGCセット",
+    "description": "被虐の叡智　※ジョブを解放している場合は武器のみ。\r\nかぐや姫/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12886,
+    "gachaMstId": 3157,
+    "count": 15,
+    "name": "いばら姫/WGCセット",
+    "description": "睡眠の叡智　※ジョブを解放している場合は武器のみ。\r\nいばら姫/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12887,
+    "gachaMstId": 3157,
+    "count": 15,
+    "name": "アラジン/WGCセット",
+    "description": "成金の叡智　※ジョブを解放している場合は武器のみ。\r\nアラジン/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12888,
+    "gachaMstId": 3157,
+    "count": 15,
+    "name": "かぐや姫/WGCセット",
+    "description": "被虐の叡智　※ジョブを解放している場合は武器のみ。\r\nかぐや姫/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12889,
+    "gachaMstId": 3157,
+    "count": 20,
+    "name": "いばら姫/WGCセット",
+    "description": "睡眠の叡智　※ジョブを解放している場合は武器のみ。\r\nいばら姫/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12890,
+    "gachaMstId": 3157,
+    "count": 20,
+    "name": "アラジン/WGCセット",
+    "description": "成金の叡智　※ジョブを解放している場合は武器のみ。\r\nアラジン/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12891,
+    "gachaMstId": 3157,
+    "count": 20,
+    "name": "かぐや姫/WGCセット",
+    "description": "被虐の叡智　※ジョブを解放している場合は武器のみ。\r\nかぐや姫/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12892,
+    "gachaMstId": 3157,
+    "count": 25,
+    "name": "限界突破の燦壊(刀剣)セット",
+    "description": "限界突破の燦壊(刀剣)\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12893,
+    "gachaMstId": 3157,
+    "count": 25,
+    "name": "限界突破の燦壊(打撃)セット",
+    "description": "限界突破の燦壊(打撃)\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12894,
+    "gachaMstId": 3157,
+    "count": 25,
+    "name": "限界突破の燦壊(射出)セット",
+    "description": "限界突破の燦壊(射出)\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12895,
+    "gachaMstId": 3157,
+    "count": 25,
+    "name": "限界突破の燦壊(長柄)セット",
+    "description": "限界突破の燦壊(長柄)\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12896,
+    "gachaMstId": 3157,
+    "count": 25,
+    "name": "限界突破の燦壊(楽器)セット",
+    "description": "限界突破の燦壊(楽器)\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12897,
+    "gachaMstId": 3157,
+    "count": 25,
+    "name": "限界突破の燦壊(魔書)セット",
+    "description": "限界突破の燦壊(魔書)\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12898,
+    "gachaMstId": 3157,
+    "count": 25,
+    "name": "限界突破の燦壊(魔具)セット",
+    "description": "限界突破の燦壊(魔具)\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12899,
+    "gachaMstId": 3157,
+    "count": 25,
+    "name": "限界突破の燦壊(祈祷)セット",
+    "description": "限界突破の燦壊(祈祷)\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12900,
+    "gachaMstId": 3157,
+    "count": 25,
+    "name": "限界突破の燦壊(悪夢)セット",
+    "description": "限界突破の燦壊(悪夢)\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12901,
+    "gachaMstId": 3157,
+    "count": 30,
+    "name": "限界突破の燦壊セット",
+    "description": "限界突破の燦壊\r\nガチャチケット（復刻　覇者ノ頂キ　いばら姫・アラジン・かぐや姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12902,
+    "gachaMstId": 3158,
+    "count": 5,
+    "name": "ガチャチケット（復刻　覇者ノ頂キ　スノウ・グレーテル編）",
+    "description": "「チケットガチャ～復刻　覇者ノ頂キ　スノウ・グレーテル編～」で使用できるガチャチケット。有効期限：2022年12月6日23:59まで。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12903,
+    "gachaMstId": 3158,
+    "count": 10,
+    "name": "スノウホワイト/WGCセット",
+    "description": "正義の叡智　※ジョブを解放している場合は武器のみ。\r\nスノウホワイト/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　スノウ・グレーテル編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12904,
+    "gachaMstId": 3158,
+    "count": 10,
+    "name": "グレーテル/WGCセット",
+    "description": "虚妄の叡智　※ジョブを解放している場合は武器のみ。\r\nグレーテル/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　スノウ・グレーテル編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12905,
+    "gachaMstId": 3158,
+    "count": 15,
+    "name": "スノウホワイト/WGCセット",
+    "description": "正義の叡智　※ジョブを解放している場合は武器のみ。\r\nスノウホワイト/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　スノウ・グレーテル編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12906,
+    "gachaMstId": 3158,
+    "count": 15,
+    "name": "グレーテル/WGCセット",
+    "description": "虚妄の叡智　※ジョブを解放している場合は武器のみ。\r\nグレーテル/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　スノウ・グレーテル編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12907,
+    "gachaMstId": 3158,
+    "count": 20,
+    "name": "限界突破の燦壊セット",
+    "description": "限界突破の燦壊\r\nガチャチケット（復刻　覇者ノ頂キ　スノウ・グレーテル編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12908,
+    "gachaMstId": 3158,
+    "count": 25,
+    "name": "限界突破の燦壊(刀剣)セット",
+    "description": "限界突破の燦壊(刀剣)\r\nガチャチケット（復刻　覇者ノ頂キ　スノウ・グレーテル編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12909,
+    "gachaMstId": 3158,
+    "count": 25,
+    "name": "限界突破の燦壊(打撃)セット",
+    "description": "限界突破の燦壊(打撃)\r\nガチャチケット（復刻　覇者ノ頂キ　スノウ・グレーテル編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12910,
+    "gachaMstId": 3158,
+    "count": 25,
+    "name": "限界突破の燦壊(射出)セット",
+    "description": "限界突破の燦壊(射出)\r\nガチャチケット（復刻　覇者ノ頂キ　スノウ・グレーテル編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12911,
+    "gachaMstId": 3158,
+    "count": 25,
+    "name": "限界突破の燦壊(長柄)セット",
+    "description": "限界突破の燦壊(長柄)\r\nガチャチケット（復刻　覇者ノ頂キ　スノウ・グレーテル編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12912,
+    "gachaMstId": 3158,
+    "count": 25,
+    "name": "限界突破の燦壊(楽器)セット",
+    "description": "限界突破の燦壊(楽器)\r\nガチャチケット（復刻　覇者ノ頂キ　スノウ・グレーテル編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12913,
+    "gachaMstId": 3158,
+    "count": 25,
+    "name": "限界突破の燦壊(魔書)セット",
+    "description": "限界突破の燦壊(魔書)\r\nガチャチケット（復刻　覇者ノ頂キ　スノウ・グレーテル編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12914,
+    "gachaMstId": 3158,
+    "count": 25,
+    "name": "限界突破の燦壊(魔具)セット",
+    "description": "限界突破の燦壊(魔具)\r\nガチャチケット（復刻　覇者ノ頂キ　スノウ・グレーテル編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12915,
+    "gachaMstId": 3158,
+    "count": 25,
+    "name": "限界突破の燦壊(祈祷)セット",
+    "description": "限界突破の燦壊(祈祷)\r\nガチャチケット（復刻　覇者ノ頂キ　スノウ・グレーテル編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12916,
+    "gachaMstId": 3158,
+    "count": 25,
+    "name": "限界突破の燦壊(悪夢)セット",
+    "description": "限界突破の燦壊(悪夢)\r\nガチャチケット（復刻　覇者ノ頂キ　スノウ・グレーテル編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12917,
+    "gachaMstId": 3158,
+    "count": 30,
+    "name": "限界突破の燦壊セット",
+    "description": "限界突破の燦壊\r\nガチャチケット（復刻　覇者ノ頂キ　スノウ・グレーテル編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12918,
+    "gachaMstId": 3159,
+    "count": 5,
+    "name": "ガチャチケット（復刻　覇者ノ頂キ　赤ずきん・人魚姫編）",
+    "description": "「チケットガチャ～復刻　覇者ノ頂キ　赤ずきん・人魚姫編～」で使用できるガチャチケット。有効期限：2022年12月6日23:59まで。",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12919,
+    "gachaMstId": 3159,
+    "count": 10,
+    "name": "赤ずきん/WGCセット",
+    "description": "暴力の叡智　※ジョブを解放している場合は武器のみ。\r\n赤ずきん/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　赤ずきん・人魚姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12920,
+    "gachaMstId": 3159,
+    "count": 10,
+    "name": "人魚姫/WGCセット",
+    "description": "悲哀の叡智　※ジョブを解放している場合は武器のみ。\r\n人魚姫/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　赤ずきん・人魚姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12921,
+    "gachaMstId": 3159,
+    "count": 15,
+    "name": "赤ずきん/WGCセット",
+    "description": "暴力の叡智　※ジョブを解放している場合は武器のみ。\r\n赤ずきん/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　赤ずきん・人魚姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12922,
+    "gachaMstId": 3159,
+    "count": 15,
+    "name": "人魚姫/WGCセット",
+    "description": "悲哀の叡智　※ジョブを解放している場合は武器のみ。\r\n人魚姫/WGCのアルカナLv.1～3\r\nガチャチケット（復刻　覇者ノ頂キ　赤ずきん・人魚姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12923,
+    "gachaMstId": 3159,
+    "count": 20,
+    "name": "限界突破の燦壊セット",
+    "description": "限界突破の燦壊\r\nガチャチケット（復刻　覇者ノ頂キ　赤ずきん・人魚姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12924,
+    "gachaMstId": 3159,
+    "count": 25,
+    "name": "限界突破の燦壊(刀剣)セット",
+    "description": "限界突破の燦壊(刀剣)\r\nガチャチケット（復刻　覇者ノ頂キ　赤ずきん・人魚姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12925,
+    "gachaMstId": 3159,
+    "count": 25,
+    "name": "限界突破の燦壊(打撃)セット",
+    "description": "限界突破の燦壊(打撃)\r\nガチャチケット（復刻　覇者ノ頂キ　赤ずきん・人魚姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12926,
+    "gachaMstId": 3159,
+    "count": 25,
+    "name": "限界突破の燦壊(射出)セット",
+    "description": "限界突破の燦壊(射出)\r\nガチャチケット（復刻　覇者ノ頂キ　赤ずきん・人魚姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12927,
+    "gachaMstId": 3159,
+    "count": 25,
+    "name": "限界突破の燦壊(長柄)セット",
+    "description": "限界突破の燦壊(長柄)\r\nガチャチケット（復刻　覇者ノ頂キ　赤ずきん・人魚姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12928,
+    "gachaMstId": 3159,
+    "count": 25,
+    "name": "限界突破の燦壊(楽器)セット",
+    "description": "限界突破の燦壊(楽器)\r\nガチャチケット（復刻　覇者ノ頂キ　赤ずきん・人魚姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12929,
+    "gachaMstId": 3159,
+    "count": 25,
+    "name": "限界突破の燦壊(魔書)セット",
+    "description": "限界突破の燦壊(魔書)\r\nガチャチケット（復刻　覇者ノ頂キ　赤ずきん・人魚姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12930,
+    "gachaMstId": 3159,
+    "count": 25,
+    "name": "限界突破の燦壊(魔具)セット",
+    "description": "限界突破の燦壊(魔具)\r\nガチャチケット（復刻　覇者ノ頂キ　赤ずきん・人魚姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12931,
+    "gachaMstId": 3159,
+    "count": 25,
+    "name": "限界突破の燦壊(祈祷)セット",
+    "description": "限界突破の燦壊(祈祷)\r\nガチャチケット（復刻　覇者ノ頂キ　赤ずきん・人魚姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12932,
+    "gachaMstId": 3159,
+    "count": 25,
+    "name": "限界突破の燦壊(悪夢)セット",
+    "description": "限界突破の燦壊(悪夢)\r\nガチャチケット（復刻　覇者ノ頂キ　赤ずきん・人魚姫編）",
+    "priority": 1,
+    "isLimitRepeat": false
+  },
+  {
+    "gachaCountBonusMstId": 12933,
+    "gachaMstId": 3159,
+    "count": 30,
+    "name": "限界突破の燦壊セット",
+    "description": "限界突破の燦壊\r\nガチャチケット（復刻　覇者ノ頂キ　赤ずきん・人魚姫編）",
     "priority": 1,
     "isLimitRepeat": false
   }
