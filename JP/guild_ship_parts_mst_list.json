@@ -2938,5 +2938,41 @@
     "fltParam": 0,
     "pdlmParam": 1,
     "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 249,
+    "name": "オリジンシリーズ(第二回WGC)[船楼]",
+    "description": "オリジンシリーズ(第二回WGC)の船楼パーツ",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 31,
+    "rttParam": 6592
+  },
+  {
+    "guildShipPartsMstId": 250,
+    "name": "オリジンシリーズ(第二回WGC)[船体]",
+    "description": "オリジンシリーズ(第二回WGC)の船体パーツ",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 30,
+    "rttParam": 1
+  },
+  {
+    "guildShipPartsMstId": 251,
+    "name": "オリジンシリーズ(第二回WGC)[灯篭]",
+    "description": "オリジンシリーズ(第二回WGC)の灯篭パーツ",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 1,
+    "rttParam": 0
   }
 ]
