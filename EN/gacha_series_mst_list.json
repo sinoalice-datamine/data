@@ -5355,6 +5355,40 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 5005,
+    "gachaGroupId": 9,
+    "bannerMstId": 700,
+    "isAlways": false,
+    "name": "SR x1 Guaranteed Recycled Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅺ)\\nAmount: 100 medals from grimoire x11\\n-Medal of desire (Ⅺ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 2750,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=3068&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 5006,
+    "gachaGroupId": 9,
+    "bannerMstId": 701,
+    "isAlways": false,
+    "name": "Cost 19+ SR x2 Guaranteed Recycled Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (XI)\\nAmount: 200 medals from grimoire x22\\n-Medal of desire (XI)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 2751,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=3068&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 8010,
     "gachaGroupId": 5,
     "bannerMstId": 472,
@@ -9331,5 +9365,22 @@
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",
     "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 900215,
+    "gachaGroupId": 5,
+    "bannerMstId": 900691,
+    "isAlways": false,
+    "name": "STEP Grimoire: Autumnal Ardor",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal from this grimoire can be acquired by the following:\\nType: Camera Medal\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Camera Medals from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 2740,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=3087&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266413
   }
 ]

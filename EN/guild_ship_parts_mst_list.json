@@ -2974,5 +2974,41 @@
     "fltParam": 0,
     "pdlmParam": 1,
     "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 249,
+    "name": "Origin Series (2nd WGC) (Superstructure)",
+    "description": "Superstructure for the Origin Series (2nd WGC)",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 31,
+    "rttParam": 6592
+  },
+  {
+    "guildShipPartsMstId": 250,
+    "name": "Origin Series (2nd WGC) (Hull)",
+    "description": "Hull for the Origin Series (2nd WGC)",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 30,
+    "rttParam": 1
+  },
+  {
+    "guildShipPartsMstId": 251,
+    "name": "Origin Series (2nd WGC) (Lantern)",
+    "description": "Lantern for the Origin Series (2nd WGC)",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 7000,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 1,
+    "rttParam": 0
   }
 ]
