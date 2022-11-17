@@ -36462,23 +36462,45 @@
   },
   {
     "skillMstId": 8201,
-    "skill_type": 99
+    "skill_type": 3,
+    "skill_name_tier": 5,
+    "trigger": 1,
+    "activation_rate": 1.5,
+    "damage_support_effect_size": 5
   },
   {
     "skillMstId": 8202,
-    "skill_type": 99
+    "skill_type": 3,
+    "skill_name_tier": 5,
+    "trigger": 3,
+    "activation_rate": 1.5,
+    "buff_support_effect_size": 5
   },
   {
     "skillMstId": 8203,
-    "skill_type": 99
+    "skill_type": 3,
+    "skill_name_tier": 5,
+    "trigger": 2,
+    "activation_rate": 1.5,
+    "heal_support_effect_size": 5
   },
   {
     "skillMstId": 8204,
-    "skill_type": 99
+    "skill_type": 3,
+    "skill_name_tier": 4,
+    "trigger": 1,
+    "activation_rate": 1.5,
+    "lifeforce_support_effect_size": 3,
+    "grid_weapon_type_boost": 5
   },
   {
     "skillMstId": 8205,
-    "skill_type": 99
+    "skill_type": 3,
+    "skill_name_tier": 4,
+    "trigger": 1,
+    "activation_rate": 1.5,
+    "lifeforce_support_effect_size": 3,
+    "grid_weapon_type_boost": 7
   },
   {
     "skillMstId": 8206,
