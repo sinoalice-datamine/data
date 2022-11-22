@@ -5780,5 +5780,19 @@
     "cueSheet": "se_raid_5syunen",
     "cueName": "se_raid_5syunen@001_R",
     "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 445,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_sakusya_2",
+    "cueName": "se_sakusya_2@001_R",
+    "createdTime": 1485961226
   }
 ]

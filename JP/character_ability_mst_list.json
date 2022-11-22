@@ -99498,5 +99498,285 @@
     "effectType": 5,
     "effectValue": 1000,
     "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 10229,
+    "characterMstId": 715,
+    "name": "モノガタリで長柄90%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 90,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10230,
+    "characterMstId": 715,
+    "name": "長柄10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10231,
+    "characterMstId": 715,
+    "name": "魔法攻撃+500",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10232,
+    "characterMstId": 715,
+    "name": "魔法防御+500",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10233,
+    "characterMstId": 715,
+    "name": "魔法攻撃+500",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10234,
+    "characterMstId": 715,
+    "name": "コスト+10",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10235,
+    "characterMstId": 715,
+    "name": "HP+1500",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10236,
+    "characterMstId": 715,
+    "name": "魔法攻撃+4000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 4000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10237,
+    "characterMstId": 715,
+    "name": "HP+1500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10238,
+    "characterMstId": 715,
+    "name": "長柄ジョブ使用時、魔法ダメージ3%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6192,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10239,
+    "characterMstId": 715,
+    "name": "魔法防御+700",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 700,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10240,
+    "characterMstId": 715,
+    "name": "魔法攻撃+800",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 800,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10241,
+    "characterMstId": 715,
+    "name": "魔法防御+1000",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10242,
+    "characterMstId": 715,
+    "name": "魔法攻撃+1000",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 1000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10243,
+    "characterMstId": 716,
+    "name": "モノガタリで魔具90%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 90,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 10244,
+    "characterMstId": 716,
+    "name": "魔具10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 10245,
+    "characterMstId": 716,
+    "name": "魔法攻撃+500",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 10246,
+    "characterMstId": 716,
+    "name": "物理防御+500",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 10247,
+    "characterMstId": 716,
+    "name": "魔法攻撃+500",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 10248,
+    "characterMstId": 716,
+    "name": "コスト+10",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 10,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 10249,
+    "characterMstId": 716,
+    "name": "HP+1500",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1500,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 10250,
+    "characterMstId": 716,
+    "name": "魔法攻撃+4000",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 4000,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 10251,
+    "characterMstId": 716,
+    "name": "HP+1500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1500,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 10252,
+    "characterMstId": 716,
+    "name": "魔具ジョブ使用時、魔法ダメージ3%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7086,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 10253,
+    "characterMstId": 716,
+    "name": "物理防御+700",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 700,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 10254,
+    "characterMstId": 716,
+    "name": "魔法攻撃+800",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 800,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 10255,
+    "characterMstId": 716,
+    "name": "物理防御+1000",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 10256,
+    "characterMstId": 716,
+    "name": "魔法攻撃+1000",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 1000,
+    "cardDetailType": 3
   }
 ]
