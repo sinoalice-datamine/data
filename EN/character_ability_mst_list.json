@@ -41000,6 +41000,146 @@
     "cardDetailType": 5
   },
   {
+    "characterAbilityMstId": 6199,
+    "characterMstId": 469,
+    "name": "Tome +30% (Pinocchio+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6200,
+    "characterMstId": 469,
+    "name": "Tome +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6201,
+    "characterMstId": 469,
+    "name": "P.DEF +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6202,
+    "characterMstId": 469,
+    "name": "P.ATK +800",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 800,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6203,
+    "characterMstId": 469,
+    "name": "Tome +20% (Pinocchio+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6204,
+    "characterMstId": 469,
+    "name": "M.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6205,
+    "characterMstId": 469,
+    "name": "Tome +20% (Pinocchio+ stages)",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6206,
+    "characterMstId": 469,
+    "name": "HP +300",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6207,
+    "characterMstId": 469,
+    "name": "P.ATK +100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6208,
+    "characterMstId": 469,
+    "name": "Debuff effect +3% when using water weapon",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5825,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6209,
+    "characterMstId": 469,
+    "name": "M.ATK +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6210,
+    "characterMstId": 469,
+    "name": "HP +800",
+    "releaseLevel": 12,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 800,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6211,
+    "characterMstId": 469,
+    "name": "P.ATK +300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 6212,
+    "characterMstId": 469,
+    "name": "Cost +2",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 2
+  },
+  {
     "characterAbilityMstId": 6217,
     "characterMstId": 489,
     "name": "Tome +30% (NieR Replicant+ stages)",
@@ -42578,6 +42718,146 @@
     "effectType": 2,
     "effectValue": 400,
     "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 6691,
+    "characterMstId": 502,
+    "name": "Instrument +30% (Princess Kaguya+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6692,
+    "characterMstId": 502,
+    "name": "Instrument +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6693,
+    "characterMstId": 502,
+    "name": "M.DEF +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6694,
+    "characterMstId": 502,
+    "name": "M.ATK +800",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 800,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6695,
+    "characterMstId": 502,
+    "name": "Instrument +20% (Princess Kaguya+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6696,
+    "characterMstId": 502,
+    "name": "P.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6697,
+    "characterMstId": 502,
+    "name": "Instrument +20% (Princess Kaguya+ stages)",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6698,
+    "characterMstId": 502,
+    "name": "HP +300",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6699,
+    "characterMstId": 502,
+    "name": "M.ATK +100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6700,
+    "characterMstId": 502,
+    "name": "Buff effect +3% when using fire weapon",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6434,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6701,
+    "characterMstId": 502,
+    "name": "P.ATK +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6702,
+    "characterMstId": 502,
+    "name": "HP +800",
+    "releaseLevel": 12,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 800,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6703,
+    "characterMstId": 502,
+    "name": "M.ATK +300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6704,
+    "characterMstId": 502,
+    "name": "Cost +2",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 1
   },
   {
     "characterAbilityMstId": 6809,
@@ -53620,6 +53900,46 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 900347,
+    "characterMstId": 469,
+    "name": "M.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 900348,
+    "characterMstId": 469,
+    "name": "Activation rate of colosseum support +2% when using tome class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6924,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 900349,
+    "characterMstId": 502,
+    "name": "P.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 900350,
+    "characterMstId": 502,
+    "name": "Activation rate of colosseum support +2% when using instrument class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6923,
+    "cardDetailType": 1
+  },
+  {
     "characterAbilityMstId": 900351,
     "characterMstId": 507,
     "name": "HP +800",
@@ -53802,7 +54122,7 @@
   {
     "characterAbilityMstId": 900369,
     "characterMstId": 714,
-    "name": "Staff +60% (Hameln+ stages)",
+    "name": "Staff +60% (Hamelin+ stages)",
     "releaseLevel": 1,
     "skillType": 2,
     "effectType": 6,
