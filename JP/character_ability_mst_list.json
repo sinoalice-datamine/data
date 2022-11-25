@@ -99778,5 +99778,285 @@
     "effectType": 4,
     "effectValue": 1000,
     "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 10257,
+    "characterMstId": 717,
+    "name": "MatchGirlエリアで魔書60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 10258,
+    "characterMstId": 717,
+    "name": "魔書10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 10259,
+    "characterMstId": 717,
+    "name": "物理防御+200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 10260,
+    "characterMstId": 717,
+    "name": "物理防御+4000",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 4000,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 10261,
+    "characterMstId": 717,
+    "name": "物理攻撃+300",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 10262,
+    "characterMstId": 717,
+    "name": "魔法防御+300",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 10263,
+    "characterMstId": 717,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 10264,
+    "characterMstId": 717,
+    "name": "風属性武器使用時、デバフ効果3%UP",
+    "releaseLevel": 8,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5322,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 10265,
+    "characterMstId": 717,
+    "name": "HP+2000",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2000,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 10266,
+    "characterMstId": 717,
+    "name": "魔書ジョブ使用時、デバフ効果4%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7874,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 10267,
+    "characterMstId": 717,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 10268,
+    "characterMstId": 717,
+    "name": "物理防御+500",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 10269,
+    "characterMstId": 717,
+    "name": "物理攻撃+600",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 600,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 10270,
+    "characterMstId": 717,
+    "name": "魔書ジョブ使用時、武器消費SP減少",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5526,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 10271,
+    "characterMstId": 718,
+    "name": "Aladdinエリアで打撃60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10272,
+    "characterMstId": 718,
+    "name": "打撃10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10273,
+    "characterMstId": 718,
+    "name": "物理防御+200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10274,
+    "characterMstId": 718,
+    "name": "物理攻撃+4000",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 4000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10275,
+    "characterMstId": 718,
+    "name": "物理攻撃+300",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10276,
+    "characterMstId": 718,
+    "name": "魔法防御+300",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10277,
+    "characterMstId": 718,
+    "name": "物理攻撃+300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10278,
+    "characterMstId": 718,
+    "name": "風属性武器使用時、物理ダメージ3%UP",
+    "releaseLevel": 8,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6277,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10279,
+    "characterMstId": 718,
+    "name": "HP+2000",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10280,
+    "characterMstId": 718,
+    "name": "打撃ジョブ使用時、物理ダメージ4%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7870,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10281,
+    "characterMstId": 718,
+    "name": "物理攻撃+400",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10282,
+    "characterMstId": 718,
+    "name": "物理防御+500",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10283,
+    "characterMstId": 718,
+    "name": "物理攻撃+600",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 600,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10284,
+    "characterMstId": 718,
+    "name": "物理攻撃時ｲﾉﾁ取得量3%UP(開始～終了5分前)",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5826,
+    "cardDetailType": 6
   }
 ]
