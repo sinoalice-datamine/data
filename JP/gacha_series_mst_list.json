@@ -25061,6 +25061,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 3156,
+    "gachaGroupId": 4,
+    "topBannerMstId": 0,
+    "bannerMstId": 7711,
+    "isAlways": false,
+    "name": "DMM GAMES FESTIVAL チケットガチャ",
+    "description": "-",
+    "noticeMessage": "このガチャのガチャチケットは「DMM GAMES FESTIVAL 」の特典アイテムです。\r\n ※このガチャでは『ヨクボウメダル』はおまけとして獲得できません。",
+    "priority": 200,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": true,
+    "announceUrl": "/web/announce/body?announceMstId=11115&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 0,
+    "createdTime": 1467266400
+  },
+  {
     "gachaSeriesMstId": 3157,
     "gachaGroupId": 3,
     "topBannerMstId": 0,
