@@ -2926,6 +2926,28 @@
     "vibStartTime": -1.0
   },
   {
+    "movieResourceMstId": 900008,
+    "movieTitle": "第弐拾玖回グランコロシアム開幕",
+    "resourceName": "GvGEventMovie",
+    "isPreDownLoad": 0,
+    "type": 2,
+    "value": 0,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1670392800,
+    "endTime": 1670648399,
+    "isMuseum": 0,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "Bug if No Display shows",
+    "thumbAssetBundleName": "museumthumbnail/1",
+    "thumbResourceName": "GvGEventMovie",
+    "museumStartTime": 1528869600,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0
+  },
+  {
     "movieResourceMstId": 9000001,
     "movieTitle": "6 Month Anniversary",
     "resourceName": "halfAniv",

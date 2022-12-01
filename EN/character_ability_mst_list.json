@@ -30540,6 +30540,126 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 3555,
+    "characterMstId": 284,
+    "name": "Blade +30% (Aladdin+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 3556,
+    "characterMstId": 284,
+    "name": "Blade +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 3557,
+    "characterMstId": 284,
+    "name": "P.ATK +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 3558,
+    "characterMstId": 284,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 3559,
+    "characterMstId": 284,
+    "name": "Blade +10% (Aladdin+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 3560,
+    "characterMstId": 284,
+    "name": "P.DEF +500",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 3561,
+    "characterMstId": 284,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 3562,
+    "characterMstId": 284,
+    "name": "P.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 3563,
+    "characterMstId": 284,
+    "name": "Blade +10% (Aladdin+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 3564,
+    "characterMstId": 284,
+    "name": "HP +600",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 600,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 3565,
+    "characterMstId": 284,
+    "name": "P.DEF +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 3566,
+    "characterMstId": 284,
+    "name": "P.DEF +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 3567,
     "characterMstId": 285,
     "name": "Heavy (Wind) +30% (Little Mermaid+ stages)",
@@ -41140,6 +41260,46 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 6213,
+    "characterMstId": 284,
+    "name": "Blade +10% (Aladdin+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6214,
+    "characterMstId": 284,
+    "name": "P.DEF +400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6215,
+    "characterMstId": 284,
+    "name": "P.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6216,
+    "characterMstId": 284,
+    "name": "P.DMG +2% when using blade class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5029,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 6217,
     "characterMstId": 489,
     "name": "Tome +30% (NieR Replicant+ stages)",
@@ -49978,6 +50138,166 @@
     "effectType": 7,
     "effectValue": 2,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 9221,
+    "characterMstId": 656,
+    "name": "Heavy (Water) +30% (Rapunzel+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9222,
+    "characterMstId": 656,
+    "name": "All Weapons (Wind) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 9223,
+    "characterMstId": 656,
+    "name": "Heavy (Water) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9224,
+    "characterMstId": 656,
+    "name": "Heavy (Water) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9225,
+    "characterMstId": 656,
+    "name": "P.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9226,
+    "characterMstId": 656,
+    "name": "HP +1500",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9227,
+    "characterMstId": 656,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9228,
+    "characterMstId": 656,
+    "name": "P.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9229,
+    "characterMstId": 656,
+    "name": "Heavy (Water) +10% (Rapunzel+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9230,
+    "characterMstId": 656,
+    "name": "P.DMG +3% when using heavy class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6149,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9231,
+    "characterMstId": 656,
+    "name": "P.DEF +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9232,
+    "characterMstId": 656,
+    "name": "P.DEF +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9233,
+    "characterMstId": 656,
+    "name": "Heavy (Water) +30% (Rapunzel+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9234,
+    "characterMstId": 656,
+    "name": "P.ATK +1,200",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 1200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9235,
+    "characterMstId": 656,
+    "name": "P.DEF +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 9236,
+    "characterMstId": 656,
+    "name": "P.ATK +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 6
   },
   {
     "characterAbilityMstId": 9237,
