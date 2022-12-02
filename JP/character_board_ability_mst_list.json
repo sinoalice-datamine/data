@@ -18745,5 +18745,653 @@
     "effectType": 15,
     "effectValue": 20,
     "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2132,
+    "characterUniqueId": 96,
+    "name": "エリアUP",
+    "description": "エドワード・エルリックのジョブを編成時、鋼の錬金術師FAエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2133,
+    "characterUniqueId": 96,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP エドワード・エルリックのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2134,
+    "characterUniqueId": 96,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP エドワード・エルリックのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2135,
+    "characterUniqueId": 96,
+    "name": "物魔攻撃UP",
+    "description": "エドワード・エルリックのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2136,
+    "characterUniqueId": 96,
+    "name": "物魔防御UP",
+    "description": "エドワード・エルリックのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2137,
+    "characterUniqueId": 96,
+    "name": "チケットUP",
+    "description": "エドワード・エルリックのジョブを編成時、鋼の錬金術師FAエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2138,
+    "characterUniqueId": 96,
+    "name": "チケットUP",
+    "description": "エドワード・エルリックのジョブを編成時、鋼の錬金術師FAエリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2139,
+    "characterUniqueId": 96,
+    "name": "物攻+300",
+    "description": "エドワード・エルリックのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2140,
+    "characterUniqueId": 96,
+    "name": "物防+300",
+    "description": "エドワード・エルリックのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2141,
+    "characterUniqueId": 96,
+    "name": "魔攻+300",
+    "description": "エドワード・エルリックのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2142,
+    "characterUniqueId": 96,
+    "name": "魔防+300",
+    "description": "エドワード・エルリックのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2143,
+    "characterUniqueId": 96,
+    "name": "長柄 4%UP",
+    "description": "エドワード・エルリックのジョブを編成時、長柄4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 2144,
+    "characterUniqueId": 97,
+    "name": "エリアUP",
+    "description": "アルフォンス・エルリックのジョブを編成時、鋼の錬金術師FAエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2145,
+    "characterUniqueId": 97,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP アルフォンス・エルリックのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2146,
+    "characterUniqueId": 97,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP アルフォンス・エルリックのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2147,
+    "characterUniqueId": 97,
+    "name": "物魔攻撃UP",
+    "description": "アルフォンス・エルリックのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2148,
+    "characterUniqueId": 97,
+    "name": "物魔防御UP",
+    "description": "アルフォンス・エルリックのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2149,
+    "characterUniqueId": 97,
+    "name": "チケットUP",
+    "description": "アルフォンス・エルリックのジョブを編成時、鋼の錬金術師FAエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2150,
+    "characterUniqueId": 97,
+    "name": "チケットUP",
+    "description": "アルフォンス・エルリックのジョブを編成時、鋼の錬金術師FAエリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2151,
+    "characterUniqueId": 97,
+    "name": "物攻+300",
+    "description": "アルフォンス・エルリックのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2152,
+    "characterUniqueId": 97,
+    "name": "物防+300",
+    "description": "アルフォンス・エルリックのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2153,
+    "characterUniqueId": 97,
+    "name": "魔攻+300",
+    "description": "アルフォンス・エルリックのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2154,
+    "characterUniqueId": 97,
+    "name": "魔防+300",
+    "description": "アルフォンス・エルリックのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2155,
+    "characterUniqueId": 97,
+    "name": "打撃 4%UP",
+    "description": "アルフォンス・エルリックのジョブを編成時、打撃4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 2156,
+    "characterUniqueId": 98,
+    "name": "エリアUP",
+    "description": "ロイ・マスタングのジョブを編成時、鋼の錬金術師FAエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2157,
+    "characterUniqueId": 98,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP ロイ・マスタングのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2158,
+    "characterUniqueId": 98,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP ロイ・マスタングのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2159,
+    "characterUniqueId": 98,
+    "name": "物魔攻撃UP",
+    "description": "ロイ・マスタングのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2160,
+    "characterUniqueId": 98,
+    "name": "物魔防御UP",
+    "description": "ロイ・マスタングのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2161,
+    "characterUniqueId": 98,
+    "name": "チケットUP",
+    "description": "ロイ・マスタングのジョブを編成時、鋼の錬金術師FAエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2162,
+    "characterUniqueId": 98,
+    "name": "チケットUP",
+    "description": "ロイ・マスタングのジョブを編成時、鋼の錬金術師FAエリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2163,
+    "characterUniqueId": 98,
+    "name": "物攻+300",
+    "description": "ロイ・マスタングのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2164,
+    "characterUniqueId": 98,
+    "name": "物防+300",
+    "description": "ロイ・マスタングのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2165,
+    "characterUniqueId": 98,
+    "name": "魔攻+300",
+    "description": "ロイ・マスタングのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2166,
+    "characterUniqueId": 98,
+    "name": "魔防+300",
+    "description": "ロイ・マスタングのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2167,
+    "characterUniqueId": 98,
+    "name": "魔書 2%UP",
+    "description": "ロイ・マスタングのジョブを編成時、魔書2%UP",
+    "effectType": 6,
+    "effectValue": 2,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 2168,
+    "characterUniqueId": 100,
+    "name": "エリアUP",
+    "description": "リザ・ホークアイのジョブを編成時、鋼の錬金術師FAエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2169,
+    "characterUniqueId": 100,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP リザ・ホークアイのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2170,
+    "characterUniqueId": 100,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP リザ・ホークアイのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2171,
+    "characterUniqueId": 100,
+    "name": "物魔攻撃UP",
+    "description": "リザ・ホークアイのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2172,
+    "characterUniqueId": 100,
+    "name": "物魔防御UP",
+    "description": "リザ・ホークアイのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2173,
+    "characterUniqueId": 100,
+    "name": "チケットUP",
+    "description": "リザ・ホークアイのジョブを編成時、鋼の錬金術師FAエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2174,
+    "characterUniqueId": 100,
+    "name": "チケットUP",
+    "description": "リザ・ホークアイのジョブを編成時、鋼の錬金術師FAエリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2175,
+    "characterUniqueId": 100,
+    "name": "物攻+300",
+    "description": "リザ・ホークアイのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2176,
+    "characterUniqueId": 100,
+    "name": "物防+300",
+    "description": "リザ・ホークアイのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2177,
+    "characterUniqueId": 100,
+    "name": "魔攻+300",
+    "description": "リザ・ホークアイのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2178,
+    "characterUniqueId": 100,
+    "name": "魔防+300",
+    "description": "リザ・ホークアイのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2179,
+    "characterUniqueId": 100,
+    "name": "射出 4%UP",
+    "description": "リザ・ホークアイのジョブを編成時、射出4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 2180,
+    "characterUniqueId": 101,
+    "name": "エリアUP",
+    "description": "ラストのジョブを編成時、鋼の錬金術師FAエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2181,
+    "characterUniqueId": 101,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP ラストのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2182,
+    "characterUniqueId": 101,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP ラストのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2183,
+    "characterUniqueId": 101,
+    "name": "物魔攻撃UP",
+    "description": "ラストのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2184,
+    "characterUniqueId": 101,
+    "name": "物魔防御UP",
+    "description": "ラストのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2185,
+    "characterUniqueId": 101,
+    "name": "チケットUP",
+    "description": "ラストのジョブを編成時、鋼の錬金術師FAエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2186,
+    "characterUniqueId": 101,
+    "name": "チケットUP",
+    "description": "ラストのジョブを編成時、鋼の錬金術師FAエリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2187,
+    "characterUniqueId": 101,
+    "name": "物攻+300",
+    "description": "ラストのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2188,
+    "characterUniqueId": 101,
+    "name": "物防+300",
+    "description": "ラストのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2189,
+    "characterUniqueId": 101,
+    "name": "魔攻+300",
+    "description": "ラストのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2190,
+    "characterUniqueId": 101,
+    "name": "魔防+300",
+    "description": "ラストのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2191,
+    "characterUniqueId": 101,
+    "name": "楽器 2%UP",
+    "description": "ラストのジョブを編成時、楽器2%UP",
+    "effectType": 6,
+    "effectValue": 2,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 2192,
+    "characterUniqueId": 102,
+    "name": "エリアUP",
+    "description": "キング・ブラッドレイのジョブを編成時、鋼の錬金術師FAエリアで全武器種5%UP",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2193,
+    "characterUniqueId": 102,
+    "name": "SP供給/噺",
+    "description": "SP供給/噺 Lv1UP キング・ブラッドレイのジョブを編成時、モノガタリにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2194,
+    "characterUniqueId": 102,
+    "name": "SP供給/決闘",
+    "description": "SP供給/決闘 Lv1UP キング・ブラッドレイのジョブを編成時、コロシアムにて武器スキル発動時に一定確率でSP消費を抑える。",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2195,
+    "characterUniqueId": 102,
+    "name": "物魔攻撃UP",
+    "description": "キング・ブラッドレイのジョブを編成時、物理攻撃・魔法攻撃にそれぞれ +250",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2196,
+    "characterUniqueId": 102,
+    "name": "物魔防御UP",
+    "description": "キング・ブラッドレイのジョブを編成時、物理防御・魔法防御にそれぞれ +250",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2197,
+    "characterUniqueId": 102,
+    "name": "チケットUP",
+    "description": "キング・ブラッドレイのジョブを編成時、鋼の錬金術師FAエリアでチケット獲得倍率+0.2倍",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2198,
+    "characterUniqueId": 102,
+    "name": "チケットUP",
+    "description": "キング・ブラッドレイのジョブを編成時、鋼の錬金術師FAエリアでチケット獲得倍率+0.1倍",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2199,
+    "characterUniqueId": 102,
+    "name": "物攻+300",
+    "description": "キング・ブラッドレイのジョブを編成時、物理攻撃 +300",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2200,
+    "characterUniqueId": 102,
+    "name": "物防+300",
+    "description": "キング・ブラッドレイのジョブを編成時、物理防御 +300",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2201,
+    "characterUniqueId": 102,
+    "name": "魔攻+300",
+    "description": "キング・ブラッドレイのジョブを編成時、魔法攻撃 +300",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2202,
+    "characterUniqueId": 102,
+    "name": "魔防+300",
+    "description": "キング・ブラッドレイのジョブを編成時、魔法防御 +300",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2203,
+    "characterUniqueId": 102,
+    "name": "刀剣 4%UP",
+    "description": "キング・ブラッドレイのジョブを編成時、刀剣4%UP",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 5
   }
 ]

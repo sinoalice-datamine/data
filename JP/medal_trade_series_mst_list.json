@@ -9916,5 +9916,24 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 542,
+    "name": "銀時計メダル",
+    "description": "ギシンアンキが集めているメダル※2022年12月23日23:59まで",
+    "resourceName": "item20221202_hagaren_gacha",
+    "assetBundleName": "5120",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2022年12月23日23:59まで",
+    "priority": 44,
+    "itemMstId": 5120,
+    "startTime": 1669957200,
+    "endTime": 1671807599,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]

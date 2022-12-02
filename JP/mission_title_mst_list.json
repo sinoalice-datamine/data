@@ -9144,6 +9144,22 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 1170,
+    "title": "「扉の向こう、終焉の錬成」ﾐｯｼｮﾝ",
+    "priority": 20003,
+    "startTime": 1669957200,
+    "endTime": 1671170399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1171,
+    "title": "イベントデイリーミッション",
+    "priority": 20004,
+    "startTime": 1669957200,
+    "endTime": 1671170399,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 1172,
     "title": "シノアリスの日ミッション",
     "priority": 49999,
@@ -9237,6 +9253,14 @@
     "priority": 50000,
     "startTime": 1668318900,
     "endTime": 1668956399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1195,
+    "title": "コラボ記念コロシアム参加ミッション",
+    "priority": 50000,
+    "startTime": 1669957200,
+    "endTime": 1671170399,
     "isHideTime": false
   }
 ]
