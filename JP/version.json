@@ -1,9 +1,9 @@
 {
-  "lastCreatedTime": "2022-12-02 16:47:05",
+  "lastCreatedTime": "2022-12-06 16:16:53",
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
-      "version": 1437,
+      "version": 1442,
       "names": [
         "item_mst_list"
       ]
@@ -45,7 +45,7 @@
     },
     {
       "mstTableId": 9,
-      "version": 1141,
+      "version": 1144,
       "names": [
         "card_mst_list"
       ]
@@ -94,21 +94,21 @@
     },
     {
       "mstTableId": 20,
-      "version": 1445,
+      "version": 1450,
       "names": [
         "gacha_mst_list"
       ]
     },
     {
       "mstTableId": 21,
-      "version": 1467,
+      "version": 1472,
       "names": [
         "gacha_pickup_mst_list"
       ]
     },
     {
       "mstTableId": 22,
-      "version": 1032,
+      "version": 1034,
       "names": [
         "gacha_series_mst_list"
       ]
@@ -122,7 +122,7 @@
     },
     {
       "mstTableId": 25,
-      "version": 667,
+      "version": 669,
       "names": [
         "card_story_mst_list"
       ]
@@ -206,7 +206,7 @@
     },
     {
       "mstTableId": 38,
-      "version": 3994,
+      "version": 3999,
       "names": [
         "banner_mst_list"
       ]
@@ -332,7 +332,7 @@
     },
     {
       "mstTableId": 58,
-      "version": 589,
+      "version": 591,
       "names": [
         "gacha_bonus_mst_list"
       ]
@@ -353,7 +353,7 @@
     },
     {
       "mstTableId": 61,
-      "version": 861,
+      "version": 863,
       "names": [
         "card_evolution_mst_list"
       ]
@@ -668,14 +668,14 @@
     },
     {
       "mstTableId": 114,
-      "version": 141,
+      "version": 143,
       "names": [
         "gacha_count_bonus_mst_list"
       ]
     },
     {
       "mstTableId": 115,
-      "version": 140,
+      "version": 142,
       "names": [
         "gacha_count_bonus_detail_mst_list"
       ]
@@ -745,7 +745,7 @@
     },
     {
       "mstTableId": 125,
-      "version": 18,
+      "version": 20,
       "names": [
         "item_card_limit_break_mst_list"
       ]

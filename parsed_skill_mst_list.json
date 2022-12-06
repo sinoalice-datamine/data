@@ -34955,6 +34955,20 @@
     }
   },
   {
+    "skillMstId": 7891,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 2,
+      "max": 3
+    },
+    "damage_type": 1,
+    "damage_effect_size": 5,
+    "alternative_atk_stat_fraction": 0.3
+  },
+  {
     "skillMstId": 7892,
     "skill_type": 1,
     "skill_name_tier": 6,
