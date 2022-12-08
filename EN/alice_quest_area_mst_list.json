@@ -8244,6 +8244,24 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 706,
+    "questMapMstId": 373,
+    "name": "Bonfire Crucible",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/140",
+    "bgResourceName": "0140",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 708,
     "questMapMstId": 3,
     "name": "Book of Hellfire",
