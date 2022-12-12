@@ -2974,5 +2974,65 @@
     "fltParam": 0,
     "pdlmParam": 1,
     "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 252,
+    "name": "第13回ｺﾛｼｱﾑ･ｼﾝUltimate32優勝[灯篭]",
+    "description": "第13回コロシアム・シンのUltimate32の優勝ギルドに贈られるシップの灯篭パーツ",
+    "partsType": 3,
+    "hasReverseImage": true,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 1,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 253,
+    "name": "第13回ｺﾛｼｱﾑ･ｼﾝUltimate32準優勝[灯篭]",
+    "description": "第13回コロシアム・シンのUltimate32の準優勝ギルドに贈られるシップの灯篭パーツ",
+    "partsType": 3,
+    "hasReverseImage": true,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 1,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 254,
+    "name": "第13回ｺﾛｼｱﾑ･ｼﾝUltimate32ﾍﾞｽﾄ4[灯篭]",
+    "description": "第13回コロシアム・シンのUltimate32のベスト4ギルドに贈られるシップの灯篭パーツ",
+    "partsType": 3,
+    "hasReverseImage": true,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 1,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 255,
+    "name": "第13回ｺﾛｼｱﾑ･ｼﾝUltimate32出場[灯篭]",
+    "description": "第13回コロシアム・シンのUltimate32の出場ギルドに贈られるシップの灯篭パーツ",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 1,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 256,
+    "name": "第13回ｺﾛｼｱﾑ･ｼﾝSuperDivision出場[灯篭]",
+    "description": "第13回コロシアム・シンのSuper Divisionの出場ギルドに贈られるシップの灯篭パーツ",
+    "partsType": 3,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 0,
+    "pdlmParam": 1,
+    "rttParam": 0
   }
 ]
