@@ -1588,5 +1588,20 @@
     "endTime": 1670511599,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900017,
+    "name": "X-mas Medal",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item20221213_gacha_christmas",
+    "assetBundleName": "2851",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 2851,
+    "startTime": 1670911200,
+    "endTime": 1672757999,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]

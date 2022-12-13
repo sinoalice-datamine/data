@@ -21579,12 +21579,12 @@
     "Type": 0,
     "GameKey": "PREFAB",
     "JP": "未所属のため獲得できません",
-    "EN": "Only guild members can earn points.",
-    "KR": "길드에 소속되지 않아 획득할 수 없습니다.",
-    "DE": "Only guild members can earn points.",
-    "FR": "Only guild members can earn points.",
-    "ES": "Only guild members can earn points.",
-    "TH": "Only guild members can earn points.",
+    "EN": "Points are for guilds only.",
+    "KR": "길드에 소속되지 않아 획득 불가.",
+    "DE": "Points are for guilds only.",
+    "FR": "Points are for guilds only.",
+    "ES": "Points are for guilds only.",
+    "TH": "Points are for guilds only.",
     "VN": ""
   },
   {
@@ -21711,6 +21711,20 @@
     "FR": "Note: Only guild members can earn bonus points.",
     "ES": "Note: Only guild members can earn bonus points.",
     "TH": "Note: Only guild members can earn bonus points.",
+    "VN": ""
+  },
+  {
+    "id": 1552,
+    "TLM": 52764,
+    "Type": 0,
+    "GameKey": "PREFAB",
+    "JP": "※選択している言語は、2022年12月27日(UTC)をもってサポートを終了しています。2022年12月27日(UTC)以降の更新については、英語で更新されておりますのでご了承ください。",
+    "EN": "Note: The language you have selected is no longer supported as of December 27, 2022 (UTC). Please be aware that updates after December 27, 2022 will be in English.",
+    "KR": "※현재 선택 중이신 언어는 2022년 12월 27일(UTC)부로 서비스가 종료되었습니다. 2022년 12월 27일(UTC) 이후부터는 영어로 업데이트되고 있는 점, 양해를 부탁드립니다.",
+    "DE": "Note: The language you have selected is no longer supported as of December 27, 2022 (UTC). Please be aware that updates after December 27, 2022 will be in English.",
+    "FR": "Note: The language you have selected is no longer supported as of December 27, 2022 (UTC). Please be aware that updates after December 27, 2022 will be in English.",
+    "ES": "Note: The language you have selected is no longer supported as of December 27, 2022 (UTC). Please be aware that updates after December 27, 2022 will be in English.",
+    "TH": "Note: The language you have selected is no longer supported as of December 27, 2022 (UTC). Please be aware that updates after December 27, 2022 will be in English.",
     "VN": ""
   }
 ]
