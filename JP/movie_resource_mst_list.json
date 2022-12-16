@@ -8347,5 +8347,28 @@
     "museumEndTime": 1924959599,
     "vibStartTime": -1.0,
     "skipButtonType": 0
+  },
+  {
+    "movieResourceMstId": 379,
+    "movieTitle": "作者篇　次篇予告",
+    "resourceName": "sakusya_ED_FIX",
+    "isPreDownLoad": 0,
+    "type": 13,
+    "value": 9747,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1671170400,
+    "endTime": 1988117999,
+    "isMuseum": 1,
+    "museumTermType": 4,
+    "museumTermId": 9747,
+    "museumTermText": "条件なし　表示されていたらバグ",
+    "thumbAssetBundleName": "museumthumbnail/379",
+    "thumbResourceName": "sakusya_ED_FIX",
+    "museumStartTime": 1671170400,
+    "museumEndTime": 1988117999,
+    "vibStartTime": -1.0,
+    "skipButtonType": 2
   }
 ]
