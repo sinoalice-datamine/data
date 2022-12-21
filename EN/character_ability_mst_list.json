@@ -45840,6 +45840,146 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 7365,
+    "characterMstId": 541,
+    "name": "Blade +60% (Hamelin+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7366,
+    "characterMstId": 541,
+    "name": "Blade +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7367,
+    "characterMstId": 541,
+    "name": "P.DEF +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7368,
+    "characterMstId": 541,
+    "name": "P.DEF +800",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 800,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7369,
+    "characterMstId": 541,
+    "name": "Blade +10% (Hamelin+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7370,
+    "characterMstId": 541,
+    "name": "M.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7371,
+    "characterMstId": 541,
+    "name": "P.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7372,
+    "characterMstId": 541,
+    "name": "HP +300",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7373,
+    "characterMstId": 541,
+    "name": "P.DEF +100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7374,
+    "characterMstId": 541,
+    "name": "P.DMG +3% when using water weapon",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6195,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7375,
+    "characterMstId": 541,
+    "name": "P.ATK +100",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7376,
+    "characterMstId": 541,
+    "name": "HP +800",
+    "releaseLevel": 12,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 800,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7377,
+    "characterMstId": 541,
+    "name": "P.DEF +300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7378,
+    "characterMstId": 541,
+    "name": "Cost +2",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 7399,
     "characterMstId": 543,
     "name": "Blade (Fire) +30% (Rapunzel+ stages)",
@@ -46778,6 +46918,146 @@
     "effectType": 3,
     "effectValue": 400,
     "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 7551,
+    "characterMstId": 552,
+    "name": "Polearm +60% (Cinderella+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7552,
+    "characterMstId": 552,
+    "name": "Polearm +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7553,
+    "characterMstId": 552,
+    "name": "M.DEF +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7554,
+    "characterMstId": 552,
+    "name": "M.DEF +800",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 800,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7555,
+    "characterMstId": 552,
+    "name": "Polearm +10% (Cinderella+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7556,
+    "characterMstId": 552,
+    "name": "P.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7557,
+    "characterMstId": 552,
+    "name": "M.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7558,
+    "characterMstId": 552,
+    "name": "HP +300",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7559,
+    "characterMstId": 552,
+    "name": "M.DEF +100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7560,
+    "characterMstId": 552,
+    "name": "M.DMG +3% when using wind weapon",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5756,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7561,
+    "characterMstId": 552,
+    "name": "M.ATK +100",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7562,
+    "characterMstId": 552,
+    "name": "HP +800",
+    "releaseLevel": 12,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 800,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7563,
+    "characterMstId": 552,
+    "name": "M.ATK +300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 7564,
+    "characterMstId": 552,
+    "name": "Cost +2",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 8
   },
   {
     "characterAbilityMstId": 7597,
@@ -55378,6 +55658,46 @@
     "effectType": 5,
     "effectValue": 500,
     "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 900385,
+    "characterMstId": 552,
+    "name": "M.DEF +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 900386,
+    "characterMstId": 552,
+    "name": "Activation rate of colosseum support +2% when using polearm class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6922,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 900387,
+    "characterMstId": 541,
+    "name": "P.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 900388,
+    "characterMstId": 541,
+    "name": "Activation rate of colosseum support +2% when using blade class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6919,
+    "cardDetailType": 5
   },
   {
     "characterAbilityMstId": 900389,
