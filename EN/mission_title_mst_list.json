@@ -162,6 +162,18 @@
     "endTime": 1609045199
   },
   {
+    "missionTitleMstId": 83,
+    "title": "One Year Ends and Another Begins Mission",
+    "startTime": 1672120800,
+    "endTime": 1673848799
+  },
+  {
+    "missionTitleMstId": 84,
+    "title": "Daily Event Mission",
+    "startTime": 1672120800,
+    "endTime": 1673845199
+  },
+  {
     "missionTitleMstId": 90,
     "title": "\"Incarnation of Envy\" Mission",
     "startTime": 1623736800,
@@ -328,6 +340,12 @@
     "title": "The Ugly Dragon Mission",
     "startTime": 1642140000,
     "endTime": 1643349599
+  },
+  {
+    "missionTitleMstId": 231,
+    "title": "Makeover Mission",
+    "startTime": 1672120800,
+    "endTime": 1924959599
   },
   {
     "missionTitleMstId": 238,
@@ -1036,5 +1054,41 @@
     "title": "Zenith Bookmark Monthly Missions",
     "startTime": 1669870800,
     "endTime": 1672549199
+  },
+  {
+    "missionTitleMstId": 900080,
+    "title": "Act of Fusion New Chapters Celebration",
+    "startTime": 1672120800,
+    "endTime": 1673330399
+  },
+  {
+    "missionTitleMstId": 900082,
+    "title": "2.5th Anniversary Event Missions",
+    "startTime": 1672120800,
+    "endTime": 1673845199
+  },
+  {
+    "missionTitleMstId": 900083,
+    "title": "2.5th Anniversary Daily Event Mission",
+    "startTime": 1672120800,
+    "endTime": 1673845199
+  },
+  {
+    "missionTitleMstId": 900084,
+    "title": "End of Month Global Missions",
+    "startTime": 1672203600,
+    "endTime": 1672289999
+  },
+  {
+    "missionTitleMstId": 900085,
+    "title": "End of Month Global Daily Missions",
+    "startTime": 1672203600,
+    "endTime": 1672808399
+  },
+  {
+    "missionTitleMstId": 900086,
+    "title": "Zenith Bookmark Monthly Missions",
+    "startTime": 1672549200,
+    "endTime": 1675227599
   }
 ]

@@ -219,8 +219,8 @@
     "wayToGet": "Earned by playing an event.",
     "priority": 30,
     "itemMstId": 345,
-    "startTime": 1669615200,
-    "endTime": 1670907599,
+    "startTime": 1672207200,
+    "endTime": 1673499599,
     "displayType": 0,
     "isDeleted": false
   },
@@ -705,6 +705,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 64,
+    "name": "New Year's Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20221227_medal_yukutoshi",
+    "assetBundleName": "964",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 964,
+    "startTime": 1672120800,
+    "endTime": 1674453599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 67,
     "name": "Medal of Desire (II)",
     "description": "A medal that is an incidental byproduct of a Grimoire.",
@@ -1046,6 +1061,21 @@
     "itemMstId": 1812,
     "startTime": 1639116000,
     "endTime": 1641135599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 125,
+    "name": "Medal of Desire (I)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 1854,
+    "startTime": 1672207200,
+    "endTime": 1676818799,
     "displayType": 0,
     "isDeleted": false
   },

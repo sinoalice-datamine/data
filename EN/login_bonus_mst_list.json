@@ -432,6 +432,18 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 98,
+    "title": "Event Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1672120800,
+    "endTime": 1673848799,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 103,
     "title": "Guild Event Bonus",
     "cycleType": 2,
@@ -1939,6 +1951,54 @@
     "pickupSkillType": 1,
     "startTime": 1670911200,
     "endTime": 1672117199,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900068,
+    "title": "2.5th Anniversary Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1672120800,
+    "endTime": 1672981199,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900069,
+    "title": "Guild Event Streak Bonus",
+    "cycleType": 101,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1672207200,
+    "endTime": 1672808399,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900070,
+    "title": "Guild Event Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1672207200,
+    "endTime": 1672808399,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900071,
+    "title": "2.5th Anniversary Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1672981200,
+    "endTime": 1673845199,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""
