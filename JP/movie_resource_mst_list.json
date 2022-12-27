@@ -8280,6 +8280,29 @@
     "skipButtonType": 2
   },
   {
+    "movieResourceMstId": 375,
+    "movieTitle": "袖振ウ兎達OP",
+    "resourceName": "furisodeMovie",
+    "isPreDownLoad": 0,
+    "type": 1,
+    "value": 1122,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1672117200,
+    "endTime": 1988117999,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "条件なし　表示されていたらバグ",
+    "thumbAssetBundleName": "museumthumbnail/375",
+    "thumbResourceName": "furisodeMovie",
+    "museumStartTime": 1672117200,
+    "museumEndTime": 1988117999,
+    "vibStartTime": -1.0,
+    "skipButtonType": 0
+  },
+  {
     "movieResourceMstId": 376,
     "movieTitle": "作者篇「かぐや姫の過去」",
     "resourceName": "sakusya_miniOP_kaguya",
@@ -8370,5 +8393,28 @@
     "museumEndTime": 1988117999,
     "vibStartTime": -1.0,
     "skipButtonType": 2
+  },
+  {
+    "movieResourceMstId": 380,
+    "movieTitle": "シンスクラッチガチャ演出",
+    "resourceName": "ScratchGacha",
+    "isPreDownLoad": 0,
+    "type": 14,
+    "value": 0,
+    "value2": 0,
+    "condition": 0,
+    "canNotDeleteLocal": 0,
+    "startTime": 1672380000,
+    "endTime": 1673330399,
+    "isMuseum": 0,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "表示しない　表示されていたらバグ",
+    "thumbAssetBundleName": "",
+    "thumbResourceName": "",
+    "museumStartTime": 1509429600,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0,
+    "skipButtonType": 0
   }
 ]

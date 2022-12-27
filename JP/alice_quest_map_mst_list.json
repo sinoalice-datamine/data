@@ -6677,6 +6677,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 635,
+    "mapType": 1,
+    "mapGroup": 588,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "袖振ウ兎達　Normal",
+    "description": "絆紡ノ山宴イベントNormal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 636,
+    "mapType": 1,
+    "mapGroup": 588,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "袖振ウ兎達　Hard",
+    "description": "絆紡ノ山宴イベントHard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 639,
     "mapType": 0,
     "mapGroup": 7,
@@ -6728,6 +6750,17 @@
     "mapCategory": 0,
     "name": "嫉妬ノ化身Hard",
     "description": "邂逅「孤独ノ化身」Hard",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 646,
+    "mapType": 1,
+    "mapGroup": 593,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "曜日ステージ(メインストーリー応援CP）",
+    "description": "曜日イベント",
     "announceUrl": "",
     "createdTime": 1483974000
   }

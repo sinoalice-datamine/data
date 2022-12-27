@@ -5390,6 +5390,17 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 499,
+    "title": "イベントボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1672120800,
+    "endTime": 1673330399,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 500,
     "title": "イベントボーナス",
     "cycleType": 2,
@@ -5463,6 +5474,50 @@
     "pickupSkillType": 1,
     "startTime": 1671307200,
     "endTime": 1671793199,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 508,
+    "title": "シノアリスの日プレゼント",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1672171200,
+    "endTime": 1672430399,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 509,
+    "title": "ギルドイベントボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1672516800,
+    "endTime": 1673103599,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 511,
+    "title": "お年玉ログインボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1672516800,
+    "endTime": 1673330399,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 512,
+    "title": "カムバックキャンペーン報酬増量分",
+    "cycleType": 6,
+    "displayType": 3,
+    "pickupSkillType": 1,
+    "startTime": 1672117200,
+    "endTime": 1675108799,
     "resourceName": "1",
     "assetBundleName": ""
   },

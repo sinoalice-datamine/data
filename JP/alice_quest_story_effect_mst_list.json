@@ -53,5 +53,38 @@
     "seQueueName": "",
     "shakeInfo": "",
     "createdTime": 1483974000
+  },
+  {
+    "questStoryEffectMstId": 6,
+    "questStoryMstId": 8328,
+    "type": 3,
+    "assetBundleName": "scenario_effect/furisode_bunny",
+    "resourceName": "DecemberEventFurisodeBunnyScenario",
+    "seQueueSheet": "se_furisodebunny",
+    "seQueueName": "se_furisodebunny@002",
+    "shakeInfo": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questStoryEffectMstId": 7,
+    "questStoryMstId": 8330,
+    "type": 3,
+    "assetBundleName": "scenario_effect/furisode_bunny",
+    "resourceName": "DecemberEventFurisodeBunnyScenario",
+    "seQueueSheet": "se_furisodebunny",
+    "seQueueName": "se_furisodebunny@002",
+    "shakeInfo": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questStoryEffectMstId": 8,
+    "questStoryMstId": 8352,
+    "type": 3,
+    "assetBundleName": "scenario_effect/furisode_bunny",
+    "resourceName": "DecemberEventFurisodeBunnyScenario",
+    "seQueueSheet": "se_furisodebunny",
+    "seQueueName": "se_furisodebunny@002",
+    "shakeInfo": "",
+    "createdTime": 1483974000
   }
 ]
