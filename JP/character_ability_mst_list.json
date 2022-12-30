@@ -101400,6 +101400,306 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 10325,
+    "characterMstId": 731,
+    "name": "Aliceエリアで長柄60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10326,
+    "characterMstId": 731,
+    "name": "長柄40%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 40,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10327,
+    "characterMstId": 731,
+    "name": "打撃75%DOWN",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -75,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10328,
+    "characterMstId": 731,
+    "name": "射出75%DOWN",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -75,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 10329,
+    "characterMstId": 731,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10330,
+    "characterMstId": 731,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10331,
+    "characterMstId": 731,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10332,
+    "characterMstId": 731,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10333,
+    "characterMstId": 731,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10334,
+    "characterMstId": 731,
+    "name": "HP+2500",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10335,
+    "characterMstId": 731,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10336,
+    "characterMstId": 731,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10337,
+    "characterMstId": 731,
+    "name": "魔法攻撃+500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10338,
+    "characterMstId": 731,
+    "name": "魔法攻撃+500",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10339,
+    "characterMstId": 731,
+    "name": "魔法攻撃+600",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 600,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10340,
+    "characterMstId": 731,
+    "name": "魔法攻撃+600",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 600,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10341,
+    "characterMstId": 732,
+    "name": "Akazukinエリアで打撃60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10342,
+    "characterMstId": 732,
+    "name": "打撃40%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 40,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10343,
+    "characterMstId": 732,
+    "name": "長柄75%DOWN",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -75,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10344,
+    "characterMstId": 732,
+    "name": "刀剣75%DOWN",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -75,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10345,
+    "characterMstId": 732,
+    "name": "物理攻撃+300",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10346,
+    "characterMstId": 732,
+    "name": "物理攻撃+300",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10347,
+    "characterMstId": 732,
+    "name": "物理攻撃+300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10348,
+    "characterMstId": 732,
+    "name": "物理攻撃+300",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10349,
+    "characterMstId": 732,
+    "name": "物理攻撃+300",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10350,
+    "characterMstId": 732,
+    "name": "HP+2500",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10351,
+    "characterMstId": 732,
+    "name": "物理攻撃+400",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10352,
+    "characterMstId": 732,
+    "name": "物理攻撃+400",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10353,
+    "characterMstId": 732,
+    "name": "物理攻撃+500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10354,
+    "characterMstId": 732,
+    "name": "物理攻撃+500",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 10355,
     "characterMstId": 725,
     "name": "Aliceエリアで魔書60%UP",
@@ -102358,5 +102658,25 @@
     "effectType": 2,
     "effectValue": 600,
     "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10451,
+    "characterMstId": 732,
+    "name": "物理攻撃+600",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 600,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10452,
+    "characterMstId": 732,
+    "name": "物理攻撃+600",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 600,
+    "cardDetailType": 6
   }
 ]

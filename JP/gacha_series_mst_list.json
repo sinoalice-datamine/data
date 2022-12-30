@@ -45866,6 +45866,25 @@
     "createdTime": 1467266414
   },
   {
+    "gachaSeriesMstId": 105720,
+    "gachaGroupId": 5,
+    "topBannerMstId": 0,
+    "bannerMstId": 7916,
+    "isAlways": false,
+    "name": "神魔光臨",
+    "description": "-",
+    "noticeMessage": "このガチャで獲得できるメダルは以下の通りです。\r\n・ヨクボウメダル(Ⅰ)：STEP1～2で各50枚　STEP3～5で各100枚\r\n有効期限：2023年2月7日23:59\r\n・アリスメダル：STEP1～2で各60枚　STEP3～5で各120枚\r\n有効期限：2023年1月17日23:59\r\n・赤ずきんメダル：STEP1～2で各60枚　STEP3～5で各120枚\r\n有効期限：2023年1月17日23:59",
+    "priority": 45000,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=11385&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 0,
+    "createdTime": 1467266413
+  },
+  {
     "gachaSeriesMstId": 1000002,
     "gachaGroupId": 4,
     "topBannerMstId": 0,

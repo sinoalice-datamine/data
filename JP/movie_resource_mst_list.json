@@ -8416,5 +8416,28 @@
     "museumEndTime": 1924959599,
     "vibStartTime": -1.0,
     "skipButtonType": 0
+  },
+  {
+    "movieResourceMstId": 388,
+    "movieTitle": "新年のご挨拶 2023",
+    "resourceName": "HappyNewYear_2023",
+    "isPreDownLoad": 0,
+    "type": 15,
+    "value": 0,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1672498800,
+    "endTime": 1672757999,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "条件なし　表示されていたらバグ",
+    "thumbAssetBundleName": "museumthumbnail/388",
+    "thumbResourceName": "akeome2023",
+    "museumStartTime": 1672498800,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0,
+    "skipButtonType": 0
   }
 ]
