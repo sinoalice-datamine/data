@@ -36808,14 +36808,23 @@
   },
   {
     "skillMstId": 900009,
-    "skill_type": 99
+    "skill_type": 3,
+    "trigger": 1,
+    "activation_rate": 2,
+    "damage_support_effect_size": 4
   },
   {
     "skillMstId": 900010,
-    "skill_type": 99
+    "skill_type": 3,
+    "trigger": 3,
+    "activation_rate": 2,
+    "buff_support_effect_size": 4
   },
   {
     "skillMstId": 900011,
-    "skill_type": 99
+    "skill_type": 3,
+    "trigger": 2,
+    "activation_rate": 2,
+    "heal_support_effect_size": 4
   }
 ]
