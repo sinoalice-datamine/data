@@ -5864,5 +5864,47 @@
     "cueSheet": "se_hagarenfa",
     "cueName": "se_hagarenfa@006_R",
     "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 451,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_sinoalicehen1",
+    "cueName": "se_sinoalicehen1@001_R",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 452,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_sinoalicehen1",
+    "cueName": "se_sinoalicehen1@002_L",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 453,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_sinoalicehen1",
+    "cueName": "se_sinoalicehen1@003_L",
+    "createdTime": 1485961226
   }
 ]

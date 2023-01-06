@@ -102678,5 +102678,45 @@
     "effectType": 2,
     "effectValue": 600,
     "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10453,
+    "characterMstId": 661,
+    "name": "物理攻撃+1000",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 1000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10454,
+    "characterMstId": 661,
+    "name": "物理攻撃+4000",
+    "releaseLevel": 16,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 4000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10455,
+    "characterMstId": 662,
+    "name": "物理防御+1000",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 10456,
+    "characterMstId": 662,
+    "name": "物理防御+4000",
+    "releaseLevel": 16,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 4000,
+    "cardDetailType": 4
   }
 ]
