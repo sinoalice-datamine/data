@@ -8392,7 +8392,7 @@
     "GameKey": "PREFAB/0025",
     "JP": "残り回数：1回",
     "EN": "One time remaining.",
-    "KR": " ",
+    "KR": "One time remaining.",
     "DE": "One time remaining.",
     "FR": "One time remaining.",
     "ES": "Tiempo restante: 1",
@@ -21725,6 +21725,48 @@
     "FR": "Note: The language you have selected is no longer supported as of December 27, 2022 (UTC). Please be aware that updates after December 27, 2022 will be in English.",
     "ES": "Note: The language you have selected is no longer supported as of December 27, 2022 (UTC). Please be aware that updates after December 27, 2022 will be in English.",
     "TH": "Note: The language you have selected is no longer supported as of December 27, 2022 (UTC). Please be aware that updates after December 27, 2022 will be in English.",
+    "VN": ""
+  },
+  {
+    "id": 1553,
+    "TLM": 52811,
+    "Type": 0,
+    "GameKey": "PREFAB",
+    "JP": "このモノガタリは専用のデッキを使用します。\\nシナリオまたは、ポエムどちらを再生するか\\n選択してください。",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
+    "VN": ""
+  },
+  {
+    "id": 1554,
+    "TLM": 52812,
+    "Type": 0,
+    "GameKey": "PREFAB",
+    "JP": "シナリオ",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
+    "VN": ""
+  },
+  {
+    "id": 1555,
+    "TLM": 52813,
+    "Type": 0,
+    "GameKey": "PREFAB",
+    "JP": "ポエム",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
     "VN": ""
   }
 ]
