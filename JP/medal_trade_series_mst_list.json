@@ -10410,5 +10410,24 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 568,
+    "name": "サウナメダル",
+    "description": "ギシンアンキが集めているメダル※2023年2月6日23:59まで",
+    "resourceName": "item20230113_nightmare_gacha",
+    "assetBundleName": "5241",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年2月6日23:59まで",
+    "priority": 40,
+    "itemMstId": 5241,
+    "startTime": 1673589600,
+    "endTime": 1675695599,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]
