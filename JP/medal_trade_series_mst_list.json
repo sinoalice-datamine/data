@@ -10524,5 +10524,43 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 573,
+    "name": "ピノキオメダル",
+    "description": "ガチャで獲得できるメダル\r\n※2023年2月5日23:59まで",
+    "resourceName": "2023-02-05 23:59:59",
+    "assetBundleName": "MedalTradeTop",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年2月5日23:59まで",
+    "priority": 43,
+    "itemMstId": 5244,
+    "startTime": 1674280800,
+    "endTime": 1675609199,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 574,
+    "name": "スノウホワイトメダル",
+    "description": "ガチャで獲得できるメダル\r\n※2023年2月5日23:59まで",
+    "resourceName": "2023-02-05 23:59:59",
+    "assetBundleName": "MedalTradeTop",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年2月5日23:59まで",
+    "priority": 43,
+    "itemMstId": 5245,
+    "startTime": 1674280800,
+    "endTime": 1675609199,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]

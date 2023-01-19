@@ -103320,6 +103320,286 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 10517,
+    "characterMstId": 737,
+    "name": "Pinocchioエリアで祈祷60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 10518,
+    "characterMstId": 737,
+    "name": "祈祷13%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 13,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 10519,
+    "characterMstId": 737,
+    "name": "魔法防御+200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 10520,
+    "characterMstId": 737,
+    "name": "物理防御+200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 10521,
+    "characterMstId": 737,
+    "name": "Pinocchioエリアで魔具20%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 10522,
+    "characterMstId": 737,
+    "name": "魔法防御+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 10523,
+    "characterMstId": 737,
+    "name": "物理防御+200",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 10524,
+    "characterMstId": 737,
+    "name": "魔法防御+200",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 10525,
+    "characterMstId": 737,
+    "name": "物理防御+200",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 10526,
+    "characterMstId": 737,
+    "name": "HP+1500",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 10527,
+    "characterMstId": 737,
+    "name": "魔法防御+400",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 10528,
+    "characterMstId": 737,
+    "name": "魔具13%UP",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 13,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 10529,
+    "characterMstId": 737,
+    "name": "物理防御+500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 10530,
+    "characterMstId": 737,
+    "name": "魔法防御+500",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 10531,
+    "characterMstId": 738,
+    "name": "SnowWhiteエリアで打撃60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10532,
+    "characterMstId": 738,
+    "name": "打撃13%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 13,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10533,
+    "characterMstId": 738,
+    "name": "物理攻撃+200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10534,
+    "characterMstId": 738,
+    "name": "物理防御+200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10535,
+    "characterMstId": 738,
+    "name": "SnowWhiteエリアで刀剣20%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10536,
+    "characterMstId": 738,
+    "name": "物理攻撃+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10537,
+    "characterMstId": 738,
+    "name": "物理防御+200",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10538,
+    "characterMstId": 738,
+    "name": "物理攻撃+200",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10539,
+    "characterMstId": 738,
+    "name": "物理防御+200",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10540,
+    "characterMstId": 738,
+    "name": "HP+1500",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10541,
+    "characterMstId": 738,
+    "name": "物理攻撃+400",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10542,
+    "characterMstId": 738,
+    "name": "刀剣13%UP",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 13,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10543,
+    "characterMstId": 738,
+    "name": "物理防御+500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10544,
+    "characterMstId": 738,
+    "name": "物理攻撃+500",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 10545,
     "characterMstId": 736,
     "name": "魔法防御+500",
