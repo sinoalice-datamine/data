@@ -26535,12 +26535,12 @@
     "Type": 0,
     "GameKey": "ServerData/gvgMessage.overHealHp",
     "JP": "%ART_NAME%の効果でイノチを%GUILD_POINT%獲得。(残り%AMOUNT%回)",
-    "EN": "",
-    "KR": "",
-    "DE": "",
-    "FR": "",
-    "ES": "",
-    "TH": "",
+    "EN": "Gained %GUILD_POINT% lifeforce from the effect %ART_NAME%. (%AMOUNT% time(s) left)",
+    "KR": "Gained %GUILD_POINT% lifeforce from the effect %ART_NAME%. (%AMOUNT% time(s) left)",
+    "DE": "Gained %GUILD_POINT% lifeforce from the effect %ART_NAME%. (%AMOUNT% time(s) left)",
+    "FR": "Gained %GUILD_POINT% lifeforce from the effect %ART_NAME%. (%AMOUNT% time(s) left)",
+    "ES": "Gained %GUILD_POINT% lifeforce from the effect %ART_NAME%. (%AMOUNT% time(s) left)",
+    "TH": "Gained %GUILD_POINT% lifeforce from the effect %ART_NAME%. (%AMOUNT% time(s) left)",
     "VN": ""
   }
 ]

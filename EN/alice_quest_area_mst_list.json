@@ -9018,6 +9018,24 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 837,
+    "questMapMstId": 469,
+    "name": "Glory of Withering Flowers",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/24",
+    "bgResourceName": "0024",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 890,
     "questMapMstId": 59,
     "name": "Book of Nouveau Rich",
