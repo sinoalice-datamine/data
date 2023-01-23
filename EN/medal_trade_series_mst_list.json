@@ -1230,6 +1230,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 202,
+    "name": "Sin Medal",
+    "description": "Medal obtained in Parrah-Noya’s tavern at Colosseum Sin.",
+    "resourceName": "item20211018_colosseumsin1_honsen",
+    "assetBundleName": "1319",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Can be earned at the Colosseum Sin Parrah-Noya Tavern.",
+    "priority": 38,
+    "itemMstId": 2586,
+    "startTime": 1674450000,
+    "endTime": 1677387599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 206,
     "name": "Maple Medal",
     "description": "Medal collected by Parrah-Noya.",
