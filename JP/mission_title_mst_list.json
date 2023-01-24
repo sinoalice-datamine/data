@@ -9464,6 +9464,14 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 1215,
+    "title": "コロシアム・シン観戦ミッション",
+    "priority": 40001,
+    "startTime": 1676188800,
+    "endTime": 1676300399,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 1216,
     "title": "人気投票先行ミッション",
     "priority": 0,
@@ -9493,6 +9501,14 @@
     "priority": 0,
     "startTime": 1674417600,
     "endTime": 1674503999,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1220,
+    "title": "人気投票 デイリーミッション",
+    "priority": 49999,
+    "startTime": 1674540000,
+    "endTime": 1675177199,
     "isHideTime": false
   }
 ]
