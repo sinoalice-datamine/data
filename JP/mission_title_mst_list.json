@@ -9424,6 +9424,22 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 1205,
+    "title": "「モフモフとのであい」ミッション",
+    "priority": 20003,
+    "startTime": 1675054800,
+    "endTime": 1676354399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1206,
+    "title": "イベントデイリーミッション",
+    "priority": 20004,
+    "startTime": 1675054800,
+    "endTime": 1676354399,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 1207,
     "title": "生放送連動ミッション",
     "priority": 50000,
@@ -9541,6 +9557,14 @@
     "priority": 49998,
     "startTime": 1675177200,
     "endTime": 1675263599,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1225,
+    "title": "コラボ記念コロシアム参加ミッション",
+    "priority": 50000,
+    "startTime": 1675065600,
+    "endTime": 1676354399,
     "isHideTime": false
   }
 ]

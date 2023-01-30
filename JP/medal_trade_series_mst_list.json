@@ -10676,5 +10676,24 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 582,
+    "name": "ハローキティメダル",
+    "description": "ギシンアンキが集めているメダル※2023年2月21日23:59まで",
+    "resourceName": "item20220208_sanrio_gacha",
+    "assetBundleName": "4071",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年2月21日23:59まで",
+    "priority": 40,
+    "itemMstId": 5376,
+    "startTime": 1675054800,
+    "endTime": 1676991599,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]
