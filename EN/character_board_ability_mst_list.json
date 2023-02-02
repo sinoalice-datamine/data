@@ -6815,8 +6815,8 @@
   {
     "characterBoardAbilityMstId": 1041,
     "characterUniqueId": 0,
-    "name": "HP +1500",
-    "description": "HP +1500",
+    "name": "HP +1,500",
+    "description": "HP +1,500",
     "effectType": 1,
     "effectValue": 1500,
     "cardDetailType": 0
@@ -6824,8 +6824,8 @@
   {
     "characterBoardAbilityMstId": 1042,
     "characterUniqueId": 0,
-    "name": "HP +2000",
-    "description": "HP +2000",
+    "name": "HP +2,000",
+    "description": "HP +2,000",
     "effectType": 1,
     "effectValue": 2000,
     "cardDetailType": 0
@@ -7774,5 +7774,662 @@
     "effectType": 6,
     "effectValue": 5,
     "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 1969,
+    "characterUniqueId": 0,
+    "name": "HP+400",
+    "description": "HP+400",
+    "effectType": 1,
+    "effectValue": 400,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2132,
+    "characterUniqueId": 96,
+    "name": "Increase in Stages",
+    "description": "All weapon types +5% (Fullmetal Alchemist Brotherhood+ stages, Edward Elric class equipped)",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2133,
+    "characterUniqueId": 96,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When Edward Elric class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2134,
+    "characterUniqueId": 96,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When Edward Elric class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2135,
+    "characterUniqueId": 96,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +250 (Edward Elric class equipped)",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2136,
+    "characterUniqueId": 96,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +250 (Edward Elric class equipped)",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2137,
+    "characterUniqueId": 96,
+    "name": "Increase in Tickets",
+    "description": "Tickets Earned +20% (Fullmetal Alchemist Brotherhood+ stages, Edward Elric class equipped)",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2138,
+    "characterUniqueId": 96,
+    "name": "Increase in Tickets",
+    "description": "Tickets Earned +10% (Fullmetal Alchemist Brotherhood+ stages, Edward Elric class equipped)",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2139,
+    "characterUniqueId": 96,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (Edward Elric class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2140,
+    "characterUniqueId": 96,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (Edward Elric class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2141,
+    "characterUniqueId": 96,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (Edward Elric class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2142,
+    "characterUniqueId": 96,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (Edward Elric class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2143,
+    "characterUniqueId": 96,
+    "name": "Polearm +4%",
+    "description": "Polearm +4% (Edward Elric class equipped)",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 8
+  },
+  {
+    "characterBoardAbilityMstId": 2144,
+    "characterUniqueId": 97,
+    "name": "Increase in Stages",
+    "description": "All weapon types +5% (Fullmetal Alchemist Brotherhood+ stages, Alphonse Elric class equipped)",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2145,
+    "characterUniqueId": 97,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When Alphonse Elric class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2146,
+    "characterUniqueId": 97,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When Alphonse Elric class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2147,
+    "characterUniqueId": 97,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +250 (Alphonse Elric class equipped)",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2148,
+    "characterUniqueId": 97,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +250 (Alphonse Elric class equipped)",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2149,
+    "characterUniqueId": 97,
+    "name": "Increase in Tickets",
+    "description": "Tickets Earned +20% (Fullmetal Alchemist Brotherhood+ stages, Alphonse Elric class equipped)",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2150,
+    "characterUniqueId": 97,
+    "name": "Increase in Tickets",
+    "description": "Tickets Earned +10% (Fullmetal Alchemist Brotherhood+ stages, Alphonse Elric class equipped)",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2151,
+    "characterUniqueId": 97,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (Alphonse Elric class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2152,
+    "characterUniqueId": 97,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (Alphonse Elric class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2153,
+    "characterUniqueId": 97,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (Alphonse Elric class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2154,
+    "characterUniqueId": 97,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (Alphonse Elric class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2155,
+    "characterUniqueId": 97,
+    "name": "Heavy +4%",
+    "description": "Heavy +4% (Alphonse Elric class equipped)",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 6
+  },
+  {
+    "characterBoardAbilityMstId": 2156,
+    "characterUniqueId": 98,
+    "name": "Increase in Stages",
+    "description": "All weapon types +5% (Fullmetal Alchemist Brotherhood+ stages, Roy Mustang class equipped)",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2157,
+    "characterUniqueId": 98,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When Roy Mustang class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2158,
+    "characterUniqueId": 98,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When Roy Mustang class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2159,
+    "characterUniqueId": 98,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +250 (Roy Mustang class equipped)",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2160,
+    "characterUniqueId": 98,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +250 (Roy Mustang class equipped)",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2161,
+    "characterUniqueId": 98,
+    "name": "Increase in Tickets",
+    "description": "Tickets Earned +20% (Fullmetal Alchemist Brotherhood+ stages, Roy Mustang class equipped)",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2162,
+    "characterUniqueId": 98,
+    "name": "Increase in Tickets",
+    "description": "Tickets Earned +10% (Fullmetal Alchemist Brotherhood+ stages, Roy Mustang class equipped)",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2163,
+    "characterUniqueId": 98,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (Roy Mustang class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2164,
+    "characterUniqueId": 98,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (Roy Mustang class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2165,
+    "characterUniqueId": 98,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (Roy Mustang class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2166,
+    "characterUniqueId": 98,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (Roy Mustang class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2167,
+    "characterUniqueId": 98,
+    "name": "Tome +2%",
+    "description": "Tome +2% (Roy Mustang class equipped)",
+    "effectType": 6,
+    "effectValue": 2,
+    "cardDetailType": 2
+  },
+  {
+    "characterBoardAbilityMstId": 2168,
+    "characterUniqueId": 100,
+    "name": "Increase in Stages",
+    "description": "All weapon types +5% (Fullmetal Alchemist Brotherhood+ stages, Riza Hawkeye class equipped)",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2169,
+    "characterUniqueId": 100,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When Riza Hawkeye class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2170,
+    "characterUniqueId": 100,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When Riza Hawkeye class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2171,
+    "characterUniqueId": 100,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +250 (Riza Hawkeye class equipped)",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2172,
+    "characterUniqueId": 100,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +250 (Riza Hawkeye class equipped)",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2173,
+    "characterUniqueId": 100,
+    "name": "Increase in Tickets",
+    "description": "Tickets Earned +20% (Fullmetal Alchemist Brotherhood+ stages, Riza Hawkeye class equipped)",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2174,
+    "characterUniqueId": 100,
+    "name": "Increase in Tickets",
+    "description": "Tickets Earned +10% (Fullmetal Alchemist Brotherhood+ stages, Riza Hawkeye class equipped)",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2175,
+    "characterUniqueId": 100,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (Riza Hawkeye class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2176,
+    "characterUniqueId": 100,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (Riza Hawkeye class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2177,
+    "characterUniqueId": 100,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (Riza Hawkeye class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2178,
+    "characterUniqueId": 100,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (Riza Hawkeye class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2179,
+    "characterUniqueId": 100,
+    "name": "Projectile +4%",
+    "description": "Projectile +4% (Riza Hawkeye class equipped)",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 7
+  },
+  {
+    "characterBoardAbilityMstId": 2180,
+    "characterUniqueId": 101,
+    "name": "Increase in Stages",
+    "description": "All weapon types +5% (Fullmetal Alchemist Brotherhood+ stages, Lust class equipped)",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2181,
+    "characterUniqueId": 101,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When Lust class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2182,
+    "characterUniqueId": 101,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When Lust class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2183,
+    "characterUniqueId": 101,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +250 (Lust class equipped)",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2184,
+    "characterUniqueId": 101,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +250 (Lust class equipped)",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2185,
+    "characterUniqueId": 101,
+    "name": "Increase in Tickets",
+    "description": "Tickets Earned +20% (Fullmetal Alchemist Brotherhood+ stages, Lust class equipped)",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2186,
+    "characterUniqueId": 101,
+    "name": "Increase in Tickets",
+    "description": "Tickets Earned +10% (Fullmetal Alchemist Brotherhood+ stages, Lust class equipped)",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2187,
+    "characterUniqueId": 101,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (Lust class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2188,
+    "characterUniqueId": 101,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (Lust class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2189,
+    "characterUniqueId": 101,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (Lust class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2190,
+    "characterUniqueId": 101,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (Lust class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2191,
+    "characterUniqueId": 101,
+    "name": "Instrument +2%",
+    "description": "Instrument +2% (Lust class equipped)",
+    "effectType": 6,
+    "effectValue": 2,
+    "cardDetailType": 1
+  },
+  {
+    "characterBoardAbilityMstId": 2192,
+    "characterUniqueId": 102,
+    "name": "Increase in Stages",
+    "description": "All weapon types +5% (Fullmetal Alchemist Brotherhood+ stages, King Bradley class equipped)",
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2193,
+    "characterUniqueId": 102,
+    "name": "SP Supply/Tale",
+    "description": "Raises SP Supply/Tale to Lv. 1 When King Bradley class is equipped, chance to reduce SP cost when weapon skill is activated in story verses.",
+    "effectType": 14,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2194,
+    "characterUniqueId": 102,
+    "name": "SP Supply/Duel",
+    "description": "Raises SP Supply/Duel to Lv. 1 When King Bradley class is equipped, chance to reduce SP cost when weapon skill is activated at the Colosseum.",
+    "effectType": 13,
+    "effectValue": 1,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2195,
+    "characterUniqueId": 102,
+    "name": "P.ATK & M.ATK Increase",
+    "description": "P.ATK & M.ATK +250 (King Bradley class equipped)",
+    "effectType": 11,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2196,
+    "characterUniqueId": 102,
+    "name": "P.DEF & M.DEF Increase",
+    "description": "P.DEF & M.DEF +250 (King Bradley class equipped)",
+    "effectType": 12,
+    "effectValue": 250,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2197,
+    "characterUniqueId": 102,
+    "name": "Increase in Tickets",
+    "description": "Tickets Earned +20% (Fullmetal Alchemist Brotherhood+ stages, King Bradley class equipped)",
+    "effectType": 15,
+    "effectValue": 20,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2198,
+    "characterUniqueId": 102,
+    "name": "Increase in Tickets",
+    "description": "Tickets Earned +10% (Fullmetal Alchemist Brotherhood+ stages, King Bradley class equipped)",
+    "effectType": 15,
+    "effectValue": 10,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2199,
+    "characterUniqueId": 102,
+    "name": "P.ATK +300",
+    "description": "P.ATK +300 (King Bradley class equipped)",
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2200,
+    "characterUniqueId": 102,
+    "name": "P.DEF +300",
+    "description": "P.DEF +300 (King Bradley class equipped)",
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2201,
+    "characterUniqueId": 102,
+    "name": "M.ATK +300",
+    "description": "M.ATK +300 (King Bradley class equipped)",
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2202,
+    "characterUniqueId": 102,
+    "name": "M.DEF +300",
+    "description": "M.DEF +300 (King Bradley class equipped)",
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2203,
+    "characterUniqueId": 102,
+    "name": "Blade +4%",
+    "description": "Blade +4% (King Bradley class equipped)",
+    "effectType": 6,
+    "effectValue": 4,
+    "cardDetailType": 5
   }
 ]

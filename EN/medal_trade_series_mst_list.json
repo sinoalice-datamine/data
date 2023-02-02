@@ -1440,6 +1440,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 542,
+    "name": "Pocket Watch Medal",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item20230202_gacha_hagane",
+    "assetBundleName": "5120",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 44,
+    "itemMstId": 5120,
+    "startTime": 1675317600,
+    "endTime": 1677164399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 900001,
     "name": "Gladiator Medal",
     "description": "Medal awarded based on weapon usage at the Colosseum.",
