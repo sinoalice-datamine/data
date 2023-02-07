@@ -34980,6 +34980,126 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 4147,
+    "characterMstId": 328,
+    "name": "Instrument +30% (Hamelin+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4148,
+    "characterMstId": 328,
+    "name": "Tome -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4149,
+    "characterMstId": 328,
+    "name": "Staff -25%",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4150,
+    "characterMstId": 328,
+    "name": "Tome -25%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4151,
+    "characterMstId": 328,
+    "name": "Staff -25%",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4152,
+    "characterMstId": 328,
+    "name": "Tome -25%",
+    "releaseLevel": 6,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4153,
+    "characterMstId": 328,
+    "name": "Staff -25%",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4154,
+    "characterMstId": 328,
+    "name": "Instrument +15%",
+    "releaseLevel": 8,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4155,
+    "characterMstId": 328,
+    "name": "P.DEF +500",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4156,
+    "characterMstId": 328,
+    "name": "Instrument +15% (Hamelin+ stages)",
+    "releaseLevel": 10,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4157,
+    "characterMstId": 328,
+    "name": "P.ATK +500",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4158,
+    "characterMstId": 328,
+    "name": "Instrument +5% (Hamelin+ stages)",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 5,
+    "cardDetailType": 1
+  },
+  {
     "characterAbilityMstId": 4173,
     "characterMstId": 232,
     "name": "Heavy (Water) +30% (Dorothy+ stages)",
@@ -35778,6 +35898,46 @@
     "effectType": 9,
     "effectValue": 1000,
     "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4351,
+    "characterMstId": 231,
+    "name": "HP +2500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4352,
+    "characterMstId": 231,
+    "name": "M.DMG +2% when using polearm class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5032,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 4353,
+    "characterMstId": 85,
+    "name": "HP +2500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2500,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 4354,
+    "characterMstId": 85,
+    "name": "Recovery effect +2% when using staff class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5035,
+    "cardDetailType": 4
   },
   {
     "characterAbilityMstId": 4363,
@@ -39358,6 +39518,146 @@
     "effectType": 4,
     "effectValue": 400,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5279,
+    "characterMstId": 420,
+    "name": "Projectile +30% (Dorothy+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5280,
+    "characterMstId": 420,
+    "name": "Projectile +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5281,
+    "characterMstId": 420,
+    "name": "M.DEF +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5282,
+    "characterMstId": 420,
+    "name": "M.DEF +800",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 800,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5283,
+    "characterMstId": 420,
+    "name": "Projectile +20% (Dorothy+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5284,
+    "characterMstId": 420,
+    "name": "P.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5285,
+    "characterMstId": 420,
+    "name": "Projectile +20% (Dorothy+ stages)",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5286,
+    "characterMstId": 420,
+    "name": "M.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5287,
+    "characterMstId": 420,
+    "name": "HP +300",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5288,
+    "characterMstId": 420,
+    "name": "M.DMG +3% when using wind weapon",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5756,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5289,
+    "characterMstId": 420,
+    "name": "M.ATK +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5290,
+    "characterMstId": 420,
+    "name": "HP +800",
+    "releaseLevel": 12,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 800,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5291,
+    "characterMstId": 420,
+    "name": "M.DEF +300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 5292,
+    "characterMstId": 420,
+    "name": "Cost +2",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 7
   },
   {
     "characterAbilityMstId": 5293,
@@ -43358,6 +43658,166 @@
     "effectType": 3,
     "effectValue": 400,
     "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 6385,
+    "characterMstId": 476,
+    "name": "Instrument +30% (Aladdin+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6386,
+    "characterMstId": 476,
+    "name": "Instrument +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6387,
+    "characterMstId": 476,
+    "name": "M.DEF +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6388,
+    "characterMstId": 476,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6389,
+    "characterMstId": 476,
+    "name": "Instrument +10% (Aladdin+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6390,
+    "characterMstId": 476,
+    "name": "M.ATK +500",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6391,
+    "characterMstId": 476,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6392,
+    "characterMstId": 476,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6393,
+    "characterMstId": 476,
+    "name": "Instrument +10% (Aladdin+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6394,
+    "characterMstId": 476,
+    "name": "HP +600",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 600,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6395,
+    "characterMstId": 476,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6396,
+    "characterMstId": 476,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6397,
+    "characterMstId": 476,
+    "name": "Instrument +10% (Aladdin+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6398,
+    "characterMstId": 476,
+    "name": "HP +400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6399,
+    "characterMstId": 476,
+    "name": "M.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 6400,
+    "characterMstId": 476,
+    "name": "Buff effect +2% when using instrument class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5033,
+    "cardDetailType": 1
   },
   {
     "characterAbilityMstId": 6401,
@@ -50380,6 +50840,146 @@
     "cardDetailType": 5
   },
   {
+    "characterAbilityMstId": 8231,
+    "characterMstId": 594,
+    "name": "Heavy +60% (Little Match Girl+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8232,
+    "characterMstId": 594,
+    "name": "Heavy +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8233,
+    "characterMstId": 594,
+    "name": "P.DEF +100",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8234,
+    "characterMstId": 594,
+    "name": "P.ATK +800",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 800,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8235,
+    "characterMstId": 594,
+    "name": "Heavy +10% (Little Match Girl+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8236,
+    "characterMstId": 594,
+    "name": "M.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8237,
+    "characterMstId": 594,
+    "name": "P.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8238,
+    "characterMstId": 594,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8239,
+    "characterMstId": 594,
+    "name": "HP +300",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8240,
+    "characterMstId": 594,
+    "name": "P.DMG +3% when using fire weapon",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6016,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8241,
+    "characterMstId": 594,
+    "name": "P.ATK +100",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8242,
+    "characterMstId": 594,
+    "name": "HP +800",
+    "releaseLevel": 12,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 800,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8243,
+    "characterMstId": 594,
+    "name": "P.DEF +300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8244,
+    "characterMstId": 594,
+    "name": "Cost +2",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 2,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 8273,
     "characterMstId": 238,
     "name": "P.DEF +400",
@@ -52477,6 +53077,166 @@
     "skillType": 4,
     "effectType": 13,
     "effectValue": 5034,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8763,
+    "characterMstId": 626,
+    "name": "Tome (Fire) +30% (Rapunzel+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8764,
+    "characterMstId": 626,
+    "name": "All Weapons (Water) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 8765,
+    "characterMstId": 626,
+    "name": "Tome (Fire) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8766,
+    "characterMstId": 626,
+    "name": "Tome (Fire) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8767,
+    "characterMstId": 626,
+    "name": "M.DEF +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8768,
+    "characterMstId": 626,
+    "name": "P.ATK +1,200",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 1200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8769,
+    "characterMstId": 626,
+    "name": "M.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8770,
+    "characterMstId": 626,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8771,
+    "characterMstId": 626,
+    "name": "Tome (Fire) +10% (Rapunzel+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8772,
+    "characterMstId": 626,
+    "name": "Debuff effect +3% when using tome class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7084,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8773,
+    "characterMstId": 626,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8774,
+    "characterMstId": 626,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8775,
+    "characterMstId": 626,
+    "name": "Tome (Fire) +30% (Rapunzel+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8776,
+    "characterMstId": 626,
+    "name": "M.ATK +1,200",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 1200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8777,
+    "characterMstId": 626,
+    "name": "P.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8778,
+    "characterMstId": 626,
+    "name": "M.ATK +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
     "cardDetailType": 2
   },
   {
@@ -59318,5 +60078,45 @@
     "effectType": 4,
     "effectValue": 400,
     "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 900467,
+    "characterMstId": 420,
+    "name": "M.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 900468,
+    "characterMstId": 420,
+    "name": "Activation rate of colosseum support +2% when using projectile class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6921,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 900469,
+    "characterMstId": 594,
+    "name": "P.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 900470,
+    "characterMstId": 594,
+    "name": "Activation rate of colosseum support +2% when using heavy class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6920,
+    "cardDetailType": 6
   }
 ]
