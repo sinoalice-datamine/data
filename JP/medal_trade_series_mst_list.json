@@ -10695,5 +10695,43 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 585,
+    "name": "シンデレラメダル",
+    "description": "ガチャで獲得できるメダル\r\n※2023年2月22日23:59まで",
+    "resourceName": "item20200124_pinocchio_gacha",
+    "assetBundleName": "MedalTradeTop",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年2月22日23:59まで",
+    "priority": 43,
+    "itemMstId": 5400,
+    "startTime": 1675922400,
+    "endTime": 1677077999,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 586,
+    "name": "マッチ売りの少女メダル",
+    "description": "ガチャで獲得できるメダル\r\n※2023年2月22日23:59まで",
+    "resourceName": "item20200124_pinocchio_gacha",
+    "assetBundleName": "MedalTradeTop",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年2月22日23:59まで",
+    "priority": 43,
+    "itemMstId": 5401,
+    "startTime": 1675922400,
+    "endTime": 1677077999,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]
