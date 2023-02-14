@@ -106078,5 +106078,325 @@
     "effectType": 2,
     "effectValue": 600,
     "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10807,
+    "characterMstId": 755,
+    "name": "Rapunzelエリアで刀剣60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10808,
+    "characterMstId": 755,
+    "name": "刀剣10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10809,
+    "characterMstId": 755,
+    "name": "物理防御+200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10810,
+    "characterMstId": 755,
+    "name": "物理防御+4000",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 4000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10811,
+    "characterMstId": 755,
+    "name": "物理攻撃+300",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10812,
+    "characterMstId": 755,
+    "name": "魔法防御+300",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10813,
+    "characterMstId": 755,
+    "name": "物理攻撃+300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10814,
+    "characterMstId": 755,
+    "name": "火属性武器使用時、物理ダメージ3%UP",
+    "releaseLevel": 8,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6016,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10815,
+    "characterMstId": 755,
+    "name": "HP+2000",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10816,
+    "characterMstId": 755,
+    "name": "刀剣ジョブ使用時、物理ダメージ4%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7869,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10817,
+    "characterMstId": 755,
+    "name": "物理攻撃+400",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10818,
+    "characterMstId": 755,
+    "name": "物理防御+500",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10819,
+    "characterMstId": 755,
+    "name": "物理防御+600",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 600,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10820,
+    "characterMstId": 755,
+    "name": "物理攻撃時ｲﾉﾁ取得量3%UP(開始～終了5分前)",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5826,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10821,
+    "characterMstId": 755,
+    "name": "物理攻撃+700",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 700,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10822,
+    "characterMstId": 755,
+    "name": "物理攻撃+3000",
+    "releaseLevel": 16,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 3000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10823,
+    "characterMstId": 756,
+    "name": "LittlePigsエリアで長柄60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10824,
+    "characterMstId": 756,
+    "name": "長柄10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10825,
+    "characterMstId": 756,
+    "name": "魔法防御+200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10826,
+    "characterMstId": 756,
+    "name": "魔法防御+4000",
+    "releaseLevel": 4,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 4000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10827,
+    "characterMstId": 756,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10828,
+    "characterMstId": 756,
+    "name": "物理防御+300",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10829,
+    "characterMstId": 756,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10830,
+    "characterMstId": 756,
+    "name": "風属性武器使用時、魔法ダメージ3%UP",
+    "releaseLevel": 8,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5756,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10831,
+    "characterMstId": 756,
+    "name": "HP+2000",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10832,
+    "characterMstId": 756,
+    "name": "長柄ジョブ使用時、魔法ダメージ4%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7872,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10833,
+    "characterMstId": 756,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10834,
+    "characterMstId": 756,
+    "name": "魔法防御+500",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10835,
+    "characterMstId": 756,
+    "name": "魔法攻撃+600",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 600,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10836,
+    "characterMstId": 756,
+    "name": "魔法攻撃時ｲﾉﾁ取得量3%UP(開始～終了5分前)",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6118,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10837,
+    "characterMstId": 756,
+    "name": "魔法攻撃+700",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 700,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10838,
+    "characterMstId": 756,
+    "name": "魔法攻撃+3000",
+    "releaseLevel": 16,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 3000,
+    "cardDetailType": 8
   }
 ]

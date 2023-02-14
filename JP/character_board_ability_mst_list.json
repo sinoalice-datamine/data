@@ -19393,5 +19393,905 @@
     "effectType": 6,
     "effectValue": 4,
     "cardDetailType": 5
+  },
+  {
+    "characterBoardAbilityMstId": 2204,
+    "characterUniqueId": 0,
+    "name": "物攻+500",
+    "description": "物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2205,
+    "characterUniqueId": 0,
+    "name": "魔攻+500",
+    "description": "魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2206,
+    "characterUniqueId": 0,
+    "name": "物防+500",
+    "description": "物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2207,
+    "characterUniqueId": 0,
+    "name": "魔防+500",
+    "description": "魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2208,
+    "characterUniqueId": 7,
+    "name": "物攻+500",
+    "description": "グレーテルのジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2209,
+    "characterUniqueId": 7,
+    "name": "魔攻+500",
+    "description": "グレーテルのジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2210,
+    "characterUniqueId": 7,
+    "name": "物防+500",
+    "description": "グレーテルのジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2211,
+    "characterUniqueId": 7,
+    "name": "魔防+500",
+    "description": "グレーテルのジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2212,
+    "characterUniqueId": 7,
+    "name": "物防+1000",
+    "description": "グレーテルのジョブを編成時、物理防御 +1000",
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2213,
+    "characterUniqueId": 7,
+    "name": "魔防+1000",
+    "description": "グレーテルのジョブを編成時、魔法防御 +1000",
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2214,
+    "characterUniqueId": 1,
+    "name": "物攻+500",
+    "description": "アリスのジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2215,
+    "characterUniqueId": 1,
+    "name": "魔攻+500",
+    "description": "アリスのジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2216,
+    "characterUniqueId": 1,
+    "name": "物防+500",
+    "description": "アリスのジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2217,
+    "characterUniqueId": 1,
+    "name": "魔防+500",
+    "description": "アリスのジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2218,
+    "characterUniqueId": 1,
+    "name": "物防+1000",
+    "description": "アリスのジョブを編成時、物理防御 +1000",
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2219,
+    "characterUniqueId": 1,
+    "name": "魔防+1000",
+    "description": "アリスのジョブを編成時、魔法防御 +1000",
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2220,
+    "characterUniqueId": 2,
+    "name": "物攻+500",
+    "description": "スノウホワイトのジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2221,
+    "characterUniqueId": 2,
+    "name": "魔攻+500",
+    "description": "スノウホワイトのジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2222,
+    "characterUniqueId": 2,
+    "name": "物防+500",
+    "description": "スノウホワイトのジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2223,
+    "characterUniqueId": 2,
+    "name": "魔防+500",
+    "description": "スノウホワイトのジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2224,
+    "characterUniqueId": 2,
+    "name": "物防+1000",
+    "description": "スノウホワイトのジョブを編成時、物理防御 +1000",
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2225,
+    "characterUniqueId": 2,
+    "name": "魔防+1000",
+    "description": "スノウホワイトのジョブを編成時、魔法防御 +1000",
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2226,
+    "characterUniqueId": 3,
+    "name": "物攻+500",
+    "description": "赤ずきんのジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2227,
+    "characterUniqueId": 3,
+    "name": "魔攻+500",
+    "description": "赤ずきんのジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2228,
+    "characterUniqueId": 3,
+    "name": "物防+500",
+    "description": "赤ずきんのジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2229,
+    "characterUniqueId": 3,
+    "name": "魔防+500",
+    "description": "赤ずきんのジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2230,
+    "characterUniqueId": 3,
+    "name": "物防+1000",
+    "description": "赤ずきんのジョブを編成時、物理防御 +1000",
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2231,
+    "characterUniqueId": 3,
+    "name": "魔防+1000",
+    "description": "赤ずきんのジョブを編成時、魔法防御 +1000",
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2232,
+    "characterUniqueId": 4,
+    "name": "物攻+500",
+    "description": "シンデレラのジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2233,
+    "characterUniqueId": 4,
+    "name": "魔攻+500",
+    "description": "シンデレラのジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2234,
+    "characterUniqueId": 4,
+    "name": "物防+500",
+    "description": "シンデレラのジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2235,
+    "characterUniqueId": 4,
+    "name": "魔防+500",
+    "description": "シンデレラのジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2236,
+    "characterUniqueId": 4,
+    "name": "物防+1000",
+    "description": "シンデレラのジョブを編成時、物理防御 +1000",
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2237,
+    "characterUniqueId": 4,
+    "name": "魔防+1000",
+    "description": "シンデレラのジョブを編成時、魔法防御 +1000",
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2238,
+    "characterUniqueId": 5,
+    "name": "物攻+500",
+    "description": "ピノキオのジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2239,
+    "characterUniqueId": 5,
+    "name": "魔攻+500",
+    "description": "ピノキオのジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2240,
+    "characterUniqueId": 5,
+    "name": "物防+500",
+    "description": "ピノキオのジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2241,
+    "characterUniqueId": 5,
+    "name": "魔防+500",
+    "description": "ピノキオのジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2242,
+    "characterUniqueId": 5,
+    "name": "物防+1000",
+    "description": "ピノキオのジョブを編成時、物理防御 +1000",
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2243,
+    "characterUniqueId": 5,
+    "name": "魔防+1000",
+    "description": "ピノキオのジョブを編成時、魔法防御 +1000",
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2244,
+    "characterUniqueId": 6,
+    "name": "物攻+500",
+    "description": "人魚姫のジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2245,
+    "characterUniqueId": 6,
+    "name": "魔攻+500",
+    "description": "人魚姫のジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2246,
+    "characterUniqueId": 6,
+    "name": "物防+500",
+    "description": "人魚姫のジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2247,
+    "characterUniqueId": 6,
+    "name": "魔防+500",
+    "description": "人魚姫のジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2248,
+    "characterUniqueId": 6,
+    "name": "物防+1000",
+    "description": "人魚姫のジョブを編成時、物理防御 +1000",
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2249,
+    "characterUniqueId": 6,
+    "name": "魔防+1000",
+    "description": "人魚姫のジョブを編成時、魔法防御 +1000",
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2250,
+    "characterUniqueId": 8,
+    "name": "物攻+500",
+    "description": "いばら姫のジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2251,
+    "characterUniqueId": 8,
+    "name": "魔攻+500",
+    "description": "いばら姫のジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2252,
+    "characterUniqueId": 8,
+    "name": "物防+500",
+    "description": "いばら姫のジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2253,
+    "characterUniqueId": 8,
+    "name": "魔防+500",
+    "description": "いばら姫のジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2254,
+    "characterUniqueId": 8,
+    "name": "物防+1000",
+    "description": "いばら姫のジョブを編成時、物理防御 +1000",
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2255,
+    "characterUniqueId": 8,
+    "name": "魔防+1000",
+    "description": "いばら姫のジョブを編成時、魔法防御 +1000",
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2256,
+    "characterUniqueId": 9,
+    "name": "物攻+500",
+    "description": "かぐや姫のジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2257,
+    "characterUniqueId": 9,
+    "name": "魔攻+500",
+    "description": "かぐや姫のジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2258,
+    "characterUniqueId": 9,
+    "name": "物防+500",
+    "description": "かぐや姫のジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2259,
+    "characterUniqueId": 9,
+    "name": "魔防+500",
+    "description": "かぐや姫のジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2260,
+    "characterUniqueId": 9,
+    "name": "物防+1000",
+    "description": "かぐや姫のジョブを編成時、物理防御 +1000",
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2261,
+    "characterUniqueId": 9,
+    "name": "魔防+1000",
+    "description": "かぐや姫のジョブを編成時、魔法防御 +1000",
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2262,
+    "characterUniqueId": 14,
+    "name": "物攻+500",
+    "description": "ドロシーのジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2263,
+    "characterUniqueId": 14,
+    "name": "魔攻+500",
+    "description": "ドロシーのジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2264,
+    "characterUniqueId": 14,
+    "name": "物防+500",
+    "description": "ドロシーのジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2265,
+    "characterUniqueId": 14,
+    "name": "魔防+500",
+    "description": "ドロシーのジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2266,
+    "characterUniqueId": 14,
+    "name": "物防+1000",
+    "description": "ドロシーのジョブを編成時、物理防御 +1000",
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2267,
+    "characterUniqueId": 14,
+    "name": "魔防+1000",
+    "description": "ドロシーのジョブを編成時、魔法防御 +1000",
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2268,
+    "characterUniqueId": 15,
+    "name": "物攻+500",
+    "description": "くるみ割り人形のジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2269,
+    "characterUniqueId": 15,
+    "name": "魔攻+500",
+    "description": "くるみ割り人形のジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2270,
+    "characterUniqueId": 15,
+    "name": "物防+500",
+    "description": "くるみ割り人形のジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2271,
+    "characterUniqueId": 15,
+    "name": "魔防+500",
+    "description": "くるみ割り人形のジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2272,
+    "characterUniqueId": 15,
+    "name": "物防+1000",
+    "description": "くるみ割り人形のジョブを編成時、物理防御 +1000",
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2273,
+    "characterUniqueId": 15,
+    "name": "魔防+1000",
+    "description": "くるみ割り人形のジョブを編成時、魔法防御 +1000",
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2274,
+    "characterUniqueId": 20,
+    "name": "物攻+500",
+    "description": "三匹の子豚のジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2275,
+    "characterUniqueId": 20,
+    "name": "魔攻+500",
+    "description": "三匹の子豚のジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2276,
+    "characterUniqueId": 20,
+    "name": "物防+500",
+    "description": "三匹の子豚のジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2277,
+    "characterUniqueId": 20,
+    "name": "魔防+500",
+    "description": "三匹の子豚のジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2278,
+    "characterUniqueId": 20,
+    "name": "物防+1000",
+    "description": "三匹の子豚のジョブを編成時、物理防御 +1000",
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2279,
+    "characterUniqueId": 20,
+    "name": "魔防+1000",
+    "description": "三匹の子豚のジョブを編成時、魔法防御 +1000",
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2280,
+    "characterUniqueId": 22,
+    "name": "物攻+500",
+    "description": "アラジンのジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2281,
+    "characterUniqueId": 22,
+    "name": "魔攻+500",
+    "description": "アラジンのジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2282,
+    "characterUniqueId": 22,
+    "name": "物防+500",
+    "description": "アラジンのジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2283,
+    "characterUniqueId": 22,
+    "name": "魔防+500",
+    "description": "アラジンのジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2284,
+    "characterUniqueId": 22,
+    "name": "物防+1000",
+    "description": "アラジンのジョブを編成時、物理防御 +1000",
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2285,
+    "characterUniqueId": 22,
+    "name": "魔防+1000",
+    "description": "アラジンのジョブを編成時、魔法防御 +1000",
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2286,
+    "characterUniqueId": 35,
+    "name": "物攻+500",
+    "description": "ラプンツェルのジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2287,
+    "characterUniqueId": 35,
+    "name": "魔攻+500",
+    "description": "ラプンツェルのジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2288,
+    "characterUniqueId": 35,
+    "name": "物防+500",
+    "description": "ラプンツェルのジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2289,
+    "characterUniqueId": 35,
+    "name": "魔防+500",
+    "description": "ラプンツェルのジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2290,
+    "characterUniqueId": 35,
+    "name": "物防+1000",
+    "description": "ラプンツェルのジョブを編成時、物理防御 +1000",
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2291,
+    "characterUniqueId": 35,
+    "name": "魔防+1000",
+    "description": "ラプンツェルのジョブを編成時、魔法防御 +1000",
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2292,
+    "characterUniqueId": 44,
+    "name": "物攻+500",
+    "description": "ハーメルンのジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2293,
+    "characterUniqueId": 44,
+    "name": "魔攻+500",
+    "description": "ハーメルンのジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2294,
+    "characterUniqueId": 44,
+    "name": "物防+500",
+    "description": "ハーメルンのジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2295,
+    "characterUniqueId": 44,
+    "name": "魔防+500",
+    "description": "ハーメルンのジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2296,
+    "characterUniqueId": 44,
+    "name": "物防+1000",
+    "description": "ハーメルンのジョブを編成時、物理防御 +1000",
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2297,
+    "characterUniqueId": 44,
+    "name": "魔防+1000",
+    "description": "ハーメルンのジョブを編成時、魔法防御 +1000",
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2298,
+    "characterUniqueId": 52,
+    "name": "物攻+500",
+    "description": "マッチ売りの少女のジョブを編成時、物理攻撃 +500",
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2299,
+    "characterUniqueId": 52,
+    "name": "魔攻+500",
+    "description": "マッチ売りの少女のジョブを編成時、魔法攻撃 +500",
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2300,
+    "characterUniqueId": 52,
+    "name": "物防+500",
+    "description": "マッチ売りの少女のジョブを編成時、物理防御 +500",
+    "effectType": 3,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2301,
+    "characterUniqueId": 52,
+    "name": "魔防+500",
+    "description": "マッチ売りの少女のジョブを編成時、魔法防御 +500",
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2302,
+    "characterUniqueId": 52,
+    "name": "物防+1000",
+    "description": "マッチ売りの少女のジョブを編成時、物理防御 +1000",
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 0
+  },
+  {
+    "characterBoardAbilityMstId": 2303,
+    "characterUniqueId": 52,
+    "name": "魔防+1000",
+    "description": "マッチ売りの少女のジョブを編成時、魔法防御 +1000",
+    "effectType": 5,
+    "effectValue": 1000,
+    "cardDetailType": 0
   }
 ]

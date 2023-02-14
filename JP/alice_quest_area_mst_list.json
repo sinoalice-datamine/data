@@ -21335,5 +21335,24 @@
     "disableMultipleCharacter": false,
     "startTime": null,
     "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 1168,
+    "questMapMstId": 647,
+    "name": "恋菓子の挽歌",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/199",
+    "bgResourceName": "0199",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "startTime": null,
+    "createdTime": 1485183600
   }
 ]

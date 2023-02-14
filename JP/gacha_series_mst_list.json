@@ -28139,6 +28139,25 @@
     "createdTime": 1467266400
   },
   {
+    "gachaSeriesMstId": 3367,
+    "gachaGroupId": 3,
+    "topBannerMstId": 0,
+    "bannerMstId": 8177,
+    "isAlways": false,
+    "name": "復刻　恋菓子の祈り＆版菓の闇ガチャ",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅱ)\r\n枚数：11回ガチャで100枚\r\n有効期限：2023年3月7日23:59",
+    "priority": 49600,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=11678&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266404
+  },
+  {
     "gachaSeriesMstId": 5001,
     "gachaGroupId": 9,
     "topBannerMstId": 0,
@@ -47745,6 +47764,25 @@
     "pickupFirstResourceAssetBundleName": "",
     "setItemPickupPosition": 0,
     "createdTime": 1467266413
+  },
+  {
+    "gachaSeriesMstId": 105820,
+    "gachaGroupId": 5,
+    "topBannerMstId": 0,
+    "bannerMstId": 8179,
+    "isAlways": false,
+    "name": "聖ノ祝祭",
+    "description": "-",
+    "noticeMessage": "※このガチャで獲得できるヨクボウメダルは以下の通りです。\r\n種類：ヨクボウメダル(Ⅱ)\r\n枚数：STEP1～2で各50枚　STEP3～5で各100枚\r\n有効期限：2023年3月7日23:59",
+    "priority": 49700,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=11681&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "setItemPickupPosition": 2,
+    "createdTime": 1467266414
   },
   {
     "gachaSeriesMstId": 1000002,

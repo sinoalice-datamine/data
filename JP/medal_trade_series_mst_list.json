@@ -10733,5 +10733,24 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 587,
+    "name": "聖のジョブメダル",
+    "description": "過去に登場した聖の精霊ジョブと交換できるメダル\r\n※2023年3月3日23:59まで",
+    "resourceName": "item20221126_hiziri_gacha",
+    "assetBundleName": "5121",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "聖ノ祝祭ガチャを行うことで獲得できます。\r\n※有効期限2023年3月3日23:59まで",
+    "priority": 50,
+    "itemMstId": 5420,
+    "startTime": 1676354400,
+    "endTime": 1677855599,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]

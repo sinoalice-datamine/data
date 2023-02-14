@@ -2310,6 +2310,34 @@
     "createdTime": null
   },
   {
+    "chatStampMstId": 180,
+    "name": "人魚姫/うるうる",
+    "resourceName": "180",
+    "assetBundleName": "chat75",
+    "filterType": 6,
+    "howToGet": "『第63回グランコロシアム』参加にて獲得可能",
+    "itemMstId": 5410,
+    "replaceMessage": "[*180]",
+    "isAnytime": 0,
+    "startTime": 1677650400,
+    "endTime": 1677657600,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 181,
+    "name": "ラプンツェル/大丈夫？",
+    "resourceName": "181",
+    "assetBundleName": "chat75",
+    "filterType": 35,
+    "howToGet": "『第63回グランコロシアム』本戦出場で獲得可能",
+    "itemMstId": 5411,
+    "replaceMessage": "[*181]",
+    "isAnytime": 0,
+    "startTime": 1677650400,
+    "endTime": 1677657600,
+    "createdTime": null
+  },
+  {
     "chatStampMstId": 900001,
     "name": "スノウホワイト/No.1",
     "resourceName": "900001",
