@@ -46460,6 +46460,166 @@
     "cardDetailType": 7
   },
   {
+    "characterAbilityMstId": 7109,
+    "characterMstId": 532,
+    "name": "Heavy (Fire) +30% (Aladdin+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 7110,
+    "characterMstId": 532,
+    "name": "All Weapons (Water) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 7111,
+    "characterMstId": 532,
+    "name": "Heavy (Fire) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 7112,
+    "characterMstId": 532,
+    "name": "Heavy (Fire) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 7113,
+    "characterMstId": 532,
+    "name": "P.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 7114,
+    "characterMstId": 532,
+    "name": "P.ATK +1,200",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 1200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 7115,
+    "characterMstId": 532,
+    "name": "HP +50",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 50,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 7116,
+    "characterMstId": 532,
+    "name": "P.DEF +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 7117,
+    "characterMstId": 532,
+    "name": "Heavy (Fire) +10% (Aladdin+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 7118,
+    "characterMstId": 532,
+    "name": "P.DMG +3% when using heavy class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6149,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 7119,
+    "characterMstId": 532,
+    "name": "P.DEF +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 7120,
+    "characterMstId": 532,
+    "name": "P.DEF +300",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 7121,
+    "characterMstId": 532,
+    "name": "Heavy (Fire) +30% (Aladdin+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 7122,
+    "characterMstId": 532,
+    "name": "P.ATK +1,200",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 1200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 7123,
+    "characterMstId": 532,
+    "name": "P.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 7124,
+    "characterMstId": 532,
+    "name": "P.ATK +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 7167,
     "characterMstId": 345,
     "name": "P.ATK +400",
@@ -53238,6 +53398,166 @@
     "effectType": 4,
     "effectValue": 400,
     "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8929,
+    "characterMstId": 634,
+    "name": "Instrument (Fire) +30% (Three Little Pigs+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8930,
+    "characterMstId": 634,
+    "name": "All Weapons (Water) -25%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -25,
+    "cardDetailType": 0
+  },
+  {
+    "characterAbilityMstId": 8931,
+    "characterMstId": 634,
+    "name": "Instrument (Fire) +25% (Story)",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 25,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8932,
+    "characterMstId": 634,
+    "name": "Instrument (Fire) +15%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 15,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8933,
+    "characterMstId": 634,
+    "name": "M.DEF +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8934,
+    "characterMstId": 634,
+    "name": "P.DEF +1,200",
+    "releaseLevel": 6,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 1200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8935,
+    "characterMstId": 634,
+    "name": "M.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8936,
+    "characterMstId": 634,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8937,
+    "characterMstId": 634,
+    "name": "Instrument (Fire) +10% (Three Little Pigs+ stages)",
+    "releaseLevel": 9,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8938,
+    "characterMstId": 634,
+    "name": "Buff effect +3% when using instrument class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7083,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8939,
+    "characterMstId": 634,
+    "name": "HP +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8940,
+    "characterMstId": 634,
+    "name": "HP +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8941,
+    "characterMstId": 634,
+    "name": "Instrument (Fire) +30% (Three Little Pigs+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 30,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8942,
+    "characterMstId": 634,
+    "name": "M.DEF +1,200",
+    "releaseLevel": 14,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 1200,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8943,
+    "characterMstId": 634,
+    "name": "M.DEF +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8944,
+    "characterMstId": 634,
+    "name": "P.DEF +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 1
   },
   {
     "characterAbilityMstId": 8945,
