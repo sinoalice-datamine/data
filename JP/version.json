@@ -1,9 +1,9 @@
 {
-  "lastCreatedTime": "2023-02-16 15:03:58",
+  "lastCreatedTime": "2023-02-21 15:02:30",
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
-      "version": 1526,
+      "version": 1528,
       "names": [
         "item_mst_list"
       ]
@@ -38,7 +38,7 @@
     },
     {
       "mstTableId": 8,
-      "version": 1503,
+      "version": 1504,
       "names": [
         "medal_trade_mst_list"
       ]
@@ -94,28 +94,28 @@
     },
     {
       "mstTableId": 20,
-      "version": 1538,
+      "version": 1540,
       "names": [
         "gacha_mst_list"
       ]
     },
     {
       "mstTableId": 21,
-      "version": 1558,
+      "version": 1560,
       "names": [
         "gacha_pickup_mst_list"
       ]
     },
     {
       "mstTableId": 22,
-      "version": 1089,
+      "version": 1091,
       "names": [
         "gacha_series_mst_list"
       ]
     },
     {
       "mstTableId": 23,
-      "version": 1019,
+      "version": 1020,
       "names": [
         "mission_mst_list"
       ]
@@ -199,21 +199,21 @@
     },
     {
       "mstTableId": 37,
-      "version": 857,
+      "version": 858,
       "names": [
         "mission_title_mst_list"
       ]
     },
     {
       "mstTableId": 38,
-      "version": 4205,
+      "version": 4208,
       "names": [
         "banner_mst_list"
       ]
     },
     {
       "mstTableId": 39,
-      "version": 290,
+      "version": 291,
       "names": [
         "alice_quest_scenario_mst_list"
       ]
@@ -227,7 +227,7 @@
     },
     {
       "mstTableId": 41,
-      "version": 276,
+      "version": 277,
       "names": [
         "quest_boss_story_mst_list"
       ]
@@ -255,28 +255,28 @@
     },
     {
       "mstTableId": 45,
-      "version": 350,
+      "version": 351,
       "names": [
         "alice_quest_map_mst_list"
       ]
     },
     {
       "mstTableId": 46,
-      "version": 407,
+      "version": 408,
       "names": [
         "alice_quest_area_mst_list"
       ]
     },
     {
       "mstTableId": 47,
-      "version": 467,
+      "version": 468,
       "names": [
         "quest_stage_mst_list"
       ]
     },
     {
       "mstTableId": 48,
-      "version": 265,
+      "version": 266,
       "names": [
         "alice_quest_area_group_mst_list"
       ]
@@ -290,21 +290,21 @@
     },
     {
       "mstTableId": 50,
-      "version": 401,
+      "version": 402,
       "names": [
         "quest_mission_mst_list"
       ]
     },
     {
       "mstTableId": 51,
-      "version": 376,
+      "version": 377,
       "names": [
         "quest_mission_reward_mst_list"
       ]
     },
     {
       "mstTableId": 54,
-      "version": 335,
+      "version": 336,
       "names": [
         "quest_stage_reward_mst_list"
       ]
@@ -332,7 +332,7 @@
     },
     {
       "mstTableId": 58,
-      "version": 625,
+      "version": 627,
       "names": [
         "gacha_bonus_mst_list"
       ]
@@ -367,7 +367,7 @@
     },
     {
       "mstTableId": 63,
-      "version": 1232,
+      "version": 1233,
       "names": [
         "quest_schedule_mst_list"
       ]
@@ -395,14 +395,14 @@
     },
     {
       "mstTableId": 67,
-      "version": 236,
+      "version": 237,
       "names": [
         "navigator_talk_mst_list"
       ]
     },
     {
       "mstTableId": 68,
-      "version": 245,
+      "version": 246,
       "names": [
         "navigator_talk_story_mst_list"
       ]
@@ -444,7 +444,7 @@
     },
     {
       "mstTableId": 74,
-      "version": 145,
+      "version": 146,
       "names": [
         "reward_set_mst_list"
       ]
@@ -633,7 +633,7 @@
     },
     {
       "mstTableId": 109,
-      "version": 133,
+      "version": 134,
       "names": [
         "quest_area_character_unique_mst_list"
       ]
@@ -668,14 +668,14 @@
     },
     {
       "mstTableId": 114,
-      "version": 171,
+      "version": 173,
       "names": [
         "gacha_count_bonus_mst_list"
       ]
     },
     {
       "mstTableId": 115,
-      "version": 170,
+      "version": 172,
       "names": [
         "gacha_count_bonus_detail_mst_list"
       ]
