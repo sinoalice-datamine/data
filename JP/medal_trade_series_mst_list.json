@@ -10809,5 +10809,43 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 591,
+    "name": "ヨクボウメダル(Ⅲ)",
+    "description": "ガチャで獲得できるメダル\r\n※2023年4月7日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年4月7日23:59まで",
+    "priority": 55,
+    "itemMstId": 5468,
+    "startTime": 1677218400,
+    "endTime": 1680879599,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 592,
+    "name": "かぐや姫メダル",
+    "description": "ガチャで獲得できるメダル\r\n※2023年3月14日23:59まで",
+    "resourceName": "2023-03-09 23:59:59",
+    "assetBundleName": "MedalTradeTop",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年3月14日23:59まで",
+    "priority": 43,
+    "itemMstId": 5424,
+    "startTime": 1677304800,
+    "endTime": 1678805999,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]
