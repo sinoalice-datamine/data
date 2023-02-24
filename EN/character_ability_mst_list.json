@@ -53400,6 +53400,146 @@
     "cardDetailType": 2
   },
   {
+    "characterAbilityMstId": 8791,
+    "characterMstId": 627,
+    "name": "Tome +40% (Hamelin+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 40,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8792,
+    "characterMstId": 627,
+    "name": "Tome +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8793,
+    "characterMstId": 627,
+    "name": "M.DEF +200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8794,
+    "characterMstId": 627,
+    "name": "P.DEF +200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8795,
+    "characterMstId": 627,
+    "name": "Instrument +20% (Hamelin+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8796,
+    "characterMstId": 627,
+    "name": "M.ATK +200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8797,
+    "characterMstId": 627,
+    "name": "Tome +20% (Hamelin+ stages)",
+    "releaseLevel": 7,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8798,
+    "characterMstId": 627,
+    "name": "M.DEF +200",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8799,
+    "characterMstId": 627,
+    "name": "P.DEF +300",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8800,
+    "characterMstId": 627,
+    "name": "HP +1,000",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8801,
+    "characterMstId": 627,
+    "name": "P.ATK +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8802,
+    "characterMstId": 627,
+    "name": "Instrument +10%",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 8803,
+    "characterMstId": 627,
+    "name": "HP +700",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 700,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8804,
+    "characterMstId": 627,
+    "name": "HP +700",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 700,
+    "cardDetailType": 2
+  },
+  {
     "characterAbilityMstId": 8929,
     "characterMstId": 634,
     "name": "Instrument (Fire) +30% (Three Little Pigs+ stages)",
@@ -60438,5 +60578,25 @@
     "effectType": 13,
     "effectValue": 6920,
     "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 900471,
+    "characterMstId": 627,
+    "name": "HP +800",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 800,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 900472,
+    "characterMstId": 627,
+    "name": "HP +800",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 800,
+    "cardDetailType": 2
   }
 ]
