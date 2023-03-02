@@ -20458,7 +20458,7 @@
     "TLM": 51618,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign11.tier29/description",
-    "JP": "有償魔晶石354個＋「プライド」の獲得",
+    "JP": "有償魔晶石354個＋「紫髪の炎腕ルスタ」の獲得",
     "EN": "Paid T.Crys. x354 & Pride",
     "KR": "Paid T.Crys. x354 & Pride",
     "DE": "Paid T.Crys. x354 & Pride",
@@ -26591,12 +26591,12 @@
     "Type": 0,
     "GameKey": "Server/collectionGacha.text.banner",
     "JP": "ラインナップされた\\n%sをすべて獲得しているため、\\nこのガチャは引くことができません",
-    "EN": "You cannot summon this grimoire because you have already acquired all %s items in the lineup.",
-    "KR": "You cannot summon this grimoire because you have already acquired all %s items in the lineup.",
-    "DE": "You cannot summon this grimoire because you have already acquired all %s items in the lineup.",
-    "FR": "You cannot summon this grimoire because you have already acquired all %s items in the lineup.",
-    "ES": "You cannot summon this grimoire because you have already acquired all %s items in the lineup.",
-    "TH": "You cannot summon this grimoire because you have already acquired all %s items in the lineup.",
+    "EN": "You cannot summon this grimoire because \r\nyou have already acquired all %s items in the lineup.",
+    "KR": "You cannot summon this grimoire because \r\nyou have already acquired all %s items in the lineup.",
+    "DE": "You cannot summon this grimoire because \r\nyou have already acquired all %s items in the lineup.",
+    "FR": "You cannot summon this grimoire because \r\nyou have already acquired all %s items in the lineup.",
+    "ES": "You cannot summon this grimoire because \r\nyou have already acquired all %s items in the lineup.",
+    "TH": "You cannot summon this grimoire because \r\nyou have already acquired all %s items in the lineup.",
     "VN": ""
   },
   {
@@ -26625,6 +26625,20 @@
     "FR": "SR Unlocked Class Weapon",
     "ES": "SR Unlocked Class Weapon",
     "TH": "SR Unlocked Class Weapon",
+    "VN": ""
+  },
+  {
+    "id": 1903,
+    "TLM": 52831,
+    "Type": 0,
+    "GameKey": "Server/whiteday.text.reward",
+    "JP": "握手会に何度も来てくれたお礼",
+    "EN": "A token of appreciation for the many times you attended the Meet & Greet",
+    "KR": "A token of appreciation for the many times you attended the Meet & Greet",
+    "DE": "A token of appreciation for the many times you attended the Meet & Greet",
+    "FR": "A token of appreciation for the many times you attended the Meet & Greet",
+    "ES": "A token of appreciation for the many times you attended the Meet & Greet",
+    "TH": "A token of appreciation for the many times you attended the Meet & Greet",
     "VN": ""
   }
 ]

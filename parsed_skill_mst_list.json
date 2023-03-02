@@ -37368,6 +37368,13 @@
     "damage_support_effect_size": 4
   },
   {
+    "skillMstId": 900013,
+    "skill_type": 3,
+    "trigger": 3,
+    "activation_rate": 1.5,
+    "buff_support_effect_size": 4
+  },
+  {
     "skillMstId": 900014,
     "skill_type": 3,
     "trigger": 2,
