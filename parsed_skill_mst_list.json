@@ -37252,6 +37252,186 @@
     }
   },
   {
+    "skillMstId": 8318,
+    "skill_type": 1,
+    "skill_name_tier": 7,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 1
+    },
+    "damage_type": 1,
+    "damage_effect_size": 6,
+    "nightmare_effect": {
+      "art_unique_ids": [
+        1063,
+        1080,
+        1,
+        1141,
+        0
+      ],
+      "boost_effect_size": 3
+    }
+  },
+  {
+    "skillMstId": 8319,
+    "skill_type": 1,
+    "skill_name_tier": 7,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 1
+    },
+    "damage_type": 2,
+    "damage_effect_size": 6,
+    "nightmare_effect": {
+      "art_unique_ids": [
+        1065,
+        1084,
+        3,
+        1143,
+        0
+      ],
+      "boost_effect_size": 3
+    }
+  },
+  {
+    "skillMstId": 8320,
+    "skill_type": 1,
+    "skill_name_tier": 7,
+    "primary_effect": 3,
+    "targets": {
+      "type": 1,
+      "min": 3,
+      "max": 3
+    },
+    "support_direction": 2,
+    "patk_effect_size": 4,
+    "matk_effect_size": 4,
+    "mdef_effect_size": 4,
+    "works_on_dead_targets": true
+  },
+  {
+    "skillMstId": 8321,
+    "skill_type": 1,
+    "skill_name_tier": 7,
+    "primary_effect": 3,
+    "targets": {
+      "type": 2,
+      "min": 3,
+      "max": 3
+    },
+    "support_direction": 1,
+    "patk_effect_size": 4,
+    "pdef_effect_size": 4,
+    "mdef_effect_size": 4,
+    "works_on_dead_targets": true
+  },
+  {
+    "skillMstId": 8322,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 2,
+      "max": 3
+    },
+    "damage_type": 2,
+    "damage_effect_size": 5,
+    "alternative_atk_stat_fraction": 0.6
+  },
+  {
+    "skillMstId": 8323,
+    "skill_type": 1,
+    "skill_name_tier": 7,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 1
+    },
+    "damage_type": 1,
+    "damage_effect_size": 6,
+    "nightmare_effect": {
+      "art_unique_ids": [
+        1063,
+        1080,
+        1,
+        1141
+      ],
+      "boost_effect_size": 3
+    }
+  },
+  {
+    "skillMstId": 8324,
+    "skill_type": 1,
+    "skill_name_tier": 7,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 1
+    },
+    "damage_type": 2,
+    "damage_effect_size": 6,
+    "nightmare_effect": {
+      "art_unique_ids": [
+        1065,
+        1084,
+        3,
+        1143
+      ],
+      "boost_effect_size": 3
+    }
+  },
+  {
+    "skillMstId": 8325,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 2,
+      "max": 3
+    },
+    "damage_type": 2,
+    "damage_effect_size": 5,
+    "alternative_atk_stat_fraction": 0.6
+  },
+  {
+    "skillMstId": 8326,
+    "skill_type": 1,
+    "skill_name_tier": 7,
+    "primary_effect": 3,
+    "targets": {
+      "type": 1,
+      "min": 3,
+      "max": 3
+    },
+    "support_direction": 2,
+    "patk_effect_size": 4,
+    "matk_effect_size": 4,
+    "mdef_effect_size": 4
+  },
+  {
+    "skillMstId": 8327,
+    "skill_type": 1,
+    "skill_name_tier": 7,
+    "primary_effect": 3,
+    "targets": {
+      "type": 2,
+      "min": 3,
+      "max": 3
+    },
+    "support_direction": 1,
+    "patk_effect_size": 4,
+    "pdef_effect_size": 4,
+    "mdef_effect_size": 4
+  },
+  {
     "skillMstId": 900001,
     "skill_type": 4,
     "when": {

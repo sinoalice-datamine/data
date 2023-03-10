@@ -9694,5 +9694,21 @@
     "startTime": 1685545200,
     "endTime": 1924959599,
     "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1250,
+    "title": "期間限定デイリーミッション",
+    "priority": 11,
+    "startTime": 1678719600,
+    "endTime": 1685545199,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1251,
+    "title": "生放送連動ミッション",
+    "priority": 50000,
+    "startTime": 1678708500,
+    "endTime": 1679324399,
+    "isHideTime": false
   }
 ]
