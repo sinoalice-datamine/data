@@ -2420,6 +2420,50 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 465,
+    "mapType": 1,
+    "mapGroup": 291,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Medal Event: White Day (Normal)",
+    "description": "Medal Event: White Day (Normal)",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 466,
+    "mapType": 1,
+    "mapGroup": 291,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "Medal Event: White Day (Hard)",
+    "description": "Medal Event: White Day (Hard)",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 467,
+    "mapType": 1,
+    "mapGroup": 292,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Bonus Stage",
+    "description": "White Day Only",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 468,
+    "mapType": 1,
+    "mapGroup": 293,
+    "mapGroupLv": 1,
+    "mapCategory": 4,
+    "name": "Photo Session",
+    "description": "Medal Event: Steamy at the Springs",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 469,
     "mapType": 1,
     "mapGroup": 294,

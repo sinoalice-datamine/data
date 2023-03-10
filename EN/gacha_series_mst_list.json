@@ -10555,5 +10555,39 @@
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",
     "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 900283,
+    "gachaGroupId": 5,
+    "bannerMstId": 900842,
+    "isAlways": false,
+    "name": "STEP Grimoire: Malemorphosis: Part 1",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal from this grimoire can be acquired by the following:\\nType: Cookie Medal\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Cookie medals from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 3100,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=3386&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 900284,
+    "gachaGroupId": 5,
+    "bannerMstId": 900843,
+    "isAlways": false,
+    "name": "STEP Grimoire: Malemorphosis: Part 2",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal from this grimoire can be acquired by the following:\\nType: Cookie Medal\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Cookie medals from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 3101,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=3387&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
   }
 ]
