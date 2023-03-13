@@ -54700,6 +54700,146 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 8977,
+    "characterMstId": 637,
+    "name": "Heavy +60% (Little Match Girl+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8978,
+    "characterMstId": 637,
+    "name": "Heavy +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8979,
+    "characterMstId": 637,
+    "name": "P.DEF +200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8980,
+    "characterMstId": 637,
+    "name": "M.DEF +200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8981,
+    "characterMstId": 637,
+    "name": "Blade +20% (Little Match Girl+ stages)",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 8982,
+    "characterMstId": 637,
+    "name": "P.ATK +200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8983,
+    "characterMstId": 637,
+    "name": "HP +800",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 800,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8984,
+    "characterMstId": 637,
+    "name": "P.DEF +200",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8985,
+    "characterMstId": 637,
+    "name": "M.DEF +300",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8986,
+    "characterMstId": 637,
+    "name": "HP +1,000",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8987,
+    "characterMstId": 637,
+    "name": "P.ATK +300",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8988,
+    "characterMstId": 637,
+    "name": "Blade +10%",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 8989,
+    "characterMstId": 637,
+    "name": "HP +700",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 700,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 8990,
+    "characterMstId": 637,
+    "name": "HP +700",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 700,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 9165,
     "characterMstId": 652,
     "name": "Polearm +30% (Little Mermaid+ stages)",
@@ -61278,5 +61418,25 @@
     "effectType": 1,
     "effectValue": 800,
     "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 900479,
+    "characterMstId": 637,
+    "name": "HP +800",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 800,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 900480,
+    "characterMstId": 637,
+    "name": "HP +800",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 800,
+    "cardDetailType": 6
   }
 ]

@@ -72300,6 +72300,26 @@
     "skillEffectParam2": 0
   },
   {
+    "skillMstId": 7088,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "Evil Ember of Leeching (V)",
+    "description": "Deals enormous M.DMG to 1 enemy.\\nSlightly restores own HP.",
+    "attackEffect": 0,
+    "sp": 22,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 3,
+    "typeLabel": "Single Enemy/Self",
+    "primaryIcon": 2,
+    "secondaryIcon": 3,
+    "rangeIcon": 1,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0
+  },
+  {
     "skillMstId": 7089,
     "category": 4,
     "setEffectSeriesId": 0,
