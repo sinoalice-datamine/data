@@ -6873,5 +6873,49 @@
     "description": "孤独ノ化身　Hard",
     "announceUrl": "",
     "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 652,
+    "mapType": 1,
+    "mapGroup": 597,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "メダル「ホワイトデー」Normal",
+    "description": "メダル「ホワイトデー」Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 653,
+    "mapType": 1,
+    "mapGroup": 597,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "メダル「ホワイトデー」Hard",
+    "description": "メダル「ホワイトデー」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 654,
+    "mapType": 1,
+    "mapGroup": 598,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "ボーナスステージ",
+    "description": "ホワイトデー限定",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 655,
+    "mapType": 1,
+    "mapGroup": 599,
+    "mapGroupLv": 1,
+    "mapCategory": 4,
+    "name": "撮影会",
+    "description": "メダル「湯煙ノ旅宴」新要素",
+    "announceUrl": "",
+    "createdTime": 1483974000
   }
 ]

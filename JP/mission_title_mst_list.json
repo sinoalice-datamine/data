@@ -9632,11 +9632,35 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 1231,
+    "title": "シノアリス篇ﾘｱﾙﾀｲﾑｸﾘｱﾐｯｼｮﾝ",
+    "priority": 20006,
+    "startTime": 1678770000,
+    "endTime": 1680274799,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 1232,
     "title": "「夜狐ノ花宴」ミッション",
     "priority": 0,
     "startTime": 1676354400,
     "endTime": 1677077999,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1233,
+    "title": "「偶像の男宴」ミッション",
+    "priority": 20003,
+    "startTime": 1678770000,
+    "endTime": 1679551199,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1234,
+    "title": "イベントデイリーミッション",
+    "priority": 20004,
+    "startTime": 1678770000,
+    "endTime": 1679551199,
     "isHideTime": false
   },
   {
@@ -9677,6 +9701,38 @@
     "priority": 49998,
     "startTime": 1677682800,
     "endTime": 1677769199,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1244,
+    "title": "シノアリスの日ミッション",
+    "priority": 49999,
+    "startTime": 1678806000,
+    "endTime": 1679065199,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1245,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1678806000,
+    "endTime": 1678892399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1246,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1678892400,
+    "endTime": 1678978799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1247,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1678978800,
+    "endTime": 1679065199,
     "isHideTime": false
   },
   {
