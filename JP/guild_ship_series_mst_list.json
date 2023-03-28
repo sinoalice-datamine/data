@@ -550,5 +550,21 @@
     "shipPartsBodyMstId": 250,
     "shipPartsRoofMstId": 249,
     "shipPartsAttachedMstId": 251
+  },
+  {
+    "guildShipSeriesMstId": 71,
+    "name": "LiLLion!シリーズ(WGC)",
+    "description": "第二回WGC優勝ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 263,
+    "shipPartsRoofMstId": 262,
+    "shipPartsAttachedMstId": 264
+  },
+  {
+    "guildShipSeriesMstId": 72,
+    "name": "勿忘草シリーズ(WGC)",
+    "description": "第二回WGC準優勝ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 266,
+    "shipPartsRoofMstId": 265,
+    "shipPartsAttachedMstId": 267
   }
 ]

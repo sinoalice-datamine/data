@@ -11037,5 +11037,24 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 602,
+    "name": "ヨクボウメダル(Ⅳ)",
+    "description": "ガチャで獲得できるメダル\r\n※2023年5月7日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年5月7日23:59まで",
+    "priority": 55,
+    "itemMstId": 5532,
+    "startTime": 1679983200,
+    "endTime": 1683471599,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]

@@ -3094,5 +3094,77 @@
     "fltParam": 0,
     "pdlmParam": 1,
     "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 262,
+    "name": "LiLLion!シリーズ(WGC)[船楼]",
+    "description": "第二回WGC優勝ギルドに贈られるシップの船楼パーツ",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1536,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 263,
+    "name": "LiLLion!シリーズ(WGC)[船体]",
+    "description": "第二回WGC優勝ギルドに贈られるシップの船体パーツ",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 32,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 264,
+    "name": "LiLLion!シリーズ(WGC)[灯篭]",
+    "description": "第二回WGC優勝ギルドに贈られるシップの灯篭パーツ",
+    "partsType": 3,
+    "hasReverseImage": true,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 265,
+    "name": "勿忘草シリーズ(WGC)[船楼]",
+    "description": "第二回WGC準優勝ギルドに贈られるシップの船楼パーツ",
+    "partsType": 1,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1536,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 266,
+    "name": "勿忘草シリーズ(WGC)[船体]",
+    "description": "第二回WGC準優勝ギルドに贈られるシップの船体パーツ",
+    "partsType": 2,
+    "hasReverseImage": false,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 32,
+    "pdlmParam": 0,
+    "rttParam": 0
+  },
+  {
+    "guildShipPartsMstId": 267,
+    "name": "勿忘草シリーズ(WGC)[灯篭]",
+    "description": "第二回WGC準優勝ギルドに贈られるシップの灯篭パーツ",
+    "partsType": 3,
+    "hasReverseImage": true,
+    "siegeHpBonus": 0,
+    "gainType": 2,
+    "fltParam": 1,
+    "pdlmParam": 0,
+    "rttParam": 0
   }
 ]
