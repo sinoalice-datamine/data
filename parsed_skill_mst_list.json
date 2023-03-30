@@ -37500,6 +37500,38 @@
     "mdef_effect_size": 4
   },
   {
+    "skillMstId": 8341,
+    "skill_type": 1,
+    "skill_name_tier": 6,
+    "primary_effect": 3,
+    "targets": {
+      "type": 2,
+      "min": 3,
+      "max": 3
+    },
+    "support_direction": 1,
+    "patk_effect_size": 4,
+    "works_on_dead_targets": true
+  },
+  {
+    "skillMstId": 8342,
+    "skill_type": 1,
+    "skill_name_tier": 6,
+    "primary_effect": 3,
+    "targets": {
+      "type": 1,
+      "min": 3,
+      "max": 3
+    },
+    "support_direction": 2,
+    "matk_effect_size": 2,
+    "mdef_effect_size": 2,
+    "colo_time_boost": {
+      "colo_time": -5,
+      "effect_size": 2
+    }
+  },
+  {
     "skillMstId": 900001,
     "skill_type": 4,
     "when": {
