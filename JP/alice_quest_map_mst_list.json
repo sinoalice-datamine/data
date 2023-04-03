@@ -6919,6 +6919,50 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 656,
+    "mapType": 1,
+    "mapGroup": 600,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "鍛錬ノ秘奥Normal",
+    "description": "筋トレイベントNormal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 657,
+    "mapType": 1,
+    "mapGroup": 600,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "鍛錬ノ秘奥Hard",
+    "description": "筋トレイベントHard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 658,
+    "mapType": 1,
+    "mapGroup": 601,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "ライブラリジム",
+    "description": "筋トレイベントライブラリジム",
+    "announceUrl": "/web/announce/body?announceMstId=11657&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 659,
+    "mapType": 1,
+    "mapGroup": 602,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "ライブラリジム",
+    "description": "筋トレイベントライブラリジム",
+    "announceUrl": "/web/announce/body?announceMstId=11657&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 662,
     "mapType": 1,
     "mapGroup": 604,
