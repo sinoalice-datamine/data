@@ -38080,6 +38080,186 @@
     "cardDetailType": 4
   },
   {
+    "characterAbilityMstId": 4797,
+    "characterMstId": 167,
+    "name": "HP +2500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2500,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4798,
+    "characterMstId": 167,
+    "name": "Debuff effect +2% when using tome class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5034,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 4799,
+    "characterMstId": 288,
+    "name": "HP +2500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4800,
+    "characterMstId": 288,
+    "name": "P.DMG +2% when using heavy class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5030,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4817,
+    "characterMstId": 379,
+    "name": "Heavy +60% (Red Riding Hood+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4818,
+    "characterMstId": 379,
+    "name": "Heavy +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4819,
+    "characterMstId": 379,
+    "name": "HP +300",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4820,
+    "characterMstId": 379,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4821,
+    "characterMstId": 379,
+    "name": "HP +300",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4822,
+    "characterMstId": 379,
+    "name": "M.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4823,
+    "characterMstId": 379,
+    "name": "HP +300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4824,
+    "characterMstId": 379,
+    "name": "HP +1,200",
+    "releaseLevel": 8,
+    "skillType": 4,
+    "effectType": 8,
+    "effectValue": 1200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4825,
+    "characterMstId": 379,
+    "name": "HP +300",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4826,
+    "characterMstId": 379,
+    "name": "Cost +5",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 5,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4827,
+    "characterMstId": 379,
+    "name": "P.ATK +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4828,
+    "characterMstId": 379,
+    "name": "Obtained lifeforce +3% every P.ATK (from start until last 5 mins. of battle)",
+    "releaseLevel": 12,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5826,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4829,
+    "characterMstId": 379,
+    "name": "P.ATK +300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 4830,
+    "characterMstId": 379,
+    "name": "P.DMG +4% when at a disadvantage using heavy class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900015,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 4833,
     "characterMstId": 125,
     "name": "Polearm +10% (Dorothy+ stages)",
@@ -62238,5 +62418,25 @@
     "effectType": 1,
     "effectValue": 800,
     "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 900483,
+    "characterMstId": 379,
+    "name": "P.ATK +500",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 900484,
+    "characterMstId": 379,
+    "name": "P.DMG +4% when using heavy class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7870,
+    "cardDetailType": 6
   }
 ]
