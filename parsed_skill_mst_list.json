@@ -37578,6 +37578,66 @@
     "combo": 15
   },
   {
+    "skillMstId": 8345,
+    "skill_type": 1,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 1
+    },
+    "damage_type": 1,
+    "damage_effect_size": 7,
+    "support_direction": 1,
+    "patk_effect_size": 2,
+    "pdef_effect_size": 2,
+    "combo": 30
+  },
+  {
+    "skillMstId": 8346,
+    "skill_type": 1,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 1
+    },
+    "damage_type": 1,
+    "damage_effect_size": 7,
+    "support_direction": 1,
+    "patk_effect_size": 2,
+    "pdef_effect_size": 2,
+    "combo": 30
+  },
+  {
+    "skillMstId": 8347,
+    "skill_type": 1,
+    "primary_effect": 2,
+    "targets": {
+      "type": 2,
+      "min": 4,
+      "max": 4
+    },
+    "heal_effect_size": 4,
+    "support_direction": 1,
+    "patk_effect_size": 2,
+    "pdef_effect_size": 2
+  },
+  {
+    "skillMstId": 8348,
+    "skill_type": 1,
+    "primary_effect": 2,
+    "targets": {
+      "type": 2,
+      "min": 4,
+      "max": 4
+    },
+    "heal_effect_size": 4,
+    "support_direction": 1,
+    "patk_effect_size": 2,
+    "pdef_effect_size": 2
+  },
+  {
     "skillMstId": 8353,
     "skill_type": 1,
     "skill_name_tier": 7,
