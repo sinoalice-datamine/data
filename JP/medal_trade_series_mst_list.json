@@ -11208,5 +11208,43 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 611,
+    "name": "グレーテルメダル",
+    "description": "ガチャで獲得できるメダル\r\n※2023年4月27日23:59まで",
+    "resourceName": "item20200124_pinocchio_gacha",
+    "assetBundleName": "MedalTradeTop",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年4月27日23:59まで",
+    "priority": 43,
+    "itemMstId": 5618,
+    "startTime": 1681365600,
+    "endTime": 1682607599,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 612,
+    "name": "人魚姫メダル",
+    "description": "ガチャで獲得できるメダル\r\n※2023年4月27日23:59まで",
+    "resourceName": "item20200124_pinocchio_gacha",
+    "assetBundleName": "MedalTradeTop",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年4月27日23:59まで",
+    "priority": 43,
+    "itemMstId": 5619,
+    "startTime": 1681365600,
+    "endTime": 1682607599,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]

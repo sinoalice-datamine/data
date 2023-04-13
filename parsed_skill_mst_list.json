@@ -38039,6 +38039,53 @@
     }
   },
   {
+    "skillMstId": 8371,
+    "skill_type": 1,
+    "skill_name_tier": 7,
+    "primary_effect": 3,
+    "targets": {
+      "type": 1,
+      "min": 3,
+      "max": 3
+    },
+    "support_direction": 2,
+    "patk_effect_size": 4,
+    "mdef_effect_size": 4
+  },
+  {
+    "skillMstId": 8372,
+    "skill_type": 4,
+    "when": {
+      "disadvantage": true
+    },
+    "effect": {
+      "type": 6,
+      "value": 0.05
+    }
+  },
+  {
+    "skillMstId": 8373,
+    "skill_type": 4,
+    "when": {
+      "damage_received_from_class_type": 6
+    },
+    "effect": {
+      "type": 7,
+      "value": 0.2
+    }
+  },
+  {
+    "skillMstId": 8374,
+    "skill_type": 4,
+    "when": {
+      "damage_received_from_class_type": 8
+    },
+    "effect": {
+      "type": 7,
+      "value": 0.2
+    }
+  },
+  {
     "skillMstId": 900001,
     "skill_type": 4,
     "when": {
