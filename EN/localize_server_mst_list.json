@@ -16665,12 +16665,12 @@
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign07.tier29/description",
     "JP": "有償魔晶石354個＋「友憐の縫合テディ」の獲得",
-    "EN": "Paid T.Crys. x354 & Nemesis",
-    "KR": "Paid T.Crys. x354 & Nemesis",
-    "DE": "Paid T.Crys. x354 & Nemesis",
-    "FR": "Paid T.Crys. x354 & Nemesis",
-    "ES": "Paid T.Crys. x354 & Nemesis",
-    "TH": "Paid T.Crys. x354 & Nemesis",
+    "EN": "Paid T.Crys. x354 & Stitched Teddy of Friendship",
+    "KR": "Paid T.Crys. x354 & Stitched Teddy of Friendship",
+    "DE": "Paid T.Crys. x354 & Stitched Teddy of Friendship",
+    "FR": "Paid T.Crys. x354 & Stitched Teddy of Friendship",
+    "ES": "Paid T.Crys. x354 & Stitched Teddy of Friendship",
+    "TH": "Paid T.Crys. x354 & Stitched Teddy of Friendship",
     "VN": ""
   },
   {
@@ -26737,6 +26737,20 @@
     "FR": "Failed to copy %CARD_NAME%'s skill!",
     "ES": "Failed to copy %CARD_NAME%'s skill!",
     "TH": "Failed to copy %CARD_NAME%'s skill!",
+    "VN": ""
+  },
+  {
+    "id": 1911,
+    "TLM": 52840,
+    "Type": 0,
+    "GameKey": "Server/error.11432",
+    "JP": "スキル「技喰ノ大蛇」の武器はメインデッキに１つしかセットできません",
+    "EN": "Your main deck can only have one Deceptive Serpent skill weapon set.",
+    "KR": "Your main deck can only have one Deceptive Serpent skill weapon set.",
+    "DE": "Your main deck can only have one Deceptive Serpent skill weapon set.",
+    "FR": "Your main deck can only have one Deceptive Serpent skill weapon set.",
+    "ES": "Your main deck can only have one Deceptive Serpent skill weapon set.",
+    "TH": "Your main deck can only have one Deceptive Serpent skill weapon set.",
     "VN": ""
   }
 ]
