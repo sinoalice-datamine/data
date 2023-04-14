@@ -38221,6 +38221,14 @@
   },
   {
     "skillMstId": 900015,
-    "skill_type": 99
+    "skill_type": 4,
+    "when": {
+      "class_type_used": 6,
+      "disadvantage": true
+    },
+    "effect": {
+      "type": 1,
+      "value": 0.04
+    }
   }
 ]
