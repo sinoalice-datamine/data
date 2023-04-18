@@ -109460,6 +109460,46 @@
     "cardDetailType": 6
   },
   {
+    "characterAbilityMstId": 11223,
+    "characterMstId": 715,
+    "name": "魔法攻撃+1000",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 1000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 11224,
+    "characterMstId": 715,
+    "name": "魔法攻撃+4000",
+    "releaseLevel": 16,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 4000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 11225,
+    "characterMstId": 716,
+    "name": "物理防御+1000",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 1000,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 11226,
+    "characterMstId": 716,
+    "name": "魔法攻撃+4000",
+    "releaseLevel": 16,
+    "skillType": 3,
+    "effectType": 11,
+    "effectValue": 4000,
+    "cardDetailType": 3
+  },
+  {
     "characterAbilityMstId": 11227,
     "characterMstId": 769,
     "name": "Gretelエリアで魔書60%UP",
