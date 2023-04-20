@@ -2338,6 +2338,34 @@
     "createdTime": 1485961200
   },
   {
+    "battleEffectMstId": 263,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_touta",
+    "cueName": "se_touta@003_R",
+    "createdTime": 1485961200
+  },
+  {
+    "battleEffectMstId": 264,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_touta",
+    "cueName": "se_touta@004_L",
+    "createdTime": 1485961200
+  },
+  {
     "battleEffectMstId": 265,
     "positionType": 1,
     "additionalPositionX": 0,

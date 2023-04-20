@@ -38230,5 +38230,29 @@
       "type": 1,
       "value": 0.04
     }
+  },
+  {
+    "skillMstId": 900016,
+    "skill_type": 4,
+    "when": {
+      "class_type_used": 2,
+      "disadvantage": true
+    },
+    "effect": {
+      "type": 5,
+      "value": 0.04
+    }
+  },
+  {
+    "skillMstId": 900025,
+    "skill_type": 99
+  },
+  {
+    "skillMstId": 900028,
+    "skill_type": 99
+  },
+  {
+    "skillMstId": 900029,
+    "skill_type": 99
   }
 ]
