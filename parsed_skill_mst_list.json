@@ -38090,6 +38090,102 @@
     }
   },
   {
+    "skillMstId": 8418,
+    "skill_type": 1,
+    "skill_name_tier": 7,
+    "primary_effect": 3,
+    "targets": {
+      "type": 1,
+      "min": 3,
+      "max": 3
+    },
+    "support_direction": 2,
+    "patk_effect_size": 4,
+    "matk_effect_size": 4,
+    "pdef_effect_size": 4,
+    "works_on_dead_targets": true
+  },
+  {
+    "skillMstId": 8419,
+    "skill_type": 1,
+    "skill_name_tier": 7,
+    "primary_effect": 3,
+    "targets": {
+      "type": 2,
+      "min": 3,
+      "max": 3
+    },
+    "support_direction": 1,
+    "patk_effect_size": 4,
+    "matk_effect_size": 4,
+    "mdef_effect_size": 4,
+    "works_on_dead_targets": true
+  },
+  {
+    "skillMstId": 8420,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 2,
+    "targets": {
+      "type": 2,
+      "min": 4,
+      "max": 4
+    },
+    "heal_effect_size": 3,
+    "sp_recovery": {
+      "target": 5,
+      "value": 100
+    }
+  },
+  {
+    "skillMstId": 8421,
+    "skill_type": 1,
+    "skill_name_tier": 7,
+    "primary_effect": 3,
+    "targets": {
+      "type": 1,
+      "min": 3,
+      "max": 3
+    },
+    "support_direction": 2,
+    "patk_effect_size": 4,
+    "matk_effect_size": 4,
+    "pdef_effect_size": 4
+  },
+  {
+    "skillMstId": 8422,
+    "skill_type": 1,
+    "skill_name_tier": 7,
+    "primary_effect": 3,
+    "targets": {
+      "type": 2,
+      "min": 3,
+      "max": 3
+    },
+    "support_direction": 1,
+    "patk_effect_size": 4,
+    "matk_effect_size": 4,
+    "mdef_effect_size": 4
+  },
+  {
+    "skillMstId": 8423,
+    "skill_type": 3,
+    "skill_name_tier": 4,
+    "trigger": 1,
+    "activation_rate": 2,
+    "lifeforce_support_effect_size": 3,
+    "grid_weapon_type_boost": 5
+  },
+  {
+    "skillMstId": 8424,
+    "skill_type": 3,
+    "skill_name_tier": 4,
+    "trigger": 1,
+    "activation_rate": 2,
+    "lifeforce_support_effect_size": 3,
+    "grid_weapon_type_boost": 7
+  },
+  {
     "skillMstId": 900001,
     "skill_type": 4,
     "when": {
