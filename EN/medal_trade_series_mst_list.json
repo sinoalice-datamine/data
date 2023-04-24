@@ -720,6 +720,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 66,
+    "name": "Arcana Medal",
+    "description": "A medal that is an incidental byproduct of purchasing certain twilight crystals",
+    "resourceName": "item1",
+    "assetBundleName": "0066",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by buying twilight crystals with the Arcana Medal.",
+    "priority": 37,
+    "itemMstId": 985,
+    "startTime": 1682402400,
+    "endTime": 1684043999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 67,
     "name": "Medal of Desire (II)",
     "description": "A medal that is an incidental byproduct of a Grimoire.",
@@ -1286,6 +1301,21 @@
     "itemMstId": 2964,
     "startTime": 1613624400,
     "endTime": 1615442399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 227,
+    "name": "Sin Medal",
+    "description": "Medal obtained in Parrah-Noya’s tavern at Colosseum Sin.",
+    "resourceName": "item20211018_colosseumsin1_honsen",
+    "assetBundleName": "1319",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Can be earned at the Colosseum Sin Parrah-Noya Tavern.",
+    "priority": 38,
+    "itemMstId": 2863,
+    "startTime": 1682316000,
+    "endTime": 1685249999,
     "displayType": 0,
     "isDeleted": false
   },

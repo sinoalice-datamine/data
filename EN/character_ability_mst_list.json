@@ -38720,6 +38720,146 @@
     "cardDetailType": 8
   },
   {
+    "characterAbilityMstId": 4913,
+    "characterMstId": 380,
+    "name": "Blade +60% (Alice+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4914,
+    "characterMstId": 380,
+    "name": "Blade +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4915,
+    "characterMstId": 380,
+    "name": "HP +300",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4916,
+    "characterMstId": 380,
+    "name": "M.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4917,
+    "characterMstId": 380,
+    "name": "HP +300",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4918,
+    "characterMstId": 380,
+    "name": "M.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4919,
+    "characterMstId": 380,
+    "name": "HP +300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4920,
+    "characterMstId": 380,
+    "name": "HP +1,200",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4921,
+    "characterMstId": 380,
+    "name": "HP +300",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4922,
+    "characterMstId": 380,
+    "name": "Cost +5",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 5,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4923,
+    "characterMstId": 380,
+    "name": "P.ATK +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4924,
+    "characterMstId": 380,
+    "name": "Obtained lifeforce +3% every P.ATK (from start until last 5 mins. of battle)",
+    "releaseLevel": 12,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5826,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4925,
+    "characterMstId": 380,
+    "name": "P.DEF +300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 300,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4926,
+    "characterMstId": 380,
+    "name": "Defense +50% when hit while using blade class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5327,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 4927,
     "characterMstId": 381,
     "name": "Tome +60% (Sleeping Beauty+ stages)",
@@ -52420,6 +52560,46 @@
     "cardDetailType": 5
   },
   {
+    "characterAbilityMstId": 8157,
+    "characterMstId": 90,
+    "name": "Projectile +10% (Cinderella+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8158,
+    "characterMstId": 90,
+    "name": "HP +400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8159,
+    "characterMstId": 90,
+    "name": "M.ATK +600",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 600,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 8160,
+    "characterMstId": 90,
+    "name": "M.ATK +600",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 600,
+    "cardDetailType": 7
+  },
+  {
     "characterAbilityMstId": 8231,
     "characterMstId": 594,
     "name": "Heavy +60% (Little Match Girl+ stages)",
@@ -64038,6 +64218,26 @@
     "effectType": 13,
     "effectValue": 7874,
     "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 900491,
+    "characterMstId": 380,
+    "name": "P.ATK +500",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 900492,
+    "characterMstId": 380,
+    "name": "P.DMG +4% when using blade class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7869,
+    "cardDetailType": 5
   },
   {
     "characterAbilityMstId": 900495,
