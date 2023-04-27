@@ -6404,7 +6404,7 @@
     "isComingSoon": false,
     "unCombatFlag": false,
     "isGve": false,
-    "disableMultipleCharacter": false,
+    "disableMultipleCharacter": true,
     "createdTime": 1485183600
   },
   {
@@ -8352,6 +8352,24 @@
     "createdTime": 1485183600
   },
   {
+    "questAreaMstId": 620,
+    "questMapMstId": 327,
+    "name": "Hands to Ashes",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/6",
+    "bgResourceName": "0006",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 621,
     "questMapMstId": 328,
     "name": "Sanctuary of Children's Song",
@@ -9591,6 +9609,42 @@
     "unCombatFlag": false,
     "isGve": false,
     "disableMultipleCharacter": true,
+    "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 750,
+    "questMapMstId": 382,
+    "name": "Wheel of Temptation",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/246",
+    "bgResourceName": "0246",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": false,
+    "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 751,
+    "questMapMstId": 383,
+    "name": "Wheel of Temptation",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/246",
+    "bgResourceName": "0246",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": false,
     "createdTime": 1483974000
   },
   {

@@ -219,8 +219,8 @@
     "wayToGet": "Earned by playing an event.",
     "priority": 30,
     "itemMstId": 345,
-    "startTime": 1680156000,
-    "endTime": 1681448399,
+    "startTime": 1682575200,
+    "endTime": 1683867599,
     "displayType": 0,
     "isDeleted": false
   },
@@ -1800,6 +1800,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 900020,
+    "name": "Medal of Desire (V)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 900288,
+    "startTime": 1682661600,
+    "endTime": 1686841199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 900030,
     "name": "Armlet Medal",
     "description": "A medal that is an incidental byproduct of a Grimoire.",
@@ -1811,6 +1826,36 @@
     "itemMstId": 4864,
     "startTime": 1681365600,
     "endTime": 1683212399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900032,
+    "name": "Bonus Arcana Medal (IV)",
+    "description": "An arcana medal obtainable from specific grimoires.",
+    "resourceName": "item20230427_gacha_ookamihai_0511",
+    "assetBundleName": "900311",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 900311,
+    "startTime": 1682575200,
+    "endTime": 1684681199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900033,
+    "name": "Bonus Arcana Medal (V)",
+    "description": "An arcana medal obtainable from specific grimoires.",
+    "resourceName": "item20230501_gacha_koubouver2_02",
+    "assetBundleName": "900312",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 900312,
+    "startTime": 1682920800,
+    "endTime": 1686841199,
     "displayType": 0,
     "isDeleted": false
   }

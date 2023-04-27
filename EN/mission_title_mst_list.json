@@ -450,6 +450,12 @@
     "endTime": 1679551199
   },
   {
+    "missionTitleMstId": 458,
+    "title": "Daily Event Mission",
+    "startTime": 1682575200,
+    "endTime": 1683784799
+  },
+  {
     "missionTitleMstId": 486,
     "title": "Event Mission",
     "startTime": 1645765200,
@@ -1246,5 +1252,23 @@
     "title": "Main Story Strategy Event 2",
     "startTime": 1679551200,
     "endTime": 1680760799
+  },
+  {
+    "missionTitleMstId": 900101,
+    "title": "End of Month Global Missions",
+    "startTime": 1682917200,
+    "endTime": 1683003599
+  },
+  {
+    "missionTitleMstId": 900102,
+    "title": "End of Month Global Daily Missions",
+    "startTime": 1682575200,
+    "endTime": 1683176399
+  },
+  {
+    "missionTitleMstId": 900103,
+    "title": "Zenith Bookmark Monthly Missions",
+    "startTime": 1682917200,
+    "endTime": 1685595599
   }
 ]
