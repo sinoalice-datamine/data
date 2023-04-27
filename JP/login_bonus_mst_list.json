@@ -5830,6 +5830,17 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 539,
+    "title": "イベントボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1682575200,
+    "endTime": 1683781199,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 540,
     "title": "シノアリスの日プレゼント",
     "cycleType": 2,
@@ -5859,6 +5870,50 @@
     "pickupSkillType": 1,
     "startTime": 1682402400,
     "endTime": 1684065599,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 543,
+    "title": "シノアリスの日プレゼント",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1682798400,
+    "endTime": 1683057599,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 544,
+    "title": "ギルドイベントボーナス",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1682884800,
+    "endTime": 1683471599,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 546,
+    "title": "6周年記念カムバック報酬増量分",
+    "cycleType": 6,
+    "displayType": 3,
+    "pickupSkillType": 1,
+    "startTime": 1683007200,
+    "endTime": 1688068799,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 547,
+    "title": "ゴールデンウィークCP",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1682884800,
+    "endTime": 1683489599,
     "resourceName": "1",
     "assetBundleName": ""
   },
@@ -6475,6 +6530,28 @@
     "pickupSkillType": 1,
     "startTime": 1680274800,
     "endTime": 1682866799,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 100058,
+    "title": "Rank100応援ボーナス①",
+    "cycleType": 7,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1682866800,
+    "endTime": 1685545199,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 100059,
+    "title": "Rank100応援ボーナス②",
+    "cycleType": 7,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1682866800,
+    "endTime": 1685545199,
     "resourceName": "1",
     "assetBundleName": ""
   }

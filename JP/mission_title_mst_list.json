@@ -9856,6 +9856,22 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 1259,
+    "title": "「道化師は笑い、子供は踊る」ﾐｯｼｮﾝ",
+    "priority": 20003,
+    "startTime": 1682575200,
+    "endTime": 1683781199,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1260,
+    "title": "イベントデイリーミッション",
+    "priority": 20004,
+    "startTime": 1682575200,
+    "endTime": 1683781199,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 1261,
     "title": "「嫉妬ノ化身」ミッション",
     "priority": 0,
@@ -9909,6 +9925,54 @@
     "priority": 40001,
     "startTime": 1683792000,
     "endTime": 1684162799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1269,
+    "title": "シノアリスの日ミッション",
+    "priority": 49999,
+    "startTime": 1682780400,
+    "endTime": 1683039599,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1270,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1682780400,
+    "endTime": 1682866799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1271,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1682866800,
+    "endTime": 1682953199,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1272,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1682953200,
+    "endTime": 1683039599,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1277,
+    "title": "6周年記念カムバック報酬増量分",
+    "priority": 49999,
+    "startTime": 1683007200,
+    "endTime": 1688068799,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1279,
+    "title": "ゴールデンウィーク特別ミッション",
+    "priority": 0,
+    "startTime": 1682866800,
+    "endTime": 1683489599,
     "isHideTime": false
   }
 ]
