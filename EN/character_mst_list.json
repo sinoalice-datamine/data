@@ -10977,7 +10977,7 @@
     "characterVoice": "Mayu Sagara",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1684299600
   },
   {
     "characterMstId": 399,
@@ -11308,6 +11308,36 @@
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
     "displayStartTime": 1670911200
+  },
+  {
+    "characterMstId": 414,
+    "name": "Rapunzel/-Pre. Half-",
+    "characterUniqueId": 35,
+    "characterUniqueName": "Rapunzel",
+    "characterUniqueEnglishName": "Rapunzel",
+    "characterVoiceId": 0,
+    "collaborationId": 0,
+    "collaborationName": "0",
+    "rolePosition": 2,
+    "motionType": 1,
+    "shaderType": 0,
+    "spineAvatarType": 0,
+    "scale": 100,
+    "avatarGroupId": 0,
+    "partnerNum": -1,
+    "maxLevel": 10,
+    "description": "The little bird sang.\\nFor the sake of its parent.\\nBut at some point, the little bird's song was not what its parents had wished.",
+    "favoriteWeapon": 4,
+    "isSpirit": false,
+    "spiritType": 0,
+    "disableStanding": 0,
+    "isAvailable": true,
+    "resourceName": "414",
+    "assetBundleName": "character/414",
+    "characterVoice": "Akane Fujita",
+    "mypageMinVoice": 0,
+    "mypageMaxVoice": 0,
+    "displayStartTime": 1683784800
   },
   {
     "characterMstId": 420,
@@ -15530,14 +15560,14 @@
     "favoriteWeapon": 5,
     "isSpirit": false,
     "spiritType": 0,
-    "disableStanding": 0,
+    "disableStanding": 1,
     "isAvailable": false,
     "resourceName": "10000",
     "assetBundleName": "character/10000",
     "characterVoice": "Mamiko Noto",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1684299600
   },
   {
     "characterMstId": 10001,
@@ -15560,14 +15590,14 @@
     "favoriteWeapon": 1,
     "isSpirit": false,
     "spiritType": 0,
-    "disableStanding": 0,
+    "disableStanding": 1,
     "isAvailable": false,
     "resourceName": "10001",
     "assetBundleName": "character/10001",
     "characterVoice": "Akane Fujita",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1684299600
   },
   {
     "characterMstId": 10002,
@@ -15590,14 +15620,14 @@
     "favoriteWeapon": 5,
     "isSpirit": false,
     "spiritType": 0,
-    "disableStanding": 0,
+    "disableStanding": 1,
     "isAvailable": false,
     "resourceName": "10002",
     "assetBundleName": "character/10002",
     "characterVoice": "Shizuka Ito",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1684299600
   },
   {
     "characterMstId": 10003,
@@ -15620,14 +15650,14 @@
     "favoriteWeapon": 5,
     "isSpirit": false,
     "spiritType": 0,
-    "disableStanding": 0,
+    "disableStanding": 1,
     "isAvailable": false,
     "resourceName": "10003",
     "assetBundleName": "character/10003",
     "characterVoice": "Shizuka Ito",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1684299600
   },
   {
     "characterMstId": 10004,
@@ -15650,14 +15680,14 @@
     "favoriteWeapon": 1,
     "isSpirit": false,
     "spiritType": 0,
-    "disableStanding": 0,
+    "disableStanding": 1,
     "isAvailable": false,
     "resourceName": "10004",
     "assetBundleName": "character/10004",
     "characterVoice": "Aoi Yūki",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1684299600
   },
   {
     "characterMstId": 10005,
@@ -15680,14 +15710,14 @@
     "favoriteWeapon": 1,
     "isSpirit": false,
     "spiritType": 0,
-    "disableStanding": 0,
+    "disableStanding": 1,
     "isAvailable": false,
     "resourceName": "10005",
     "assetBundleName": "character/10005",
     "characterVoice": "Aoi Yūki",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1684299600
   },
   {
     "characterMstId": 10006,
@@ -15710,14 +15740,14 @@
     "favoriteWeapon": 5,
     "isSpirit": false,
     "spiritType": 0,
-    "disableStanding": 0,
+    "disableStanding": 1,
     "isAvailable": false,
     "resourceName": "10006",
     "assetBundleName": "character/10006",
     "characterVoice": "Mamiko Noto",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1684299600
   },
   {
     "characterMstId": 10007,
@@ -15740,14 +15770,14 @@
     "favoriteWeapon": 1,
     "isSpirit": false,
     "spiritType": 0,
-    "disableStanding": 0,
+    "disableStanding": 1,
     "isAvailable": false,
     "resourceName": "10007",
     "assetBundleName": "character/10007",
     "characterVoice": "Akane Fujita",
     "mypageMinVoice": 0,
     "mypageMaxVoice": 0,
-    "displayStartTime": 1924959599
+    "displayStartTime": 1684299600
   },
   {
     "characterMstId": 10066,

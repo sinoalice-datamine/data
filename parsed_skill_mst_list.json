@@ -38478,5 +38478,17 @@
   {
     "skillMstId": 900029,
     "skill_type": 99
+  },
+  {
+    "skillMstId": 900032,
+    "skill_type": 4,
+    "when": {
+      "class_type_used": 4,
+      "disadvantage": true
+    },
+    "effect": {
+      "type": 6,
+      "value": 0.04
+    }
   }
 ]

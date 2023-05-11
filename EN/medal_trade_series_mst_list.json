@@ -750,6 +750,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 68,
+    "name": "Arcana Medal",
+    "description": "A medal that is an incidental byproduct of purchasing certain twilight crystals",
+    "resourceName": "item1",
+    "assetBundleName": "0068",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by buying twilight crystals with the Arcana Medal.",
+    "priority": 37,
+    "itemMstId": 1036,
+    "startTime": 1684303200,
+    "endTime": 1685944799,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 69,
     "name": "Replicant Medal",
     "description": "Medal from a collaboration grimoire.",
