@@ -566,5 +566,29 @@
     "shipPartsBodyMstId": 266,
     "shipPartsRoofMstId": 265,
     "shipPartsAttachedMstId": 267
+  },
+  {
+    "guildShipSeriesMstId": 73,
+    "name": "嵐装シリーズ(1部)",
+    "description": "第66回グランコロシアムの総合ランキング1部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 269,
+    "shipPartsRoofMstId": 268,
+    "shipPartsAttachedMstId": 270
+  },
+  {
+    "guildShipSeriesMstId": 74,
+    "name": "嵐装シリーズ(2部)",
+    "description": "第66回グランコロシアムの総合ランキング2部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 272,
+    "shipPartsRoofMstId": 271,
+    "shipPartsAttachedMstId": 273
+  },
+  {
+    "guildShipSeriesMstId": 75,
+    "name": "嵐装シリーズ(3部)",
+    "description": "第66回グランコロシアムの総合ランキング3部の戦績上位ギルドに贈られるシップ",
+    "shipPartsBodyMstId": 275,
+    "shipPartsRoofMstId": 274,
+    "shipPartsAttachedMstId": 276
   }
 ]
