@@ -1380,6 +1380,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 252,
+    "name": "Backpack Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20230518_medal_loli2",
+    "assetBundleName": "3186",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 3186,
+    "startTime": 1684389600,
+    "endTime": 1686203999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 288,
     "name": "Moonbunny Medal",
     "description": "Medal collected by Parrah-Noya.",
@@ -1841,6 +1856,21 @@
     "itemMstId": 4864,
     "startTime": 1681365600,
     "endTime": 1683212399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900031,
+    "name": "Lullaby Doll Medal",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item20230518_gacha_loli_alice2",
+    "assetBundleName": "3324",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 3324,
+    "startTime": 1684389600,
+    "endTime": 1686236399,
     "displayType": 0,
     "isDeleted": false
   },
