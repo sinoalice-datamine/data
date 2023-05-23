@@ -111698,5 +111698,285 @@
     "effectType": 9,
     "effectValue": 3000,
     "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 11359,
+    "characterMstId": 787,
+    "name": "LittlePigsエリアで射出60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11360,
+    "characterMstId": 787,
+    "name": "射出13%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 13,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11361,
+    "characterMstId": 787,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11362,
+    "characterMstId": 787,
+    "name": "魔法防御+200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11363,
+    "characterMstId": 787,
+    "name": "LittlePigsエリアで長柄20%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 11364,
+    "characterMstId": 787,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11365,
+    "characterMstId": 787,
+    "name": "魔法防御+300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11366,
+    "characterMstId": 787,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11367,
+    "characterMstId": 787,
+    "name": "魔法防御+300",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 300,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11368,
+    "characterMstId": 787,
+    "name": "HP+2000",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11369,
+    "characterMstId": 787,
+    "name": "魔法攻撃+500",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11370,
+    "characterMstId": 787,
+    "name": "長柄13%UP",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 13,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 11371,
+    "characterMstId": 787,
+    "name": "魔法防御+500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11372,
+    "characterMstId": 787,
+    "name": "魔法攻撃+500",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 500,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11373,
+    "characterMstId": 788,
+    "name": "Rapunzelエリアで魔具60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 11374,
+    "characterMstId": 788,
+    "name": "魔具13%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 13,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 11375,
+    "characterMstId": 788,
+    "name": "魔法防御+200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 11376,
+    "characterMstId": 788,
+    "name": "物理防御+200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 11377,
+    "characterMstId": 788,
+    "name": "祈祷13%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 13,
+    "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 11378,
+    "characterMstId": 788,
+    "name": "魔法攻撃+300",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 11379,
+    "characterMstId": 788,
+    "name": "物理防御+400",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 400,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 11380,
+    "characterMstId": 788,
+    "name": "魔法防御+400",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 400,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 11381,
+    "characterMstId": 788,
+    "name": "HP+2000",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2000,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 11382,
+    "characterMstId": 788,
+    "name": "魔具ジョブ使用時、魔法ダメージ4%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7876,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 11383,
+    "characterMstId": 788,
+    "name": "魔法攻撃+700",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 700,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 11384,
+    "characterMstId": 788,
+    "name": "魔書7%UP",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 7,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 11385,
+    "characterMstId": 788,
+    "name": "魔法攻撃+800",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 800,
+    "cardDetailType": 3
+  },
+  {
+    "characterAbilityMstId": 11386,
+    "characterMstId": 788,
+    "name": "楽器7%UP",
+    "releaseLevel": 14,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 7,
+    "cardDetailType": 1
   }
 ]

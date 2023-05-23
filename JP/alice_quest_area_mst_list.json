@@ -21924,5 +21924,24 @@
     "disableMultipleCharacter": true,
     "startTime": null,
     "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 1227,
+    "questMapMstId": 665,
+    "name": "シンデレラは四度死ぬ",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/312",
+    "bgResourceName": "0312",
+    "cueSheetName": "bgm_mypage",
+    "cueName": "bgm_mypage@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": false,
+    "startTime": null,
+    "createdTime": 1483974000
   }
 ]
