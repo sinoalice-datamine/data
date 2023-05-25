@@ -41340,6 +41340,286 @@
     "cardDetailType": 7
   },
   {
+    "characterAbilityMstId": 5357,
+    "characterMstId": 416,
+    "name": "Tome +60% (Snow White+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5358,
+    "characterMstId": 416,
+    "name": "Tome +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5359,
+    "characterMstId": 416,
+    "name": "HP +300",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5360,
+    "characterMstId": 416,
+    "name": "P.DEF +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5361,
+    "characterMstId": 416,
+    "name": "HP +300",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5362,
+    "characterMstId": 416,
+    "name": "M.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5363,
+    "characterMstId": 416,
+    "name": "HP +300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5364,
+    "characterMstId": 416,
+    "name": "M.DEF +1,200",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 12,
+    "effectValue": 1200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5365,
+    "characterMstId": 416,
+    "name": "HP +300",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5366,
+    "characterMstId": 416,
+    "name": "Cost +5",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 5,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5367,
+    "characterMstId": 416,
+    "name": "M.ATK +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5368,
+    "characterMstId": 416,
+    "name": "P.DEF +1,200",
+    "releaseLevel": 12,
+    "skillType": 3,
+    "effectType": 10,
+    "effectValue": 1200,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5369,
+    "characterMstId": 416,
+    "name": "P.ATK +300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5370,
+    "characterMstId": 416,
+    "name": "Debuff effect +4% when using water weapon",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900026,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 5371,
+    "characterMstId": 417,
+    "name": "Heavy +60% (Pinocchio+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5372,
+    "characterMstId": 417,
+    "name": "Heavy +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5373,
+    "characterMstId": 417,
+    "name": "HP +300",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5374,
+    "characterMstId": 417,
+    "name": "P.ATK +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5375,
+    "characterMstId": 417,
+    "name": "HP +300",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5376,
+    "characterMstId": 417,
+    "name": "M.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5377,
+    "characterMstId": 417,
+    "name": "HP +300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5378,
+    "characterMstId": 417,
+    "name": "HP +1,200",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5379,
+    "characterMstId": 417,
+    "name": "HP +300",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5380,
+    "characterMstId": 417,
+    "name": "Cost +5",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 5,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5381,
+    "characterMstId": 417,
+    "name": "P.ATK +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5382,
+    "characterMstId": 417,
+    "name": "P.ATK +1,200",
+    "releaseLevel": 12,
+    "skillType": 3,
+    "effectType": 9,
+    "effectValue": 1200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5383,
+    "characterMstId": 417,
+    "name": "P.ATK +300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 5384,
+    "characterMstId": 417,
+    "name": "Defense +20% when hit while using heavy class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900033,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 5385,
     "characterMstId": 305,
     "name": "Instrument (Fire) +30% (Snow White+ stages)",
@@ -54080,6 +54360,46 @@
     "cardDetailType": 7
   },
   {
+    "characterAbilityMstId": 8163,
+    "characterMstId": 128,
+    "name": "Tome +10% (Snow White+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8164,
+    "characterMstId": 128,
+    "name": "HP +400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 400,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8165,
+    "characterMstId": 128,
+    "name": "P.DEF +600",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 600,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 8166,
+    "characterMstId": 128,
+    "name": "M.DEF +600",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 600,
+    "cardDetailType": 2
+  },
+  {
     "characterAbilityMstId": 8231,
     "characterMstId": 594,
     "name": "Heavy +60% (Little Match Girl+ stages)",
@@ -66478,5 +66798,85 @@
     "effectType": 13,
     "effectValue": 7875,
     "cardDetailType": 4
+  },
+  {
+    "characterAbilityMstId": 900511,
+    "characterMstId": 416,
+    "name": "P.ATK +500",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 900512,
+    "characterMstId": 416,
+    "name": "Debuff effect +4% when using tome class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7874,
+    "cardDetailType": 2
+  },
+  {
+    "characterAbilityMstId": 900513,
+    "characterMstId": 417,
+    "name": "P.ATK +500",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 500,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 900514,
+    "characterMstId": 417,
+    "name": "P.DMG +4% when using heavy class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7870,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 900515,
+    "characterMstId": 127,
+    "name": "Heavy +10% (Pinocchio+ stages)",
+    "releaseLevel": 13,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 900516,
+    "characterMstId": 127,
+    "name": "HP +400",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 900517,
+    "characterMstId": 127,
+    "name": "P.ATK +600",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 600,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 900518,
+    "characterMstId": 127,
+    "name": "P.ATK +600",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 600,
+    "cardDetailType": 6
   }
 ]

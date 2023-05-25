@@ -20458,13 +20458,13 @@
     "TLM": 51618,
     "Type": 0,
     "GameKey": "Server/com.global.sinoalice.campaign11.tier29/description",
-    "JP": "有償魔晶石354個＋「紫髪の炎腕ルスタ」の獲得",
-    "EN": "Paid T.Crys. x354 & Lusta of the Flaming Hand",
-    "KR": "Paid T.Crys. x354 & Lusta of the Flaming Hand",
-    "DE": "Paid T.Crys. x354 & Lusta of the Flaming Hand",
-    "FR": "Paid T.Crys. x354 & Lusta of the Flaming Hand",
-    "ES": "Paid T.Crys. x354 & Lusta of the Flaming Hand",
-    "TH": "Paid T.Crys. x354 & Lusta of the Flaming Hand",
+    "JP": "有償魔晶石354個＋「ガーゴイル」の獲得",
+    "EN": "Paid T.Crys. x354 & Gargoyle",
+    "KR": "Paid T.Crys. x354 & Gargoyle",
+    "DE": "Paid T.Crys. x354 & Gargoyle",
+    "FR": "Paid T.Crys. x354 & Gargoyle",
+    "ES": "Paid T.Crys. x354 & Gargoyle",
+    "TH": "Paid T.Crys. x354 & Gargoyle",
     "VN": ""
   },
   {
@@ -26891,6 +26891,34 @@
     "FR": "Class awakening item duplicate reward",
     "ES": "Class awakening item duplicate reward",
     "TH": "Class awakening item duplicate reward",
+    "VN": ""
+  },
+  {
+    "id": 1922,
+    "TLM": 52882,
+    "Type": 0,
+    "GameKey": "Server/quest.questAreaWindowText.14.5",
+    "JP": "探究と探究。\\nどちらも心は好奇の虜。\\n世界全てが実験場。\\n鏡写しの細胞も、\\n例外なくモルモット。",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
+    "VN": ""
+  },
+  {
+    "id": 1923,
+    "TLM": 52883,
+    "Type": 0,
+    "GameKey": "Server/quest.questAreaWindowText.9.5",
+    "JP": "被虐と被虐。\\n痛みを望む者同士。\\n同じ魂を持つならば、\\n欲する傷を知っている。\\n求める罰を知っている。",
+    "EN": "",
+    "KR": "",
+    "DE": "",
+    "FR": "",
+    "ES": "",
+    "TH": "",
     "VN": ""
   }
 ]
