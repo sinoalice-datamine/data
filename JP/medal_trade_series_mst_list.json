@@ -11569,5 +11569,24 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 628,
+    "name": "記憶の羽根メダル",
+    "description": "ギシンアンキが集めているメダル※2023年6月12日23:59まで",
+    "resourceName": "item20230529_event_countdown",
+    "assetBundleName": "5673",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2023年6月12日23:59まで",
+    "priority": 43,
+    "itemMstId": 5673,
+    "startTime": 1685340000,
+    "endTime": 1686581999,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]
