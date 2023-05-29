@@ -61120,6 +61120,326 @@
     "cardDetailType": 5
   },
   {
+    "characterAbilityMstId": 10325,
+    "characterMstId": 731,
+    "name": "Polearm +60% (Alice+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10326,
+    "characterMstId": 731,
+    "name": "Polearm +40%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 40,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10327,
+    "characterMstId": 731,
+    "name": "Heavy -75%",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -75,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10328,
+    "characterMstId": 731,
+    "name": "Projectile -75%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -75,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 10329,
+    "characterMstId": 731,
+    "name": "M.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10330,
+    "characterMstId": 731,
+    "name": "M.ATK +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10331,
+    "characterMstId": 731,
+    "name": "M.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10332,
+    "characterMstId": 731,
+    "name": "M.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10333,
+    "characterMstId": 731,
+    "name": "M.ATK +100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10334,
+    "characterMstId": 731,
+    "name": "HP +1,000",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10335,
+    "characterMstId": 731,
+    "name": "M.ATK +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10336,
+    "characterMstId": 731,
+    "name": "M.ATK +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10337,
+    "characterMstId": 731,
+    "name": "M.ATK +300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10338,
+    "characterMstId": 731,
+    "name": "M.ATK +300",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10339,
+    "characterMstId": 731,
+    "name": "M.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10340,
+    "characterMstId": 731,
+    "name": "M.ATK +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10341,
+    "characterMstId": 732,
+    "name": "Heavy +60% (Red Riding Hood+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10342,
+    "characterMstId": 732,
+    "name": "Heavy +40%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 40,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10343,
+    "characterMstId": 732,
+    "name": "Polearm -75%",
+    "releaseLevel": 3,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -75,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 10344,
+    "characterMstId": 732,
+    "name": "Blade -75%",
+    "releaseLevel": 4,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": -75,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 10345,
+    "characterMstId": 732,
+    "name": "P.ATK +100",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10346,
+    "characterMstId": 732,
+    "name": "P.ATK +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10347,
+    "characterMstId": 732,
+    "name": "P.ATK +100",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10348,
+    "characterMstId": 732,
+    "name": "P.ATK +100",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10349,
+    "characterMstId": 732,
+    "name": "P.ATK +100",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 100,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10350,
+    "characterMstId": 732,
+    "name": "HP +1,000",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 1000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10351,
+    "characterMstId": 732,
+    "name": "P.ATK +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10352,
+    "characterMstId": 732,
+    "name": "P.ATK +200",
+    "releaseLevel": 12,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10353,
+    "characterMstId": 732,
+    "name": "P.ATK +300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10354,
+    "characterMstId": 732,
+    "name": "P.ATK +300",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 300,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10451,
+    "characterMstId": 732,
+    "name": "P.ATK +400",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 10452,
+    "characterMstId": 732,
+    "name": "P.ATK +400",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 6
+  },
+  {
     "characterAbilityMstId": 10549,
     "characterMstId": 739,
     "name": "Instrument +60% (Red Riding Hood+ stages)",
