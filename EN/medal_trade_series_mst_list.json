@@ -1918,5 +1918,20 @@
     "endTime": 1686841199,
     "displayType": 0,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900034,
+    "name": "Bonus Arcana Medal (VI)",
+    "description": "An arcana medal obtainable from specific grimoires.",
+    "resourceName": "item20230427_gacha_ookamihai_0511",
+    "assetBundleName": "900311",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 900313,
+    "startTime": 1685599200,
+    "endTime": 1689605999,
+    "displayType": 0,
+    "isDeleted": false
   }
 ]
