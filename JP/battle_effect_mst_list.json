@@ -5906,5 +5906,19 @@
     "cueSheet": "se_sinoalicehen1",
     "cueName": "se_sinoalicehen1@003_L",
     "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 457,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_6th_quest",
+    "cueName": "se_6th_quest@001_R",
+    "createdTime": 1485961226
   }
 ]

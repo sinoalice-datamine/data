@@ -59917,7 +59917,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "氷霧の纏魔(Ⅲ)",
-    "description": "敵1～2体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～2体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -59931,7 +59931,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 1083,
-    "skillEffectParamText": "1082,1083,1145"
+    "skillEffectParamText": "1082,1083,1145,1148"
   },
   {
     "skillMstId": 3772,
@@ -60001,7 +60001,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "氷霧の纏牙(Ⅲ)",
-    "description": "敵1～2体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～2体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -60015,7 +60015,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 1083,
-    "skillEffectParamText": "1082,1083,1145"
+    "skillEffectParamText": "1082,1083,1145,1148"
   },
   {
     "skillMstId": 3776,
@@ -61723,7 +61723,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "陣風の纏牙(Ⅲ)",
-    "description": "敵1～2体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～2体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -61737,7 +61737,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 1085,
-    "skillEffectParamText": "1084,1085,1146"
+    "skillEffectParamText": "1084,1085,1146,1149"
   },
   {
     "skillMstId": 3864,
@@ -62899,7 +62899,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "陣風の纏魔(Ⅲ)",
-    "description": "敵1～2体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～2体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -62913,7 +62913,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 1085,
-    "skillEffectParamText": "1084,1085,1146"
+    "skillEffectParamText": "1084,1085,1146,1149"
   },
   {
     "skillMstId": 3920,
@@ -63151,7 +63151,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "業焔の纏牙(Ⅲ)",
-    "description": "敵1～2体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～2体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -63165,7 +63165,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1081,
-    "skillEffectParamText": "1080,1081,1144"
+    "skillEffectParamText": "1080,1081,1144,1147"
   },
   {
     "skillMstId": 3932,
@@ -66784,7 +66784,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "業焔の纏魔(Ⅲ)",
-    "description": "敵1～2体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～2体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -66798,7 +66798,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1081,
-    "skillEffectParamText": "1080,1081,1144"
+    "skillEffectParamText": "1080,1081,1144,1147"
   },
   {
     "skillMstId": 4109,
@@ -67708,7 +67708,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "氷霧の纏砕(Ⅲ)",
-    "description": "敵1～2体に物理大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」を発動中は敵1～3体に物理大ダメージを与える。",
+    "description": "敵1～2体に物理大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は敵1～3体に物理大ダメージを与える。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -67722,14 +67722,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 1083,
-    "skillEffectParamText": "1082,1083,1145"
+    "skillEffectParamText": "1082,1083,1145,1148"
   },
   {
     "skillMstId": 4153,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "氷霧の纏霊(Ⅲ)",
-    "description": "敵1～2体に魔法大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」を発動中は敵1～3体に魔法大ダメージを与える。",
+    "description": "敵1～2体に魔法大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は敵1～3体に魔法大ダメージを与える。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -67743,7 +67743,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 1083,
-    "skillEffectParamText": "1082,1083,1145"
+    "skillEffectParamText": "1082,1083,1145,1148"
   },
   {
     "skillMstId": 4154,
@@ -68632,7 +68632,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "陣風の纏砕(Ⅲ)",
-    "description": "敵1～2体に物理大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」を発動中は敵1～3体に物理大ダメージを与える。",
+    "description": "敵1～2体に物理大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は敵1～3体に物理大ダメージを与える。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -68646,7 +68646,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 1085,
-    "skillEffectParamText": "1084,1085,1146"
+    "skillEffectParamText": "1084,1085,1146,1149"
   },
   {
     "skillMstId": 4217,
@@ -71383,7 +71383,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "業焔の纏霊(Ⅲ)",
-    "description": "敵1～2体に魔法大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」を発動中は敵1～3体に魔法大ダメージを与える。",
+    "description": "敵1～2体に魔法大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は敵1～3体に魔法大ダメージを与える。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -71397,7 +71397,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1081,
-    "skillEffectParamText": "1080,1081,1144"
+    "skillEffectParamText": "1080,1081,1144,1147"
   },
   {
     "skillMstId": 4348,
@@ -84655,7 +84655,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "炎獄の纏牙(Ⅴ)",
-    "description": "敵1～3体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に物理大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -84669,14 +84669,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1,
-    "skillEffectParamText": "1080,1081,1,1141,1144"
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 4980,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "雪月の纏魔(Ⅴ)",
-    "description": "敵1～3体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に魔法大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 25,
     "maxLevel": 15,
@@ -84690,14 +84690,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 2,
-    "skillEffectParamText": "1082,1083,2,1142,1145"
+    "skillEffectParamText": "1082,1083,2,1142,1145,1148"
   },
   {
     "skillMstId": 4981,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "天雷の纏魔(Ⅴ)",
-    "description": "敵1～3体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に魔法大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 25,
     "maxLevel": 15,
@@ -84711,7 +84711,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 3,
-    "skillEffectParamText": "1084,1085,3,1143,1146"
+    "skillEffectParamText": "1084,1085,3,1143,1146,1149"
   },
   {
     "skillMstId": 4982,
@@ -87112,7 +87112,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "業焔の纏魔(Ⅴ)",
-    "description": "敵1～3体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 25,
     "maxLevel": 15,
@@ -87126,7 +87126,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1081,
-    "skillEffectParamText": "1080,1081,1144"
+    "skillEffectParamText": "1080,1081,1144,1147"
   },
   {
     "skillMstId": 5097,
@@ -87196,7 +87196,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "陣風の纏魔(Ⅴ)",
-    "description": "敵1～3体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 25,
     "maxLevel": 15,
@@ -87210,7 +87210,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 1085,
-    "skillEffectParamText": "1084,1085,1146"
+    "skillEffectParamText": "1084,1085,1146,1149"
   },
   {
     "skillMstId": 5101,
@@ -87763,7 +87763,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "業焔の纏牙(Ⅴ)",
-    "description": "敵1～3体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 25,
     "maxLevel": 15,
@@ -87777,7 +87777,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1081,
-    "skillEffectParamText": "1080,1081,1144"
+    "skillEffectParamText": "1080,1081,1144,1147"
   },
   {
     "skillMstId": 5128,
@@ -89443,7 +89443,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "陣風の纏霊(Ⅲ)",
-    "description": "敵1～2体に魔法大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」を発動中は敵1～3体に魔法大ダメージを与える。",
+    "description": "敵1～2体に魔法大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は敵1～3体に魔法大ダメージを与える。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -89457,7 +89457,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 1085,
-    "skillEffectParamText": "1084,1085,1146"
+    "skillEffectParamText": "1084,1085,1146,1149"
   },
   {
     "skillMstId": 5208,
@@ -91459,7 +91459,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "業焔の纏砕(Ⅲ)",
-    "description": "敵1～2体に物理大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」を発動中は敵1～3体に物理大ダメージを与える。",
+    "description": "敵1～2体に物理大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は敵1～3体に物理大ダメージを与える。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -91473,7 +91473,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1081,
-    "skillEffectParamText": "1080,1081,1144"
+    "skillEffectParamText": "1080,1081,1144,1147"
   },
   {
     "skillMstId": 5304,
@@ -91879,7 +91879,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "氷霧の纏魔(Ⅳ)",
-    "description": "敵1～2体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～2体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -91893,7 +91893,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 1083,
-    "skillEffectParamText": "1082,1083,1145"
+    "skillEffectParamText": "1082,1083,1145,1148"
   },
   {
     "skillMstId": 5324,
@@ -92866,7 +92866,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "天雷の纏牙(Ⅳ)",
-    "description": "敵1～2体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～2体に物理大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -92880,14 +92880,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 3,
-    "skillEffectParamText": "1084,1085,3,1143,1146"
+    "skillEffectParamText": "1084,1085,3,1143,1146,1149"
   },
   {
     "skillMstId": 5371,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "炎獄の纏魔(Ⅳ)",
-    "description": "敵1～2体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～2体に魔法大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -92901,7 +92901,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1,
-    "skillEffectParamText": "1080,1081,1,1141,1144"
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 5372,
@@ -94735,7 +94735,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "業焔の纏魔(Ⅳ)",
-    "description": "敵1～2体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～2体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -94749,14 +94749,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1080,1081,1144"
+    "skillEffectParamText": "1080,1081,1144,1147"
   },
   {
     "skillMstId": 5462,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "猛熾の纏魔(Ⅳ)",
-    "description": "敵1体に魔法特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1体に魔法特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 21,
     "maxLevel": 15,
@@ -94770,7 +94770,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1080,1081,1144"
+    "skillEffectParamText": "1080,1081,1144,1147"
   },
   {
     "skillMstId": 5463,
@@ -96520,7 +96520,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "雪月の纏牙(Ⅳ)",
-    "description": "敵1～2体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～2体に物理大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -96534,7 +96534,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 2,
-    "skillEffectParamText": "1082,1083,2,1142,1145"
+    "skillEffectParamText": "1082,1083,2,1142,1145,1148"
   },
   {
     "skillMstId": 5547,
@@ -99019,7 +99019,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "業焔の纏霊(Ⅴ)",
-    "description": "敵1～3体に魔法大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」を発動中は敵2～3体に魔法大ダメージを与える。",
+    "description": "敵1～3体に魔法大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は敵2～3体に魔法大ダメージを与える。",
     "attackEffect": 0,
     "sp": 25,
     "maxLevel": 15,
@@ -99033,7 +99033,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1081,
-    "skillEffectParamText": "1080,1081,1144"
+    "skillEffectParamText": "1080,1081,1144,1147"
   },
   {
     "skillMstId": 5666,
@@ -100867,7 +100867,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "陣風の纏魔(Ⅳ)",
-    "description": "敵1～2体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～2体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -100881,7 +100881,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 1085,
-    "skillEffectParamText": "1084,1085,1146"
+    "skillEffectParamText": "1084,1085,1146,1149"
   },
   {
     "skillMstId": 5754,
@@ -106096,7 +106096,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "業焔の纏牙(Ⅳ)",
-    "description": "敵1～2体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～2体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -106110,7 +106110,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1081,
-    "skillEffectParamText": "1080,1081,1144"
+    "skillEffectParamText": "1080,1081,1144,1147"
   },
   {
     "skillMstId": 6012,
@@ -106180,7 +106180,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "氷霧の纏魔(Ⅴ)",
-    "description": "敵1～3体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 25,
     "maxLevel": 15,
@@ -106194,7 +106194,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 1083,
-    "skillEffectParamText": "1082,1083,1145"
+    "skillEffectParamText": "1082,1083,1145,1148"
   },
   {
     "skillMstId": 6016,
@@ -111577,7 +111577,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "陣風の纏牙(Ⅳ)",
-    "description": "敵1～2体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～2体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -111591,7 +111591,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 1085,
-    "skillEffectParamText": "1084,1085,1146"
+    "skillEffectParamText": "1084,1085,1146,1149"
   },
   {
     "skillMstId": 6274,
@@ -113257,7 +113257,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "陣風の纏牙(Ⅴ)",
-    "description": "敵1～3体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 25,
     "maxLevel": 15,
@@ -113271,7 +113271,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 1085,
-    "skillEffectParamText": "1084,1085,1146"
+    "skillEffectParamText": "1084,1085,1146,1149"
   },
   {
     "skillMstId": 6354,
@@ -115882,7 +115882,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "氷霧の纏砕(Ⅴ)",
-    "description": "敵1～3体に物理大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」を発動中は敵2～3体に物理大ダメージを与える。",
+    "description": "敵1～3体に物理大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は敵2～3体に物理大ダメージを与える。",
     "attackEffect": 0,
     "sp": 25,
     "maxLevel": 15,
@@ -115896,14 +115896,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 1083,
-    "skillEffectParamText": "1082,1083,1145"
+    "skillEffectParamText": "1082,1083,1145,1148"
   },
   {
     "skillMstId": 6493,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "氷霧の纏霊(Ⅴ)",
-    "description": "敵1～3体に魔法大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」を発動中は敵2～3体に魔法大ダメージを与える。",
+    "description": "敵1～3体に魔法大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は敵2～3体に魔法大ダメージを与える。",
     "attackEffect": 0,
     "sp": 25,
     "maxLevel": 15,
@@ -115917,7 +115917,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 1083,
-    "skillEffectParamText": "1082,1083,1145"
+    "skillEffectParamText": "1082,1083,1145,1148"
   },
   {
     "skillMstId": 6494,
@@ -125542,7 +125542,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "陣風の纏牙(Ⅵ)",
-    "description": "敵1～3体に物理特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に物理特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 27,
     "maxLevel": 15,
@@ -125556,14 +125556,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 1085,
-    "skillEffectParamText": "1084,1085,1146"
+    "skillEffectParamText": "1084,1085,1146,1149"
   },
   {
     "skillMstId": 6987,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "氷霧の纏魔(Ⅵ)",
-    "description": "敵1～3体に魔法特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に魔法特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 27,
     "maxLevel": 15,
@@ -125577,7 +125577,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 1083,
-    "skillEffectParamText": "1082,1083,1145"
+    "skillEffectParamText": "1082,1083,1145,1148"
   },
   {
     "skillMstId": 6988,
@@ -126067,7 +126067,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "氷霧の纏牙(Ⅴ)",
-    "description": "敵1～3体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 25,
     "maxLevel": 15,
@@ -126081,7 +126081,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 1083,
-    "skillEffectParamText": "1082,1083,1145"
+    "skillEffectParamText": "1082,1083,1145,1148"
   },
   {
     "skillMstId": 7012,
@@ -129658,7 +129658,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "雪月の纏牙(Ⅴ)",
-    "description": "敵1～3体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に物理大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -129672,7 +129672,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 2,
-    "skillEffectParamText": "1082,1083,2,1142,1145"
+    "skillEffectParamText": "1082,1083,2,1142,1145,1148"
   },
   {
     "skillMstId": 7183,
@@ -131527,7 +131527,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "天雷の纏牙(Ⅴ)",
-    "description": "敵1～3体に物理大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に物理大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -131541,14 +131541,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 3,
-    "skillEffectParamText": "1084,1085,3,1143,1146"
+    "skillEffectParamText": "1084,1085,3,1143,1146,1149"
   },
   {
     "skillMstId": 7272,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "業焔の纏砕(Ⅴ)",
-    "description": "敵1～3体に物理大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」を発動中は敵2～3体に物理大ダメージを与える。",
+    "description": "敵1～3体に物理大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は敵2～3体に物理大ダメージを与える。",
     "attackEffect": 0,
     "sp": 25,
     "maxLevel": 15,
@@ -131562,14 +131562,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1081,
-    "skillEffectParamText": "1080,1081,1144"
+    "skillEffectParamText": "1080,1081,1144,1147"
   },
   {
     "skillMstId": 7273,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "陣風の纏砕(Ⅴ)",
-    "description": "敵1～3体に物理大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」を発動中は敵2～3体に物理大ダメージを与える。",
+    "description": "敵1～3体に物理大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は敵2～3体に物理大ダメージを与える。",
     "attackEffect": 0,
     "sp": 25,
     "maxLevel": 15,
@@ -131583,7 +131583,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 1085,
-    "skillEffectParamText": "1084,1085,1146"
+    "skillEffectParamText": "1084,1085,1146,1149"
   },
   {
     "skillMstId": 7274,
@@ -131842,7 +131842,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "炎獄の纏魔(Ⅴ)",
-    "description": "敵1～3体に魔法大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に魔法大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 24,
     "maxLevel": 15,
@@ -131856,14 +131856,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1,
-    "skillEffectParamText": "1080,1081,1,1141,1144"
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 7287,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "陣風の纏霊(Ⅴ)",
-    "description": "敵1～3体に魔法大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」を発動中は敵2～3体に魔法大ダメージを与える。",
+    "description": "敵1～3体に魔法大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は敵2～3体に魔法大ダメージを与える。",
     "attackEffect": 0,
     "sp": 25,
     "maxLevel": 15,
@@ -131877,7 +131877,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 1085,
-    "skillEffectParamText": "1084,1085,1146"
+    "skillEffectParamText": "1084,1085,1146,1149"
   },
   {
     "skillMstId": 7288,
@@ -132178,7 +132178,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "雪月の纏霊(Ⅴ)",
-    "description": "敵1～3体に魔法大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」を発動中は敵2～3体に魔法大ダメージを与える。",
+    "description": "敵1～3体に魔法大ダメージを与える。味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は敵2～3体に魔法大ダメージを与える。",
     "attackEffect": 0,
     "sp": 25,
     "maxLevel": 15,
@@ -132192,7 +132192,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 2,
-    "skillEffectParamText": "1082,1083,2,1142,1145"
+    "skillEffectParamText": "1082,1083,2,1142,1145,1148"
   },
   {
     "skillMstId": 7303,
@@ -132640,7 +132640,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "炎獄の纏砕(Ⅴ)",
-    "description": "敵1～3体に物理大ダメージを与える。\r\n味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は敵2～3体に物理大ダメージを与える。",
+    "description": "敵1～3体に物理大ダメージを与える。味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は敵2～3体に物理大ダメージを与える。",
     "attackEffect": 0,
     "sp": 25,
     "maxLevel": 15,
@@ -132654,7 +132654,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1,
-    "skillEffectParamText": "1080,1081,1,1141,1144"
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 7325,
@@ -137932,7 +137932,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "陣風の纏魔(Ⅵ)",
-    "description": "敵1～3体に魔法特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に魔法特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 27,
     "maxLevel": 15,
@@ -137946,7 +137946,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 1085,
-    "skillEffectParamText": "1084,1085,1146"
+    "skillEffectParamText": "1084,1085,1146,1149"
   },
   {
     "skillMstId": 7602,
@@ -139990,7 +139990,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "雪月の纏牙(Ⅵ)",
-    "description": "敵1～3体に物理特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に物理特大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 27,
     "maxLevel": 15,
@@ -140004,7 +140004,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 2,
-    "skillEffectParamText": "1082,1083,2,1142,1145"
+    "skillEffectParamText": "1082,1083,2,1142,1145,1148"
   },
   {
     "skillMstId": 7700,
@@ -140158,7 +140158,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "業焔の纏魔(Ⅵ)",
-    "description": "敵1～3体に魔法特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に魔法特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 27,
     "maxLevel": 15,
@@ -140172,7 +140172,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1081,
-    "skillEffectParamText": "1080,1081,1144"
+    "skillEffectParamText": "1080,1081,1144,1147"
   },
   {
     "skillMstId": 7708,
@@ -140221,7 +140221,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "炎獄の纏牙(Ⅵ)",
-    "description": "敵1～3体に物理特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に物理特大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 27,
     "maxLevel": 15,
@@ -140235,7 +140235,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1,
-    "skillEffectParamText": "1080,1081,1,1141,1144"
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 7711,
@@ -142069,7 +142069,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "雪月の纏牙(Ⅶ)",
-    "description": "敵1～3体に物理超特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵1～3体に物理超特大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 32,
     "maxLevel": 15,
@@ -142083,7 +142083,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 2,
-    "skillEffectParamText": "1082,1083,2,1142,1145"
+    "skillEffectParamText": "1082,1083,2,1142,1145,1148"
   },
   {
     "skillMstId": 7799,
@@ -142174,7 +142174,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "天雷の纏魔(Ⅶ)",
-    "description": "敵1～3体に魔法超特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵1～3体に魔法超特大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 32,
     "maxLevel": 15,
@@ -142188,7 +142188,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 3,
-    "skillEffectParamText": "1084,1085,3,1143,1146"
+    "skillEffectParamText": "1084,1085,3,1143,1146,1149"
   },
   {
     "skillMstId": 7804,
@@ -142468,7 +142468,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "炎獄の纏魔(Ⅶ)",
-    "description": "敵1～3体に魔法超特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵1～3体に魔法超特大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 32,
     "maxLevel": 15,
@@ -142482,7 +142482,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1,
-    "skillEffectParamText": "1080,1081,1,1141,1144"
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 7818,
@@ -143833,7 +143833,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "天雷の纏魔(Ⅵ)",
-    "description": "敵1～3体に魔法特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に魔法特大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 27,
     "maxLevel": 15,
@@ -143847,14 +143847,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 3,
-    "skillEffectParamText": "1084,1085,3,1143,1146"
+    "skillEffectParamText": "1084,1085,3,1143,1146,1149"
   },
   {
     "skillMstId": 7883,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "炎獄の纏魔(Ⅵ)",
-    "description": "敵1～3体に魔法特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力がアップする。",
+    "description": "敵1～3体に魔法特大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力がアップする。",
     "attackEffect": 0,
     "sp": 27,
     "maxLevel": 15,
@@ -143868,7 +143868,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1,
-    "skillEffectParamText": "1080,1081,1,1141,1144"
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 7884,
@@ -143917,7 +143917,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "灼熱の纏牙(Ⅵ)",
-    "description": "敵1体に物理超特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵1体に物理超特大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 26,
     "maxLevel": 15,
@@ -143931,14 +143931,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1,
-    "skillEffectParamText": "1080,1081,1,1141,1144"
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 7887,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "灼熱の纏魔(Ⅵ)",
-    "description": "敵1体に魔法超特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵1体に魔法超特大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 26,
     "maxLevel": 15,
@@ -143952,7 +143952,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1,
-    "skillEffectParamText": "1080,1081,1,1141,1144"
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 7888,
@@ -144904,7 +144904,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "炎獄の纏牙(Ⅶ)",
-    "description": "敵1～3体に物理超特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵1～3体に物理超特大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 32,
     "maxLevel": 15,
@@ -144918,7 +144918,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1,
-    "skillEffectParamText": "1080,1081,1,1141,1144"
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 7934,
@@ -144946,7 +144946,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "雪月の纏魔(Ⅶ)",
-    "description": "敵1～3体に魔法超特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵1～3体に魔法超特大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 32,
     "maxLevel": 15,
@@ -144960,7 +144960,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 2,
-    "skillEffectParamText": "1082,1083,2,1142,1145"
+    "skillEffectParamText": "1082,1083,2,1142,1145,1148"
   },
   {
     "skillMstId": 7936,
@@ -147235,7 +147235,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "天雷の纏牙(Ⅶ)",
-    "description": "敵1～3体に物理超特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵1～3体に物理超特大ダメージを与える。さらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 32,
     "maxLevel": 15,
@@ -147249,7 +147249,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 1143,
-    "skillEffectParamText": "1084,1085,3,1143,1146"
+    "skillEffectParamText": "1084,1085,3,1143,1146,1149"
   },
   {
     "skillMstId": 8051,
@@ -150763,7 +150763,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "陣風の纏魔(Ⅶ)",
-    "description": "敵1～3体に魔法超特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵1～3体に魔法超特大ダメージを与える。\r\nさらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 32,
     "maxLevel": 15,
@@ -150777,7 +150777,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 1085,
-    "skillEffectParamText": "1084,1085,1146"
+    "skillEffectParamText": "1084,1085,1146,1149"
   },
   {
     "skillMstId": 8220,
@@ -151771,7 +151771,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "枷鎖ノ呪術・炎獄(Ⅶ)",
-    "description": "敵3体の物理攻撃力、物理防御力を大ダウンする。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵3体の物理攻撃力、物理防御力を大ダウンする。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 34,
     "maxLevel": 15,
@@ -151785,14 +151785,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1,
-    "skillEffectParamText": "1080,1081,1,1141,1144"
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 8268,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "破魔ノ呪術・天雷(Ⅶ)",
-    "description": "敵3体の魔法攻撃力、魔法防御力を大ダウンする。さらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵3体の魔法攻撃力、魔法防御力を大ダウンする。さらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 34,
     "maxLevel": 15,
@@ -151806,14 +151806,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 3,
-    "skillEffectParamText": "1084,1085,3,1143,1146"
+    "skillEffectParamText": "1084,1085,3,1143,1146,1149"
   },
   {
     "skillMstId": 8269,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "賢者の福音歌・天雷(Ⅶ)",
-    "description": "味方3体の魔法攻撃力、魔法防御力を大アップする。さらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "味方3体の魔法攻撃力、魔法防御力を大アップする。さらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 34,
     "maxLevel": 15,
@@ -151827,14 +151827,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1084,
     "skillEffectParam2": 3,
-    "skillEffectParamText": "1084,1085,3,1143,1146"
+    "skillEffectParamText": "1084,1085,3,1143,1146,1149"
   },
   {
     "skillMstId": 8270,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "英傑の夢想曲・雪月(Ⅶ)",
-    "description": "味方3体の物理攻撃力、物理防御力を大アップする。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "味方3体の物理攻撃力、物理防御力を大アップする。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 34,
     "maxLevel": 15,
@@ -151848,14 +151848,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1082,
     "skillEffectParam2": 2,
-    "skillEffectParamText": "1082,1083,2,1142,1145"
+    "skillEffectParamText": "1082,1083,2,1142,1145,1148"
   },
   {
     "skillMstId": 8271,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "恵みの福音・炎獄(Ⅶ)",
-    "description": "味方3～5体のHPを回復する。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "味方3～5体のHPを回復する。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 35,
     "maxLevel": 15,
@@ -151869,7 +151869,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 1080,
     "skillEffectParam2": 1,
-    "skillEffectParamText": "1080,1081,1,1141,1144"
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 8272,
@@ -152275,7 +152275,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "枷鎖ノ呪術・雪月(Ⅶ)",
-    "description": "敵3体の物理攻撃力、物理防御力を大ダウンする。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵3体の物理攻撃力、物理防御力を大ダウンする。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 34,
     "maxLevel": 15,
@@ -152289,14 +152289,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1082,1083,2,1142,1145"
+    "skillEffectParamText": "1082,1083,2,1142,1145,1148"
   },
   {
     "skillMstId": 8292,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "退魔師の受難曲・炎獄(Ⅶ)",
-    "description": "味方3体の魔法攻撃力、物理防御力を大アップする。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "味方3体の魔法攻撃力、物理防御力を大アップする。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 34,
     "maxLevel": 15,
@@ -152310,14 +152310,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1080,1081,1,1141,1144"
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 8293,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "恵みの福音・雪月(Ⅶ)",
-    "description": "味方3～5体のHPを回復する。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "味方3～5体のHPを回復する。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 35,
     "maxLevel": 15,
@@ -152331,7 +152331,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1082,1083,2,1142,1145"
+    "skillEffectParamText": "1082,1083,2,1142,1145,1148"
   },
   {
     "skillMstId": 8294,
@@ -152485,7 +152485,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "破武ノ呪術・天雷(Ⅶ)",
-    "description": "敵3体の物理攻撃力、魔法防御力を大ダウンする。さらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵3体の物理攻撃力、魔法防御力を大ダウンする。さらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 34,
     "maxLevel": 15,
@@ -152499,14 +152499,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1084,1085,3,1143,1146"
+    "skillEffectParamText": "1084,1085,3,1143,1146,1149"
   },
   {
     "skillMstId": 8302,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "勇者の夢想曲・雪月(Ⅶ)",
-    "description": "味方3体の物理攻撃力、魔法攻撃力を大アップする。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "味方3体の物理攻撃力、魔法攻撃力を大アップする。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 34,
     "maxLevel": 15,
@@ -152520,7 +152520,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1082,1083,2,1142,1145"
+    "skillEffectParamText": "1082,1083,2,1142,1145,1148"
   },
   {
     "skillMstId": 8303,
@@ -152842,7 +152842,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "炎剣の纏牙(Ⅶ)",
-    "description": "敵1体に物理極大ダメージを与える。さらに味方が召喚スキル「鼓舞ハ剣戟ノ加護トナル」「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵1体に物理極大ダメージを与える。さらに味方が召喚スキル「鼓舞ハ剣戟ノ加護トナル」「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 28,
     "maxLevel": 15,
@@ -152856,14 +152856,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1063,1080,1081,1,1141,1144"
+    "skillEffectParamText": "1063,1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 8319,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "雷銃の纏魔(Ⅶ)",
-    "description": "敵1体に魔法極大ダメージを与える。さらに味方が召喚スキル「訓令ハ銃撃ノ加護トナル」「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵1体に魔法極大ダメージを与える。さらに味方が召喚スキル「訓令ハ銃撃ノ加護トナル」「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 28,
     "maxLevel": 15,
@@ -152877,7 +152877,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1065,1084,1085,3,1143,1146"
+    "skillEffectParamText": "1065,1084,1085,3,1143,1146,1149"
   },
   {
     "skillMstId": 8320,
@@ -153577,7 +153577,7 @@
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "氷剣の纏牙(Ⅶ)",
-    "description": "敵1体に物理極大ダメージを与える。さらに味方が召喚スキル「鼓舞ハ剣戟ノ加護トナル」「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵1体に物理極大ダメージを与える。さらに味方が召喚スキル「鼓舞ハ剣戟ノ加護トナル」「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 28,
     "maxLevel": 15,
@@ -153591,14 +153591,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1063,1082,1083,2,1142,1145"
+    "skillEffectParamText": "1063,1082,1083,2,1142,1145,1148"
   },
   {
     "skillMstId": 8354,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "雷剣の纏牙(Ⅶ)",
-    "description": "敵1体に物理極大ダメージを与える。さらに味方が召喚スキル「鼓舞ハ剣戟ノ加護トナル」「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵1体に物理極大ダメージを与える。さらに味方が召喚スキル「鼓舞ハ剣戟ノ加護トナル」「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 28,
     "maxLevel": 15,
@@ -153612,14 +153612,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1063,1084,1085,3,1143,1146"
+    "skillEffectParamText": "1063,1084,1085,3,1143,1146,1149"
   },
   {
     "skillMstId": 8355,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "炎銃の纏魔(Ⅶ)",
-    "description": "敵1体に魔法極大ダメージを与える。さらに味方が召喚スキル「訓令ハ銃撃ノ加護トナル」「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵1体に魔法極大ダメージを与える。さらに味方が召喚スキル「訓令ハ銃撃ノ加護トナル」「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 28,
     "maxLevel": 15,
@@ -153633,14 +153633,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1065,1080,1081,1,1141,1144"
+    "skillEffectParamText": "1065,1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 8356,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "氷銃の纏魔(Ⅶ)",
-    "description": "敵1体に魔法極大ダメージを与える。さらに味方が召喚スキル「訓令ハ銃撃ノ加護トナル」「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵1体に魔法極大ダメージを与える。さらに味方が召喚スキル「訓令ハ銃撃ノ加護トナル」「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 28,
     "maxLevel": 15,
@@ -153654,14 +153654,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1065,1082,1083,2,1142,1145"
+    "skillEffectParamText": "1065,1082,1083,2,1142,1145,1148"
   },
   {
     "skillMstId": 8357,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "退魔師の受難曲・天雷(Ⅶ)",
-    "description": "味方3体の魔法攻撃力、物理防御力を大アップする。さらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "味方3体の魔法攻撃力、物理防御力を大アップする。さらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 34,
     "maxLevel": 15,
@@ -153675,14 +153675,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1084,1085,3,1143,1146"
+    "skillEffectParamText": "1084,1085,3,1143,1146,1149"
   },
   {
     "skillMstId": 8358,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "剣闘士の受難曲・炎獄(Ⅶ)",
-    "description": "味方3体の物理攻撃力、魔法防御力を大アップする。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "味方3体の物理攻撃力、魔法防御力を大アップする。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 34,
     "maxLevel": 15,
@@ -153696,14 +153696,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1080,1081,1,1141,1144"
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 8359,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "破武ノ呪術・炎獄(Ⅶ)",
-    "description": "敵3体の物理攻撃力、魔法防御力を大ダウンする。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵3体の物理攻撃力、魔法防御力を大ダウンする。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 34,
     "maxLevel": 15,
@@ -153717,14 +153717,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1080,1081,1,1141,1144"
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 8360,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "幻鎖ノ呪術・雪月(Ⅶ)",
-    "description": "敵3体の魔法攻撃力、物理防御力を大ダウンする。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵3体の魔法攻撃力、物理防御力を大ダウンする。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 34,
     "maxLevel": 15,
@@ -153738,14 +153738,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1082,1083,2,1142,1145"
+    "skillEffectParamText": "1082,1083,2,1142,1145,1148"
   },
   {
     "skillMstId": 8361,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "恵みの福音・天雷(Ⅶ)",
-    "description": "味方3～5体のHPを回復する。さらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "味方3～5体のHPを回復する。さらに味方が召喚スキル「警鐘ハ散華ノ風ヲ呼ブ」「号令ハ疾風ノ加護トナル」「奉ル風精ノ舞」「風散リシ宿怨ノ層」「統率スル翠黛ノ風」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 35,
     "maxLevel": 15,
@@ -153759,7 +153759,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1084,1085,3,1143,1146"
+    "skillEffectParamText": "1084,1085,3,1143,1146,1149"
   },
   {
     "skillMstId": 8362,
@@ -155127,11 +155127,200 @@
     "skillEffectParamText": ""
   },
   {
+    "skillMstId": 8427,
+    "category": 0,
+    "setEffectSeriesId": 0,
+    "name": "宇宙の霊魂",
+    "description": "宇宙種からのダメージを50％軽減する",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 0,
+    "resourceName": "",
+    "type": 0,
+    "typeLabel": "自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8428,
+    "category": 0,
+    "setEffectSeriesId": 0,
+    "name": "刀剣の名手",
+    "description": "コロシアムで刀剣の効果量が4％アップする",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 0,
+    "resourceName": "",
+    "type": 0,
+    "typeLabel": "自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8429,
+    "category": 0,
+    "setEffectSeriesId": 0,
+    "name": "打撃の名手",
+    "description": "コロシアムで打撃の効果量が4％アップする",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 0,
+    "resourceName": "",
+    "type": 0,
+    "typeLabel": "自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8430,
+    "category": 0,
+    "setEffectSeriesId": 0,
+    "name": "射出の名手",
+    "description": "コロシアムで射出の効果量が4％アップする",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 0,
+    "resourceName": "",
+    "type": 0,
+    "typeLabel": "自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8431,
+    "category": 0,
+    "setEffectSeriesId": 0,
+    "name": "長柄の名手",
+    "description": "コロシアムで長柄の効果量が4％アップする",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 0,
+    "resourceName": "",
+    "type": 0,
+    "typeLabel": "自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8432,
+    "category": 0,
+    "setEffectSeriesId": 0,
+    "name": "楽器の名手",
+    "description": "コロシアムで楽器の効果量が4％アップする",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 0,
+    "resourceName": "",
+    "type": 0,
+    "typeLabel": "自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8433,
+    "category": 0,
+    "setEffectSeriesId": 0,
+    "name": "魔書の名手",
+    "description": "コロシアムで魔書の効果量が4％アップする",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 0,
+    "resourceName": "",
+    "type": 0,
+    "typeLabel": "自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8434,
+    "category": 0,
+    "setEffectSeriesId": 0,
+    "name": "祈祷の名手",
+    "description": "コロシアムで祈祷の効果量が4％アップする",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 0,
+    "resourceName": "",
+    "type": 0,
+    "typeLabel": "自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8435,
+    "category": 0,
+    "setEffectSeriesId": 0,
+    "name": "魔具の名手",
+    "description": "コロシアムで魔具の効果量が4％アップする",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 0,
+    "resourceName": "",
+    "type": 0,
+    "typeLabel": "自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
     "skillMstId": 8436,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "腐蝕ノ呪術・雪月(Ⅶ)",
-    "description": "敵3体の物理攻撃力、魔法攻撃力を大ダウンする。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "敵3体の物理攻撃力、魔法攻撃力を大ダウンする。さらに味方が召喚スキル「警鐘ハ散華ノ飛沫ヲ呼ブ」「囁キハ流水ノ加護トナル」「奉ル水精ノ舞」「飛沫散リシ宿怨ノ層」「統率スル蒼天ノ飛沫」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 34,
     "maxLevel": 15,
@@ -155145,14 +155334,14 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1082,1083,2,1142,1145"
+    "skillEffectParamText": "1082,1083,2,1142,1145,1148"
   },
   {
     "skillMstId": 8437,
     "category": 1,
     "setEffectSeriesId": 0,
     "name": "勇者の夢想曲・炎獄(Ⅶ)",
-    "description": "味方3体の物理攻撃力、魔法攻撃力を大アップする。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」を発動中は威力が大アップする。",
+    "description": "味方3体の物理攻撃力、魔法攻撃力を大アップする。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力が大アップする。",
     "attackEffect": 0,
     "sp": 34,
     "maxLevel": 15,
@@ -155166,7 +155355,7 @@
     "skillEffectType": 3,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,
-    "skillEffectParamText": "1080,1081,1,1141,1144"
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
   },
   {
     "skillMstId": 8438,
@@ -155310,6 +155499,636 @@
     "secondaryIcon": 0,
     "rangeIcon": 3,
     "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8516,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "吸命の終極(Ⅶ)",
+    "description": "敵1体に物理絶大ダメージを与える。\r\nさらに自身のHPを回復する。",
+    "attackEffect": 0,
+    "sp": 18,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 3,
+    "typeLabel": "敵単体/自身",
+    "primaryIcon": 1,
+    "secondaryIcon": 3,
+    "rangeIcon": 1,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8517,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "折剣ノ病魔・侵蝕(Ⅵ)",
+    "description": "敵3体の物理攻撃力を特大ダウンする。\r\n※このスキルは気絶している敵のパラメータも減少させる。",
+    "attackEffect": 0,
+    "sp": 27,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 616,
+    "typeLabel": "敵複数体",
+    "primaryIcon": 14,
+    "secondaryIcon": 0,
+    "rangeIcon": 3,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8518,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "厭幽ノ病魔・侵蝕(Ⅵ)",
+    "description": "敵3体の魔法攻撃力を特大ダウンする。\r\n※このスキルは気絶している敵のパラメータも減少させる。",
+    "attackEffect": 0,
+    "sp": 27,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 616,
+    "typeLabel": "敵複数体",
+    "primaryIcon": 16,
+    "secondaryIcon": 0,
+    "rangeIcon": 3,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8519,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "双攻上の魔灼(Ⅷ)",
+    "description": "敵2～3体に魔法特大ダメージを与える。\r\nさらに自身の物理攻撃力と魔法攻撃力を大アップする。",
+    "attackEffect": 0,
+    "sp": 32,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 6,
+    "typeLabel": "敵複数体/自身",
+    "primaryIcon": 2,
+    "secondaryIcon": 8,
+    "rangeIcon": 2,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8520,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "",
+    "description": "味方1体の物理攻撃力、魔法攻撃力、物理防御力、魔法防御力を20倍アップする。",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 41,
+    "typeLabel": "味方単体/自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8521,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "",
+    "description": "敵5～5体に現在HPに対する割合ダメージ 効果値：999(千分率)",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 564,
+    "typeLabel": "敵全体",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8522,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "",
+    "description": "敵▽体の能力アップ効果を解除する。",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 126,
+    "typeLabel": "敵全体",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8523,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "",
+    "description": "敵5体に魔法1.5倍ダメージを与える。",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 1,
+    "typeLabel": "敵全体",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8524,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "",
+    "description": "敵5体に魔法0.7倍ダメージを与える。",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 1,
+    "typeLabel": "敵全体",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8525,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "",
+    "description": "敵5体に物理1.5倍ダメージを与える。",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 1,
+    "typeLabel": "敵全体",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8526,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "",
+    "description": "敵5体に物理0.7倍ダメージを与える。",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 1,
+    "typeLabel": "敵全体",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8527,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "",
+    "description": "敵5～5体に現在HPに対する割合ダメージ 効果値：333(千分率)",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 564,
+    "typeLabel": "敵全体",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8528,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "",
+    "description": "相手側（プレイヤー）のHPを1倍回復する。(対象：5体)",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 512,
+    "typeLabel": "味方全体/自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8529,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "6周年アリガトウ",
+    "description": "敵5体に物理の固定ダメージを与える",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 528,
+    "typeLabel": "敵全体",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8530,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "",
+    "description": "敵5～5体に現在HPに対する割合ダメージ 効果値：666(千分率)",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 564,
+    "typeLabel": "敵全体",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8531,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "",
+    "description": "敵1～5体に魔法1倍ダメージを与える。",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 2,
+    "typeLabel": "敵全体",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8532,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "",
+    "description": "敵1～5体に魔法0.5倍ダメージを与える。",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 2,
+    "typeLabel": "敵全体",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8533,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "",
+    "description": "味方1体のHPを0.2倍回復する。",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 35,
+    "typeLabel": "味方単体/自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8534,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "",
+    "description": "味方1体のHPを0.3倍回復する。",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 35,
+    "typeLabel": "味方単体/自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8535,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "",
+    "description": "味方1体のHPを0.4倍回復する。",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 35,
+    "typeLabel": "味方単体/自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8536,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "痛イ",
+    "description": "味方1体のHPを0.5倍回復する。",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 35,
+    "typeLabel": "味方単体/自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8537,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "吸命の終極(Ⅶ)",
+    "description": "敵1体に物理絶大ダメージを与える。\r\nさらに自身のHPを回復する。",
+    "attackEffect": 0,
+    "sp": 18,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 3,
+    "typeLabel": "敵単体/自身",
+    "primaryIcon": 1,
+    "secondaryIcon": 3,
+    "rangeIcon": 1,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8551,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "破魔ノ呪術・炎獄(Ⅶ)",
+    "description": "敵3体の魔法攻撃力、魔法防御力を大ダウンする。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」「火花散リシ宿怨ノ層」「統率スル赫灼ノ火花」を発動中は威力が大アップする。",
+    "attackEffect": 0,
+    "sp": 34,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 623,
+    "typeLabel": "敵複数体",
+    "primaryIcon": 22,
+    "secondaryIcon": 31,
+    "rangeIcon": 3,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 3,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": "1080,1081,1,1141,1144,1147"
+  },
+  {
+    "skillMstId": 8552,
+    "category": 1,
+    "setEffectSeriesId": 0,
+    "name": "賢者の回旋曲・侵蝕(Ⅶ)",
+    "description": "味方3体の魔法攻撃力、物理防御力、魔法防御力を特大アップする。\r\n※このスキルは気絶している味方のパラメータも増加させる。",
+    "attackEffect": 0,
+    "sp": 34,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 614,
+    "typeLabel": "味方複数体/自身",
+    "primaryIcon": 12,
+    "secondaryIcon": 5,
+    "rangeIcon": 3,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8553,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "破魔ノ呪術・炎獄(Ⅶ)",
+    "description": "敵3体の魔法攻撃力、魔法防御力を大ダウンする。さらに味方が召喚スキル「警鐘ハ散華ノ火花ヲ呼ブ」「怒号ハ炎熱ノ加護トナル」「奉ル炎精ノ舞」を発動中は威力が大アップする。",
+    "attackEffect": 0,
+    "sp": 34,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 623,
+    "typeLabel": "敵複数体",
+    "primaryIcon": 22,
+    "secondaryIcon": 31,
+    "rangeIcon": 3,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8554,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "賢者の回旋曲(Ⅶ)",
+    "description": "味方3体の魔法攻撃力、物理防御力、魔法防御力を特大アップする。",
+    "attackEffect": 0,
+    "sp": 34,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 41,
+    "typeLabel": "味方複数体/自身",
+    "primaryIcon": 12,
+    "secondaryIcon": 5,
+    "rangeIcon": 3,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8555,
+    "category": 3,
+    "setEffectSeriesId": 0,
+    "name": "刀剣ジョブ使用時、物理ダメージ6%UP",
+    "description": "刀剣ジョブ使用時、物理ダメージ6%UP",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 586,
+    "typeLabel": "自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 1,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8556,
+    "category": 3,
+    "setEffectSeriesId": 0,
+    "name": "射出ジョブ使用時、魔法ダメージ6%UP",
+    "description": "射出ジョブ使用時、魔法ダメージ6%UP",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 586,
+    "typeLabel": "自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 1,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8557,
+    "category": 3,
+    "setEffectSeriesId": 0,
+    "name": "物理攻撃時イノチ取得量6%UP",
+    "description": "物理攻撃時イノチ取得量6%UP",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 583,
+    "typeLabel": "自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 1,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0,
+    "skillEffectParamText": ""
+  },
+  {
+    "skillMstId": 8558,
+    "category": 3,
+    "setEffectSeriesId": 0,
+    "name": "魔法攻撃時イノチ取得量6%UP",
+    "description": "魔法攻撃時イノチ取得量6%UP",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 583,
+    "typeLabel": "自身",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 1,
     "skillEffectType": 0,
     "skillEffectParam1": 0,
     "skillEffectParam2": 0,

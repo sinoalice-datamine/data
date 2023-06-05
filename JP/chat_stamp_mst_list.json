@@ -2380,6 +2380,34 @@
     "createdTime": null
   },
   {
+    "chatStampMstId": 185,
+    "name": "アリス/撃ち抜く！",
+    "resourceName": "185",
+    "assetBundleName": "chat78",
+    "filterType": 1,
+    "howToGet": "『SINoALICE 感謝の6周年記念 これがシノアリスの\"総力戦\"デス！〜あのセルラン１位をもう一度〜』開催記念",
+    "itemMstId": 5782,
+    "replaceMessage": "[*185]",
+    "isAnytime": 0,
+    "startTime": 1685977200,
+    "endTime": 1688137199,
+    "createdTime": null
+  },
+  {
+    "chatStampMstId": 186,
+    "name": "ギシンアンキ/うおおおおお！！！",
+    "resourceName": "186",
+    "assetBundleName": "chat78",
+    "filterType": 99,
+    "howToGet": "『6周年 総力戦キャンペーン』にて獲得可能",
+    "itemMstId": 5783,
+    "replaceMessage": "[*186]",
+    "isAnytime": 0,
+    "startTime": 1685977200,
+    "endTime": 1688050799,
+    "createdTime": null
+  },
+  {
     "chatStampMstId": 900001,
     "name": "スノウホワイト/No.1",
     "resourceName": "900001",
