@@ -530,5 +530,19 @@
     "description": "モノガタリ中、常に魔法防御力が超特大アップする。(パラメータ上昇値：+600～2500)　※上昇値はスキルLvにより異なる",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 80
+  },
+  {
+    "limitBreakSkillMstId": 81,
+    "name": "無我の境地/決闘(参)",
+    "description": "コロシアム中、常に物理攻撃力、魔法攻撃力、物理防御力、魔法防御力が極大アップする。(上昇値：+1000～3000)　※上昇値はスキルLvにより異なる",
+    "skillMstId": 0,
+    "limitBreakSkillAbilityUniqueId": 81
+  },
+  {
+    "limitBreakSkillMstId": 82,
+    "name": "無我の境地/噺(参)",
+    "description": "モノガタリ中、常に物理攻撃力、魔法攻撃力、物理防御力、魔法防御力が極大アップする。(上昇値：+1000～3000)　※上昇値はスキルLvにより異なる",
+    "skillMstId": 0,
+    "limitBreakSkillAbilityUniqueId": 82
   }
 ]

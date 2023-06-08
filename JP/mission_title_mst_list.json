@@ -10108,7 +10108,7 @@
     "title": "【期間中報酬6倍】デイリーミッション",
     "priority": 49998,
     "startTime": 1685977200,
-    "endTime": 1688050799,
+    "endTime": 1686236399,
     "isHideTime": false
   },
   {
@@ -10165,6 +10165,22 @@
     "priority": 50000,
     "startTime": 1685867100,
     "endTime": 1686495599,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1304,
+    "title": "「融解スル爐ノ檻」共闘ミッション",
+    "priority": 30001,
+    "startTime": 1686236400,
+    "endTime": 1686797999,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1307,
+    "title": "【期間中報酬6倍+α】ﾃﾞｲﾘｰﾐｯｼｮﾝ",
+    "priority": 49998,
+    "startTime": 1686236400,
+    "endTime": 1688050799,
     "isHideTime": false
   }
 ]

@@ -214,5 +214,77 @@
     "limitStatus": 0,
     "reflectPermillage": 0,
     "description": "CPUを除く参加者の総合値を基準に最終WAVEのドロップ率が加算されます。\r\n参加者の総合値が50万以上の場合、ドロップ率が加算されます。\r\n総合値の上昇に伴い、加算されるドロップ率も上昇します。\r\n参加者全員の加算ドロップ率合計が最終WAVEに適用されます。\r\n※総合値は補正前総合値を参照します。\r\n※加算ドロップ率合計の上限は5％となります。"
+  },
+  {
+    "questStageStatusLimitationMstId": 28,
+    "questStageMstId": 10932,
+    "limitType": 1,
+    "limitStatus": 500000,
+    "reflectPermillage": 20,
+    "description": "総合値50万以上の場合、総合値が50万に補正された後、補正前総合値の一部が加算されます。"
+  },
+  {
+    "questStageStatusLimitationMstId": 29,
+    "questStageMstId": 10932,
+    "limitType": 2,
+    "limitStatus": 500000,
+    "reflectPermillage": 20,
+    "description": "HP50万以上の場合、HPが50万に補正された後、補正前HPの一部が加算されます。"
+  },
+  {
+    "questStageStatusLimitationMstId": 30,
+    "questStageMstId": 10932,
+    "limitType": 3,
+    "limitStatus": 0,
+    "reflectPermillage": 0,
+    "description": "CPUを除く参加者の総合値を基準に最終WAVEのドロップ率が加算されます。\r\n参加者の総合値が50万以上の場合、ドロップ率が加算されます。\r\n総合値の上昇に伴い、加算されるドロップ率も上昇します。\r\n参加者全員の加算ドロップ率合計が最終WAVEに適用されます。\r\n※総合値は補正前総合値を参照します。\r\n※加算ドロップ率合計の上限は5％となります。"
+  },
+  {
+    "questStageStatusLimitationMstId": 31,
+    "questStageMstId": 10936,
+    "limitType": 1,
+    "limitStatus": 500000,
+    "reflectPermillage": 20,
+    "description": "総合値50万以上の場合、総合値が50万に補正された後、補正前総合値の一部が加算されます。"
+  },
+  {
+    "questStageStatusLimitationMstId": 32,
+    "questStageMstId": 10936,
+    "limitType": 2,
+    "limitStatus": 500000,
+    "reflectPermillage": 20,
+    "description": "HP50万以上の場合、HPが50万に補正された後、補正前HPの一部が加算されます。"
+  },
+  {
+    "questStageStatusLimitationMstId": 33,
+    "questStageMstId": 10936,
+    "limitType": 3,
+    "limitStatus": 0,
+    "reflectPermillage": 0,
+    "description": "CPUを除く参加者の総合値を基準に最終WAVEのドロップ率が加算されます。\r\n参加者の総合値が50万以上の場合、ドロップ率が加算されます。\r\n総合値の上昇に伴い、加算されるドロップ率も上昇します。\r\n参加者全員の加算ドロップ率合計が最終WAVEに適用されます。\r\n※総合値は補正前総合値を参照します。\r\n※加算ドロップ率合計の上限は5％となります。"
+  },
+  {
+    "questStageStatusLimitationMstId": 34,
+    "questStageMstId": 10940,
+    "limitType": 1,
+    "limitStatus": 500000,
+    "reflectPermillage": 20,
+    "description": "総合値50万以上の場合、総合値が50万に補正された後、補正前総合値の一部が加算されます。"
+  },
+  {
+    "questStageStatusLimitationMstId": 35,
+    "questStageMstId": 10940,
+    "limitType": 2,
+    "limitStatus": 500000,
+    "reflectPermillage": 20,
+    "description": "HP50万以上の場合、HPが50万に補正された後、補正前HPの一部が加算されます。"
+  },
+  {
+    "questStageStatusLimitationMstId": 36,
+    "questStageMstId": 10940,
+    "limitType": 3,
+    "limitStatus": 0,
+    "reflectPermillage": 0,
+    "description": "CPUを除く参加者の総合値を基準に最終WAVEのドロップ率が加算されます。\r\n参加者の総合値が50万以上の場合、ドロップ率が加算されます。\r\n総合値の上昇に伴い、加算されるドロップ率も上昇します。\r\n参加者全員の加算ドロップ率合計が最終WAVEに適用されます。\r\n※総合値は補正前総合値を参照します。\r\n※加算ドロップ率合計の上限は5％となります。"
   }
 ]

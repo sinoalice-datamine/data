@@ -11723,6 +11723,25 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 637,
+    "name": "周年大討伐メダル(2023)",
+    "description": "ギシンアンキが集めているメダル\r\n※2023年7月3日23:59まで",
+    "resourceName": "item20211228_daitobatsu",
+    "assetBundleName": "3932",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "イベントを行うことで獲得することができます。\r\n※有効期限2023年7月3日23:59まで",
+    "priority": 55,
+    "itemMstId": 5780,
+    "startTime": 1686236400,
+    "endTime": 1688396399,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 638,
     "name": "イノチの牢メダル",
     "description": "コロシアム参加で入手できるメダル\r\n※2023年7月6日23:59まで",
