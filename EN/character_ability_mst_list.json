@@ -39040,6 +39040,46 @@
     "cardDetailType": 7
   },
   {
+    "characterAbilityMstId": 4945,
+    "characterMstId": 126,
+    "name": "HP +2500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2500,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4946,
+    "characterMstId": 126,
+    "name": "P.DMG +2% when using blade class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5029,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 4947,
+    "characterMstId": 328,
+    "name": "HP +2500",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2500,
+    "cardDetailType": 1
+  },
+  {
+    "characterAbilityMstId": 4948,
+    "characterMstId": 328,
+    "name": "Buff effect +2% when using instrument class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5033,
+    "cardDetailType": 1
+  },
+  {
     "characterAbilityMstId": 4995,
     "characterMstId": 220,
     "name": "Staff +10% (Aladdin+ stages)",
@@ -42280,6 +42320,106 @@
     "cardDetailType": 7
   },
   {
+    "characterAbilityMstId": 5569,
+    "characterMstId": 428,
+    "name": "Blade +60% (Nutcracker+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5570,
+    "characterMstId": 428,
+    "name": "Blade +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5571,
+    "characterMstId": 428,
+    "name": "P.DMG +1% when using blade class",
+    "releaseLevel": 3,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6097,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5572,
+    "characterMstId": 428,
+    "name": "P.DMG +1% when using heavy class",
+    "releaseLevel": 4,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6098,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5573,
+    "characterMstId": 428,
+    "name": "M.DMG +1% when using projectile class",
+    "releaseLevel": 5,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6099,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5574,
+    "characterMstId": 428,
+    "name": "M.DMG +1% when using polearm class",
+    "releaseLevel": 6,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6100,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5575,
+    "characterMstId": 428,
+    "name": "Buff effect +1% when using instrument class",
+    "releaseLevel": 7,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6101,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5576,
+    "characterMstId": 428,
+    "name": "Debuff effect +1% when using tome class",
+    "releaseLevel": 8,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6102,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5577,
+    "characterMstId": 428,
+    "name": "Recovery effect +1% when using staff class",
+    "releaseLevel": 9,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6103,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 5578,
+    "characterMstId": 428,
+    "name": "M.DMG +1% when using artifact class",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6104,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 5583,
     "characterMstId": 443,
     "name": "Polearm +30% (Alice+ stages)",
@@ -42397,6 +42537,146 @@
     "skillType": 1,
     "effectType": 5,
     "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5599,
+    "characterMstId": 429,
+    "name": "Polearm +60% (Gretel+ stages)",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5600,
+    "characterMstId": 429,
+    "name": "Polearm +10%",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5601,
+    "characterMstId": 429,
+    "name": "HP +300",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5602,
+    "characterMstId": 429,
+    "name": "M.ATK +100",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5603,
+    "characterMstId": 429,
+    "name": "HP +300",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5604,
+    "characterMstId": 429,
+    "name": "P.DEF +100",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 100,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5605,
+    "characterMstId": 429,
+    "name": "HP +300",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5606,
+    "characterMstId": 429,
+    "name": "HP +1,200",
+    "releaseLevel": 8,
+    "skillType": 3,
+    "effectType": 8,
+    "effectValue": 1200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5607,
+    "characterMstId": 429,
+    "name": "HP +300",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5608,
+    "characterMstId": 429,
+    "name": "Cost +5",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 7,
+    "effectValue": 5,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5609,
+    "characterMstId": 429,
+    "name": "M.ATK +200",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5610,
+    "characterMstId": 429,
+    "name": "Obtained lifeforce +3% every M.ATK (from start until last 5 mins. of battle)",
+    "releaseLevel": 12,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6118,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5611,
+    "characterMstId": 429,
+    "name": "M.ATK +300",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 300,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 5612,
+    "characterMstId": 429,
+    "name": "Defense +20% when hit while using polearm class",
+    "releaseLevel": 14,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 900035,
     "cardDetailType": 8
   },
   {
@@ -68157,6 +68437,46 @@
     "skillType": 1,
     "effectType": 1,
     "effectValue": 800,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 900523,
+    "characterMstId": 429,
+    "name": "M.DEF +500",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 500,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 900524,
+    "characterMstId": 429,
+    "name": "M.DMG +4% when using polearm class",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7872,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 900525,
+    "characterMstId": 78,
+    "name": "M.ATK +600",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 600,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 900526,
+    "characterMstId": 78,
+    "name": "M.ATK +600",
+    "releaseLevel": 16,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 600,
     "cardDetailType": 8
   }
 ]
