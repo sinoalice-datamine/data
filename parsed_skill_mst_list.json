@@ -38977,6 +38977,68 @@
     "heal_effect_size": 3
   },
   {
+    "skillMstId": 8600,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 3,
+    "targets": {
+      "type": 2,
+      "min": 4,
+      "max": 4
+    },
+    "support_direction": 1,
+    "pdef_effect_size": 4,
+    "mdef_effect_size": 4
+  },
+  {
+    "skillMstId": 8601,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 2,
+      "max": 3
+    },
+    "damage_type": 2,
+    "damage_effect_size": 4,
+    "support_direction": 1,
+    "matk_effect_size": 2,
+    "mdef_effect_size": 2,
+    "combo": 30
+  },
+  {
+    "skillMstId": 8602,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 3,
+    "targets": {
+      "type": 2,
+      "min": 4,
+      "max": 4
+    },
+    "support_direction": 1,
+    "pdef_effect_size": 4,
+    "mdef_effect_size": 4
+  },
+  {
+    "skillMstId": 8603,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 2,
+      "max": 3
+    },
+    "damage_type": 2,
+    "damage_effect_size": 4,
+    "support_direction": 1,
+    "matk_effect_size": 2,
+    "mdef_effect_size": 2,
+    "combo": 30
+  },
+  {
     "skillMstId": 900001,
     "skill_type": 4,
     "when": {
