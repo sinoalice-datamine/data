@@ -2992,6 +2992,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 648,
+    "mapType": 1,
+    "mapGroup": 595,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "SINoZOMBIE -Banquet of the Dead- (Normal)",
+    "description": "SINoZOMBIE Event (Normal)",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 649,
+    "mapType": 1,
+    "mapGroup": 595,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "SINoZOMBIE -Banquet of the Dead- (Hard)",
+    "description": "SINoZOMBIE Event (Hard)",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 900001,
     "mapType": 1,
     "mapGroup": 900001,

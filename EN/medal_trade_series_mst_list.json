@@ -1590,6 +1590,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 581,
+    "name": "Infected's Diary Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20230615_medal_zombie",
+    "assetBundleName": "5218",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 5218,
+    "startTime": 1686808800,
+    "endTime": 1688623199,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 900001,
     "name": "Gladiator Medal",
     "description": "Medal awarded based on weapon usage at the Colosseum.",
@@ -1946,6 +1961,21 @@
     "itemMstId": 900313,
     "startTime": 1685599200,
     "endTime": 1689605999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900043,
+    "name": "Zombie Medal",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item20230615_gacha_zombie",
+    "assetBundleName": "5466",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 5466,
+    "startTime": 1686808800,
+    "endTime": 1688655599,
     "displayType": 0,
     "isDeleted": false
   }

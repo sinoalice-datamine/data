@@ -1248,6 +1248,18 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 516,
+    "title": "Event Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1686808800,
+    "endTime": 1688014799,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 900001,
     "title": "RU Bonus",
     "cycleType": 100,
@@ -2191,6 +2203,30 @@
     "pickupSkillType": 1,
     "startTime": 1685512800,
     "endTime": 1686113999,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900082,
+    "title": "3rd Anniversary Pre-Fest Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1686805200,
+    "endTime": 1687669199,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900083,
+    "title": "3rd Anniversary Pre-Fest Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1687669200,
+    "endTime": 1687928399,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""
