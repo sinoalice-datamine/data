@@ -11797,5 +11797,24 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 642,
+    "name": "復刻神魔メダル",
+    "description": "ガチャで獲得できるメダル\r\n※2023年6月29日23:59まで",
+    "resourceName": "2023-06-29 23:59:59",
+    "assetBundleName": "MedalTradeTop",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年6月29日23:59まで",
+    "priority": 43,
+    "itemMstId": 5894,
+    "startTime": 1686808800,
+    "endTime": 1688050799,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]
