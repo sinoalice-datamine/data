@@ -39054,6 +39054,370 @@
     "combo": 30
   },
   {
+    "skillMstId": 8607,
+    "skill_type": 99
+  },
+  {
+    "skillMstId": 8608,
+    "skill_type": 99
+  },
+  {
+    "skillMstId": 8609,
+    "skill_type": 2
+  },
+  {
+    "skillMstId": 8610,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 1
+    },
+    "damage_type": 2,
+    "damage_effect_size": 7,
+    "sp_recovery": {
+      "target": 5,
+      "value": 300
+    }
+  },
+  {
+    "skillMstId": 8611,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 1
+    },
+    "damage_type": 1,
+    "damage_effect_size": 7,
+    "sp_recovery": {
+      "target": 5,
+      "value": 300
+    }
+  },
+  {
+    "skillMstId": 8612,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 3
+    },
+    "damage_type": 1,
+    "damage_effect_size": 3,
+    "disadvantage_boost": 1.5
+  },
+  {
+    "skillMstId": 8613,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 3
+    },
+    "damage_type": 2,
+    "damage_effect_size": 3,
+    "disadvantage_boost": 1.5
+  },
+  {
+    "skillMstId": 8614,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 2,
+      "max": 3
+    },
+    "damage_type": 1,
+    "damage_effect_size": 6,
+    "nightmare_effect": {
+      "art_unique_ids": [
+        12
+      ],
+      "boost_effect_size": 3
+    }
+  },
+  {
+    "skillMstId": 8615,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 2,
+      "max": 3
+    },
+    "damage_type": 2,
+    "damage_effect_size": 6,
+    "nightmare_effect": {
+      "art_unique_ids": [
+        12
+      ],
+      "boost_effect_size": 3
+    }
+  },
+  {
+    "skillMstId": 8616,
+    "skill_type": 1,
+    "skill_name_tier": 10,
+    "primary_effect": 3,
+    "targets": {
+      "type": 2,
+      "min": 4,
+      "max": 5
+    },
+    "support_direction": 1,
+    "patk_effect_size": 5,
+    "sp_recovery": {
+      "target": 5,
+      "value": 300
+    }
+  },
+  {
+    "skillMstId": 8617,
+    "skill_type": 1,
+    "skill_name_tier": 10,
+    "primary_effect": 3,
+    "targets": {
+      "type": 2,
+      "min": 4,
+      "max": 5
+    },
+    "support_direction": 1,
+    "matk_effect_size": 5,
+    "sp_recovery": {
+      "target": 5,
+      "value": 300
+    }
+  },
+  {
+    "skillMstId": 8618,
+    "skill_type": 1,
+    "skill_name_tier": 10,
+    "primary_effect": 3,
+    "targets": {
+      "type": 1,
+      "min": 4,
+      "max": 5
+    },
+    "support_direction": 2,
+    "patk_effect_size": 5,
+    "sp_recovery": {
+      "target": 5,
+      "value": 300
+    }
+  },
+  {
+    "skillMstId": 8619,
+    "skill_type": 1,
+    "skill_name_tier": 10,
+    "primary_effect": 3,
+    "targets": {
+      "type": 1,
+      "min": 4,
+      "max": 5
+    },
+    "support_direction": 2,
+    "matk_effect_size": 5,
+    "sp_recovery": {
+      "target": 5,
+      "value": 300
+    }
+  },
+  {
+    "skillMstId": 8620,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 2,
+    "targets": {
+      "type": 2,
+      "min": 4,
+      "max": 5
+    },
+    "heal_effect_size": 3,
+    "target_low_hp_boost": {
+      "hp_threshold": 99,
+      "effect_size": 3
+    }
+  },
+  {
+    "skillMstId": 8621,
+    "skill_type": 1,
+    "skill_name_tier": 10,
+    "primary_effect": 2,
+    "targets": {
+      "type": 2,
+      "min": 4,
+      "max": 5
+    },
+    "heal_effect_size": 3,
+    "sp_recovery": {
+      "target": 5,
+      "value": 300
+    }
+  },
+  {
+    "skillMstId": 8622,
+    "skill_type": 99
+  },
+  {
+    "skillMstId": 8623,
+    "skill_type": 99
+  },
+  {
+    "skillMstId": 8624,
+    "skill_type": 2
+  },
+  {
+    "skillMstId": 8625,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 1
+    },
+    "damage_type": 2,
+    "damage_effect_size": 7,
+    "sp_recovery": {
+      "target": 5,
+      "value": 200
+    }
+  },
+  {
+    "skillMstId": 8626,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 1
+    },
+    "damage_type": 1,
+    "damage_effect_size": 7,
+    "sp_recovery": {
+      "target": 5,
+      "value": 200
+    }
+  },
+  {
+    "skillMstId": 8627,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 2,
+      "max": 3
+    },
+    "damage_type": 1,
+    "damage_effect_size": 6
+  },
+  {
+    "skillMstId": 8628,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 2,
+      "max": 3
+    },
+    "damage_type": 2,
+    "damage_effect_size": 6
+  },
+  {
+    "skillMstId": 8629,
+    "skill_type": 1,
+    "skill_name_tier": 10,
+    "primary_effect": 3,
+    "targets": {
+      "type": 2,
+      "min": 4,
+      "max": 5
+    },
+    "support_direction": 1,
+    "patk_effect_size": 5,
+    "sp_recovery": {
+      "target": 5,
+      "value": 200
+    }
+  },
+  {
+    "skillMstId": 8630,
+    "skill_type": 1,
+    "skill_name_tier": 10,
+    "primary_effect": 3,
+    "targets": {
+      "type": 2,
+      "min": 4,
+      "max": 5
+    },
+    "support_direction": 1,
+    "matk_effect_size": 5,
+    "sp_recovery": {
+      "target": 5,
+      "value": 200
+    }
+  },
+  {
+    "skillMstId": 8631,
+    "skill_type": 1,
+    "skill_name_tier": 10,
+    "primary_effect": 3,
+    "targets": {
+      "type": 1,
+      "min": 4,
+      "max": 5
+    },
+    "support_direction": 2,
+    "patk_effect_size": 5,
+    "sp_recovery": {
+      "target": 5,
+      "value": 200
+    }
+  },
+  {
+    "skillMstId": 8632,
+    "skill_type": 1,
+    "skill_name_tier": 10,
+    "primary_effect": 3,
+    "targets": {
+      "type": 1,
+      "min": 4,
+      "max": 5
+    },
+    "support_direction": 2,
+    "matk_effect_size": 5,
+    "sp_recovery": {
+      "target": 5,
+      "value": 200
+    }
+  },
+  {
+    "skillMstId": 8633,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 2,
+    "targets": {
+      "type": 2,
+      "min": 4,
+      "max": 5
+    },
+    "heal_effect_size": 3
+  },
+  {
     "skillMstId": 900001,
     "skill_type": 4,
     "when": {
