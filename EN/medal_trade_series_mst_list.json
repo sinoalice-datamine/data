@@ -1890,6 +1890,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 900022,
+    "name": "Medal of Desire (VII)",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 900290,
+    "startTime": 1688104800,
+    "endTime": 1692284399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 900030,
     "name": "Armlet Medal",
     "description": "A medal that is an incidental byproduct of a Grimoire.",
