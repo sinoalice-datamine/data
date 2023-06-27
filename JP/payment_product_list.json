@@ -1155,8 +1155,8 @@
     "price": "10000",
     "default_product_id": "jp.co.pokelabo.sinoalice.campaign118.crystal10000a",
     "default_price": "10000",
-    "start_datetime": "2023-06-20T15:00:00+0900",
-    "end_datetime": "2023-06-27T14:59:59+0900"
+    "start_datetime": "2023-06-27T15:00:00+0900",
+    "end_datetime": "2023-07-07T14:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign119.crystal5000a",
@@ -1392,6 +1392,28 @@
     "default_price": "5020",
     "start_datetime": "2022-09-20T15:00:00+0900",
     "end_datetime": "2022-09-29T14:59:59+0900"
+  },
+  {
+    "product_id": "jp.co.pokelabo.sinoalice.campaign134.crystal10000a",
+    "name": "魔晶石4,000個",
+    "description": "有償魔晶石2,000個＋無償魔晶石2,000個。",
+    "thumbnail_url": "",
+    "charge_gem": "2000",
+    "free_gem": "2000",
+    "increase_gem": "0",
+    "bonus_gem": "0",
+    "total_gem": "4000",
+    "campaign_type": "2",
+    "campaign_mode": "5",
+    "priority": "0",
+    "consumable": "0",
+    "limited_count": "1",
+    "product_type": "0",
+    "price": "10000",
+    "default_product_id": "jp.co.pokelabo.sinoalice.campaign134.crystal10000a",
+    "default_price": "10000",
+    "start_datetime": "2023-06-27T15:00:00+0900",
+    "end_datetime": "2023-07-07T14:59:59+0900"
   },
   {
     "product_id": "jp.co.pokelabo.sinoalice.campaign14.a.crystal3000a",

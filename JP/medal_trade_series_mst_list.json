@@ -11816,5 +11816,24 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 643,
+    "name": "ヨクボウメダル(Ⅶ)",
+    "description": "ガチャで獲得できるメダル\r\n※2023年8月7日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年8月7日23:59まで",
+    "priority": 55,
+    "itemMstId": 5903,
+    "startTime": 1687845600,
+    "endTime": 1691420399,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]
