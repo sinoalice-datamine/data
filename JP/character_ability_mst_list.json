@@ -112300,6 +112300,326 @@
     "cardDetailType": 7
   },
   {
+    "characterAbilityMstId": 11419,
+    "characterMstId": 812,
+    "name": "MatchGirlエリアで射出60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11420,
+    "characterMstId": 812,
+    "name": "射出10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11421,
+    "characterMstId": 812,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11422,
+    "characterMstId": 812,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11423,
+    "characterMstId": 812,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11424,
+    "characterMstId": 812,
+    "name": "HP+2000",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11425,
+    "characterMstId": 812,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11426,
+    "characterMstId": 812,
+    "name": "HP+2000",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11427,
+    "characterMstId": 812,
+    "name": "魔法攻撃+400",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 400,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11428,
+    "characterMstId": 812,
+    "name": "射出ジョブ使用時、魔法ダメージ4%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7871,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11429,
+    "characterMstId": 812,
+    "name": "魔法攻撃+600",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 600,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11430,
+    "characterMstId": 812,
+    "name": "水属性武器使用時、魔法ダメージ3%UP",
+    "releaseLevel": 12,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6433,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11431,
+    "characterMstId": 812,
+    "name": "魔法攻撃+700",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 700,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11432,
+    "characterMstId": 812,
+    "name": "魔法攻撃+700",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 700,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11433,
+    "characterMstId": 812,
+    "name": "魔法攻撃+1000",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 1000,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11434,
+    "characterMstId": 812,
+    "name": "射出ジョブで被ダメージ時、防御50%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5301,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11435,
+    "characterMstId": 813,
+    "name": "Hamelnエリアで刀剣60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11436,
+    "characterMstId": 813,
+    "name": "刀剣10%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 10,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11437,
+    "characterMstId": 813,
+    "name": "物理攻撃+400",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11438,
+    "characterMstId": 813,
+    "name": "物理攻撃+400",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11439,
+    "characterMstId": 813,
+    "name": "物理攻撃+400",
+    "releaseLevel": 5,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11440,
+    "characterMstId": 813,
+    "name": "HP+2000",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11441,
+    "characterMstId": 813,
+    "name": "物理攻撃+400",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11442,
+    "characterMstId": 813,
+    "name": "HP+2000",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 2000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11443,
+    "characterMstId": 813,
+    "name": "物理攻撃+400",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 400,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11444,
+    "characterMstId": 813,
+    "name": "刀剣ジョブ使用時、物理ダメージ4%UP",
+    "releaseLevel": 10,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 7869,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11445,
+    "characterMstId": 813,
+    "name": "物理攻撃+600",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 600,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11446,
+    "characterMstId": 813,
+    "name": "風属性武器使用時、物理ダメージ3%UP",
+    "releaseLevel": 12,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 6277,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11447,
+    "characterMstId": 813,
+    "name": "物理攻撃+700",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 700,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11448,
+    "characterMstId": 813,
+    "name": "物理攻撃+700",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 700,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11449,
+    "characterMstId": 813,
+    "name": "物理攻撃+1000",
+    "releaseLevel": 15,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 1000,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11450,
+    "characterMstId": 813,
+    "name": "刀剣ジョブで被ダメージ時、防御50%UP",
+    "releaseLevel": 16,
+    "skillType": 4,
+    "effectType": 13,
+    "effectValue": 5327,
+    "cardDetailType": 5
+  },
+  {
     "characterAbilityMstId": 11451,
     "characterMstId": 789,
     "name": "Aliceエリアで刀剣60%UP",
@@ -115278,6 +115598,286 @@
     "effectType": 13,
     "effectValue": 6919,
     "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11771,
+    "characterMstId": 810,
+    "name": "Dorothyエリアで打撃60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 11772,
+    "characterMstId": 810,
+    "name": "打撃13%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 13,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 11773,
+    "characterMstId": 810,
+    "name": "物理攻撃+200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 11774,
+    "characterMstId": 810,
+    "name": "物理防御+200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 11775,
+    "characterMstId": 810,
+    "name": "Dorothyエリアで刀剣20%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11776,
+    "characterMstId": 810,
+    "name": "物理攻撃+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 11777,
+    "characterMstId": 810,
+    "name": "物理防御+200",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 11778,
+    "characterMstId": 810,
+    "name": "物理攻撃+200",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 11779,
+    "characterMstId": 810,
+    "name": "物理防御+200",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 200,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 11780,
+    "characterMstId": 810,
+    "name": "HP+3000",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 11781,
+    "characterMstId": 810,
+    "name": "物理攻撃+600",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 600,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 11782,
+    "characterMstId": 810,
+    "name": "刀剣13%UP",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 13,
+    "cardDetailType": 5
+  },
+  {
+    "characterAbilityMstId": 11783,
+    "characterMstId": 810,
+    "name": "物理防御+600",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 3,
+    "effectValue": 600,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 11784,
+    "characterMstId": 810,
+    "name": "物理攻撃+600",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 2,
+    "effectValue": 600,
+    "cardDetailType": 6
+  },
+  {
+    "characterAbilityMstId": 11785,
+    "characterMstId": 811,
+    "name": "Cinderellaエリアで長柄60%UP",
+    "releaseLevel": 1,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 60,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 11786,
+    "characterMstId": 811,
+    "name": "長柄13%UP",
+    "releaseLevel": 2,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 13,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 11787,
+    "characterMstId": 811,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 3,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 11788,
+    "characterMstId": 811,
+    "name": "魔法防御+200",
+    "releaseLevel": 4,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 11789,
+    "characterMstId": 811,
+    "name": "Cinderellaエリアで射出20%UP",
+    "releaseLevel": 5,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 20,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11790,
+    "characterMstId": 811,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 6,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 11791,
+    "characterMstId": 811,
+    "name": "魔法防御+200",
+    "releaseLevel": 7,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 11792,
+    "characterMstId": 811,
+    "name": "魔法攻撃+200",
+    "releaseLevel": 8,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 11793,
+    "characterMstId": 811,
+    "name": "魔法防御+200",
+    "releaseLevel": 9,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 200,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 11794,
+    "characterMstId": 811,
+    "name": "HP+3000",
+    "releaseLevel": 10,
+    "skillType": 1,
+    "effectType": 1,
+    "effectValue": 3000,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 11795,
+    "characterMstId": 811,
+    "name": "魔法攻撃+600",
+    "releaseLevel": 11,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 600,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 11796,
+    "characterMstId": 811,
+    "name": "射出13%UP",
+    "releaseLevel": 12,
+    "skillType": 2,
+    "effectType": 6,
+    "effectValue": 13,
+    "cardDetailType": 7
+  },
+  {
+    "characterAbilityMstId": 11797,
+    "characterMstId": 811,
+    "name": "魔法防御+600",
+    "releaseLevel": 13,
+    "skillType": 1,
+    "effectType": 5,
+    "effectValue": 600,
+    "cardDetailType": 8
+  },
+  {
+    "characterAbilityMstId": 11798,
+    "characterMstId": 811,
+    "name": "魔法攻撃+600",
+    "releaseLevel": 14,
+    "skillType": 1,
+    "effectType": 4,
+    "effectValue": 600,
+    "cardDetailType": 8
   },
   {
     "characterAbilityMstId": 11799,

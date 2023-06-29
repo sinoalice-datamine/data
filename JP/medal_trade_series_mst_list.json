@@ -11835,5 +11835,43 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 651,
+    "name": "ドロシーメダル",
+    "description": "ガチャで獲得できるメダル\r\n※2023年7月14日23:59まで",
+    "resourceName": "2023-07-14 23:59:59",
+    "assetBundleName": "MedalTradeTop",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年7月14日23:59まで",
+    "priority": 43,
+    "itemMstId": 5943,
+    "startTime": 1688014800,
+    "endTime": 1689346799,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 652,
+    "name": "シンデレラメダル",
+    "description": "ガチャで獲得できるメダル\r\n※2023年7月14日23:59まで",
+    "resourceName": "2023-07-14 23:59:59",
+    "assetBundleName": "MedalTradeTop",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年7月14日23:59まで",
+    "priority": 43,
+    "itemMstId": 5948,
+    "startTime": 1688014800,
+    "endTime": 1689346799,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]

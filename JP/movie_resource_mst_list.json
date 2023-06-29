@@ -9037,5 +9037,28 @@
     "museumEndTime": 1924959599,
     "vibStartTime": -1.0,
     "skipButtonType": 0
+  },
+  {
+    "movieResourceMstId": 419,
+    "movieTitle": "現実篇新章追加\r\n『ハーメルン』『マッチ売りの少女』",
+    "resourceName": "genjitsu_Login",
+    "isPreDownLoad": 0,
+    "type": 2,
+    "value": 0,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1688014800,
+    "endTime": 1688655599,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "条件なし　表示されていたらバグ",
+    "thumbAssetBundleName": "museumthumbnail/419",
+    "thumbResourceName": "genjitsu_Login",
+    "museumStartTime": 1688014800,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0,
+    "skipButtonType": 2
   }
 ]
