@@ -2189,6 +2189,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 342,
+    "mapType": 1,
+    "mapGroup": 213,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Wish of Three Piggies",
+    "description": "メダル「子豚、三匹の願い」Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 343,
+    "mapType": 1,
+    "mapGroup": 213,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "Wish of Three Piggies (Hard)",
+    "description": "メダル「子豚、三匹の願い」Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 363,
     "mapType": 0,
     "mapGroup": 4,

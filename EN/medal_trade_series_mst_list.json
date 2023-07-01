@@ -1200,6 +1200,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 141,
+    "name": "Class Medal",
+    "description": "A medal that is an incidental byproduct of purchasing certain twilight crystals",
+    "resourceName": "20230701_jobmedal_mcp",
+    "assetBundleName": "0141",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by buying twilight crystals with the Class Medal.",
+    "priority": 37,
+    "itemMstId": 1901,
+    "startTime": 1688191200,
+    "endTime": 1690005599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 156,
     "name": "Hinaka Medal",
     "description": "Medal collected by Parrah-Noya.",
@@ -1976,6 +1991,21 @@
     "itemMstId": 900313,
     "startTime": 1685599200,
     "endTime": 1689605999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900035,
+    "name": "Bonus Arcana Medal (VII)",
+    "description": "An arcana medal obtainable from specific grimoires.",
+    "resourceName": "item20230427_gacha_ookamihai_0511",
+    "assetBundleName": "900311",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 900314,
+    "startTime": 1688191200,
+    "endTime": 1692284399,
     "displayType": 0,
     "isDeleted": false
   },

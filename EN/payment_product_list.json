@@ -169,12 +169,12 @@
     "consumable": "0",
     "limited_count": "1",
     "product_type": "0",
-    "price": "3060",
+    "price": "4000",
     "default_product_id": "com.global.sinoalice.campaign04.tier25aa",
-    "default_price": "3060",
-    "start_datetime": "2022-07-01T15:00:00+0900",
-    "end_datetime": "2022-07-15T14:59:59+0900",
-    "iconResourceName": "shop_icon/20220701_2nd_anniversary_arms_mcp:20220701_2nd_anniversary_arms_mcp_01.png"
+    "default_price": "4000",
+    "start_datetime": "2023-07-01T15:00:00+0900",
+    "end_datetime": "2023-07-15T14:59:59+0900",
+    "iconResourceName": "shop_icon/20230701_3rdgretel_mcp:20230701_3rdgretel_mcp_01.png"
   },
   {
     "product_id": "com.global.sinoalice.campaign04.tier25ba",
@@ -192,12 +192,12 @@
     "consumable": "0",
     "limited_count": "4",
     "product_type": "0",
-    "price": "3060",
+    "price": "4000",
     "default_product_id": "com.global.sinoalice.campaign04.tier25ba",
-    "default_price": "3060",
-    "start_datetime": "2022-07-01T15:00:00+0900",
-    "end_datetime": "2022-07-15T14:59:59+0900",
-    "iconResourceName": "shop_icon/20220701_2nd_anniversary_arms_mcp:20220701_2nd_anniversary_arms_mcp_02.png"
+    "default_price": "4000",
+    "start_datetime": "2023-07-01T15:00:00+0900",
+    "end_datetime": "2023-07-15T14:59:59+0900",
+    "iconResourceName": "shop_icon/20230701_3rdgretel_mcp:20230701_3rdgretel_mcp_02.png"
   },
   {
     "product_id": "com.global.sinoalice.campaign04.tier41a",
@@ -211,16 +211,16 @@
     "total_gem": "502",
     "campaign_type": "2",
     "campaign_mode": "6",
-    "priority": "-20",
+    "priority": "-65",
     "consumable": "0",
     "limited_count": "1",
     "product_type": "0",
-    "price": "5020",
+    "price": "6600",
     "default_product_id": "com.global.sinoalice.campaign04.tier41a",
-    "default_price": "5020",
-    "start_datetime": "2021-12-17T15:00:00+0900",
-    "end_datetime": "2021-12-26T14:59:59+0900",
-    "iconResourceName": "shop_icon/20201217_pinokio_arcana_mcp:20191224_arcanaLv1_stone.png"
+    "default_price": "6600",
+    "start_datetime": "2023-07-01T15:00:00+0900",
+    "end_datetime": "2023-07-15T14:59:59+0900",
+    "iconResourceName": "shop_icon/20230701_gretel_arcana_mcp:20230701_arcanaLv1_stone.png"
   },
   {
     "product_id": "com.global.sinoalice.campaign05.tier25aa",
@@ -267,6 +267,29 @@
     "start_datetime": "2022-08-04T15:00:00+0900",
     "end_datetime": "2022-08-18T14:59:59+0900",
     "iconResourceName": "shop_icon/20220804_mizugi_mcp:20220804_mizugi_mcp_02.png"
+  },
+  {
+    "product_id": "com.global.sinoalice.campaign06.tier25a",
+    "name": "魔晶石306個＋ジョブメダル",
+    "description": "魔晶石306個＋ジョブメダル",
+    "thumbnail_url": "",
+    "charge_gem": "306",
+    "free_gem": "0",
+    "increase_gem": "0",
+    "bonus_gem": "0",
+    "total_gem": "306",
+    "campaign_type": "2",
+    "campaign_mode": "6",
+    "priority": "0",
+    "consumable": "0",
+    "limited_count": "8",
+    "product_type": "0",
+    "price": "4000",
+    "default_product_id": "com.global.sinoalice.campaign06.tier25a",
+    "default_price": "4000",
+    "start_datetime": "2023-07-01T15:00:00+0900",
+    "end_datetime": "2023-07-15T14:59:59+0900",
+    "iconResourceName": "shop_icon/20230701_jobmedal_mcp:jobmedal_stone.png"
   },
   {
     "product_id": "com.global.sinoalice.campaign06.tier25aa",
@@ -372,16 +395,16 @@
     "total_gem": "502",
     "campaign_type": "2",
     "campaign_mode": "6",
-    "priority": "-20",
+    "priority": "-60",
     "consumable": "0",
     "limited_count": "1",
     "product_type": "0",
-    "price": "5020",
+    "price": "6600",
     "default_product_id": "com.global.sinoalice.campaign07.tier41a",
-    "default_price": "5020",
-    "start_datetime": "2021-12-17T15:00:00+0900",
-    "end_datetime": "2021-12-26T14:59:59+0900",
-    "iconResourceName": "shop_icon/20211217_pinokio_arcana_mcp_fukkoku:20211217_arcanaLv2_stone.png"
+    "default_price": "6600",
+    "start_datetime": "2023-07-01T15:00:00+0900",
+    "end_datetime": "2023-07-15T14:59:59+0900",
+    "iconResourceName": "shop_icon/20230701_gretel_arcana_mcp:20230701_arcanaLv2_stone.png"
   },
   {
     "product_id": "com.global.sinoalice.campaign08.tier09a",
@@ -762,9 +785,9 @@
     "price": "4600",
     "default_product_id": "com.global.sinoalice.campaign11.tier29a",
     "default_price": "4600",
-    "start_datetime": "2023-06-01T15:00:00+0900",
-    "end_datetime": "2023-06-13T14:59:59+0900",
-    "iconResourceName": "shop_icon/20230601_nightmare_mcp:20230601_nightmare_mcp01.png"
+    "start_datetime": "2023-07-01T15:00:00+0900",
+    "end_datetime": "2023-07-15T14:59:59+0900",
+    "iconResourceName": "shop_icon/20230701_nightmare_mcp:20230701_nightmare_mcp01.png"
   },
   {
     "product_id": "com.global.sinoalice.campaign12.tier41a",
@@ -834,8 +857,8 @@
     "price": "160",
     "default_product_id": "com.global.sinoalice.tier01a",
     "default_price": "160",
-    "start_datetime": "2023-04-13T15:00:00+0900",
-    "end_datetime": "2023-04-21T14:59:59+0900"
+    "start_datetime": "2023-07-01T15:00:00+0900",
+    "end_datetime": "2023-07-10T14:59:59+0900"
   },
   {
     "product_id": "com.global.sinoalice.campaign17.tier03a",
@@ -856,8 +879,8 @@
     "price": "480",
     "default_product_id": "com.global.sinoalice.tier03a",
     "default_price": "480",
-    "start_datetime": "2023-04-13T15:00:00+0900",
-    "end_datetime": "2023-04-21T14:59:59+0900"
+    "start_datetime": "2023-07-01T15:00:00+0900",
+    "end_datetime": "2023-07-10T14:59:59+0900"
   },
   {
     "product_id": "com.global.sinoalice.campaign17.tier05a",
@@ -878,8 +901,8 @@
     "price": "800",
     "default_product_id": "com.global.sinoalice.tier05a",
     "default_price": "800",
-    "start_datetime": "2023-04-13T15:00:00+0900",
-    "end_datetime": "2023-04-21T14:59:59+0900"
+    "start_datetime": "2023-07-01T15:00:00+0900",
+    "end_datetime": "2023-07-10T14:59:59+0900"
   },
   {
     "product_id": "com.global.sinoalice.campaign17.tier25a",
@@ -900,8 +923,8 @@
     "price": "4000",
     "default_product_id": "com.global.sinoalice.tier25a",
     "default_price": "4000",
-    "start_datetime": "2023-04-13T15:00:00+0900",
-    "end_datetime": "2023-04-21T14:59:59+0900"
+    "start_datetime": "2023-07-01T15:00:00+0900",
+    "end_datetime": "2023-07-10T14:59:59+0900"
   },
   {
     "product_id": "com.global.sinoalice.campaign17.tier41a",
@@ -922,8 +945,8 @@
     "price": "6600",
     "default_product_id": "com.global.sinoalice.tier41a",
     "default_price": "6600",
-    "start_datetime": "2023-04-13T15:00:00+0900",
-    "end_datetime": "2023-04-21T14:59:59+0900"
+    "start_datetime": "2023-07-01T15:00:00+0900",
+    "end_datetime": "2023-07-10T14:59:59+0900"
   },
   {
     "product_id": "com.global.sinoalice.campaign17.tier52a",
@@ -944,8 +967,8 @@
     "price": "9800",
     "default_product_id": "com.global.sinoalice.tier52a",
     "default_price": "9800",
-    "start_datetime": "2023-04-13T15:00:00+0900",
-    "end_datetime": "2023-04-21T14:59:59+0900"
+    "start_datetime": "2023-07-01T15:00:00+0900",
+    "end_datetime": "2023-07-10T14:59:59+0900"
   },
   {
     "product_id": "com.global.sinoalice.campaign17.tier56a",
@@ -966,8 +989,8 @@
     "price": "12800",
     "default_product_id": "com.global.sinoalice.tier56a",
     "default_price": "12800",
-    "start_datetime": "2023-04-13T15:00:00+0900",
-    "end_datetime": "2023-04-21T14:59:59+0900"
+    "start_datetime": "2023-07-01T15:00:00+0900",
+    "end_datetime": "2023-07-10T14:59:59+0900"
   },
   {
     "product_id": "com.global.sinoalice.campaign18.tier41a",
@@ -1054,12 +1077,12 @@
     "consumable": "0",
     "limited_count": "1",
     "product_type": "0",
-    "price": "5020",
+    "price": "6600",
     "default_product_id": "com.global.sinoalice.campaign23.tier41a",
-    "default_price": "5020",
-    "start_datetime": "2022-04-26T15:00:00+0900",
-    "end_datetime": "2022-05-10T14:59:59+0900",
-    "iconResourceName": "shop_icon/20220426_kakegurui_arms_mcp:20220426_kakegurui_arms_mcp_arcanaLv3_stone.png"
+    "default_price": "6600",
+    "start_datetime": "2023-07-01T15:00:00+0900",
+    "end_datetime": "2023-07-15T14:59:59+0900",
+    "iconResourceName": "shop_icon/20230701_gretel_arcana_mcp:20230701_arcanaLv3_stone.png"
   },
   {
     "product_id": "com.global.sinoalice.campaign24.tier60a",

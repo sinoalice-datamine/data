@@ -2240,6 +2240,20 @@
     "createdTime": 1485961226
   },
   {
+    "battleEffectMstId": 237,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_quest",
+    "cueName": "se_quest@052_R",
+    "createdTime": 1485961200
+  },
+  {
     "battleEffectMstId": 246,
     "positionType": 1,
     "additionalPositionX": 0,

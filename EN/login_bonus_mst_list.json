@@ -948,6 +948,18 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 249,
+    "title": "Event Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1688191200,
+    "endTime": 1689397199,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 261,
     "title": "Colosseum Sin Login Bonus",
     "cycleType": 2,
@@ -2287,6 +2299,30 @@
     "pickupSkillType": 1,
     "startTime": 1688104800,
     "endTime": 1688705999,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900089,
+    "title": "3rd Anniversary Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1688191200,
+    "endTime": 1689051599,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900090,
+    "title": "3rd Anniversary Login Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1689051600,
+    "endTime": 1689915599,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""
