@@ -9060,5 +9060,28 @@
     "museumEndTime": 1924959599,
     "vibStartTime": -1.0,
     "skipButtonType": 2
+  },
+  {
+    "movieResourceMstId": 421,
+    "movieTitle": "『花嫁と爆弾』OP",
+    "resourceName": "wedding_OP",
+    "isPreDownLoad": 0,
+    "type": 1,
+    "value": 1233,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1688709600,
+    "endTime": 1689919199,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "条件なし　表示されていたらバグ",
+    "thumbAssetBundleName": "museumthumbnail/421",
+    "thumbResourceName": "wedding_OP",
+    "museumStartTime": 1688709600,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0,
+    "skipButtonType": 0
   }
 ]
