@@ -334,5 +334,33 @@
     "description": "Massively increases M.DEF at the Colosseum. (Parameter value: +300 to +1200)　Note: Value varies by skill level.",
     "skillMstId": 0,
     "limitBreakSkillAbilityUniqueId": 52
+  },
+  {
+    "limitBreakSkillMstId": 73,
+    "name": "Demonic Art of Attack Blades/Duel (III)",
+    "description": "Enormously increases P.ATK at the Colosseum. (Parameter value: +600 to +2,000) Note: Value varies by skill level.",
+    "skillMstId": 0,
+    "limitBreakSkillAbilityUniqueId": 73
+  },
+  {
+    "limitBreakSkillMstId": 74,
+    "name": "Demonic Art of Attack Demons/Duel (III)",
+    "description": "Enormously increases M.ATK at the Colosseum. (Parameter value: +600 to +2,000) Note: Value varies by skill level.",
+    "skillMstId": 0,
+    "limitBreakSkillAbilityUniqueId": 74
+  },
+  {
+    "limitBreakSkillMstId": 75,
+    "name": "Demonic Art of Defense Blades/Duel (III)",
+    "description": "Enormously increases P.DEF at the Colosseum. (Parameter value: +600 to +2,000) Note: Value varies by skill level.",
+    "skillMstId": 0,
+    "limitBreakSkillAbilityUniqueId": 75
+  },
+  {
+    "limitBreakSkillMstId": 76,
+    "name": "Demonic Art of Defense Demons/Duel (III)",
+    "description": "Enormously increases M.DEF at the Colosseum. (Parameter value: +600 to +2,000) Note: Value varies by skill level.",
+    "skillMstId": 0,
+    "limitBreakSkillAbilityUniqueId": 76
   }
 ]
