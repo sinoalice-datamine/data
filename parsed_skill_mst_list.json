@@ -39700,6 +39700,94 @@
     "grid_weapon_type_boost": 7
   },
   {
+    "skillMstId": 8673,
+    "skill_type": 4,
+    "when": {
+      "class_type_used": 5
+    },
+    "effect": {
+      "type": 1,
+      "value": 0.05
+    }
+  },
+  {
+    "skillMstId": 8674,
+    "skill_type": 4,
+    "when": {
+      "class_type_used": 6
+    },
+    "effect": {
+      "type": 1,
+      "value": 0.05
+    }
+  },
+  {
+    "skillMstId": 8675,
+    "skill_type": 4,
+    "when": {
+      "class_type_used": 7
+    },
+    "effect": {
+      "type": 2,
+      "value": 0.05
+    }
+  },
+  {
+    "skillMstId": 8676,
+    "skill_type": 4,
+    "when": {
+      "class_type_used": 8
+    },
+    "effect": {
+      "type": 2,
+      "value": 0.05
+    }
+  },
+  {
+    "skillMstId": 8677,
+    "skill_type": 4,
+    "when": {
+      "class_type_used": 1
+    },
+    "effect": {
+      "type": 4,
+      "value": 0.05
+    }
+  },
+  {
+    "skillMstId": 8678,
+    "skill_type": 4,
+    "when": {
+      "class_type_used": 2
+    },
+    "effect": {
+      "type": 5,
+      "value": 0.05
+    }
+  },
+  {
+    "skillMstId": 8679,
+    "skill_type": 4,
+    "when": {
+      "class_type_used": 4
+    },
+    "effect": {
+      "type": 6,
+      "value": 0.05
+    }
+  },
+  {
+    "skillMstId": 8680,
+    "skill_type": 4,
+    "when": {
+      "class_type_used": 3
+    },
+    "effect": {
+      "type": 2,
+      "value": 0.05
+    }
+  },
+  {
     "skillMstId": 900001,
     "skill_type": 4,
     "when": {
