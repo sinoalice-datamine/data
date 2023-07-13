@@ -810,6 +810,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 75,
+    "name": "Arcana Medal",
+    "description": "A medal that is an incidental byproduct of purchasing certain twilight crystals",
+    "resourceName": "item1",
+    "assetBundleName": "0075",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by buying twilight crystals with the Arcana Medal.",
+    "priority": 37,
+    "itemMstId": 1101,
+    "startTime": 1689660000,
+    "endTime": 1691387999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 79,
     "name": "Camp Medal",
     "description": "Medal collected by Parrah-Noya.",

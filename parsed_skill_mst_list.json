@@ -39858,11 +39858,19 @@
     "skill_type": 99
   },
   {
+    "skillMstId": 900018,
+    "skill_type": 99
+  },
+  {
     "skillMstId": 900019,
     "skill_type": 99
   },
   {
     "skillMstId": 900020,
+    "skill_type": 99
+  },
+  {
+    "skillMstId": 900021,
     "skill_type": 99
   },
   {
@@ -39920,5 +39928,16 @@
   {
     "skillMstId": 900035,
     "skill_type": 99
+  },
+  {
+    "skillMstId": 900036,
+    "skill_type": 4,
+    "when": {
+      "class_type_used": 3
+    },
+    "effect": {
+      "type": 5,
+      "value": 0.04
+    }
   }
 ]
