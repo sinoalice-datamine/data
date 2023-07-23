@@ -12120,5 +12120,43 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 658,
+    "name": "三匹の子豚メダル",
+    "description": "ガチャで獲得できるメダル\r\n※2023年8月10日23:59まで",
+    "resourceName": "2023-08-10 23:59:59",
+    "assetBundleName": "MedalTradeTop",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年8月10日23:59まで",
+    "priority": 43,
+    "itemMstId": 6002,
+    "startTime": 1690005600,
+    "endTime": 1691679599,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 659,
+    "name": "ハーメルンメダル",
+    "description": "ガチャで獲得できるメダル\r\n※2023年8月10日23:59まで",
+    "resourceName": "2023-08-10 23:59:59",
+    "assetBundleName": "MedalTradeTop",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年8月10日23:59まで",
+    "priority": 43,
+    "itemMstId": 6003,
+    "startTime": 1690005600,
+    "endTime": 1691679599,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]
