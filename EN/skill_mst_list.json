@@ -86040,6 +86040,26 @@
     "skillEffectParam2": 0
   },
   {
+    "skillMstId": 7876,
+    "category": 3,
+    "setEffectSeriesId": 0,
+    "name": "M.DMG +4% when using artifact class",
+    "description": "M.DMG +4% when using artifact class",
+    "attackEffect": 0,
+    "sp": 0,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 586,
+    "typeLabel": "own",
+    "primaryIcon": 0,
+    "secondaryIcon": 0,
+    "rangeIcon": 0,
+    "autoSkillPercentageType": 1,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0
+  },
+  {
     "skillMstId": 7878,
     "category": 1,
     "setEffectSeriesId": 0,
