@@ -35092,6 +35092,20 @@
     "combo": 15
   },
   {
+    "skillMstId": 7890,
+    "skill_type": 1,
+    "skill_name_tier": 6,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 1
+    },
+    "damage_type": 2,
+    "damage_effect_size": 6,
+    "heal_effect_size": 2
+  },
+  {
     "skillMstId": 7891,
     "skill_type": 1,
     "skill_name_tier": 8,
