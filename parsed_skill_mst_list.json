@@ -39802,6 +39802,230 @@
     }
   },
   {
+    "skillMstId": 8687,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 1
+    },
+    "damage_type": 1,
+    "damage_effect_size": 7,
+    "nightmare_effect": {
+      "art_unique_ids": [
+        1063,
+        1082,
+        2,
+        1142,
+        0,
+        1148
+      ],
+      "boost_effect_size": 3
+    }
+  },
+  {
+    "skillMstId": 8688,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 3
+    },
+    "damage_type": 1,
+    "damage_effect_size": 6,
+    "nightmare_effect": {
+      "art_unique_ids": [
+        1084,
+        3,
+        1143,
+        0,
+        1149
+      ],
+      "boost_effect_size": 3
+    }
+  },
+  {
+    "skillMstId": 8689,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 1
+    },
+    "damage_type": 2,
+    "damage_effect_size": 7,
+    "nightmare_effect": {
+      "art_unique_ids": [
+        1065,
+        1082,
+        2,
+        1142,
+        0,
+        1148
+      ],
+      "boost_effect_size": 3
+    }
+  },
+  {
+    "skillMstId": 8690,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 3
+    },
+    "damage_type": 2,
+    "damage_effect_size": 6,
+    "nightmare_effect": {
+      "art_unique_ids": [
+        1080,
+        1,
+        1141,
+        0,
+        1147
+      ],
+      "boost_effect_size": 3
+    }
+  },
+  {
+    "skillMstId": 8691,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 3
+    },
+    "damage_type": 2,
+    "damage_effect_size": 6,
+    "nightmare_effect": {
+      "art_unique_ids": [
+        1082,
+        2,
+        1142,
+        0,
+        1148
+      ],
+      "boost_effect_size": 3
+    }
+  },
+  {
+    "skillMstId": 8692,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 1
+    },
+    "damage_type": 1,
+    "damage_effect_size": 7,
+    "nightmare_effect": {
+      "art_unique_ids": [
+        1063,
+        1082,
+        2,
+        1142
+      ],
+      "boost_effect_size": 3
+    }
+  },
+  {
+    "skillMstId": 8693,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 3
+    },
+    "damage_type": 1,
+    "damage_effect_size": 6,
+    "nightmare_effect": {
+      "art_unique_ids": [
+        1084,
+        3,
+        1143
+      ],
+      "boost_effect_size": 3
+    }
+  },
+  {
+    "skillMstId": 8694,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 1
+    },
+    "damage_type": 2,
+    "damage_effect_size": 7,
+    "nightmare_effect": {
+      "art_unique_ids": [
+        1065,
+        1082,
+        2,
+        1142
+      ],
+      "boost_effect_size": 3
+    }
+  },
+  {
+    "skillMstId": 8695,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 3
+    },
+    "damage_type": 2,
+    "damage_effect_size": 6,
+    "nightmare_effect": {
+      "art_unique_ids": [
+        1080,
+        1,
+        1141
+      ],
+      "boost_effect_size": 3
+    }
+  },
+  {
+    "skillMstId": 8696,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 1,
+    "targets": {
+      "type": 1,
+      "min": 1,
+      "max": 3
+    },
+    "damage_type": 2,
+    "damage_effect_size": 6,
+    "nightmare_effect": {
+      "art_unique_ids": [
+        1082,
+        2,
+        1142
+      ],
+      "boost_effect_size": 3
+    }
+  },
+  {
     "skillMstId": 900001,
     "skill_type": 4,
     "when": {
