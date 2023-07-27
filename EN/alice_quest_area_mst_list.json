@@ -9702,6 +9702,24 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 731,
+    "questMapMstId": 365,
+    "name": "Book of Bondage, Justice, & Curiosity",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/293",
+    "bgResourceName": "0293",
+    "cueSheetName": "bgm_touta",
+    "cueName": "bgm_touta@004",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": false,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 733,
     "questMapMstId": 365,
     "name": "Book of Misery",

@@ -6494,6 +6494,40 @@
     "createdTime": 1467266405
   },
   {
+    "gachaSeriesMstId": 10068,
+    "gachaGroupId": 3,
+    "bannerMstId": 4606,
+    "isAlways": false,
+    "name": "Limit Break Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (VIII)\\nAmount: 100 medals from grimoire x11\\n-Medal of desire (VIII)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 3700,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=3795&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266404
+  },
+  {
+    "gachaSeriesMstId": 10069,
+    "gachaGroupId": 3,
+    "bannerMstId": 4607,
+    "isAlways": false,
+    "name": "SR x1 Guaranteed Limit Break Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (VIII)\\nAmount: 100 medals from grimoire x11\\n-Medal of desire (VIII)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 3701,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=3795&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266405
+  },
+  {
     "gachaSeriesMstId": 100200,
     "gachaGroupId": 5,
     "bannerMstId": 1406,
@@ -12153,5 +12187,22 @@
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",
     "createdTime": 1467266413
+  },
+  {
+    "gachaSeriesMstId": 900410,
+    "gachaGroupId": 5,
+    "bannerMstId": 901040,
+    "isAlways": false,
+    "name": "Redux STEP Grimoire: Ends of Elimination -Bondage, Justice, & Curiosity-",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (VII)\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Medal of desire (VII)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 3680,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=3793&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
   }
 ]
