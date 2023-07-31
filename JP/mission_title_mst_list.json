@@ -10376,6 +10376,22 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 1324,
+    "title": "「光闇の夏宴」ﾐｯｼｮﾝ",
+    "priority": 20003,
+    "startTime": 1690783200,
+    "endTime": 1692248399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1325,
+    "title": "イベントデイリーミッション",
+    "priority": 20004,
+    "startTime": 1690783200,
+    "endTime": 1692248399,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 1326,
     "title": "コロシアムSP記念ミッション       ",
     "priority": 49999,
@@ -10389,6 +10405,14 @@
     "priority": 40001,
     "startTime": 1691913600,
     "endTime": 1692025199,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1329,
+    "title": "DJﾊｰﾒﾙﾝwithｷｬﾗｸﾀｰｽﾞﾁｬﾝﾈﾙ",
+    "priority": 20007,
+    "startTime": 1690783200,
+    "endTime": 1692248399,
     "isHideTime": false
   }
 ]

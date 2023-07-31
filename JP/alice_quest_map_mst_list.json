@@ -7093,5 +7093,38 @@
     "description": "花嫁と爆弾Hard",
     "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
     "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 674,
+    "mapType": 1,
+    "mapGroup": 613,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "光闇の夏宴Normal",
+    "description": "光闇の夏宴Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 675,
+    "mapType": 1,
+    "mapGroup": 613,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "光闇の夏宴Hard",
+    "description": "光闇の夏宴Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 678,
+    "mapType": 1,
+    "mapGroup": 615,
+    "mapGroupLv": 1,
+    "mapCategory": 11,
+    "name": "動画配信イベント",
+    "description": "動画配信イベント",
+    "announceUrl": "/web/announce/body?announceMstId=12686&&isHideBackButton=1",
+    "createdTime": 1483974000
   }
 ]
