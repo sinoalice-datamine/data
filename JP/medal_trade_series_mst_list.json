@@ -12329,5 +12329,24 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 669,
+    "name": "ギシアンパス(金)補填メダル",
+    "description": "ギシアンパス(金)で発生した事象の補填です。\r\n※2023年9月3日04:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "ギシアンパス(金)で発生した事象の補填です。\r\n※有効期限2023年9月3日04:59まで",
+    "priority": 43,
+    "itemMstId": 6076,
+    "startTime": 1691042400,
+    "endTime": 1693684799,
+    "displayType": 1,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]
