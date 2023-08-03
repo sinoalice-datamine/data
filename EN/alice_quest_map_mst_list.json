@@ -2970,6 +2970,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 616,
+    "mapType": 1,
+    "mapGroup": 579,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "Jaws of Terror",
+    "description": "Medal Event: Jaws of Terror (Normal)",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 617,
+    "mapType": 1,
+    "mapGroup": 579,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "Jaws of Terror (Hard)",
+    "description": "Medal Event: Jaws of Terror (Hard)",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 618,
     "mapType": 1,
     "mapGroup": 580,

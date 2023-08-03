@@ -1545,6 +1545,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 478,
+    "name": "Shark Fin Soup Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20230803_medal_same",
+    "assetBundleName": "4663",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 4663,
+    "startTime": 1691042400,
+    "endTime": 1692856799,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 495,
     "name": "School Emblem Medal",
     "description": "Medal collected by Parrah-Noya.",
@@ -2040,6 +2055,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 900036,
+    "name": "Bonus Arcana Medal (VIII)",
+    "description": "An arcana medal obtainable from specific grimoires.",
+    "resourceName": "item20230427_gacha_ookamihai_0511",
+    "assetBundleName": "900311",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 900315,
+    "startTime": 1691042400,
+    "endTime": 1694703599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 900043,
     "name": "Zombie Medal",
     "description": "A medal that is an incidental byproduct of a Grimoire.",
@@ -2051,6 +2081,21 @@
     "itemMstId": 5466,
     "startTime": 1686808800,
     "endTime": 1688655599,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900044,
+    "name": "Shark Medal",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item20230803_gacha_same",
+    "assetBundleName": "4697",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 4697,
+    "startTime": 1691042400,
+    "endTime": 1692889199,
     "displayType": 0,
     "isDeleted": false
   },
