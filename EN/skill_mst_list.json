@@ -82780,6 +82780,26 @@
     "skillEffectParam2": 0
   },
   {
+    "skillMstId": 7227,
+    "category": 4,
+    "setEffectSeriesId": 0,
+    "name": "Chimerical Chain Chant (V)",
+    "description": "Greatly reduces M.ATK and P.DEF of 2 to 3 enemies.",
+    "attackEffect": 0,
+    "sp": 30,
+    "maxLevel": 15,
+    "resourceName": "",
+    "type": 44,
+    "typeLabel": "Multiple Enemies",
+    "primaryIcon": 21,
+    "secondaryIcon": 0,
+    "rangeIcon": 2,
+    "autoSkillPercentageType": 0,
+    "skillEffectType": 0,
+    "skillEffectParam1": 0,
+    "skillEffectParam2": 0
+  },
+  {
     "skillMstId": 7228,
     "category": 4,
     "setEffectSeriesId": 0,
