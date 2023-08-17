@@ -12348,5 +12348,43 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 670,
+    "name": "グレーテルメダル",
+    "description": "ガチャで獲得できるメダル\r\n※2023年8月30日23:59まで",
+    "resourceName": "2023-08-30 23:59:59",
+    "assetBundleName": "MedalTradeTop",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年8月30日23:59まで",
+    "priority": 43,
+    "itemMstId": 6074,
+    "startTime": 1692248400,
+    "endTime": 1693407599,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 671,
+    "name": "人魚姫メダル",
+    "description": "ガチャで獲得できるメダル\r\n※2023年8月30日23:59まで",
+    "resourceName": "2023-08-30 23:59:59",
+    "assetBundleName": "MedalTradeTop",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年8月30日23:59まで",
+    "priority": 43,
+    "itemMstId": 6075,
+    "startTime": 1692248400,
+    "endTime": 1693407599,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]
