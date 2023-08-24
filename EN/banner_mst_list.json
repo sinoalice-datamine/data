@@ -44878,5 +44878,27 @@
     "optionType": 0,
     "isDeleted": false,
     "createdTime": 1483974000
+  },
+  {
+    "bannerMstId": 901068,
+    "type": 1,
+    "startTime": 1692856800,
+    "endTime": 1694066399,
+    "priority": 8000,
+    "transitionSceneName": "QuestMenu",
+    "objectId": 290,
+    "announceMstId": 2265,
+    "osType": 0,
+    "isBeginner": false,
+    "beginnerDays": 0,
+    "isDisplayHome": true,
+    "assetBundleName": "banner20220210_r01_tobatsu_dokuhebi",
+    "resourceName": "2102",
+    "badgeAssetBundleName": "",
+    "badgeResourceName": "",
+    "badgeEndTime": null,
+    "optionType": 0,
+    "isDeleted": false,
+    "createdTime": 1483974000
   }
 ]
