@@ -40276,6 +40276,24 @@
     }
   },
   {
+    "skillMstId": 8760,
+    "skill_type": 99
+  },
+  {
+    "skillMstId": 8761,
+    "skill_type": 1,
+    "skill_name_tier": 8,
+    "primary_effect": 3,
+    "targets": {
+      "type": 1,
+      "min": 3,
+      "max": 4
+    },
+    "support_direction": 2,
+    "pdef_effect_size": 5,
+    "mdef_effect_size": 5
+  },
+  {
     "skillMstId": 8762,
     "skill_type": 1,
     "skill_name_tier": 8,
