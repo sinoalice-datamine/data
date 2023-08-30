@@ -9152,5 +9152,28 @@
     "museumEndTime": 1924959599,
     "vibStartTime": -1.0,
     "skipButtonType": 0
+  },
+  {
+    "movieResourceMstId": 442,
+    "movieTitle": "『ご奉仕は終わらない』OP",
+    "resourceName": "maid_OP",
+    "isPreDownLoad": 0,
+    "type": 1,
+    "value": 1252,
+    "value2": 0,
+    "condition": 1,
+    "canNotDeleteLocal": 0,
+    "startTime": 1693375200,
+    "endTime": 1694498399,
+    "isMuseum": 1,
+    "museumTermType": 0,
+    "museumTermId": 0,
+    "museumTermText": "条件なし　表示されていたらバグ",
+    "thumbAssetBundleName": "museumthumbnail/442",
+    "thumbResourceName": "maid_OP",
+    "museumStartTime": 1693375200,
+    "museumEndTime": 1924959599,
+    "vibStartTime": -1.0,
+    "skipButtonType": 0
   }
 ]

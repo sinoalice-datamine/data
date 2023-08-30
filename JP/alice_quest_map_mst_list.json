@@ -7117,6 +7117,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 676,
+    "mapType": 1,
+    "mapGroup": 614,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "ご奉仕は終わらないNormal",
+    "description": "花嫁と爆弾Normal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 677,
+    "mapType": 1,
+    "mapGroup": 614,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "ご奉仕は終わらないHard",
+    "description": "花嫁と爆弾Hard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 678,
     "mapType": 1,
     "mapGroup": 615,
@@ -7125,6 +7147,17 @@
     "name": "動画配信イベント",
     "description": "動画配信イベント",
     "announceUrl": "/web/announce/body?announceMstId=12686&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 682,
+    "mapType": 1,
+    "mapGroup": 617,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "無限ノ歯車(RANK)",
+    "description": "無限ノ歯車(RANK)",
+    "announceUrl": "",
     "createdTime": 1483974000
   }
 ]
