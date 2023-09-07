@@ -40572,6 +40572,10 @@
     }
   },
   {
+    "skillMstId": 8780,
+    "skill_type": 99
+  },
+  {
     "skillMstId": 8781,
     "skill_type": 1,
     "skill_name_tier": 7,
@@ -40585,6 +40589,21 @@
     "sp_recovery": {
       "target": 6,
       "value": 50
+    }
+  },
+  {
+    "skillMstId": 8782,
+    "skill_type": 99
+  },
+  {
+    "skillMstId": 8783,
+    "skill_type": 4,
+    "when": {
+      "disadvantage": true
+    },
+    "effect": {
+      "type": 3,
+      "value": 0.05
     }
   },
   {
