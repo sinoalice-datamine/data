@@ -1485,6 +1485,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 298,
+    "name": "Maple Medal",
+    "description": "Medal collected by Parrah-Noya.",
+    "resourceName": "item20221117_medal_kouyou",
+    "assetBundleName": "2728",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by playing an event.",
+    "priority": 43,
+    "itemMstId": 3685,
+    "startTime": 1694066400,
+    "endTime": 1698731999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 299,
     "name": "Mystery Medal",
     "description": "Medal collected by Parrah-Noya.",
@@ -2100,6 +2115,21 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 900037,
+    "name": "Bonus Arcana Medal (IX)",
+    "description": "An arcana medal obtainable from specific grimoires.",
+    "resourceName": "item20230427_gacha_ookamihai_0511",
+    "assetBundleName": "900311",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 900316,
+    "startTime": 1694066400,
+    "endTime": 1698731999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 900043,
     "name": "Zombie Medal",
     "description": "A medal that is an incidental byproduct of a Grimoire.",
@@ -2141,6 +2171,21 @@
     "itemMstId": 3179,
     "startTime": 1690178400,
     "endTime": 1693112399,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900046,
+    "name": "Camera Medal",
+    "description": "A medal that is an incidental byproduct of a Grimoire.",
+    "resourceName": "item20221117_gacha_picture",
+    "assetBundleName": "900271",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Earned by summoning certain grimoires.",
+    "priority": 43,
+    "itemMstId": 900341,
+    "startTime": 1694066400,
+    "endTime": 1698731999,
     "displayType": 0,
     "isDeleted": false
   }

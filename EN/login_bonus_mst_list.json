@@ -1152,6 +1152,18 @@
     "assetBundleName": ""
   },
   {
+    "loginBonusMstId": 388,
+    "title": "Event Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1694066400,
+    "endTime": 1694926799,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
     "loginBonusMstId": 389,
     "title": "Event Bonus",
     "cycleType": 2,
@@ -2395,6 +2407,30 @@
     "pickupSkillType": 1,
     "startTime": 1693288800,
     "endTime": 1693976399,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900095,
+    "title": "Event Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1694926800,
+    "endTime": 1695790799,
+    "akbMemberMstId": 0,
+    "resourceName": "1",
+    "assetBundleName": ""
+  },
+  {
+    "loginBonusMstId": 900096,
+    "title": "Event Bonus",
+    "cycleType": 2,
+    "displayType": 2,
+    "pickupSkillType": 1,
+    "startTime": 1695790800,
+    "endTime": 1698728399,
     "akbMemberMstId": 0,
     "resourceName": "1",
     "assetBundleName": ""

@@ -12476,5 +12476,39 @@
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",
     "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 900420,
+    "gachaGroupId": 5,
+    "bannerMstId": 901064,
+    "isAlways": false,
+    "name": "Autumnal Ardor Part 1",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal from this grimoire can be acquired by the following:\\nType: Camera Medal\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Camera Medals from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 3790,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=3864&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 900421,
+    "gachaGroupId": 5,
+    "bannerMstId": 901065,
+    "isAlways": false,
+    "name": "Autumnal Ardor Part 2",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal from this grimoire can be acquired by the following:\\nType: Camera Medal\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Camera Medals from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 3800,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=3865&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
   }
 ]
