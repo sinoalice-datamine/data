@@ -12510,5 +12510,39 @@
     "pickupFirstResourceName": "",
     "pickupFirstResourceAssetBundleName": "",
     "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 900422,
+    "gachaGroupId": 3,
+    "bannerMstId": 901079,
+    "isAlways": false,
+    "name": "Limited Once Daily Tales Untold Grimoire",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅸ)\\nAmount: 100 medals from grimoire x11\\n-Medal of desire (Ⅸ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 3830,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=3882&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
+  },
+  {
+    "gachaSeriesMstId": 900423,
+    "gachaGroupId": 5,
+    "bannerMstId": 901078,
+    "isAlways": false,
+    "name": "Redux Descent of Hallows",
+    "description": "-",
+    "noticeMessage": "Notes:\\n-The medal of desire from this grimoire is as follows:\\nType: Medal of Desire (Ⅸ)\\nAmount: STEP 1 to STEP 2, x50 medals each　STEP 3 to STEP 5, x100 medals each\\n-Medal of desire (Ⅸ)s from this grimoire will expire at a certain date. Check the medal exchange for more info.",
+    "priority": 3820,
+    "isTicketGachaCover": false,
+    "isHiddenWhenNoTicket": false,
+    "announceUrl": "/web/announce/body?announceMstId=3884&isHideBackButton=1",
+    "seriesResourceName": "",
+    "pickupFirstResourceName": "",
+    "pickupFirstResourceAssetBundleName": "",
+    "createdTime": 1467266400
   }
 ]
