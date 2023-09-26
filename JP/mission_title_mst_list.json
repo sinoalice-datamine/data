@@ -10544,11 +10544,51 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 1348,
+    "title": "コロシアム・シン観戦ミッション",
+    "priority": 40001,
+    "startTime": 1697356800,
+    "endTime": 1697468399,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 1349,
     "title": "イベントデイリーミッション",
     "priority": 0,
     "startTime": 1694498400,
     "endTime": 1695362399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1353,
+    "title": "シノアリスの日ミッション",
+    "priority": 49999,
+    "startTime": 1695826800,
+    "endTime": 1696085999,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1354,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1695826800,
+    "endTime": 1695913199,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1355,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1695913200,
+    "endTime": 1695999599,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1356,
+    "title": "シノアリスの日デイリーミッション",
+    "priority": 49998,
+    "startTime": 1695999600,
+    "endTime": 1696085999,
     "isHideTime": false
   }
 ]

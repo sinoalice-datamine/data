@@ -12595,5 +12595,43 @@
     "sortType": 0,
     "isExpiryDateButton": false,
     "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 685,
+    "name": "配当メダル・シン",
+    "description": "コロシアム・シン中のギシアン酒場で入手できるメダル\r\n ※2023年10月29日23:59まで",
+    "resourceName": "item20190731_colloseumsin1_honsen",
+    "assetBundleName": "1319",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "コロシアム・シン中のギシアン酒場で入手できるメダル\r\n ※2023年10月29日23:59まで",
+    "priority": 38,
+    "itemMstId": 6070,
+    "startTime": 1695708000,
+    "endTime": 1698591599,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 692,
+    "name": "ヨクボウメダル(Ⅹ)",
+    "description": "ガチャで獲得できるメダル\r\n※2023年11月7日23:59まで",
+    "resourceName": "item1",
+    "assetBundleName": "3",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "特定のガチャを行うことで獲得できます。\r\n※有効期限2023年11月7日23:59まで",
+    "priority": 55,
+    "itemMstId": 6186,
+    "startTime": 1695708000,
+    "endTime": 1699369199,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
   }
 ]
