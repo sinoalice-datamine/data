@@ -7150,6 +7150,28 @@
     "createdTime": 1483974000
   },
   {
+    "questMapMstId": 679,
+    "mapType": 1,
+    "mapGroup": 616,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "はじまりは星にのぼるNormal",
+    "description": "はじまりは星にのぼるNormal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 680,
+    "mapType": 1,
+    "mapGroup": 616,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "はじまりは星にのぼるHard",
+    "description": "はじまりは星にのぼるHard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
     "questMapMstId": 682,
     "mapType": 1,
     "mapGroup": 617,
