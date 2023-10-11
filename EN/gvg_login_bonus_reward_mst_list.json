@@ -3200,6 +3200,406 @@
     "num": 100
   },
   {
+    "gvgLoginBonusRewardMstId": 401,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 1,
+    "objectType": 14,
+    "objectId": 0,
+    "num": 40
+  },
+  {
+    "gvgLoginBonusRewardMstId": 402,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 2,
+    "objectType": 1,
+    "objectId": 1521,
+    "num": 4
+  },
+  {
+    "gvgLoginBonusRewardMstId": 403,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 3,
+    "objectType": 1,
+    "objectId": 900060,
+    "num": 40
+  },
+  {
+    "gvgLoginBonusRewardMstId": 404,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 4,
+    "objectType": 1,
+    "objectId": 1521,
+    "num": 4
+  },
+  {
+    "gvgLoginBonusRewardMstId": 405,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 5,
+    "objectType": 14,
+    "objectId": 0,
+    "num": 60
+  },
+  {
+    "gvgLoginBonusRewardMstId": 406,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 6,
+    "objectType": 1,
+    "objectId": 13,
+    "num": 1
+  },
+  {
+    "gvgLoginBonusRewardMstId": 407,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 7,
+    "objectType": 1,
+    "objectId": 1526,
+    "num": 4
+  },
+  {
+    "gvgLoginBonusRewardMstId": 408,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 8,
+    "objectType": 1,
+    "objectId": 900060,
+    "num": 40
+  },
+  {
+    "gvgLoginBonusRewardMstId": 409,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 9,
+    "objectType": 1,
+    "objectId": 1540,
+    "num": 2
+  },
+  {
+    "gvgLoginBonusRewardMstId": 410,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 10,
+    "objectType": 14,
+    "objectId": 0,
+    "num": 60
+  },
+  {
+    "gvgLoginBonusRewardMstId": 411,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 11,
+    "objectType": 1,
+    "objectId": 1534,
+    "num": 2
+  },
+  {
+    "gvgLoginBonusRewardMstId": 412,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 12,
+    "objectType": 1,
+    "objectId": 1537,
+    "num": 2
+  },
+  {
+    "gvgLoginBonusRewardMstId": 413,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 13,
+    "objectType": 1,
+    "objectId": 900060,
+    "num": 40
+  },
+  {
+    "gvgLoginBonusRewardMstId": 414,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 14,
+    "objectType": 1,
+    "objectId": 1235,
+    "num": 8
+  },
+  {
+    "gvgLoginBonusRewardMstId": 415,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 15,
+    "objectType": 14,
+    "objectId": 0,
+    "num": 60
+  },
+  {
+    "gvgLoginBonusRewardMstId": 416,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 16,
+    "objectType": 1,
+    "objectId": 1236,
+    "num": 8
+  },
+  {
+    "gvgLoginBonusRewardMstId": 417,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 17,
+    "objectType": 1,
+    "objectId": 1237,
+    "num": 8
+  },
+  {
+    "gvgLoginBonusRewardMstId": 418,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 18,
+    "objectType": 1,
+    "objectId": 14,
+    "num": 1
+  },
+  {
+    "gvgLoginBonusRewardMstId": 419,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 19,
+    "objectType": 1,
+    "objectId": 1238,
+    "num": 8
+  },
+  {
+    "gvgLoginBonusRewardMstId": 420,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 20,
+    "objectType": 14,
+    "objectId": 0,
+    "num": 60
+  },
+  {
+    "gvgLoginBonusRewardMstId": 421,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 21,
+    "objectType": 1,
+    "objectId": 1232,
+    "num": 10
+  },
+  {
+    "gvgLoginBonusRewardMstId": 422,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 22,
+    "objectType": 1,
+    "objectId": 1233,
+    "num": 10
+  },
+  {
+    "gvgLoginBonusRewardMstId": 423,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 23,
+    "objectType": 1,
+    "objectId": 14,
+    "num": 2
+  },
+  {
+    "gvgLoginBonusRewardMstId": 424,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 24,
+    "objectType": 1,
+    "objectId": 1234,
+    "num": 10
+  },
+  {
+    "gvgLoginBonusRewardMstId": 425,
+    "gvgLoginBonusMstId": 17,
+    "dayCount": 25,
+    "objectType": 14,
+    "objectId": 0,
+    "num": 100
+  },
+  {
+    "gvgLoginBonusRewardMstId": 426,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 1,
+    "objectType": 14,
+    "objectId": 0,
+    "num": 40
+  },
+  {
+    "gvgLoginBonusRewardMstId": 427,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 2,
+    "objectType": 1,
+    "objectId": 1521,
+    "num": 4
+  },
+  {
+    "gvgLoginBonusRewardMstId": 428,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 3,
+    "objectType": 1,
+    "objectId": 900060,
+    "num": 40
+  },
+  {
+    "gvgLoginBonusRewardMstId": 429,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 4,
+    "objectType": 1,
+    "objectId": 1521,
+    "num": 4
+  },
+  {
+    "gvgLoginBonusRewardMstId": 430,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 5,
+    "objectType": 14,
+    "objectId": 0,
+    "num": 60
+  },
+  {
+    "gvgLoginBonusRewardMstId": 431,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 6,
+    "objectType": 1,
+    "objectId": 13,
+    "num": 1
+  },
+  {
+    "gvgLoginBonusRewardMstId": 432,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 7,
+    "objectType": 1,
+    "objectId": 1526,
+    "num": 4
+  },
+  {
+    "gvgLoginBonusRewardMstId": 433,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 8,
+    "objectType": 1,
+    "objectId": 900060,
+    "num": 40
+  },
+  {
+    "gvgLoginBonusRewardMstId": 434,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 9,
+    "objectType": 1,
+    "objectId": 1540,
+    "num": 2
+  },
+  {
+    "gvgLoginBonusRewardMstId": 435,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 10,
+    "objectType": 14,
+    "objectId": 0,
+    "num": 60
+  },
+  {
+    "gvgLoginBonusRewardMstId": 436,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 11,
+    "objectType": 1,
+    "objectId": 1534,
+    "num": 2
+  },
+  {
+    "gvgLoginBonusRewardMstId": 437,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 12,
+    "objectType": 1,
+    "objectId": 1537,
+    "num": 2
+  },
+  {
+    "gvgLoginBonusRewardMstId": 438,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 13,
+    "objectType": 1,
+    "objectId": 900060,
+    "num": 40
+  },
+  {
+    "gvgLoginBonusRewardMstId": 439,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 14,
+    "objectType": 1,
+    "objectId": 1235,
+    "num": 8
+  },
+  {
+    "gvgLoginBonusRewardMstId": 440,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 15,
+    "objectType": 14,
+    "objectId": 0,
+    "num": 60
+  },
+  {
+    "gvgLoginBonusRewardMstId": 441,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 16,
+    "objectType": 1,
+    "objectId": 1236,
+    "num": 8
+  },
+  {
+    "gvgLoginBonusRewardMstId": 442,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 17,
+    "objectType": 1,
+    "objectId": 1237,
+    "num": 8
+  },
+  {
+    "gvgLoginBonusRewardMstId": 443,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 18,
+    "objectType": 1,
+    "objectId": 14,
+    "num": 1
+  },
+  {
+    "gvgLoginBonusRewardMstId": 444,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 19,
+    "objectType": 1,
+    "objectId": 1238,
+    "num": 8
+  },
+  {
+    "gvgLoginBonusRewardMstId": 445,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 20,
+    "objectType": 14,
+    "objectId": 0,
+    "num": 60
+  },
+  {
+    "gvgLoginBonusRewardMstId": 446,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 21,
+    "objectType": 1,
+    "objectId": 1232,
+    "num": 10
+  },
+  {
+    "gvgLoginBonusRewardMstId": 447,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 22,
+    "objectType": 1,
+    "objectId": 1233,
+    "num": 10
+  },
+  {
+    "gvgLoginBonusRewardMstId": 448,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 23,
+    "objectType": 1,
+    "objectId": 14,
+    "num": 2
+  },
+  {
+    "gvgLoginBonusRewardMstId": 449,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 24,
+    "objectType": 1,
+    "objectId": 1234,
+    "num": 10
+  },
+  {
+    "gvgLoginBonusRewardMstId": 450,
+    "gvgLoginBonusMstId": 18,
+    "dayCount": 25,
+    "objectType": 14,
+    "objectId": 0,
+    "num": 100
+  },
+  {
     "gvgLoginBonusRewardMstId": 900001,
     "gvgLoginBonusMstId": 900001,
     "dayCount": 1,

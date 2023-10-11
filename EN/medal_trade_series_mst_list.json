@@ -219,8 +219,8 @@
     "wayToGet": "Earned by playing an event.",
     "priority": 30,
     "itemMstId": 345,
-    "startTime": 1693288800,
-    "endTime": 1694581199,
+    "startTime": 1695880800,
+    "endTime": 1697173199,
     "displayType": 0,
     "isDeleted": false
   },
@@ -2186,6 +2186,21 @@
     "itemMstId": 900341,
     "startTime": 1694066400,
     "endTime": 1698731999,
+    "displayType": 0,
+    "isDeleted": false
+  },
+  {
+    "medalTradeSeriesMstId": 900047,
+    "name": "Sin Medal",
+    "description": "Medal obtained in Parrah-Noya’s tavern at Colosseum Sin.",
+    "resourceName": "item20211018_colosseumsin1_honsen",
+    "assetBundleName": "1319",
+    "medalTradeGroupMstId": 0,
+    "wayToGet": "Can be earned at the Colosseum Sin Parrah-Noya Tavern.",
+    "priority": 38,
+    "itemMstId": 3530,
+    "startTime": 1696917600,
+    "endTime": 1699765199,
     "displayType": 0,
     "isDeleted": false
   }
