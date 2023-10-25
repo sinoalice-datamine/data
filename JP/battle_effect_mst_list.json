@@ -2543,8 +2543,8 @@
     "isReverseZ": false,
     "isReverseY": true,
     "period": 5,
-    "cueSheet": "se_CodeGeass_quest",
-    "cueName": "se_CodeGeass_quest@001_L",
+    "cueSheet": "se_sinoalicehen_last",
+    "cueName": "se_sinoalicehen_last@006_L",
     "createdTime": 1485961226
   },
   {
@@ -2585,8 +2585,8 @@
     "isReverseZ": false,
     "isReverseY": true,
     "period": 5,
-    "cueSheet": "se_CodeGeass_quest",
-    "cueName": "se_CodeGeass_quest@004_R",
+    "cueSheet": "se_sinoalicehen_last",
+    "cueName": "se_sinoalicehen_last@004_L",
     "createdTime": 1485961226
   },
   {
@@ -5861,8 +5861,8 @@
     "isReverseZ": false,
     "isReverseY": true,
     "period": 5,
-    "cueSheet": "se_hagarenfa",
-    "cueName": "se_hagarenfa@006_R",
+    "cueSheet": "se_sinoalicehen_last",
+    "cueName": "se_sinoalicehen_last@005_R",
     "createdTime": 1485961226
   },
   {
@@ -5905,6 +5905,48 @@
     "period": 5,
     "cueSheet": "se_sinoalicehen1",
     "cueName": "se_sinoalicehen1@003_L",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 454,
+    "positionType": 3,
+    "additionalPositionX": 300,
+    "additionalPositionY": -200,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_sinoalicehen_last",
+    "cueName": "se_sinoalicehen_last@001_R",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 455,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_sinoalicehen_last",
+    "cueName": "se_sinoalicehen_last@002_R",
+    "createdTime": 1485961226
+  },
+  {
+    "battleEffectMstId": 456,
+    "positionType": 1,
+    "additionalPositionX": 0,
+    "additionalPositionY": 0,
+    "additionalPositionZ": 0,
+    "magnificationScale": 100,
+    "isReverseZ": false,
+    "isReverseY": true,
+    "period": 5,
+    "cueSheet": "se_sinoalicehen_last",
+    "cueName": "se_sinoalicehen_last@003_R",
     "createdTime": 1485961226
   },
   {
