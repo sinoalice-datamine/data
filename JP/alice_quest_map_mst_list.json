@@ -7192,5 +7192,38 @@
     "description": "無限ノ歯車(RANK)",
     "announceUrl": "",
     "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 683,
+    "mapType": 1,
+    "mapGroup": 618,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "欲塵ノ掃滅",
+    "description": "特殊「欲塵ノ掃滅」Normal",
+    "announceUrl": "",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 684,
+    "mapType": 1,
+    "mapGroup": 619,
+    "mapGroupLv": 1,
+    "mapCategory": 0,
+    "name": "彼女はナイトメアになったNormal",
+    "description": "エンディングイベントNormal",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
+  },
+  {
+    "questMapMstId": 685,
+    "mapType": 1,
+    "mapGroup": 619,
+    "mapGroupLv": 2,
+    "mapCategory": 0,
+    "name": "彼女はナイトメアになったHard",
+    "description": "エンディングイベントHard",
+    "announceUrl": "/web/announce/body?announceMstId=6394&&isHideBackButton=1",
+    "createdTime": 1483974000
   }
 ]

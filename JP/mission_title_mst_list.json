@@ -10512,6 +10512,14 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 1341,
+    "title": "エンディング記念ミッション",
+    "priority": 1,
+    "startTime": 1698289200,
+    "endTime": 1703534399,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 1342,
     "title": "「はじまりは星にのぼる」ﾐｯｼｮﾝ",
     "priority": 20003,
@@ -10576,6 +10584,22 @@
     "isHideTime": false
   },
   {
+    "missionTitleMstId": 1350,
+    "title": "大討伐共闘ミッション",
+    "priority": 30001,
+    "startTime": 1698332400,
+    "endTime": 1703534399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1351,
+    "title": "ﾒｲﾝｽﾄｰﾘｰﾘｱﾙﾀｲﾑﾐｯｼｮﾝ復活",
+    "priority": 20000,
+    "startTime": 1698289200,
+    "endTime": 1705287599,
+    "isHideTime": false
+  },
+  {
     "missionTitleMstId": 1352,
     "title": "シノアリス篇ﾘｱﾙﾀｲﾑｸﾘｱﾐｯｼｮﾝ",
     "priority": 20006,
@@ -10613,6 +10637,22 @@
     "priority": 49998,
     "startTime": 1695999600,
     "endTime": 1696085999,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1357,
+    "title": "イベントミッション",
+    "priority": 20003,
+    "startTime": 1698289200,
+    "endTime": 1703534399,
+    "isHideTime": false
+  },
+  {
+    "missionTitleMstId": 1358,
+    "title": "イベントデイリーミッション",
+    "priority": 20004,
+    "startTime": 1698289200,
+    "endTime": 1703534399,
     "isHideTime": false
   },
   {
