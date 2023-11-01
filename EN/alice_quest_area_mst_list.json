@@ -11716,5 +11716,23 @@
     "isGve": false,
     "disableMultipleCharacter": false,
     "createdTime": 1483974000
+  },
+  {
+    "questAreaMstId": 900004,
+    "questMapMstId": 365,
+    "name": "Book of Bondage",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/293",
+    "bgResourceName": "0293",
+    "cueSheetName": "bgm_touta",
+    "cueName": "bgm_touta@004",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": true,
+    "isGve": false,
+    "disableMultipleCharacter": true,
+    "createdTime": 1483974000
   }
 ]

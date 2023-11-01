@@ -1,9 +1,9 @@
 {
-  "lastCreatedTime": "2023-10-10 15:12:15",
+  "lastCreatedTime": "2023-10-31 15:32:59",
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
-      "version": 97041352,
+      "version": 98840468,
       "names": [
         "item_mst_list"
       ]
@@ -183,7 +183,7 @@
     },
     {
       "mstTableId": 34,
-      "version": 1173,
+      "version": 1174,
       "names": [
         "resource_file_mst_list"
       ]
@@ -211,28 +211,28 @@
     },
     {
       "mstTableId": 38,
-      "version": 4130,
+      "version": 4132,
       "names": [
         "banner_mst_list"
       ]
     },
     {
       "mstTableId": 39,
-      "version": 549,
+      "version": 550,
       "names": [
         "alice_quest_scenario_mst_list"
       ]
     },
     {
       "mstTableId": 40,
-      "version": 1353,
+      "version": 1354,
       "names": [
         "alice_quest_story_mst_list"
       ]
     },
     {
       "mstTableId": 41,
-      "version": 778,
+      "version": 779,
       "names": [
         "quest_boss_story_mst_list"
       ]
@@ -267,21 +267,21 @@
     },
     {
       "mstTableId": 46,
-      "version": 733,
+      "version": 734,
       "names": [
         "alice_quest_area_mst_list"
       ]
     },
     {
       "mstTableId": 47,
-      "version": 1028,
+      "version": 1029,
       "names": [
         "quest_stage_mst_list"
       ]
     },
     {
       "mstTableId": 48,
-      "version": 419,
+      "version": 420,
       "names": [
         "alice_quest_area_group_mst_list"
       ]
@@ -295,14 +295,14 @@
     },
     {
       "mstTableId": 50,
-      "version": 585,
+      "version": 586,
       "names": [
         "quest_mission_mst_list"
       ]
     },
     {
       "mstTableId": 51,
-      "version": 466,
+      "version": 467,
       "names": [
         "quest_mission_reward_mst_list"
       ]
@@ -369,7 +369,7 @@
     },
     {
       "mstTableId": 62,
-      "version": 1242,
+      "version": 1243,
       "names": [
         "quest_enemy_mst_list"
       ]
@@ -404,21 +404,21 @@
     },
     {
       "mstTableId": 67,
-      "version": 435,
+      "version": 436,
       "names": [
         "navigator_talk_mst_list"
       ]
     },
     {
       "mstTableId": 68,
-      "version": 632,
+      "version": 633,
       "names": [
         "navigator_talk_story_mst_list"
       ]
     },
     {
       "mstTableId": 69,
-      "version": 517,
+      "version": 518,
       "names": [
         "movie_resource_mst_list"
       ]
@@ -668,7 +668,7 @@
     },
     {
       "mstTableId": 110,
-      "version": 113,
+      "version": 114,
       "names": [
         "quest_area_character_unique_mst_list"
       ]
@@ -737,35 +737,35 @@
     },
     {
       "mstTableId": 1004,
-      "version": 238,
+      "version": 239,
       "names": [
         "localize_image_mst_list"
       ]
     },
     {
       "mstTableId": 1005,
-      "version": 257,
+      "version": 258,
       "names": [
         "localize_prefab_mst_list"
       ]
     },
     {
       "mstTableId": 1006,
-      "version": 240,
+      "version": 241,
       "names": [
         "localize_scene_mst_list"
       ]
     },
     {
       "mstTableId": 1007,
-      "version": 261,
+      "version": 262,
       "names": [
         "localize_script_mst_list"
       ]
     },
     {
       "mstTableId": 1008,
-      "version": 273,
+      "version": 274,
       "names": [
         "localize_server_mst_list"
       ]
