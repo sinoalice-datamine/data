@@ -12787,6 +12787,25 @@
     "isDeleted": false
   },
   {
+    "medalTradeSeriesMstId": 693,
+    "name": "配当メダル・シン",
+    "description": "コロシアム・シン中のギシアン酒場で入手できるメダル\r\n ※2023年12月31日23:59まで",
+    "resourceName": "item20190731_colloseumsin1_honsen",
+    "assetBundleName": "1319",
+    "medalTradeGroupMstId": 0,
+    "isGroupParent": false,
+    "wayToGet": "コロシアム・シン中のギシアン酒場で入手できるメダル\r\n ※2023年12月31日23:59まで",
+    "priority": 38,
+    "itemMstId": 6132,
+    "startTime": 1701151200,
+    "endTime": 1704034799,
+    "displayType": 0,
+    "filterType": 0,
+    "sortType": 0,
+    "isExpiryDateButton": false,
+    "isDeleted": false
+  },
+  {
     "medalTradeSeriesMstId": 694,
     "name": "アラジンメダル",
     "description": "ガチャで獲得できるメダル\r\n※2023年10月26日23:59まで",

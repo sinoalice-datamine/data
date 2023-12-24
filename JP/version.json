@@ -1,9 +1,9 @@
 {
-  "lastCreatedTime": "2023-11-13 14:27:42",
+  "lastCreatedTime": "2023-12-20 19:59:37",
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
-      "version": 1784,
+      "version": 1791,
       "names": [
         "item_mst_list"
       ]
@@ -31,28 +31,28 @@
     },
     {
       "mstTableId": 7,
-      "version": 736,
+      "version": 739,
       "names": [
         "medal_trade_series_mst_list"
       ]
     },
     {
       "mstTableId": 8,
-      "version": 1699,
+      "version": 1707,
       "names": [
         "medal_trade_mst_list"
       ]
     },
     {
       "mstTableId": 9,
-      "version": 1265,
+      "version": 1269,
       "names": [
         "card_mst_list"
       ]
     },
     {
       "mstTableId": 14,
-      "version": 714,
+      "version": 720,
       "names": [
         "skill_mst_list"
       ]
@@ -66,21 +66,21 @@
     },
     {
       "mstTableId": 16,
-      "version": 709,
+      "version": 716,
       "names": [
         "login_bonus_mst_list"
       ]
     },
     {
       "mstTableId": 17,
-      "version": 536,
+      "version": 540,
       "names": [
         "login_bonus_reward_mst_list"
       ]
     },
     {
       "mstTableId": 18,
-      "version": 264,
+      "version": 265,
       "names": [
         "item_shop_mst_list"
       ]
@@ -115,28 +115,28 @@
     },
     {
       "mstTableId": 23,
-      "version": 1166,
+      "version": 1170,
       "names": [
         "mission_mst_list"
       ]
     },
     {
       "mstTableId": 25,
-      "version": 752,
+      "version": 753,
       "names": [
         "card_story_mst_list"
       ]
     },
     {
       "mstTableId": 26,
-      "version": 509,
+      "version": 510,
       "names": [
         "character_story_mst_list"
       ]
     },
     {
       "mstTableId": 27,
-      "version": 676,
+      "version": 678,
       "names": [
         "character_mst_list"
       ]
@@ -178,14 +178,14 @@
     },
     {
       "mstTableId": 34,
-      "version": 330,
+      "version": 335,
       "names": [
         "resource_file_mst_list"
       ]
     },
     {
       "mstTableId": 35,
-      "version": 156,
+      "version": 158,
       "names": [
         "chat_stamp_mst_list"
       ]
@@ -199,35 +199,35 @@
     },
     {
       "mstTableId": 37,
-      "version": 998,
+      "version": 1001,
       "names": [
         "mission_title_mst_list"
       ]
     },
     {
       "mstTableId": 38,
-      "version": 4820,
+      "version": 4830,
       "names": [
         "banner_mst_list"
       ]
     },
     {
       "mstTableId": 39,
-      "version": 309,
+      "version": 312,
       "names": [
         "alice_quest_scenario_mst_list"
       ]
     },
     {
       "mstTableId": 40,
-      "version": 316,
+      "version": 319,
       "names": [
         "alice_quest_story_mst_list"
       ]
     },
     {
       "mstTableId": 41,
-      "version": 296,
+      "version": 300,
       "names": [
         "quest_boss_story_mst_list"
       ]
@@ -255,28 +255,28 @@
     },
     {
       "mstTableId": 45,
-      "version": 370,
+      "version": 373,
       "names": [
         "alice_quest_map_mst_list"
       ]
     },
     {
       "mstTableId": 46,
-      "version": 431,
+      "version": 434,
       "names": [
         "alice_quest_area_mst_list"
       ]
     },
     {
       "mstTableId": 47,
-      "version": 495,
+      "version": 498,
       "names": [
         "quest_stage_mst_list"
       ]
     },
     {
       "mstTableId": 48,
-      "version": 286,
+      "version": 289,
       "names": [
         "alice_quest_area_group_mst_list"
       ]
@@ -290,14 +290,14 @@
     },
     {
       "mstTableId": 50,
-      "version": 440,
+      "version": 441,
       "names": [
         "quest_mission_mst_list"
       ]
     },
     {
       "mstTableId": 51,
-      "version": 401,
+      "version": 402,
       "names": [
         "quest_mission_reward_mst_list"
       ]
@@ -353,14 +353,14 @@
     },
     {
       "mstTableId": 61,
-      "version": 970,
+      "version": 973,
       "names": [
         "card_evolution_mst_list"
       ]
     },
     {
       "mstTableId": 62,
-      "version": 324,
+      "version": 327,
       "names": [
         "quest_enemy_mst_list"
       ]
@@ -388,42 +388,42 @@
     },
     {
       "mstTableId": 66,
-      "version": 76,
+      "version": 78,
       "names": [
         "battle_effect_mst_list"
       ]
     },
     {
       "mstTableId": 67,
-      "version": 252,
+      "version": 253,
       "names": [
         "navigator_talk_mst_list"
       ]
     },
     {
       "mstTableId": 68,
-      "version": 261,
+      "version": 262,
       "names": [
         "navigator_talk_story_mst_list"
       ]
     },
     {
       "mstTableId": 69,
-      "version": 341,
+      "version": 347,
       "names": [
         "movie_resource_mst_list"
       ]
     },
     {
       "mstTableId": 70,
-      "version": 165,
+      "version": 168,
       "names": [
         "user_title_mst_list"
       ]
     },
     {
       "mstTableId": 71,
-      "version": 108,
+      "version": 111,
       "names": [
         "guild_title_mst_list"
       ]
@@ -486,7 +486,7 @@
     },
     {
       "mstTableId": 82,
-      "version": 4,
+      "version": 5,
       "names": [
         "extra_mission_mst_list"
       ]
@@ -570,7 +570,7 @@
     },
     {
       "mstTableId": 99,
-      "version": 10,
+      "version": 11,
       "names": [
         "alice_quest_story_effect_mst_list"
       ]
@@ -605,7 +605,7 @@
     },
     {
       "mstTableId": 105,
-      "version": 6,
+      "version": 7,
       "names": [
         "guild_mission_mst_list"
       ]
@@ -626,14 +626,14 @@
     },
     {
       "mstTableId": 108,
-      "version": 32,
+      "version": 34,
       "names": [
         "character_weapon_another_motion_mst_list"
       ]
     },
     {
       "mstTableId": 109,
-      "version": 152,
+      "version": 153,
       "names": [
         "quest_area_character_unique_mst_list"
       ]
@@ -654,7 +654,7 @@
     },
     {
       "mstTableId": 112,
-      "version": 50,
+      "version": 51,
       "names": [
         "guild_ship_parts_mst_list"
       ]
