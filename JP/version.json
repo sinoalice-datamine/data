@@ -1,5 +1,5 @@
 {
-  "lastCreatedTime": "2023-12-20 19:59:37",
+  "lastCreatedTime": "2023-12-26 14:35:56",
   "mstVersionSummaryList": [
     {
       "mstTableId": 1,
@@ -45,14 +45,14 @@
     },
     {
       "mstTableId": 9,
-      "version": 1269,
+      "version": 1271,
       "names": [
         "card_mst_list"
       ]
     },
     {
       "mstTableId": 14,
-      "version": 720,
+      "version": 723,
       "names": [
         "skill_mst_list"
       ]
@@ -80,7 +80,7 @@
     },
     {
       "mstTableId": 18,
-      "version": 265,
+      "version": 266,
       "names": [
         "item_shop_mst_list"
       ]
@@ -122,7 +122,7 @@
     },
     {
       "mstTableId": 25,
-      "version": 753,
+      "version": 755,
       "names": [
         "card_story_mst_list"
       ]
@@ -178,7 +178,7 @@
     },
     {
       "mstTableId": 34,
-      "version": 335,
+      "version": 336,
       "names": [
         "resource_file_mst_list"
       ]
@@ -206,28 +206,28 @@
     },
     {
       "mstTableId": 38,
-      "version": 4830,
+      "version": 4832,
       "names": [
         "banner_mst_list"
       ]
     },
     {
       "mstTableId": 39,
-      "version": 312,
+      "version": 314,
       "names": [
         "alice_quest_scenario_mst_list"
       ]
     },
     {
       "mstTableId": 40,
-      "version": 319,
+      "version": 321,
       "names": [
         "alice_quest_story_mst_list"
       ]
     },
     {
       "mstTableId": 41,
-      "version": 300,
+      "version": 302,
       "names": [
         "quest_boss_story_mst_list"
       ]
@@ -255,28 +255,28 @@
     },
     {
       "mstTableId": 45,
-      "version": 373,
+      "version": 375,
       "names": [
         "alice_quest_map_mst_list"
       ]
     },
     {
       "mstTableId": 46,
-      "version": 434,
+      "version": 436,
       "names": [
         "alice_quest_area_mst_list"
       ]
     },
     {
       "mstTableId": 47,
-      "version": 498,
+      "version": 500,
       "names": [
         "quest_stage_mst_list"
       ]
     },
     {
       "mstTableId": 48,
-      "version": 289,
+      "version": 291,
       "names": [
         "alice_quest_area_group_mst_list"
       ]
@@ -360,7 +360,7 @@
     },
     {
       "mstTableId": 62,
-      "version": 327,
+      "version": 330,
       "names": [
         "quest_enemy_mst_list"
       ]
@@ -388,7 +388,7 @@
     },
     {
       "mstTableId": 66,
-      "version": 78,
+      "version": 80,
       "names": [
         "battle_effect_mst_list"
       ]
@@ -409,7 +409,7 @@
     },
     {
       "mstTableId": 69,
-      "version": 347,
+      "version": 349,
       "names": [
         "movie_resource_mst_list"
       ]

@@ -22876,6 +22876,25 @@
     "createdTime": 1483974000
   },
   {
+    "questAreaMstId": 1249,
+    "questMapMstId": 673,
+    "name": "",
+    "collectItemId": 0,
+    "exchangesSceneName": "",
+    "assetBundleName": "questareabackground/366",
+    "bgResourceName": "0366",
+    "cueSheetName": "bgm_new_quest",
+    "cueName": "bgm_new_quest@001",
+    "bgm": "",
+    "description": "",
+    "isComingSoon": false,
+    "unCombatFlag": true,
+    "isGve": false,
+    "disableMultipleCharacter": false,
+    "startTime": null,
+    "createdTime": 1483974000
+  },
+  {
     "questAreaMstId": 1250,
     "questMapMstId": 674,
     "name": "光闇の夏宴",
